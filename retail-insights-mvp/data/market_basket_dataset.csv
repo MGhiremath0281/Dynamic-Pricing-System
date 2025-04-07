@@ -1,0 +1,8536 @@
+TransactionID,variable,item
+4,Item 1,citrus fruit
+3,Item 1,tropical fruit
+1,Item 1,whole milk
+4,Item 1,pip fruit
+4,Item 1,other vegetables
+5,Item 1,whole milk
+1,Item 1,rolls/buns
+5,Item 1,other vegetables
+1,Item 1,potted plants
+2,Item 1,whole milk
+5,Item 1,tropical fruit
+9,Item 1,citrus fruit
+1,Item 1,beef
+3,Item 1,frankfurter
+2,Item 1,chicken
+4,Item 1,butter
+1,Item 1,fruit/vegetable juice
+1,Item 1,packaged fruit/vegetables
+1,Item 1,chocolate
+1,Item 1,specialty bar
+1,Item 1,other vegetables
+2,Item 1,butter milk
+11,Item 1,tropical fruit
+2,Item 1,bottled water
+1,Item 1,yogurt
+4,Item 1,sausage
+6,Item 1,brown bread
+4,Item 1,yogurt
+7,Item 1,hamburger meat
+5,Item 1,root vegetables
+8,Item 1,pork
+3,Item 1,beef
+2,Item 1,pastry
+1,Item 1,canned beer
+4,Item 1,root vegetables
+3,Item 1,citrus fruit
+6,Item 1,sausage
+13,Item 1,tropical fruit
+2,Item 1,berries
+8,Item 1,butter milk
+1,Item 1,coffee
+1,Item 1,misc. beverages
+10,Item 1,root vegetables
+4,Item 1,ham
+10,Item 1,turkey
+4,Item 1,whole milk
+3,Item 1,packaged fruit/vegetables
+7,Item 1,rolls/buns
+6,Item 1,ham
+3,Item 1,rolls/buns
+7,Item 1,other vegetables
+2,Item 1,sausage
+3,Item 1,sausage
+5,Item 1,frankfurter
+2,Item 1,curd cheese
+2,Item 1,red/blush wine
+8,Item 1,tropical fruit
+1,Item 1,red/blush wine
+7,Item 1,whole milk
+8,Item 1,frankfurter
+3,Item 1,whole milk
+1,Item 1,frozen potato products
+5,Item 1,citrus fruit
+5,Item 1,flour
+4,Item 1,sugar
+2,Item 1,frozen meals
+7,Item 1,herbs
+1,Item 1,bottled water
+7,Item 1,sausage
+2,Item 1,coffee
+3,Item 1,pork
+1,Item 1,soda
+1,Item 1,berries
+3,Item 1,fruit/vegetable juice
+9,Item 1,pork
+1,Item 1,detergent
+2,Item 1,grapes
+9,Item 1,sausage
+10,Item 1,chicken
+2,Item 1,citrus fruit
+2,Item 1,soda
+10,Item 1,sausage
+2,Item 1,rolls/buns
+6,Item 1,beef
+1,Item 1,processed cheese
+2,Item 1,tropical fruit
+10,Item 1,frankfurter
+2,Item 1,packaged fruit/vegetables
+8,Item 1,whole milk
+6,Item 1,hamburger meat
+8,Item 1,fish
+4,Item 1,frankfurter
+4,Item 1,packaged fruit/vegetables
+2,Item 1,other vegetables
+15,Item 1,frankfurter
+1,Item 1,sparkling wine
+1,Item 1,curd cheese
+2,Item 1,frankfurter
+1,Item 1,newspapers
+3,Item 1,curd
+3,Item 1,other vegetables
+7,Item 1,citrus fruit
+5,Item 1,butter milk
+2,Item 1,pasta
+6,Item 1,other vegetables
+6,Item 1,grapes
+9,Item 1,root vegetables
+1,Item 1,popcorn
+5,Item 1,beef
+4,Item 1,finished products
+2,Item 1,beverages
+3,Item 1,hamburger meat
+3,Item 1,finished products
+8,Item 1,ham
+5,Item 1,curd
+1,Item 1,bottled beer
+8,Item 1,curd
+2,Item 1,dessert
+3,Item 1,ham
+4,Item 1,soda
+2,Item 1,herbs
+23,Item 1,frankfurter
+7,Item 1,curd
+6,Item 1,frankfurter
+1,Item 1,dog food
+7,Item 1,beef
+5,Item 1,pork
+1,Item 1,specialty chocolate
+2,Item 1,curd
+6,Item 1,butter
+4,Item 1,condensed milk
+5,Item 1,sausage
+1,Item 1,beverages
+2,Item 1,cleaner
+12,Item 1,sausage
+2,Item 1,misc. beverages
+1,Item 1,white wine
+4,Item 1,meat
+3,Item 1,ice cream
+6,Item 1,tropical fruit
+12,Item 1,meat
+8,Item 1,sausage
+9,Item 1,frankfurter
+6,Item 1,root vegetables
+16,Item 1,citrus fruit
+8,Item 1,other vegetables
+11,Item 1,frankfurter
+4,Item 1,hard cheese
+4,Item 1,cream cheese
+5,Item 1,turkey
+6,Item 1,pork
+1,Item 1,ice cream
+1,Item 1,liquor
+3,Item 1,pip fruit
+3,Item 1,root vegetables
+11,Item 1,sausage
+1,Item 1,pork
+2,Item 1,pickled vegetables
+7,Item 1,frankfurter
+12,Item 1,tropical fruit
+1,Item 1,root vegetables
+6,Item 1,meat
+11,Item 1,citrus fruit
+11,Item 1,hamburger meat
+11,Item 1,chicken
+7,Item 1,chicken
+4,Item 1,turkey
+10,Item 1,packaged fruit/vegetables
+1,Item 1,pasta
+1,Item 1,liquor (appetizer)
+1,Item 1,sausage
+9,Item 1,chicken
+9,Item 1,hamburger meat
+2,Item 1,uht-milk
+1,Item 1,candy
+4,Item 1,beef
+13,Item 1,frankfurter
+5,Item 1,onions
+1,Item 1,hair spray
+5,Item 1,chicken
+3,Item 1,meat
+1,Item 1,photo/film
+3,Item 1,domestic eggs
+1,Item 1,chicken
+11,Item 1,berries
+2,Item 1,margarine
+9,Item 1,ham
+5,Item 1,yogurt
+8,Item 1,citrus fruit
+1,Item 1,shopping bags
+3,Item 1,salt
+1,Item 1,oil
+1,Item 1,citrus fruit
+4,Item 1,tropical fruit
+5,Item 1,berries
+3,Item 1,whipped/sour cream
+1,Item 1,frozen vegetables
+10,Item 1,berries
+5,Item 1,rolls/buns
+7,Item 1,root vegetables
+2,Item 1,bottled beer
+11,Item 1,onions
+3,Item 1,hard cheese
+1,Item 1,hamburger meat
+4,Item 1,onions
+6,Item 1,yogurt
+1,Item 1,sliced cheese
+2,Item 1,yogurt
+4,Item 1,domestic eggs
+4,Item 1,dish cleaner
+10,Item 1,whole milk
+4,Item 1,baking powder
+7,Item 1,pork
+6,Item 1,specialty cheese
+6,Item 1,chicken
+1,Item 1,pastry
+4,Item 1,berries
+1,Item 1,salty snack
+3,Item 1,bottled water
+6,Item 1,onions
+4,Item 1,dessert
+11,Item 1,beef
+6,Item 1,soda
+4,Item 1,pork
+7,Item 1,berries
+1,Item 1,instant food products
+2,Item 1,beef
+5,Item 1,hamburger meat
+14,Item 1,ham
+3,Item 1,beverages
+4,Item 1,brown bread
+2,Item 1,pet care
+2,Item 1,white wine
+3,Item 1,sugar
+2,Item 1,white bread
+3,Item 1,brown bread
+1,Item 1,domestic eggs
+4,Item 1,coffee
+17,Item 1,pork
+3,Item 1,yogurt
+1,Item 1,female sanitary products
+4,Item 1,white bread
+3,Item 1,coffee
+9,Item 1,tropical fruit
+1,Item 1,frankfurter
+5,Item 1,pip fruit
+2,Item 1,root vegetables
+2,Item 1,onions
+2,Item 1,hamburger meat
+4,Item 1,rolls/buns
+3,Item 1,butter
+8,Item 1,beef
+2,Item 1,fruit/vegetable juice
+6,Item 1,frozen vegetables
+8,Item 1,hamburger meat
+2,Item 1,frozen vegetables
+5,Item 1,grapes
+2,Item 1,cling film/bags
+13,Item 1,pork
+1,Item 1,soap
+1,Item 1,frozen chicken
+9,Item 1,beef
+8,Item 1,meat
+7,Item 1,meat
+5,Item 1,bottled water
+6,Item 1,pip fruit
+10,Item 1,citrus fruit
+11,Item 1,meat
+5,Item 1,ham
+10,Item 1,beef
+12,Item 1,citrus fruit
+7,Item 1,tropical fruit
+9,Item 1,other vegetables
+10,Item 1,hamburger meat
+1,Item 1,margarine
+2,Item 1,meat
+3,Item 1,cream cheese
+4,Item 1,curd
+3,Item 1,chicken
+8,Item 1,root vegetables
+1,Item 1,house keeping products
+1,Item 1,tropical fruit
+5,Item 1,uht-milk
+2,Item 1,whipped/sour cream
+5,Item 1,domestic eggs
+4,Item 1,spread cheese
+6,Item 1,whole milk
+4,Item 1,chicken
+3,Item 1,dessert
+1,Item 1,decalcifier
+14,Item 1,frankfurter
+2,Item 1,frozen dessert
+2,Item 1,vinegar
+9,Item 1,finished products
+3,Item 1,onions
+1,Item 1,curd
+3,Item 1,canned beer
+17,Item 1,ham
+8,Item 1,packaged fruit/vegetables
+13,Item 1,citrus fruit
+13,Item 1,root vegetables
+8,Item 1,berries
+8,Item 1,pip fruit
+6,Item 1,citrus fruit
+9,Item 1,meat
+6,Item 1,turkey
+7,Item 1,nuts/prunes
+10,Item 1,fish
+13,Item 1,chicken
+1,Item 1,whipped/sour cream
+12,Item 1,chicken
+15,Item 1,chicken
+14,Item 1,beef
+1,Item 1,sugar
+12,Item 1,frankfurter
+4,Item 1,bottled water
+2,Item 1,ice cream
+2,Item 1,sugar
+2,Item 1,pork
+1,Item 1,white bread
+2,Item 1,potato products
+3,Item 1,fish
+3,Item 1,pastry
+14,Item 1,tropical fruit
+3,Item 1,sliced cheese
+3,Item 1,soda
+15,Item 1,ham
+6,Item 1,beverages
+6,Item 1,berries
+2,Item 1,frozen fish
+2,Item 1,specialty chocolate
+2,Item 1,sparkling wine
+19,Item 1,tropical fruit
+8,Item 1,chicken
+1,Item 1,hygiene articles
+6,Item 1,curd
+8,Item 1,onions
+5,Item 1,finished products
+10,Item 1,tropical fruit
+5,Item 1,butter
+3,Item 1,bottled beer
+1,Item 1,grapes
+17,Item 1,sausage
+20,Item 1,frankfurter
+3,Item 1,artif. sweetener
+9,Item 1,packaged fruit/vegetables
+16,Item 1,pork
+1,Item 1,light bulbs
+23,Item 1,chicken
+10,Item 1,pork
+5,Item 1,whipped/sour cream
+18,Item 1,beef
+12,Item 1,turkey
+13,Item 1,beef
+4,Item 1,grapes
+1,Item 1,brown bread
+1,Item 1,onions
+4,Item 1,canned beer
+13,Item 1,yogurt
+5,Item 1,meat
+15,Item 1,sausage
+1,Item 1,canned vegetables
+10,Item 1,grapes
+3,Item 1,frozen fish
+14,Item 1,pork
+13,Item 1,sausage
+1,Item 1,chewing gum
+1,Item 1,canned fish
+6,Item 1,bottled water
+1,Item 1,specialty cheese
+21,Item 1,chicken
+18,Item 1,chicken
+26,Item 1,sausage
+4,Item 1,uht-milk
+8,Item 1,uht-milk
+1,Item 1,cookware
+11,Item 1,ham
+2,Item 1,popcorn
+7,Item 1,yogurt
+16,Item 1,meat
+1,Item 1,semi-finished bread
+3,Item 1,cat food
+17,Item 1,citrus fruit
+5,Item 1,brown bread
+5,Item 1,ice cream
+1,Item 1,dessert
+6,Item 1,dessert
+15,Item 1,beef
+9,Item 1,pip fruit
+1,Item 1,bathroom cleaner
+9,Item 1,grapes
+3,Item 1,grapes
+3,Item 1,prosecco
+15,Item 1,citrus fruit
+2,Item 1,brown bread
+16,Item 1,chicken
+32,Item 1,frankfurter
+5,Item 1,condensed milk
+8,Item 1,finished products
+19,Item 1,pork
+1,Item 1,cling film/bags
+2,Item 1,frozen potato products
+3,Item 1,frozen potato products
+18,Item 1,sausage
+17,Item 1,turkey
+3,Item 1,oil
+8,Item 1,dessert
+5,Item 1,liver loaf
+4,Item 1,whipped/sour cream
+5,Item 1,soda
+2,Item 1,cream cheese
+1,Item 1,frozen fish
+9,Item 1,herbs
+7,Item 1,onions
+3,Item 1,chewing gum
+4,Item 1,beverages
+9,Item 1,whole milk
+14,Item 1,citrus fruit
+2,Item 1,cat food
+14,Item 1,root vegetables
+17,Item 1,frankfurter
+19,Item 1,ham
+4,Item 1,zwieback
+12,Item 1,ham
+7,Item 1,ham
+3,Item 1,frozen meals
+3,Item 1,canned fruit
+1,Item 1,herbs
+4,Item 1,dog food
+11,Item 1,packaged fruit/vegetables
+10,Item 1,finished products
+2,Item 1,frozen fruits
+1,Item 1,pip fruit
+7,Item 1,pip fruit
+4,Item 1,ice cream
+15,Item 1,tropical fruit
+9,Item 1,liver loaf
+11,Item 1,root vegetables
+6,Item 1,herbs
+1,Item 1,brandy
+5,Item 1,pastry
+1,Item 1,uht-milk
+7,Item 1,cream cheese
+1,Item 1,butter milk
+5,Item 1,coffee
+4,Item 1,fish
+1,Item 1,baby cosmetics
+1,Item 1,spices
+2,Item 1,napkins
+15,Item 1,turkey
+1,Item 1,waffles
+3,Item 1,condensed milk
+7,Item 1,liver loaf
+2,Item 1,pip fruit
+3,Item 1,processed cheese
+1,Item 1,napkins
+3,Item 1,herbs
+2,Item 1,sauces
+10,Item 1,ham
+5,Item 1,dessert
+4,Item 1,hamburger meat
+1,Item 1,rum
+9,Item 1,curd
+5,Item 1,sliced cheese
+15,Item 1,hamburger meat
+3,Item 1,nuts/prunes
+2,Item 1,ham
+2,Item 1,chocolate
+5,Item 1,frozen meals
+1,Item 1,chocolate marshmallow
+2,Item 1,butter
+1,Item 1,long life bakery product
+1,Item 1,bags
+2,Item 1,spread cheese
+10,Item 1,pip fruit
+3,Item 1,frozen vegetables
+17,Item 1,meat
+2,Item 1,canned beer
+11,Item 1,pork
+3,Item 1,sauces
+12,Item 1,pork
+11,Item 1,other vegetables
+21,Item 1,sausage
+16,Item 1,liver loaf
+1,Item 1,butter
+19,Item 1,sausage
+4,Item 1,sweet spreads
+7,Item 1,butter
+2,Item 1,hard cheese
+3,Item 1,soups
+3,Item 1,white bread
+3,Item 1,berries
+16,Item 1,sausage
+11,Item 1,whole milk
+3,Item 1,mustard
+1,Item 1,flour
+15,Item 1,onions
+7,Item 1,finished products
+7,Item 1,uht-milk
+10,Item 1,condensed milk
+4,Item 1,flour
+2,Item 1,sweet spreads
+3,Item 1,liver loaf
+1,Item 1,cream cheese
+22,Item 1,citrus fruit
+6,Item 1,pasta
+1,Item 1,ham
+2,Item 1,domestic eggs
+3,Item 1,sweet spreads
+7,Item 1,whipped/sour cream
+4,Item 1,cat food
+2,Item 1,oil
+2,Item 1,dish cleaner
+3,Item 1,detergent
+3,Item 1,specialty fat
+1,Item 1,instant coffee
+16,Item 1,frankfurter
+5,Item 1,oil
+7,Item 1,packaged fruit/vegetables
+7,Item 1,white bread
+2,Item 1,snack products
+1,Item 1,mustard
+12,Item 1,root vegetables
+22,Item 1,liver loaf
+6,Item 1,butter milk
+2,Item 1,condensed milk
+5,Item 1,beverages
+13,Item 1,pip fruit
+6,Item 1,uht-milk
+11,Item 1,organic sausage
+8,Item 1,soft cheese
+2,Item 1,finished products
+19,Item 1,frankfurter
+6,Item 1,liver loaf
+3,Item 1,butter milk
+2,Item 1,mayonnaise
+4,Item 1,specialty cheese
+16,Item 1,beef
+2,Item 1,dental care
+19,Item 1,finished products
+2,Item 1,organic sausage
+6,Item 1,whipped/sour cream
+6,Item 1,rolls/buns
+2,Item 1,photo/film
+1,Item 1,frozen meals
+2,Item 1,long life bakery product
+7,Item 1,brown bread
+16,Item 1,ham
+1,Item 1,cat food
+16,Item 1,tropical fruit
+5,Item 1,margarine
+14,Item 1,sausage
+2,Item 1,roll products
+1,Item 1,soft cheese
+29,Item 1,meat
+7,Item 1,frozen potato products
+1,Item 1,kitchen towels
+1,Item 1,meat
+3,Item 1,uht-milk
+12,Item 1,hamburger meat
+29,Item 1,beef
+2,Item 1,salty snack
+2,Item 1,specialty cheese
+1,Item 1,flower soil/fertilizer
+4,Item 1,pasta
+12,Item 1,pip fruit
+1,Item 1,turkey
+1,Item 1,baking powder
+12,Item 1,finished products
+3,Item 1,zwieback
+3,Item 1,cereals
+2,Item 1,meat spreads
+9,Item 1,yogurt
+3,Item 1,mayonnaise
+2,Item 1,dog food
+12,Item 1,beef
+1,Item 1,dishes
+2,Item 1,frozen chicken
+7,Item 1,turkey
+14,Item 1,chicken
+6,Item 1,pickled vegetables
+1,Item 1,pet care
+8,Item 1,organic sausage
+8,Item 1,rolls/buns
+4,Item 1,pet care
+3,Item 1,misc. beverages
+1,Item 1,male cosmetics
+13,Item 1,organic sausage
+7,Item 1,organic sausage
+2,Item 1,liquor
+5,Item 1,processed cheese
+4,Item 1,pastry
+4,Item 1,frozen chicken
+1,Item 1,candles
+2,Item 1,whisky
+16,Item 1,other vegetables
+3,Item 1,tidbits
+1,Item 1,potato products
+2,Item 1,waffles
+7,Item 1,dessert
+1,Item 1,hard cheese
+5,Item 1,sugar
+2,Item 1,newspapers
+1,Item 1,nuts/prunes
+15,Item 1,other vegetables
+2,Item 1,cereals
+9,Item 1,dessert
+17,Item 1,pip fruit
+1,Item 1,cooking chocolate
+4,Item 1,tidbits
+4,Item 1,bottled beer
+1,Item 1,seasonal products
+3,Item 1,instant food products
+7,Item 1,cat food
+2,Item 1,fish
+14,Item 1,other vegetables
+1,Item 1,frozen dessert
+18,Item 1,ham
+4,Item 1,liver loaf
+5,Item 1,herbs
+11,Item 1,grapes
+9,Item 1,whipped/sour cream
+1,Item 1,liqueur
+2,Item 1,semi-finished bread
+1,Item 1,finished products
+5,Item 1,pet care
+3,Item 1,popcorn
+15,Item 1,pork
+2,Item 1,brandy
+3,Item 1,baking powder
+14,Item 1,meat
+10,Item 1,meat
+2,Item 1,nuts/prunes
+13,Item 1,finished products
+2,Item 1,abrasive cleaner
+14,Item 1,finished products
+3,Item 1,soft cheese
+2,Item 1,sliced cheese
+10,Item 1,curd
+21,Item 1,frankfurter
+13,Item 1,ham
+1,Item 1,dish cleaner
+12,Item 1,other vegetables
+2,Item 1,seasonal products
+22,Item 1,frankfurter
+5,Item 1,canned beer
+7,Item 1,pastry
+2,Item 1,baking powder
+3,Item 1,curd cheese
+12,Item 1,herbs
+13,Item 1,liver loaf
+1,Item 1,syrup
+2,Item 1,hygiene articles
+13,Item 1,onions
+4,Item 1,canned vegetables
+4,Item 1,pickled vegetables
+4,Item 1,potato products
+8,Item 1,turkey
+19,Item 1,turkey
+20,Item 1,beef
+9,Item 1,turkey
+27,Item 1,frankfurter
+1,Item 1,ketchup
+6,Item 1,soft cheese
+1,Item 1,cream
+1,Item 1,pickled vegetables
+2,Item 1,salt
+13,Item 1,fish
+6,Item 1,roll products
+6,Item 1,nuts/prunes
+16,Item 1,finished products
+8,Item 1,butter
+9,Item 1,butter
+17,Item 1,organic sausage
+6,Item 1,cream cheese
+1,Item 1,soups
+2,Item 1,skin care
+14,Item 1,hamburger meat
+3,Item 1,spread cheese
+10,Item 1,other vegetables
+2,Item 1,instant coffee
+5,Item 1,cream cheese
+14,Item 1,whole milk
+3,Item 1,waffles
+3,Item 1,pasta
+3,Item 1,semi-finished bread
+2,Item 1,specialty bar
+3,Item 1,margarine
+7,Item 1,butter milk
+9,Item 1,oil
+3,Item 1,frozen fruits
+6,Item 1,processed cheese
+6,Item 1,finished products
+1,Item 1,whisky
+1,Item 1,rubbing alcohol
+1,Item 1,nut snack
+17,Item 1,beef
+7,Item 1,frozen vegetables
+7,Item 1,fish
+1,Item 1,condensed milk
+8,Item 1,processed cheese
+1,Item 1,cereals
+1,Item 1,cocoa drinks
+2,Item 1,chewing gum
+2,Item 1,soft cheese
+13,Item 1,meat
+14,Item 1,pip fruit
+1,Item 1,zwieback
+2,Item 1,instant food products
+2,Item 1,softener
+5,Item 1,chocolate
+17,Item 1,root vegetables
+6,Item 1,sliced cheese
+10,Item 1,liver loaf
+2,Item 1,detergent
+11,Item 1,turkey
+10,Item 1,yogurt
+1,Item 1,artif. sweetener
+4,Item 1,mayonnaise
+28,Item 1,sausage
+6,Item 1,condensed milk
+11,Item 1,pip fruit
+4,Item 1,processed cheese
+3,Item 1,turkey
+5,Item 1,instant food products
+4,Item 1,organic sausage
+7,Item 1,ice cream
+8,Item 1,condensed milk
+2,Item 1,soups
+3,Item 1,pet care
+11,Item 1,herbs
+5,Item 1,frozen dessert
+5,Item 1,frozen fish
+5,Item 1,tidbits
+6,Item 1,semi-finished bread
+2,Item 1,flour
+5,Item 1,hard cheese
+6,Item 1,cat food
+2,Item 1,candy
+4,Item 1,semi-finished bread
+4,Item 1,butter milk
+10,Item 1,whipped/sour cream
+9,Item 1,onions
+3,Item 1,salty snack
+4,Item 1,salty snack
+2,Item 1,potted plants
+1,Item 1,salt
+1,Item 1,cleaner
+2,Item 1,soap
+4,Item 1,cereals
+2,Item 1,cooking chocolate
+2,Item 1,zwieback
+4,Item 1,frozen fish
+2,Item 1,canned vegetables
+3,Item 1,white wine
+3,Item 1,chocolate
+16,Item 1,turkey
+15,Item 1,meat
+5,Item 1,packaged fruit/vegetables
+15,Item 1,root vegetables
+23,Item 1,ham
+18,Item 1,pork
+5,Item 1,zwieback
+14,Item 1,onions
+7,Item 1,grapes
+7,Item 1,sliced cheese
+1,Item 1,abrasive cleaner
+1,Item 1,liver loaf
+3,Item 1,canned vegetables
+9,Item 1,frozen meals
+4,Item 1,nuts/prunes
+1,Item 1,softener
+5,Item 1,fish
+4,Item 1,herbs
+3,Item 1,long life bakery product
+8,Item 1,frozen meals
+10,Item 1,onions
+1,Item 1,roll products
+12,Item 1,grapes
+4,Item 1,sliced cheese
+1,Item 1,sweet spreads
+3,Item 1,organic products
+8,Item 1,whipped/sour cream
+11,Item 1,liver loaf
+9,Item 1,nuts/prunes
+1,Item 1,mayonnaise
+2,Item 1,turkey
+2,Item 1,cake bar
+5,Item 1,frozen potato products
+3,Item 1,dog food
+2,Item 1,honey
+8,Item 1,brandy
+8,Item 1,yogurt
+7,Item 1,domestic eggs
+6,Item 1,bottled beer
+7,Item 1,liquor
+2,Item 1,male cosmetics
+5,Item 1,soft cheese
+1,Item 1,canned fruit
+2,Item 1,artif. sweetener
+7,Item 1,bottled beer
+8,Item 1,ice cream
+21,Item 1,citrus fruit
+3,Item 1,canned fish
+6,Item 1,dog food
+5,Item 1,organic sausage
+5,Item 1,white bread
+2,Item 1,processed cheese
+3,Item 1,jam
+5,Item 1,pasta
+4,Item 1,frozen meals
+4,Item 1,frozen vegetables
+1,Item 1,prosecco
+4,Item 1,frozen dessert
+9,Item 1,berries
+1,Item 1,spread cheese
+24,Item 1,pork
+13,Item 1,turkey
+1,Item 1,kitchen utensil
+6,Item 1,mayonnaise
+20,Item 1,sausage
+19,Item 1,hamburger meat
+19,Item 1,chicken
+6,Item 1,misc. beverages
+18,Item 1,pip fruit
+21,Item 1,hamburger meat
+29,Item 1,sausage
+8,Item 1,domestic eggs
+4,Item 1,sauces
+3,Item 1,liquor
+6,Item 1,sugar
+22,Item 1,sausage
+2,Item 1,liver loaf
+14,Item 1,dessert
+8,Item 1,white bread
+5,Item 1,nuts/prunes
+1,Item 1,flower (seeds)
+1,Item 1,frozen fruits
+23,Item 1,sausage
+6,Item 1,spread cheese
+2,Item 1,jam
+10,Item 1,domestic eggs
+2,Item 1,cream
+2,Item 1,chocolate marshmallow
+4,Item 2,semi-finished bread
+3,Item 2,yogurt
+4,Item 2,yogurt
+4,Item 2,whole milk
+5,Item 2,butter
+5,Item 2,uht-milk
+2,Item 2,cereals
+5,Item 2,other vegetables
+9,Item 2,tropical fruit
+3,Item 2,rolls/buns
+2,Item 2,tropical fruit
+4,Item 2,sugar
+2,Item 2,pastry
+5,Item 2,cream cheese
+11,Item 2,root vegetables
+2,Item 2,canned beer
+4,Item 2,rolls/buns
+6,Item 2,soda
+4,Item 2,beverages
+7,Item 2,other vegetables
+8,Item 2,berries
+3,Item 2,grapes
+2,Item 2,soda
+4,Item 2,other vegetables
+3,Item 2,zwieback
+6,Item 2,rolls/buns
+13,Item 2,root vegetables
+2,Item 2,yogurt
+8,Item 2,yogurt
+2,Item 2,bottled water
+10,Item 2,other vegetables
+4,Item 2,grapes
+10,Item 2,tropical fruit
+5,Item 2,yogurt
+4,Item 2,curd
+3,Item 2,brown bread
+7,Item 2,oil
+6,Item 2,beef
+3,Item 2,pastry
+7,Item 2,whole milk
+3,Item 2,beef
+5,Item 2,tropical fruit
+2,Item 2,coffee
+2,Item 2,newspapers
+3,Item 2,whole milk
+8,Item 2,pip fruit
+7,Item 2,butter
+8,Item 2,citrus fruit
+3,Item 2,meat spreads
+5,Item 2,whole milk
+5,Item 2,salt
+4,Item 2,bottled water
+10,Item 2,whole milk
+4,Item 2,onions
+7,Item 2,condensed milk
+7,Item 2,root vegetables
+3,Item 2,other vegetables
+3,Item 2,salty snack
+4,Item 2,butter milk
+9,Item 2,hamburger meat
+2,Item 2,photo/film
+9,Item 2,sliced cheese
+10,Item 2,hamburger meat
+2,Item 2,misc. beverages
+9,Item 2,pork
+2,Item 2,fruit/vegetable juice
+6,Item 2,citrus fruit
+7,Item 2,whipped/sour cream
+2,Item 2,pip fruit
+10,Item 2,sausage
+8,Item 2,dessert
+2,Item 2,whipped/sour cream
+4,Item 2,berries
+6,Item 2,whole milk
+3,Item 2,cream cheese
+8,Item 2,other vegetables
+4,Item 2,sausage
+4,Item 2,dessert
+2,Item 2,red/blush wine
+15,Item 2,sausage
+3,Item 2,butter milk
+2,Item 2,dessert
+3,Item 2,flour
+2,Item 2,instant food products
+5,Item 2,sausage
+3,Item 2,misc. beverages
+2,Item 2,frozen vegetables
+2,Item 2,rolls/buns
+10,Item 2,ham
+2,Item 2,popcorn
+7,Item 2,pork
+6,Item 2,other vegetables
+9,Item 2,other vegetables
+2,Item 2,shopping bags
+5,Item 2,rolls/buns
+5,Item 2,herbs
+4,Item 2,butter
+3,Item 2,soda
+3,Item 2,specialty cheese
+3,Item 2,root vegetables
+3,Item 2,white wine
+8,Item 2,tropical fruit
+5,Item 2,butter milk
+4,Item 2,cream cheese
+2,Item 2,salt
+2,Item 2,ice cream
+3,Item 2,soft cheese
+5,Item 2,bottled water
+4,Item 2,bottled beer
+2,Item 2,candy
+23,Item 2,ham
+7,Item 2,cream cheese
+6,Item 2,tropical fruit
+7,Item 2,berries
+5,Item 2,beef
+5,Item 2,citrus fruit
+3,Item 2,bottled beer
+3,Item 2,bottled water
+2,Item 2,chewing gum
+5,Item 2,root vegetables
+6,Item 2,yogurt
+6,Item 2,pork
+2,Item 2,specialty bar
+2,Item 2,female sanitary products
+4,Item 2,soda
+12,Item 2,beef
+6,Item 2,sliced cheese
+8,Item 2,meat
+6,Item 2,berries
+12,Item 2,citrus fruit
+3,Item 2,mustard
+8,Item 2,beef
+9,Item 2,sausage
+5,Item 2,beverages
+6,Item 2,herbs
+4,Item 2,whipped/sour cream
+16,Item 2,whole milk
+7,Item 2,curd
+8,Item 2,whole milk
+4,Item 2,oil
+11,Item 2,beef
+2,Item 2,beverages
+9,Item 2,pip fruit
+11,Item 2,citrus fruit
+7,Item 2,sausage
+12,Item 2,pip fruit
+3,Item 2,margarine
+8,Item 2,root vegetables
+11,Item 2,pip fruit
+11,Item 2,other vegetables
+7,Item 2,citrus fruit
+4,Item 2,pip fruit
+5,Item 2,frozen meals
+3,Item 2,sugar
+9,Item 2,root vegetables
+4,Item 2,packaged fruit/vegetables
+4,Item 2,citrus fruit
+13,Item 2,beef
+5,Item 2,soda
+5,Item 2,packaged fruit/vegetables
+2,Item 2,white wine
+5,Item 2,white bread
+9,Item 2,chicken
+3,Item 2,hard cheese
+2,Item 2,cake bar
+2,Item 2,root vegetables
+3,Item 2,canned fish
+2,Item 2,whole milk
+2,Item 2,hygiene articles
+3,Item 2,white bread
+5,Item 2,mayonnaise
+2,Item 2,specialty chocolate
+4,Item 2,meat
+8,Item 2,beverages
+3,Item 2,butter
+3,Item 2,hamburger meat
+5,Item 2,whipped/sour cream
+3,Item 2,canned beer
+5,Item 2,domestic eggs
+2,Item 2,bottled beer
+8,Item 2,sausage
+10,Item 2,root vegetables
+5,Item 2,brown bread
+7,Item 2,packaged fruit/vegetables
+2,Item 2,white bread
+4,Item 2,frozen dessert
+2,Item 2,liquor
+11,Item 2,butter
+7,Item 2,hard cheese
+7,Item 2,liver loaf
+4,Item 2,tropical fruit
+2,Item 2,chocolate
+4,Item 2,bathroom cleaner
+10,Item 2,butter milk
+2,Item 2,other vegetables
+7,Item 2,ham
+6,Item 2,frozen vegetables
+5,Item 2,berries
+2,Item 2,pet care
+4,Item 2,pastry
+4,Item 2,pet care
+4,Item 2,uht-milk
+7,Item 2,zwieback
+7,Item 2,tropical fruit
+9,Item 2,beef
+6,Item 2,canned beer
+5,Item 2,ham
+4,Item 2,ice cream
+3,Item 2,honey
+2,Item 2,salty snack
+8,Item 2,onions
+3,Item 2,citrus fruit
+14,Item 2,pip fruit
+11,Item 2,turkey
+2,Item 2,nut snack
+2,Item 2,detergent
+3,Item 2,dessert
+6,Item 2,pip fruit
+10,Item 2,cream cheese
+2,Item 2,curd
+2,Item 2,brown bread
+4,Item 2,detergent
+17,Item 2,beef
+2,Item 2,seasonal products
+2,Item 2,margarine
+7,Item 2,yogurt
+4,Item 2,spread cheese
+3,Item 2,chewing gum
+11,Item 2,tropical fruit
+3,Item 2,fruit/vegetable juice
+2,Item 2,domestic eggs
+8,Item 2,curd
+2,Item 2,long life bakery product
+5,Item 2,coffee
+6,Item 2,bottled beer
+3,Item 2,uht-milk
+5,Item 2,frozen vegetables
+2,Item 2,potted plants
+13,Item 2,tropical fruit
+3,Item 2,dish cleaner
+5,Item 2,processed cheese
+6,Item 2,hamburger meat
+10,Item 2,meat
+9,Item 2,citrus fruit
+8,Item 2,pork
+7,Item 2,hamburger meat
+2,Item 2,spices
+11,Item 2,whole milk
+10,Item 2,citrus fruit
+12,Item 2,tropical fruit
+9,Item 2,rolls/buns
+6,Item 2,sausage
+4,Item 2,domestic eggs
+6,Item 2,root vegetables
+6,Item 2,onions
+11,Item 2,hamburger meat
+9,Item 2,meat
+7,Item 2,sliced cheese
+11,Item 2,ham
+3,Item 2,frozen meals
+2,Item 2,canned fish
+5,Item 2,curd
+7,Item 2,brown bread
+7,Item 2,soda
+5,Item 2,pip fruit
+4,Item 2,hygiene articles
+7,Item 2,onions
+5,Item 2,onions
+8,Item 2,turkey
+5,Item 2,frozen dessert
+7,Item 2,beef
+10,Item 2,grapes
+3,Item 2,tropical fruit
+3,Item 2,beverages
+14,Item 2,chicken
+2,Item 2,brandy
+2,Item 2,oil
+4,Item 2,root vegetables
+6,Item 2,turkey
+3,Item 2,liquor (appetizer)
+17,Item 2,chicken
+6,Item 2,uht-milk
+3,Item 2,red/blush wine
+5,Item 2,grapes
+2,Item 2,semi-finished bread
+11,Item 2,pork
+13,Item 2,onions
+5,Item 2,pork
+5,Item 2,pastry
+9,Item 2,fish
+8,Item 2,herbs
+5,Item 2,dessert
+9,Item 2,grapes
+3,Item 2,spread cheese
+10,Item 2,onions
+12,Item 2,other vegetables
+10,Item 2,berries
+11,Item 2,berries
+12,Item 2,pork
+15,Item 2,pork
+14,Item 2,tropical fruit
+2,Item 2,pickled vegetables
+12,Item 2,sausage
+4,Item 2,frozen vegetables
+8,Item 2,chicken
+7,Item 2,uht-milk
+12,Item 2,ham
+2,Item 2,beef
+3,Item 2,instant food products
+9,Item 2,berries
+2,Item 2,flower (seeds)
+3,Item 2,cake bar
+5,Item 2,hamburger meat
+14,Item 2,other vegetables
+7,Item 2,roll products
+15,Item 2,beef
+2,Item 2,cream cheese
+15,Item 2,hamburger meat
+8,Item 2,grapes
+2,Item 2,dish cleaner
+3,Item 2,napkins
+3,Item 2,herbs
+19,Item 2,grapes
+3,Item 2,whipped/sour cream
+6,Item 2,whipped/sour cream
+5,Item 2,organic sausage
+3,Item 2,dog food
+3,Item 2,oil
+5,Item 2,pasta
+4,Item 2,brown bread
+3,Item 2,liquor
+17,Item 2,citrus fruit
+20,Item 2,chicken
+9,Item 2,dessert
+16,Item 2,other vegetables
+11,Item 2,curd
+2,Item 2,onions
+23,Item 2,tropical fruit
+10,Item 2,pip fruit
+6,Item 2,dessert
+18,Item 2,grapes
+2,Item 2,rice
+5,Item 2,chicken
+4,Item 2,zwieback
+4,Item 2,specialty chocolate
+13,Item 2,whipped/sour cream
+7,Item 2,herbs
+15,Item 2,citrus fruit
+10,Item 2,yogurt
+9,Item 2,whole milk
+14,Item 2,ham
+14,Item 2,hamburger meat
+13,Item 2,grapes
+8,Item 2,butter
+21,Item 2,citrus fruit
+18,Item 2,tropical fruit
+3,Item 2,turkey
+26,Item 2,finished products
+3,Item 2,coffee
+13,Item 2,herbs
+4,Item 2,vinegar
+8,Item 2,domestic eggs
+2,Item 2,instant coffee
+17,Item 2,tropical fruit
+5,Item 2,oil
+2,Item 2,skin care
+5,Item 2,misc. beverages
+2,Item 2,sugar
+4,Item 2,frozen meals
+9,Item 2,specialty cheese
+4,Item 2,sliced cheese
+3,Item 2,chocolate
+3,Item 2,hygiene articles
+3,Item 2,pasta
+8,Item 2,hamburger meat
+15,Item 2,root vegetables
+16,Item 2,pork
+4,Item 2,cake bar
+32,Item 2,sausage
+5,Item 2,meat
+19,Item 2,beef
+3,Item 2,seasonal products
+4,Item 2,specialty bar
+7,Item 2,rolls/buns
+12,Item 2,meat
+10,Item 2,beef
+7,Item 2,pip fruit
+6,Item 2,grapes
+12,Item 2,whole milk
+18,Item 2,root vegetables
+2,Item 2,softener
+17,Item 2,pork
+3,Item 2,dental care
+8,Item 2,uht-milk
+9,Item 2,liver loaf
+3,Item 2,frozen vegetables
+2,Item 2,waffles
+5,Item 2,chocolate
+10,Item 2,pork
+13,Item 2,meat
+11,Item 2,organic sausage
+8,Item 2,pastry
+2,Item 2,pork
+6,Item 2,canned fish
+2,Item 2,dishes
+3,Item 2,baking powder
+4,Item 2,fruit/vegetable juice
+9,Item 2,yogurt
+14,Item 2,whole milk
+5,Item 2,hard cheese
+2,Item 2,frozen potato products
+17,Item 2,ham
+19,Item 2,tropical fruit
+12,Item 2,dessert
+4,Item 2,misc. beverages
+11,Item 2,meat
+3,Item 2,pet care
+3,Item 2,waffles
+12,Item 2,onions
+3,Item 2,jam
+4,Item 2,pork
+6,Item 2,misc. beverages
+6,Item 2,butter
+15,Item 2,ham
+4,Item 2,hamburger meat
+3,Item 2,female sanitary products
+15,Item 2,pip fruit
+3,Item 2,specialty chocolate
+6,Item 2,curd
+5,Item 2,sugar
+7,Item 2,pasta
+4,Item 2,condensed milk
+5,Item 2,fish
+4,Item 2,ham
+3,Item 2,long life bakery product
+7,Item 2,margarine
+4,Item 2,cream
+3,Item 2,fish
+6,Item 2,processed cheese
+13,Item 2,citrus fruit
+5,Item 2,sweet spreads
+6,Item 2,condensed milk
+4,Item 2,soft cheese
+3,Item 2,pip fruit
+13,Item 2,hamburger meat
+4,Item 2,coffee
+6,Item 2,beverages
+3,Item 2,pork
+3,Item 2,onions
+15,Item 2,tropical fruit
+4,Item 2,beef
+2,Item 2,hamburger meat
+4,Item 2,white bread
+2,Item 2,cleaner
+6,Item 2,white bread
+2,Item 2,frozen dessert
+12,Item 2,hamburger meat
+3,Item 2,roll products
+6,Item 2,baking powder
+5,Item 2,sliced cheese
+4,Item 2,specialty cheese
+2,Item 2,baking powder
+4,Item 2,mayonnaise
+4,Item 2,frozen fish
+2,Item 2,house keeping products
+10,Item 2,dessert
+12,Item 2,root vegetables
+2,Item 2,napkins
+3,Item 2,rice
+9,Item 2,butter
+7,Item 2,butter milk
+7,Item 2,grapes
+9,Item 2,organic sausage
+2,Item 2,meat spreads
+10,Item 2,chicken
+2,Item 2,zwieback
+21,Item 2,meat
+10,Item 2,curd
+8,Item 2,bottled water
+19,Item 2,ham
+2,Item 2,frozen meals
+5,Item 2,roll products
+3,Item 2,vinegar
+3,Item 2,domestic eggs
+4,Item 2,canned vegetables
+16,Item 2,berries
+16,Item 2,chicken
+11,Item 2,yogurt
+8,Item 2,white bread
+6,Item 2,cream cheese
+5,Item 2,ice cream
+16,Item 2,citrus fruit
+8,Item 2,ham
+3,Item 2,cat food
+3,Item 2,frozen potato products
+15,Item 2,dessert
+4,Item 2,chewing gum
+3,Item 2,specialty fat
+4,Item 2,margarine
+7,Item 2,dessert
+7,Item 2,mayonnaise
+8,Item 2,butter milk
+2,Item 2,hard cheese
+6,Item 2,butter milk
+10,Item 2,pastry
+2,Item 2,cat food
+9,Item 2,onions
+3,Item 2,tidbits
+7,Item 2,white bread
+6,Item 2,domestic eggs
+2,Item 2,spread cheese
+3,Item 2,semi-finished bread
+22,Item 2,tropical fruit
+6,Item 2,vinegar
+6,Item 2,nuts/prunes
+2,Item 2,rum
+2,Item 2,male cosmetics
+2,Item 2,tea
+15,Item 2,whole milk
+7,Item 2,beverages
+7,Item 2,pastry
+4,Item 2,liver loaf
+4,Item 2,chicken
+4,Item 2,canned beer
+13,Item 2,ham
+9,Item 2,herbs
+3,Item 2,organic products
+6,Item 2,soft cheese
+2,Item 2,chocolate marshmallow
+3,Item 2,decalcifier
+3,Item 2,frozen dessert
+7,Item 2,flour
+4,Item 2,cat food
+16,Item 2,meat
+2,Item 2,processed cheese
+5,Item 2,margarine
+2,Item 2,candles
+7,Item 2,processed cheese
+3,Item 2,frozen fish
+14,Item 2,herbs
+7,Item 2,cat food
+5,Item 2,tea
+3,Item 2,curd
+22,Item 2,ham
+11,Item 2,cream cheese
+6,Item 2,tea
+6,Item 2,spread cheese
+14,Item 2,sausage
+13,Item 2,other vegetables
+9,Item 2,nuts/prunes
+6,Item 2,ice cream
+11,Item 2,chicken
+8,Item 2,hard cheese
+2,Item 2,citrus fruit
+19,Item 2,pip fruit
+4,Item 2,hard cheese
+17,Item 2,pip fruit
+5,Item 2,finished products
+16,Item 2,sausage
+16,Item 2,root vegetables
+9,Item 2,turkey
+19,Item 2,chicken
+8,Item 2,soda
+2,Item 2,canned fruit
+13,Item 2,sausage
+6,Item 2,pastry
+3,Item 2,cookware
+2,Item 2,specialty cheese
+3,Item 2,ham
+7,Item 2,bottled water
+6,Item 2,finished products
+16,Item 2,tropical fruit
+5,Item 2,zwieback
+6,Item 2,frozen meals
+4,Item 2,canned fruit
+6,Item 2,frozen potato products
+7,Item 2,salt
+29,Item 2,turkey
+2,Item 2,uht-milk
+23,Item 2,pork
+29,Item 2,hamburger meat
+20,Item 2,beef
+5,Item 2,fruit/vegetable juice
+13,Item 2,pip fruit
+12,Item 2,grapes
+14,Item 2,beef
+9,Item 2,curd
+2,Item 2,roll products
+14,Item 2,root vegetables
+2,Item 2,curd cheese
+8,Item 2,whipped/sour cream
+8,Item 2,processed cheese
+3,Item 2,processed cheese
+6,Item 2,fish
+9,Item 2,hard cheese
+4,Item 2,herbs
+9,Item 2,ham
+2,Item 2,ketchup
+2,Item 2,cling film/bags
+5,Item 2,condensed milk
+16,Item 2,liver loaf
+6,Item 2,packaged fruit/vegetables
+4,Item 2,salty snack
+13,Item 2,berries
+8,Item 2,rice
+4,Item 2,instant coffee
+9,Item 2,soft cheese
+18,Item 2,meat
+10,Item 2,frozen potato products
+2,Item 2,berries
+2,Item 2,syrup
+5,Item 2,pickled vegetables
+13,Item 2,finished products
+2,Item 2,sweet spreads
+16,Item 2,yogurt
+3,Item 2,ketchup
+7,Item 2,chicken
+7,Item 2,frozen meals
+5,Item 2,waffles
+9,Item 2,whipped/sour cream
+5,Item 2,brandy
+9,Item 2,uht-milk
+17,Item 2,berries
+14,Item 2,turkey
+5,Item 2,dog food
+15,Item 2,nuts/prunes
+4,Item 2,liquor
+3,Item 2,ice cream
+3,Item 2,artif. sweetener
+16,Item 2,turkey
+3,Item 2,canned vegetables
+6,Item 2,oil
+9,Item 2,frozen vegetables
+3,Item 2,prosecco
+2,Item 2,artif. sweetener
+18,Item 2,chicken
+3,Item 2,sliced cheese
+7,Item 2,frozen vegetables
+3,Item 2,mayonnaise
+3,Item 2,chicken
+3,Item 2,nut snack
+3,Item 2,specialty bar
+4,Item 2,long life bakery product
+18,Item 2,hamburger meat
+9,Item 2,cream cheese
+5,Item 2,cat food
+2,Item 2,meat
+4,Item 2,pasta
+13,Item 2,pork
+19,Item 2,other vegetables
+3,Item 2,spices
+5,Item 2,soft cheese
+2,Item 2,soups
+4,Item 2,flour
+2,Item 2,light bulbs
+2,Item 2,liquor (appetizer)
+15,Item 2,packaged fruit/vegetables
+7,Item 2,mustard
+4,Item 2,popcorn
+10,Item 2,nuts/prunes
+10,Item 2,white bread
+21,Item 2,chicken
+12,Item 2,whipped/sour cream
+10,Item 2,whipped/sour cream
+6,Item 2,pet care
+22,Item 2,chicken
+5,Item 2,white wine
+18,Item 2,pip fruit
+21,Item 2,finished products
+11,Item 2,onions
+13,Item 2,chicken
+6,Item 2,bottled water
+4,Item 2,canned fish
+6,Item 2,organic sausage
+7,Item 2,bottled beer
+5,Item 2,baking powder
+2,Item 2,butter milk
+2,Item 2,cocoa drinks
+2,Item 2,flower soil/fertilizer
+11,Item 2,herbs
+6,Item 2,chicken
+2,Item 2,grapes
+3,Item 2,newspapers
+3,Item 2,cling film/bags
+3,Item 2,salt
+4,Item 2,white wine
+12,Item 2,chicken
+20,Item 2,citrus fruit
+4,Item 2,baking powder
+27,Item 2,sausage
+20,Item 2,turkey
+11,Item 2,dessert
+6,Item 2,dog food
+14,Item 2,pork
+2,Item 2,dental care
+3,Item 2,instant coffee
+3,Item 2,candy
+2,Item 2,packaged fruit/vegetables
+8,Item 2,sliced cheese
+4,Item 2,processed cheese
+8,Item 2,brown bread
+17,Item 2,turkey
+4,Item 2,sauces
+2,Item 2,soft cheese
+5,Item 2,bottled beer
+6,Item 2,instant coffee
+2,Item 2,specialty fat
+7,Item 2,finished products
+14,Item 2,butter milk
+6,Item 2,meat
+2,Item 2,sauces
+3,Item 2,sparkling wine
+2,Item 2,bathroom cleaner
+7,Item 2,ice cream
+8,Item 2,rolls/buns
+9,Item 2,soda
+7,Item 2,meat
+15,Item 2,meat
+6,Item 2,pasta
+3,Item 2,condensed milk
+11,Item 2,sausage
+2,Item 2,sliced cheese
+13,Item 2,turkey
+2,Item 2,sparkling wine
+7,Item 2,spread cheese
+3,Item 2,meat
+10,Item 2,processed cheese
+5,Item 2,semi-finished bread
+17,Item 2,hamburger meat
+7,Item 2,frozen dessert
+2,Item 2,prosecco
+2,Item 2,herbs
+2,Item 2,mustard
+8,Item 2,spread cheese
+14,Item 2,meat
+6,Item 2,mayonnaise
+8,Item 2,soft cheese
+5,Item 2,specialty bar
+5,Item 2,spread cheese
+17,Item 2,uht-milk
+4,Item 2,turkey
+8,Item 2,margarine
+16,Item 2,ham
+10,Item 2,beverages
+6,Item 2,coffee
+14,Item 2,finished products
+10,Item 2,salad dressing
+21,Item 2,tropical fruit
+28,Item 2,pip fruit
+6,Item 2,brown bread
+9,Item 2,finished products
+23,Item 2,chicken
+2,Item 2,butter
+12,Item 2,berries
+15,Item 2,other vegetables
+5,Item 2,long life bakery product
+3,Item 2,berries
+17,Item 2,organic sausage
+8,Item 2,tidbits
+2,Item 2,canned vegetables
+15,Item 2,liver loaf
+2,Item 2,soap
+3,Item 2,sauces
+4,Item 2,organic sausage
+2,Item 2,jam
+3,Item 2,packaged fruit/vegetables
+5,Item 2,specialty vegetables
+4,Item 2,jam
+14,Item 2,packaged fruit/vegetables
+6,Item 2,long life bakery product
+3,Item 2,snack products
+13,Item 2,yogurt
+15,Item 2,grapes
+7,Item 2,coffee
+4,Item 2,salt
+6,Item 2,liver loaf
+10,Item 2,domestic eggs
+8,Item 2,instant coffee
+2,Item 2,snack products
+4,Item 2,curd cheese
+4,Item 2,roll products
+2,Item 2,kitchen towels
+17,Item 2,sausage
+3,Item 2,curd cheese
+4,Item 2,rice
+3,Item 2,chocolate marshmallow
+4,Item 2,chocolate marshmallow
+4,Item 2,meat spreads
+8,Item 2,mustard
+6,Item 2,frozen fish
+4,Item 2,sweet spreads
+4,Item 2,ketchup
+4,Item 2,frozen potato products
+3,Item 2,potted plants
+15,Item 2,turkey
+3,Item 2,softener
+14,Item 2,citrus fruit
+11,Item 2,roll products
+19,Item 2,root vegetables
+23,Item 2,beef
+4,Item 2,specialty fat
+18,Item 2,citrus fruit
+10,Item 2,butter
+5,Item 2,salty snack
+3,Item 2,cereals
+8,Item 2,packaged fruit/vegetables
+11,Item 2,margarine
+5,Item 2,canned fish
+8,Item 2,semi-finished bread
+3,Item 2,flower soil/fertilizer
+9,Item 2,frozen fish
+3,Item 2,pickled vegetables
+19,Item 2,sausage
+12,Item 2,turkey
+4,Item 2,pickled vegetables
+8,Item 2,zwieback
+9,Item 2,beverages
+5,Item 2,canned beer
+18,Item 2,finished products
+4,Item 2,finished products
+15,Item 2,chicken
+7,Item 2,fruit/vegetable juice
+6,Item 2,flour
+15,Item 2,berries
+2,Item 2,hair spray
+5,Item 2,ketchup
+16,Item 2,pip fruit
+6,Item 2,liquor (appetizer)
+8,Item 2,liquor
+6,Item 2,hard cheese
+2,Item 2,cookware
+8,Item 2,condensed milk
+16,Item 2,hamburger meat
+20,Item 2,sausage
+4,Item 2,syrup
+3,Item 2,brandy
+6,Item 2,brandy
+7,Item 2,salty snack
+8,Item 2,frozen fish
+5,Item 2,popcorn
+12,Item 2,curd
+10,Item 2,uht-milk
+3,Item 2,nuts/prunes
+3,Item 2,cocoa drinks
+4,Item 2,prosecco
+21,Item 2,ham
+6,Item 2,salt
+7,Item 2,liquor
+21,Item 2,grapes
+7,Item 2,rice
+6,Item 2,ham
+6,Item 2,detergent
+5,Item 2,frozen fish
+10,Item 2,rolls/buns
+2,Item 2,sausage
+8,Item 2,cream cheese
+4,Item 2,tea
+5,Item 2,sauces
+2,Item 2,frozen fish
+4,Item 2,seasonal products
+3,Item 2,sausage
+2,Item 2,condensed milk
+18,Item 2,pork
+3,Item 2,candles
+24,Item 2,beef
+10,Item 2,herbs
+10,Item 2,organic sausage
+11,Item 2,grapes
+6,Item 2,tidbits
+4,Item 2,chocolate
+4,Item 2,mustard
+3,Item 2,house keeping products
+7,Item 2,canned beer
+12,Item 2,rolls/buns
+20,Item 2,pork
+16,Item 2,cream cheese
+21,Item 2,beef
+19,Item 2,citrus fruit
+3,Item 2,rum
+19,Item 2,pork
+6,Item 2,pickled vegetables
+5,Item 2,frozen potato products
+6,Item 2,fruit/vegetable juice
+18,Item 2,other vegetables
+29,Item 2,pork
+2,Item 2,abrasive cleaner
+4,Item 2,red/blush wine
+9,Item 2,pickled vegetables
+10,Item 2,ice cream
+15,Item 2,yogurt
+7,Item 2,sugar
+4,Item 2,brandy
+14,Item 2,yogurt
+4,Item 2,artif. sweetener
+5,Item 2,tidbits
+5,Item 2,nuts/prunes
+2,Item 2,vinegar
+16,Item 2,grapes
+10,Item 2,brown bread
+10,Item 2,packaged fruit/vegetables
+13,Item 2,whole milk
+4,Item 2,liquor (appetizer)
+4,Item 3,margarine
+3,Item 3,coffee
+4,Item 3,cream cheese
+4,Item 3,condensed milk
+5,Item 3,yogurt
+5,Item 3,rolls/buns
+5,Item 3,white bread
+9,Item 3,whole milk
+3,Item 3,soda
+4,Item 3,fruit/vegetable juice
+5,Item 3,processed cheese
+11,Item 3,other vegetables
+4,Item 3,soda
+6,Item 3,fruit/vegetable juice
+4,Item 3,bottled water
+7,Item 3,rolls/buns
+5,Item 3,whole milk
+8,Item 3,other vegetables
+3,Item 3,detergent
+4,Item 3,whole milk
+3,Item 3,newspapers
+6,Item 3,soda
+13,Item 3,whole milk
+8,Item 3,cream cheese
+10,Item 3,butter
+4,Item 3,cat food
+4,Item 3,other vegetables
+10,Item 3,other vegetables
+4,Item 3,yogurt
+3,Item 3,canned beer
+7,Item 3,bottled water
+6,Item 3,whipped/sour cream
+3,Item 3,sugar
+7,Item 3,frozen vegetables
+3,Item 3,whole milk
+3,Item 3,curd
+8,Item 3,berries
+7,Item 3,margarine
+8,Item 3,whole milk
+4,Item 3,rolls/buns
+5,Item 3,curd
+5,Item 3,bottled water
+10,Item 3,frozen vegetables
+4,Item 3,hard cheese
+7,Item 3,onions
+3,Item 3,whipped/sour cream
+3,Item 3,candles
+9,Item 3,citrus fruit
+9,Item 3,rolls/buns
+10,Item 3,citrus fruit
+3,Item 3,brown bread
+9,Item 3,grapes
+3,Item 3,bottled water
+10,Item 3,yogurt
+6,Item 3,berries
+10,Item 3,root vegetables
+8,Item 3,frozen vegetables
+4,Item 3,uht-milk
+3,Item 3,yogurt
+6,Item 3,frozen vegetables
+7,Item 3,whole milk
+8,Item 3,pastry
+4,Item 3,long life bakery product
+4,Item 3,semi-finished bread
+15,Item 3,citrus fruit
+3,Item 3,rolls/buns
+5,Item 3,beverages
+3,Item 3,liquor (appetizer)
+7,Item 3,cream cheese
+10,Item 3,pip fruit
+5,Item 3,honey
+6,Item 3,onions
+6,Item 3,meat spreads
+7,Item 3,citrus fruit
+6,Item 3,curd
+5,Item 3,sugar
+5,Item 3,packaged fruit/vegetables
+5,Item 3,flour
+4,Item 3,dessert
+3,Item 3,chewing gum
+4,Item 3,frozen vegetables
+3,Item 3,long life bakery product
+3,Item 3,shopping bags
+5,Item 3,cocoa drinks
+8,Item 3,soda
+4,Item 3,cereals
+5,Item 3,waffles
+4,Item 3,white wine
+23,Item 3,tropical fruit
+7,Item 3,semi-finished bread
+6,Item 3,whole milk
+5,Item 3,liquor (appetizer)
+7,Item 3,root vegetables
+5,Item 3,pip fruit
+5,Item 3,uht-milk
+5,Item 3,other vegetables
+6,Item 3,bottled water
+4,Item 3,coffee
+6,Item 3,beef
+4,Item 3,newspapers
+12,Item 3,citrus fruit
+6,Item 3,rolls/buns
+4,Item 3,bottled beer
+8,Item 3,tropical fruit
+6,Item 3,root vegetables
+12,Item 3,other vegetables
+8,Item 3,beverages
+9,Item 3,root vegetables
+4,Item 3,butter
+5,Item 3,instant food products
+6,Item 3,other vegetables
+16,Item 3,curd
+7,Item 3,pastry
+8,Item 3,bottled water
+4,Item 3,hygiene articles
+11,Item 3,hamburger meat
+5,Item 3,frozen vegetables
+3,Item 3,fruit/vegetable juice
+11,Item 3,tropical fruit
+4,Item 3,pet care
+7,Item 3,butter
+12,Item 3,onions
+3,Item 3,rum
+8,Item 3,herbs
+11,Item 3,root vegetables
+11,Item 3,whole milk
+7,Item 3,tropical fruit
+8,Item 3,onions
+4,Item 3,salad dressing
+10,Item 3,curd
+6,Item 3,yogurt
+5,Item 3,pastry
+3,Item 3,sauces
+9,Item 3,other vegetables
+7,Item 3,other vegetables
+13,Item 3,root vegetables
+5,Item 3,chewing gum
+5,Item 3,cream cheese
+9,Item 3,tropical fruit
+5,Item 3,spices
+6,Item 3,brown bread
+3,Item 3,bottled beer
+4,Item 3,brown bread
+3,Item 3,salty snack
+7,Item 3,yogurt
+3,Item 3,photo/film
+9,Item 3,whipped/sour cream
+4,Item 3,hamburger meat
+3,Item 3,cookware
+3,Item 3,specialty chocolate
+3,Item 3,butter milk
+6,Item 3,butter
+4,Item 3,frozen meals
+3,Item 3,pip fruit
+5,Item 3,cereals
+3,Item 3,red/blush wine
+5,Item 3,margarine
+4,Item 3,curd
+8,Item 3,pork
+7,Item 3,curd
+4,Item 3,salty snack
+11,Item 3,whipped/sour cream
+7,Item 3,frozen meals
+3,Item 3,napkins
+4,Item 3,beverages
+6,Item 3,pastry
+4,Item 3,dish cleaner
+5,Item 3,onions
+7,Item 3,hamburger meat
+4,Item 3,specialty bar
+6,Item 3,coffee
+6,Item 3,pip fruit
+5,Item 3,whipped/sour cream
+6,Item 3,sliced cheese
+4,Item 3,cake bar
+8,Item 3,root vegetables
+4,Item 3,canned fruit
+3,Item 3,male cosmetics
+9,Item 3,hamburger meat
+6,Item 3,liquor (appetizer)
+8,Item 3,curd
+3,Item 3,cling film/bags
+8,Item 3,packaged fruit/vegetables
+3,Item 3,waffles
+10,Item 3,liver loaf
+3,Item 3,cream cheese
+5,Item 3,pickled vegetables
+3,Item 3,dental care
+4,Item 3,specialty cheese
+3,Item 3,other vegetables
+14,Item 3,whole milk
+11,Item 3,beef
+6,Item 3,hard cheese
+3,Item 3,canned fish
+10,Item 3,spread cheese
+3,Item 3,hygiene articles
+8,Item 3,coffee
+17,Item 3,berries
+3,Item 3,dishes
+7,Item 3,frozen potato products
+6,Item 3,beverages
+3,Item 3,chocolate marshmallow
+11,Item 3,pip fruit
+4,Item 3,snack products
+8,Item 3,frozen meals
+5,Item 3,long life bakery product
+5,Item 3,butter
+3,Item 3,specialty bar
+11,Item 3,berries
+5,Item 3,brown bread
+3,Item 3,white wine
+5,Item 3,frozen meals
+6,Item 3,citrus fruit
+8,Item 3,yogurt
+9,Item 3,curd
+8,Item 3,beef
+5,Item 3,red/blush wine
+4,Item 3,pastry
+7,Item 3,berries
+10,Item 3,herbs
+11,Item 3,herbs
+11,Item 3,oil
+12,Item 3,grapes
+9,Item 3,meat spreads
+6,Item 3,domestic eggs
+7,Item 3,butter milk
+4,Item 3,whipped/sour cream
+5,Item 3,butter milk
+5,Item 3,jam
+5,Item 3,sliced cheese
+4,Item 3,artif. sweetener
+4,Item 3,onions
+7,Item 3,pasta
+7,Item 3,fruit/vegetable juice
+3,Item 3,butter
+5,Item 3,fruit/vegetable juice
+5,Item 3,root vegetables
+6,Item 3,bottled beer
+4,Item 3,herbs
+3,Item 3,semi-finished bread
+4,Item 3,root vegetables
+4,Item 3,flour
+3,Item 3,mustard
+3,Item 3,potted plants
+3,Item 3,flower (seeds)
+5,Item 3,soda
+14,Item 3,pork
+6,Item 3,packaged fruit/vegetables
+5,Item 3,zwieback
+8,Item 3,whipped/sour cream
+9,Item 3,packaged fruit/vegetables
+3,Item 3,flour
+5,Item 3,tea
+17,Item 3,citrus fruit
+8,Item 3,dessert
+13,Item 3,grapes
+13,Item 3,other vegetables
+8,Item 3,rolls/buns
+5,Item 3,frozen fish
+12,Item 3,tropical fruit
+10,Item 3,whole milk
+12,Item 3,packaged fruit/vegetables
+7,Item 3,whipped/sour cream
+13,Item 3,pip fruit
+5,Item 3,bottled beer
+15,Item 3,hamburger meat
+14,Item 3,root vegetables
+12,Item 3,beef
+4,Item 3,chewing gum
+8,Item 3,citrus fruit
+7,Item 3,domestic eggs
+4,Item 3,tropical fruit
+8,Item 3,white bread
+6,Item 3,processed cheese
+7,Item 3,uht-milk
+3,Item 3,salt
+6,Item 3,frozen meals
+5,Item 3,berries
+3,Item 3,chocolate
+4,Item 3,pip fruit
+15,Item 3,grapes
+8,Item 3,uht-milk
+15,Item 3,whole milk
+5,Item 3,instant coffee
+4,Item 3,detergent
+4,Item 3,white bread
+7,Item 3,grapes
+19,Item 3,berries
+3,Item 3,baking powder
+3,Item 3,cat food
+5,Item 3,canned fish
+4,Item 3,frozen fish
+4,Item 3,canned beer
+5,Item 3,spread cheese
+20,Item 3,pork
+6,Item 3,dessert
+4,Item 3,photo/film
+9,Item 3,mayonnaise
+16,Item 3,whole milk
+3,Item 3,tea
+11,Item 3,frozen meals
+3,Item 3,roll products
+23,Item 3,pip fruit
+5,Item 3,ice cream
+10,Item 3,grapes
+4,Item 3,pasta
+4,Item 3,butter milk
+18,Item 3,nuts/prunes
+12,Item 3,pip fruit
+13,Item 3,onions
+5,Item 3,domestic eggs
+4,Item 3,domestic eggs
+5,Item 3,misc. beverages
+4,Item 3,candy
+13,Item 3,flour
+15,Item 3,pip fruit
+6,Item 3,white bread
+10,Item 3,uht-milk
+9,Item 3,yogurt
+14,Item 3,chicken
+5,Item 3,roll products
+14,Item 3,pip fruit
+13,Item 3,butter
+5,Item 3,liquor
+10,Item 3,ham
+11,Item 3,dessert
+21,Item 3,root vegetables
+18,Item 3,whole milk
+3,Item 3,citrus fruit
+26,Item 3,tropical fruit
+13,Item 3,yogurt
+4,Item 3,waffles
+8,Item 3,brown bread
+11,Item 3,processed cheese
+7,Item 3,packaged fruit/vegetables
+4,Item 3,misc. beverages
+17,Item 3,pip fruit
+9,Item 3,butter
+5,Item 3,salt
+6,Item 3,cream cheese
+5,Item 3,canned beer
+4,Item 3,oil
+6,Item 3,uht-milk
+15,Item 3,onions
+11,Item 3,onions
+8,Item 3,spread cheese
+9,Item 3,pasta
+4,Item 3,red/blush wine
+11,Item 3,pasta
+14,Item 3,other vegetables
+3,Item 3,light bulbs
+5,Item 3,salty snack
+10,Item 3,butter milk
+15,Item 3,other vegetables
+6,Item 3,grapes
+12,Item 3,butter
+6,Item 3,margarine
+6,Item 3,sugar
+16,Item 3,pip fruit
+4,Item 3,baby cosmetics
+32,Item 3,liver loaf
+19,Item 3,citrus fruit
+4,Item 3,seasonal products
+12,Item 3,pork
+10,Item 3,tropical fruit
+4,Item 3,packaged fruit/vegetables
+3,Item 3,zwieback
+6,Item 3,mayonnaise
+12,Item 3,whipped/sour cream
+18,Item 3,other vegetables
+4,Item 3,sweet spreads
+17,Item 3,beef
+5,Item 3,pet care
+9,Item 3,turkey
+5,Item 3,specialty chocolate
+8,Item 3,chicken
+11,Item 3,hard cheese
+13,Item 3,tropical fruit
+11,Item 3,citrus fruit
+7,Item 3,soft cheese
+3,Item 3,sweet spreads
+9,Item 3,frozen meals
+14,Item 3,grapes
+7,Item 3,hard cheese
+14,Item 3,butter
+6,Item 3,butter milk
+3,Item 3,misc. beverages
+14,Item 3,citrus fruit
+17,Item 3,butter
+17,Item 3,meat
+19,Item 3,grapes
+3,Item 3,pastry
+4,Item 3,mustard
+3,Item 3,dog food
+12,Item 3,frozen meals
+4,Item 3,liquor
+11,Item 3,grapes
+5,Item 3,semi-finished bread
+4,Item 3,soft cheese
+3,Item 3,instant coffee
+8,Item 3,grapes
+11,Item 3,pastry
+4,Item 3,specialty fat
+7,Item 3,sliced cheese
+3,Item 3,pudding powder
+9,Item 3,brown bread
+6,Item 3,long life bakery product
+4,Item 3,spices
+9,Item 3,pip fruit
+11,Item 3,butter
+6,Item 3,roll products
+7,Item 3,jam
+5,Item 3,soups
+6,Item 3,tropical fruit
+6,Item 3,frozen potato products
+15,Item 3,tropical fruit
+6,Item 3,ice cream
+6,Item 3,sweet spreads
+3,Item 3,oil
+7,Item 3,pip fruit
+4,Item 3,citrus fruit
+3,Item 3,sliced cheese
+5,Item 3,white wine
+7,Item 3,sugar
+3,Item 3,uht-milk
+3,Item 3,specialty fat
+12,Item 3,berries
+13,Item 3,citrus fruit
+5,Item 3,coffee
+3,Item 3,house keeping products
+4,Item 3,female sanitary products
+3,Item 3,seasonal products
+3,Item 3,liquor
+7,Item 3,mayonnaise
+4,Item 3,sugar
+9,Item 3,onions
+11,Item 3,yogurt
+5,Item 3,baking powder
+5,Item 3,specialty bar
+5,Item 3,pasta
+5,Item 3,hard cheese
+5,Item 3,dessert
+17,Item 3,tropical fruit
+5,Item 3,tropical fruit
+12,Item 3,whole milk
+8,Item 3,processed cheese
+3,Item 3,domestic eggs
+3,Item 3,popcorn
+7,Item 3,oil
+3,Item 3,margarine
+4,Item 3,ice cream
+3,Item 3,dish cleaner
+10,Item 3,beef
+11,Item 3,domestic eggs
+12,Item 3,yogurt
+11,Item 3,frozen potato products
+5,Item 3,frozen dessert
+21,Item 3,turkey
+3,Item 3,frozen vegetables
+16,Item 3,citrus fruit
+14,Item 3,sliced cheese
+12,Item 3,root vegetables
+19,Item 3,meat
+6,Item 3,spread cheese
+4,Item 3,chocolate
+4,Item 3,napkins
+7,Item 3,brown bread
+6,Item 3,specialty cheese
+10,Item 3,fish
+16,Item 3,onions
+16,Item 3,beef
+11,Item 3,cream cheese
+8,Item 3,ketchup
+10,Item 3,dessert
+6,Item 3,oil
+16,Item 3,other vegetables
+15,Item 3,yogurt
+7,Item 3,beef
+8,Item 3,domestic eggs
+9,Item 3,spread cheese
+7,Item 3,white bread
+6,Item 3,baking powder
+5,Item 3,sweet spreads
+6,Item 3,soft cheese
+10,Item 3,coffee
+8,Item 3,finished products
+9,Item 3,soft cheese
+7,Item 3,sweet spreads
+3,Item 3,instant food products
+22,Item 3,pip fruit
+5,Item 3,citrus fruit
+15,Item 3,ice cream
+7,Item 3,canned fish
+7,Item 3,specialty cheese
+10,Item 3,sliced cheese
+4,Item 3,meat spreads
+8,Item 3,butter milk
+9,Item 3,sliced cheese
+3,Item 3,pasta
+6,Item 3,pudding powder
+7,Item 3,dessert
+8,Item 3,pip fruit
+4,Item 3,liquor (appetizer)
+4,Item 3,cling film/bags
+16,Item 3,berries
+9,Item 3,meat
+6,Item 3,herbs
+5,Item 3,frozen potato products
+5,Item 3,chicken
+9,Item 3,butter milk
+8,Item 3,flour
+3,Item 3,white bread
+11,Item 3,white bread
+5,Item 3,chocolate
+3,Item 3,ice cream
+3,Item 3,snack products
+10,Item 3,hamburger meat
+4,Item 3,chocolate marshmallow
+9,Item 3,pastry
+3,Item 3,candy
+9,Item 3,uht-milk
+7,Item 3,soda
+19,Item 3,root vegetables
+3,Item 3,specialty cheese
+5,Item 3,cat food
+3,Item 3,brandy
+17,Item 3,root vegetables
+9,Item 3,beef
+19,Item 3,pork
+7,Item 3,misc. beverages
+8,Item 3,misc. beverages
+3,Item 3,cream
+8,Item 3,oil
+11,Item 3,frozen vegetables
+5,Item 3,condensed milk
+10,Item 3,beverages
+6,Item 3,pasta
+5,Item 3,mustard
+9,Item 3,margarine
+9,Item 3,chicken
+6,Item 3,sparkling wine
+3,Item 3,dessert
+10,Item 3,pork
+15,Item 3,root vegetables
+3,Item 3,decalcifier
+4,Item 3,spread cheese
+7,Item 3,organic products
+4,Item 3,frozen potato products
+4,Item 3,canned vegetables
+29,Item 3,tropical fruit
+23,Item 3,beef
+7,Item 3,processed cheese
+6,Item 3,mustard
+11,Item 3,curd
+20,Item 3,pip fruit
+5,Item 3,cake bar
+7,Item 3,candy
+12,Item 3,nuts/prunes
+8,Item 3,soft cheese
+17,Item 3,other vegetables
+14,Item 3,onions
+8,Item 3,semi-finished bread
+15,Item 3,herbs
+11,Item 3,semi-finished bread
+7,Item 3,coffee
+8,Item 3,mayonnaise
+3,Item 3,tidbits
+9,Item 3,berries
+5,Item 3,oil
+8,Item 3,bottled beer
+4,Item 3,specialty chocolate
+5,Item 3,napkins
+3,Item 3,vinegar
+7,Item 3,pork
+14,Item 3,hamburger meat
+7,Item 3,ice cream
+4,Item 3,dishes
+10,Item 3,whipped/sour cream
+6,Item 3,sauces
+7,Item 3,herbs
+8,Item 3,canned fish
+9,Item 3,domestic eggs
+18,Item 3,chicken
+8,Item 3,condensed milk
+10,Item 3,white bread
+5,Item 3,detergent
+13,Item 3,beef
+7,Item 3,spread cheese
+5,Item 3,ham
+4,Item 3,nut snack
+9,Item 3,herbs
+5,Item 3,rum
+16,Item 3,soft cheese
+16,Item 3,tropical fruit
+3,Item 3,cake bar
+3,Item 3,skin care
+7,Item 3,frozen dessert
+5,Item 3,cleaner
+9,Item 3,frozen vegetables
+15,Item 3,butter milk
+5,Item 3,mayonnaise
+6,Item 3,condensed milk
+7,Item 3,frozen fish
+5,Item 3,nuts/prunes
+9,Item 3,cream cheese
+4,Item 3,mayonnaise
+3,Item 3,frozen potato products
+4,Item 3,frozen dessert
+5,Item 3,sauces
+12,Item 3,dessert
+3,Item 3,cleaner
+5,Item 3,hygiene articles
+14,Item 3,yogurt
+18,Item 3,citrus fruit
+13,Item 3,berries
+3,Item 3,pickled vegetables
+3,Item 3,cooking chocolate
+7,Item 3,pet care
+6,Item 3,semi-finished bread
+5,Item 3,popcorn
+6,Item 3,frozen fish
+9,Item 3,dessert
+8,Item 3,hard cheese
+6,Item 3,prosecco
+18,Item 3,tropical fruit
+14,Item 3,turkey
+8,Item 3,turkey
+14,Item 3,curd
+6,Item 3,cream
+19,Item 3,yogurt
+8,Item 3,sliced cheese
+11,Item 3,pork
+6,Item 3,seasonal products
+6,Item 3,instant coffee
+7,Item 3,soups
+19,Item 3,pip fruit
+4,Item 3,cleaner
+10,Item 3,pastry
+21,Item 3,beef
+5,Item 3,pudding powder
+10,Item 3,rolls/buns
+8,Item 3,butter
+8,Item 3,ham
+4,Item 3,jam
+9,Item 3,pork
+16,Item 3,pork
+12,Item 3,processed cheese
+10,Item 3,hard cheese
+22,Item 3,pork
+8,Item 3,sugar
+14,Item 3,liver loaf
+10,Item 3,onions
+5,Item 3,specialty fat
+21,Item 3,hamburger meat
+4,Item 3,canned fish
+13,Item 3,turkey
+7,Item 3,canned beer
+6,Item 3,hamburger meat
+4,Item 3,roll products
+3,Item 3,soft cheese
+14,Item 3,beef
+7,Item 3,condensed milk
+5,Item 3,herbs
+20,Item 3,tropical fruit
+27,Item 3,liver loaf
+20,Item 3,citrus fruit
+19,Item 3,whole milk
+11,Item 3,uht-milk
+10,Item 3,chicken
+4,Item 3,grapes
+6,Item 3,zwieback
+3,Item 3,frozen dessert
+12,Item 3,curd
+6,Item 3,canned beer
+10,Item 3,berries
+5,Item 3,ready soups
+6,Item 3,salty snack
+10,Item 3,packaged fruit/vegetables
+3,Item 3,frozen meals
+3,Item 3,syrup
+4,Item 3,rum
+5,Item 3,grapes
+8,Item 3,baking powder
+4,Item 3,cooking chocolate
+3,Item 3,beverages
+3,Item 3,hair spray
+3,Item 3,jam
+3,Item 3,sparkling wine
+8,Item 3,frozen potato products
+9,Item 3,misc. beverages
+9,Item 3,fish
+7,Item 3,meat
+3,Item 3,female sanitary products
+16,Item 3,root vegetables
+5,Item 3,prosecco
+8,Item 3,hamburger meat
+13,Item 3,uht-milk
+6,Item 3,frozen fruits
+8,Item 3,ice cream
+15,Item 3,berries
+4,Item 3,sliced cheese
+5,Item 3,candy
+17,Item 3,domestic eggs
+7,Item 3,beverages
+7,Item 3,organic sausage
+4,Item 3,baking powder
+8,Item 3,tidbits
+10,Item 3,domestic eggs
+6,Item 3,chocolate
+21,Item 3,pork
+10,Item 3,oil
+21,Item 3,pip fruit
+28,Item 3,root vegetables
+6,Item 3,dog food
+14,Item 3,herbs
+7,Item 3,salt
+12,Item 3,hamburger meat
+5,Item 3,curd cheese
+9,Item 3,soda
+4,Item 3,male cosmetics
+3,Item 3,canned vegetables
+5,Item 3,sparkling wine
+4,Item 3,zwieback
+7,Item 3,red/blush wine
+5,Item 3,dog food
+15,Item 3,ham
+3,Item 3,pet care
+11,Item 3,sliced cheese
+5,Item 3,canned fruit
+4,Item 3,dental care
+4,Item 3,popcorn
+4,Item 3,make up remover
+6,Item 3,misc. beverages
+6,Item 3,waffles
+3,Item 3,onions
+7,Item 3,rice
+5,Item 3,soft cheese
+10,Item 3,cream cheese
+5,Item 3,canned vegetables
+6,Item 3,specialty chocolate
+6,Item 3,canned vegetables
+3,Item 3,canned fruit
+13,Item 3,whipped/sour cream
+3,Item 3,prosecco
+9,Item 3,hard cheese
+5,Item 3,dish cleaner
+15,Item 3,whipped/sour cream
+4,Item 3,syrup
+4,Item 3,vinegar
+10,Item 3,salt
+7,Item 3,dog food
+8,Item 3,rice
+7,Item 3,pickled vegetables
+8,Item 3,fruit/vegetable juice
+5,Item 3,specialty cheese
+3,Item 3,nut snack
+4,Item 3,soups
+17,Item 3,pork
+20,Item 3,root vegetables
+6,Item 3,pickled vegetables
+16,Item 3,rolls/buns
+4,Item 3,rice
+7,Item 3,mustard
+14,Item 3,tropical fruit
+4,Item 3,dog food
+13,Item 3,chicken
+3,Item 3,root vegetables
+6,Item 3,pet care
+15,Item 3,hard cheese
+23,Item 3,citrus fruit
+4,Item 3,potted plants
+18,Item 3,pip fruit
+4,Item 3,tea
+11,Item 3,butter milk
+9,Item 3,white bread
+11,Item 3,soda
+6,Item 3,frozen dessert
+11,Item 3,packaged fruit/vegetables
+9,Item 3,frozen dessert
+3,Item 3,bathroom cleaner
+6,Item 3,finished products
+19,Item 3,chicken
+3,Item 3,soups
+5,Item 3,soap
+14,Item 3,berries
+9,Item 3,vinegar
+3,Item 3,soap
+4,Item 3,processed cheese
+7,Item 3,baking powder
+3,Item 3,softener
+4,Item 3,instant food products
+15,Item 3,pork
+9,Item 3,ham
+18,Item 3,pork
+4,Item 3,pickled vegetables
+3,Item 3,grapes
+6,Item 3,nut snack
+8,Item 3,liquor (appetizer)
+4,Item 3,ketchup
+4,Item 3,curd cheese
+6,Item 3,flour
+6,Item 3,cat food
+20,Item 3,beef
+4,Item 3,cocoa drinks
+3,Item 3,whisky
+6,Item 3,whisky
+7,Item 3,chocolate
+3,Item 3,kitchen towels
+4,Item 3,candles
+5,Item 3,vinegar
+12,Item 3,hard cheese
+10,Item 3,ice cream
+12,Item 3,chicken
+21,Item 3,meat
+21,Item 3,onions
+4,Item 3,salt
+5,Item 3,meat spreads
+21,Item 3,tropical fruit
+6,Item 3,hygiene articles
+10,Item 3,frozen meals
+17,Item 3,packaged fruit/vegetables
+10,Item 3,brown bread
+10,Item 3,frozen fish
+11,Item 3,meat
+13,Item 3,hamburger meat
+18,Item 3,beef
+15,Item 3,beef
+10,Item 3,pasta
+24,Item 3,tropical fruit
+11,Item 3,liver loaf
+3,Item 3,make up remover
+4,Item 3,ready soups
+7,Item 3,salty snack
+12,Item 3,flour
+20,Item 3,hamburger meat
+16,Item 3,frozen fruits
+21,Item 3,berries
+13,Item 3,finished products
+19,Item 3,tropical fruit
+19,Item 3,beef
+3,Item 3,spread cheese
+21,Item 3,other vegetables
+29,Item 3,citrus fruit
+10,Item 3,condensed milk
+14,Item 3,fish
+16,Item 3,chicken
+9,Item 3,dog food
+15,Item 3,dessert
+15,Item 3,frozen fish
+13,Item 3,pork
+14,Item 3,uht-milk
+3,Item 3,condensed milk
+6,Item 3,liquor
+14,Item 3,frozen vegetables
+8,Item 3,roll products
+23,Item 3,onions
+6,Item 3,salt
+4,Item 3,berries
+3,Item 3,rice
+16,Item 3,herbs
+10,Item 3,meat
+6,Item 3,tidbits
+10,Item 3,flour
+4,Item 3,abrasive cleaner
+4,Item 4,ready soups
+4,Item 4,meat spreads
+4,Item 4,long life bakery product
+5,Item 4,rice
+5,Item 4,bottled beer
+5,Item 4,bottled water
+9,Item 4,butter
+4,Item 4,newspapers
+5,Item 4,detergent
+11,Item 4,frozen dessert
+4,Item 4,chocolate
+6,Item 4,canned beer
+4,Item 4,specialty bar
+7,Item 4,spices
+5,Item 4,beverages
+8,Item 4,whole milk
+4,Item 4,dessert
+13,Item 4,yogurt
+8,Item 4,spread cheese
+10,Item 4,curd
+4,Item 4,whole milk
+5,Item 4,pickled vegetables
+4,Item 4,pastry
+7,Item 4,chewing gum
+6,Item 4,ice cream
+7,Item 4,canned fish
+5,Item 4,brown bread
+7,Item 4,specialty fat
+8,Item 4,domestic eggs
+4,Item 4,sugar
+5,Item 4,butter milk
+5,Item 4,fruit/vegetable juice
+4,Item 4,bottled beer
+10,Item 4,domestic eggs
+4,Item 4,frozen vegetables
+7,Item 4,salt
+7,Item 4,yogurt
+4,Item 4,cream cheese
+9,Item 4,berries
+9,Item 4,brown bread
+10,Item 4,tropical fruit
+9,Item 4,whole milk
+10,Item 4,coffee
+6,Item 4,root vegetables
+7,Item 4,soda
+10,Item 4,other vegetables
+8,Item 4,rolls/buns
+4,Item 4,processed cheese
+6,Item 4,rolls/buns
+7,Item 4,frozen vegetables
+8,Item 4,margarine
+4,Item 4,waffles
+4,Item 4,canned beer
+15,Item 4,tropical fruit
+5,Item 4,rolls/buns
+7,Item 4,white bread
+5,Item 4,soda
+6,Item 4,cake bar
+7,Item 4,dessert
+6,Item 4,dessert
+9,Item 4,yogurt
+5,Item 4,whole milk
+5,Item 4,cling film/bags
+4,Item 4,rolls/buns
+5,Item 4,salty snack
+8,Item 4,salty snack
+4,Item 4,dog food
+5,Item 4,dishes
+4,Item 4,prosecco
+23,Item 4,pip fruit
+7,Item 4,zwieback
+6,Item 4,spread cheese
+7,Item 4,whole milk
+5,Item 4,herbs
+5,Item 4,margarine
+6,Item 4,soda
+4,Item 4,shopping bags
+4,Item 4,soda
+6,Item 4,whole milk
+12,Item 4,other vegetables
+4,Item 4,cake bar
+8,Item 4,onions
+6,Item 4,other vegetables
+12,Item 4,curd
+8,Item 4,sliced cheese
+4,Item 4,margarine
+16,Item 4,dessert
+7,Item 4,margarine
+8,Item 4,soda
+4,Item 4,napkins
+11,Item 4,grapes
+9,Item 4,curd
+11,Item 4,other vegetables
+4,Item 4,detergent
+7,Item 4,whipped/sour cream
+11,Item 4,curd
+11,Item 4,whole milk
+7,Item 4,root vegetables
+8,Item 4,other vegetables
+10,Item 4,yogurt
+9,Item 4,vinegar
+4,Item 4,bottled water
+4,Item 4,yogurt
+13,Item 4,curd
+5,Item 4,chocolate
+5,Item 4,white bread
+5,Item 4,pasta
+9,Item 4,root vegetables
+5,Item 4,long life bakery product
+6,Item 4,pastry
+4,Item 4,instant coffee
+7,Item 4,coffee
+9,Item 4,hard cheese
+4,Item 4,rubbing alcohol
+8,Item 4,hard cheese
+8,Item 4,curd
+6,Item 4,processed cheese
+5,Item 4,waffles
+5,Item 4,chocolate marshmallow
+4,Item 4,soft cheese
+8,Item 4,pip fruit
+5,Item 4,whipped/sour cream
+10,Item 4,packaged fruit/vegetables
+5,Item 4,coffee
+8,Item 4,whipped/sour cream
+11,Item 4,hard cheese
+7,Item 4,pasta
+7,Item 4,cream cheese
+4,Item 4,frozen dessert
+6,Item 4,bottled water
+4,Item 4,hygiene articles
+4,Item 4,whipped/sour cream
+10,Item 4,sliced cheese
+4,Item 4,instant food products
+4,Item 4,chewing gum
+6,Item 4,margarine
+5,Item 4,other vegetables
+6,Item 4,yogurt
+5,Item 4,domestic eggs
+4,Item 4,male cosmetics
+8,Item 4,yogurt
+4,Item 4,fruit/vegetable juice
+11,Item 4,frozen potato products
+7,Item 4,misc. beverages
+7,Item 4,onions
+9,Item 4,other vegetables
+6,Item 4,hygiene articles
+5,Item 4,ice cream
+4,Item 4,house keeping products
+7,Item 4,ice cream
+5,Item 4,snack products
+10,Item 4,root vegetables
+8,Item 4,butter
+4,Item 4,domestic eggs
+14,Item 4,curd
+11,Item 4,root vegetables
+6,Item 4,frozen meals
+6,Item 4,coffee
+10,Item 4,frozen dessert
+8,Item 4,bottled water
+4,Item 4,photo/film
+17,Item 4,packaged fruit/vegetables
+7,Item 4,butter milk
+6,Item 4,white bread
+9,Item 4,frozen vegetables
+4,Item 4,butter milk
+7,Item 4,brown bread
+5,Item 4,pastry
+8,Item 4,frozen potato products
+5,Item 4,zwieback
+6,Item 4,domestic eggs
+4,Item 4,candy
+6,Item 4,chewing gum
+4,Item 4,rum
+5,Item 4,canned beer
+10,Item 4,whole milk
+9,Item 4,rolls/buns
+8,Item 4,citrus fruit
+7,Item 4,packaged fruit/vegetables
+4,Item 4,sauces
+6,Item 4,white wine
+11,Item 4,ketchup
+10,Item 4,butter milk
+9,Item 4,domestic eggs
+8,Item 4,brown bread
+9,Item 4,bottled water
+10,Item 4,rolls/buns
+10,Item 4,whipped/sour cream
+7,Item 4,uht-milk
+6,Item 4,whipped/sour cream
+4,Item 4,salty snack
+4,Item 4,beverages
+11,Item 4,rolls/buns
+9,Item 4,pip fruit
+7,Item 4,cat food
+11,Item 4,yogurt
+5,Item 4,specialty chocolate
+5,Item 4,cream cheese
+5,Item 4,sparkling wine
+4,Item 4,dental care
+7,Item 4,curd cheese
+7,Item 4,canned beer
+5,Item 4,cat food
+5,Item 4,butter
+5,Item 4,decalcifier
+7,Item 4,sliced cheese
+6,Item 4,liquor (appetizer)
+5,Item 4,yogurt
+6,Item 4,abrasive cleaner
+6,Item 4,semi-finished bread
+14,Item 4,citrus fruit
+7,Item 4,domestic eggs
+6,Item 4,condensed milk
+5,Item 4,instant food products
+8,Item 4,cream cheese
+17,Item 4,berries
+11,Item 4,berries
+13,Item 4,packaged fruit/vegetables
+4,Item 4,coffee
+8,Item 4,uht-milk
+8,Item 4,semi-finished bread
+5,Item 4,frozen meals
+6,Item 4,brown bread
+5,Item 4,newspapers
+5,Item 4,organic products
+12,Item 4,pip fruit
+9,Item 4,beverages
+6,Item 4,curd
+7,Item 4,jam
+12,Item 4,whole milk
+8,Item 4,frozen vegetables
+11,Item 4,frozen fish
+7,Item 4,beverages
+13,Item 4,root vegetables
+15,Item 4,pip fruit
+14,Item 4,herbs
+12,Item 4,root vegetables
+8,Item 4,berries
+12,Item 4,tropical fruit
+5,Item 4,sliced cheese
+7,Item 4,rolls/buns
+4,Item 4,other vegetables
+7,Item 4,artif. sweetener
+14,Item 4,yogurt
+8,Item 4,dessert
+8,Item 4,flour
+7,Item 4,bottled water
+15,Item 4,yogurt
+6,Item 4,misc. beverages
+6,Item 4,pickled vegetables
+5,Item 4,canned vegetables
+15,Item 4,butter
+8,Item 4,beverages
+4,Item 4,candles
+7,Item 4,hard cheese
+19,Item 4,other vegetables
+6,Item 4,flour
+5,Item 4,softener
+5,Item 4,sugar
+9,Item 4,dessert
+4,Item 4,white wine
+17,Item 4,other vegetables
+20,Item 4,tropical fruit
+7,Item 4,processed cheese
+4,Item 4,flower soil/fertilizer
+9,Item 4,oil
+6,Item 4,frozen vegetables
+16,Item 4,yogurt
+16,Item 4,curd
+11,Item 4,domestic eggs
+23,Item 4,root vegetables
+10,Item 4,butter
+4,Item 4,misc. beverages
+18,Item 4,root vegetables
+13,Item 4,other vegetables
+4,Item 4,dish cleaner
+8,Item 4,pasta
+13,Item 4,margarine
+6,Item 4,pasta
+15,Item 4,root vegetables
+10,Item 4,soft cheese
+14,Item 4,whole milk
+14,Item 4,grapes
+6,Item 4,butter
+5,Item 4,specialty bar
+7,Item 4,specialty cheese
+6,Item 4,long life bakery product
+15,Item 4,curd
+11,Item 4,pastry
+21,Item 4,other vegetables
+18,Item 4,condensed milk
+4,Item 4,specialty chocolate
+26,Item 4,pip fruit
+13,Item 4,uht-milk
+8,Item 4,coffee
+11,Item 4,onions
+11,Item 4,white bread
+6,Item 4,cream cheese
+10,Item 4,frozen meals
+7,Item 4,frozen meals
+17,Item 4,grapes
+9,Item 4,soda
+5,Item 4,napkins
+7,Item 4,other vegetables
+15,Item 4,herbs
+8,Item 4,ice cream
+9,Item 4,coffee
+5,Item 4,candy
+11,Item 4,oil
+14,Item 4,dessert
+6,Item 4,mayonnaise
+5,Item 4,light bulbs
+6,Item 4,ketchup
+7,Item 4,butter
+5,Item 4,roll products
+10,Item 4,cream cheese
+15,Item 4,whole milk
+9,Item 4,uht-milk
+12,Item 4,whipped/sour cream
+16,Item 4,other vegetables
+32,Item 4,ham
+12,Item 4,yogurt
+10,Item 4,specialty fat
+19,Item 4,berries
+4,Item 4,frozen potato products
+7,Item 4,fruit/vegetable juice
+4,Item 4,zwieback
+10,Item 4,pip fruit
+12,Item 4,curd cheese
+18,Item 4,whole milk
+17,Item 4,hamburger meat
+5,Item 4,flour
+5,Item 4,baking powder
+10,Item 4,onions
+7,Item 4,pastry
+14,Item 4,onions
+4,Item 4,pasta
+8,Item 4,root vegetables
+11,Item 4,frozen meals
+5,Item 4,chewing gum
+13,Item 4,berries
+8,Item 4,canned beer
+13,Item 4,whole milk
+11,Item 4,pip fruit
+6,Item 4,bottled beer
+4,Item 4,chocolate marshmallow
+9,Item 4,sugar
+14,Item 4,other vegetables
+5,Item 4,vinegar
+14,Item 4,root vegetables
+17,Item 4,dessert
+17,Item 4,chicken
+4,Item 4,potted plants
+19,Item 4,onions
+5,Item 4,red/blush wine
+12,Item 4,frozen dessert
+4,Item 4,cling film/bags
+7,Item 4,curd
+4,Item 4,dishes
+4,Item 4,sparkling wine
+11,Item 4,bottled water
+10,Item 4,spread cheese
+9,Item 4,brandy
+6,Item 4,chocolate
+6,Item 4,salt
+15,Item 4,grapes
+15,Item 4,ice cream
+9,Item 4,grapes
+6,Item 4,vinegar
+7,Item 4,sweet spreads
+5,Item 4,liquor (appetizer)
+5,Item 4,jam
+6,Item 4,oil
+6,Item 4,instant food products
+7,Item 4,canned fruit
+8,Item 4,vinegar
+7,Item 4,flour
+4,Item 4,salt
+7,Item 4,oil
+10,Item 4,beverages
+5,Item 4,soft cheese
+13,Item 4,butter
+6,Item 4,uht-milk
+5,Item 4,mustard
+10,Item 4,roll products
+5,Item 4,spread cheese
+6,Item 4,mustard
+15,Item 4,processed cheese
+5,Item 4,pet care
+9,Item 4,spread cheese
+4,Item 4,liquor
+9,Item 4,salad dressing
+4,Item 4,baking powder
+5,Item 4,candles
+6,Item 4,dog food
+4,Item 4,red/blush wine
+12,Item 4,onions
+10,Item 4,frozen vegetables
+4,Item 4,potato products
+5,Item 4,spices
+6,Item 4,canned fish
+17,Item 4,pip fruit
+5,Item 4,popcorn
+12,Item 4,butter milk
+17,Item 4,curd
+9,Item 4,frozen meals
+6,Item 4,soups
+7,Item 4,canned vegetables
+4,Item 4,brown bread
+5,Item 4,sweet spreads
+5,Item 4,packaged fruit/vegetables
+11,Item 4,sugar
+5,Item 4,canned fish
+12,Item 4,cream cheese
+7,Item 4,mayonnaise
+9,Item 4,condensed milk
+21,Item 4,citrus fruit
+16,Item 4,tropical fruit
+9,Item 4,herbs
+14,Item 4,rolls/buns
+4,Item 4,canned vegetables
+5,Item 4,white wine
+19,Item 4,pork
+8,Item 4,pastry
+8,Item 4,instant food products
+4,Item 4,seasonal products
+6,Item 4,artif. sweetener
+10,Item 4,citrus fruit
+10,Item 4,dessert
+6,Item 4,rice
+16,Item 4,pip fruit
+8,Item 4,fruit/vegetable juice
+4,Item 4,light bulbs
+5,Item 4,dish cleaner
+15,Item 4,domestic eggs
+4,Item 4,spices
+7,Item 4,berries
+5,Item 4,potato products
+4,Item 4,flower (seeds)
+9,Item 4,semi-finished bread
+7,Item 4,roll products
+8,Item 4,processed cheese
+13,Item 4,dessert
+6,Item 4,cocoa drinks
+7,Item 4,pickled vegetables
+10,Item 4,soda
+8,Item 4,artif. sweetener
+4,Item 4,frozen meals
+7,Item 4,vinegar
+8,Item 4,frozen meals
+9,Item 4,white bread
+11,Item 4,uht-milk
+12,Item 4,frozen fish
+22,Item 4,grapes
+6,Item 4,fruit/vegetable juice
+6,Item 4,frozen dessert
+5,Item 4,hard cheese
+9,Item 4,tropical fruit
+6,Item 4,pip fruit
+9,Item 4,jam
+9,Item 4,pastry
+4,Item 4,canned fish
+4,Item 4,oil
+11,Item 4,beverages
+6,Item 4,sugar
+6,Item 4,candy
+8,Item 4,sweet spreads
+5,Item 4,processed cheese
+5,Item 4,cake bar
+16,Item 4,root vegetables
+5,Item 4,sauces
+5,Item 4,frozen vegetables
+7,Item 4,sugar
+7,Item 4,tropical fruit
+4,Item 4,frozen fish
+4,Item 4,roll products
+5,Item 4,turkey
+9,Item 4,citrus fruit
+8,Item 4,sugar
+7,Item 4,condensed milk
+9,Item 4,whipped/sour cream
+22,Item 4,root vegetables
+11,Item 4,jam
+10,Item 4,cat food
+5,Item 4,house keeping products
+5,Item 4,hygiene articles
+4,Item 4,ketchup
+4,Item 4,flour
+4,Item 4,spread cheese
+9,Item 4,salt
+6,Item 4,onions
+9,Item 4,mayonnaise
+11,Item 4,frozen vegetables
+10,Item 4,hard cheese
+13,Item 4,herbs
+6,Item 4,specialty chocolate
+11,Item 4,hamburger meat
+8,Item 4,butter milk
+17,Item 4,onions
+16,Item 4,whole milk
+6,Item 4,tea
+19,Item 4,beef
+8,Item 4,mustard
+8,Item 4,meat spreads
+10,Item 4,grapes
+4,Item 4,snack products
+9,Item 4,margarine
+7,Item 4,waffles
+16,Item 4,grapes
+5,Item 4,liquor
+15,Item 4,other vegetables
+16,Item 4,butter
+29,Item 4,root vegetables
+23,Item 4,hamburger meat
+7,Item 4,cereals
+6,Item 4,butter milk
+12,Item 4,butter
+9,Item 4,roll products
+8,Item 4,oil
+20,Item 4,whole milk
+5,Item 4,condensed milk
+5,Item 4,frozen fruits
+13,Item 4,frozen vegetables
+7,Item 4,abrasive cleaner
+14,Item 4,tropical fruit
+8,Item 4,rice
+17,Item 4,whole milk
+5,Item 4,misc. beverages
+9,Item 4,cream cheese
+8,Item 4,baking powder
+7,Item 4,frozen dessert
+15,Item 4,packaged fruit/vegetables
+11,Item 4,cat food
+7,Item 4,bottled beer
+9,Item 4,curd cheese
+9,Item 4,sweet spreads
+4,Item 4,curd
+7,Item 4,specialty chocolate
+14,Item 4,pip fruit
+4,Item 4,condensed milk
+6,Item 4,pet care
+8,Item 4,soft cheese
+8,Item 4,cocoa drinks
+7,Item 4,rice
+18,Item 4,pip fruit
+6,Item 4,salty snack
+10,Item 4,pastry
+5,Item 4,salt
+8,Item 4,tropical fruit
+9,Item 4,sliced cheese
+8,Item 4,frozen fish
+13,Item 4,whipped/sour cream
+13,Item 4,citrus fruit
+4,Item 4,liquor (appetizer)
+4,Item 4,white bread
+13,Item 4,onions
+16,Item 4,domestic eggs
+9,Item 4,butter milk
+7,Item 4,frozen potato products
+7,Item 4,detergent
+5,Item 4,kitchen towels
+9,Item 4,soft cheese
+7,Item 4,salty snack
+17,Item 4,yogurt
+7,Item 4,pip fruit
+15,Item 4,cream cheese
+4,Item 4,ice cream
+6,Item 4,jam
+6,Item 4,chocolate marshmallow
+14,Item 4,beef
+11,Item 4,herbs
+12,Item 4,processed cheese
+6,Item 4,specialty fat
+4,Item 4,specialty cheese
+7,Item 4,white wine
+4,Item 4,skin care
+18,Item 4,tropical fruit
+13,Item 4,pip fruit
+11,Item 4,whipped/sour cream
+6,Item 4,beverages
+6,Item 4,red/blush wine
+5,Item 4,frozen dessert
+5,Item 4,soups
+8,Item 4,specialty cheese
+6,Item 4,seasonal products
+8,Item 4,beef
+10,Item 4,mayonnaise
+6,Item 4,frozen potato products
+19,Item 4,domestic eggs
+14,Item 4,frozen dessert
+7,Item 4,mustard
+6,Item 4,bathroom cleaner
+12,Item 4,frozen meals
+7,Item 4,instant food products
+6,Item 4,hard cheese
+7,Item 4,dog food
+12,Item 4,citrus fruit
+21,Item 4,hamburger meat
+6,Item 4,baking powder
+5,Item 4,cocoa drinks
+8,Item 4,long life bakery product
+4,Item 4,toilet cleaner
+8,Item 4,cat food
+9,Item 4,onions
+16,Item 4,citrus fruit
+12,Item 4,frozen fruits
+10,Item 4,uht-milk
+12,Item 4,beef
+7,Item 4,ketchup
+22,Item 4,beef
+5,Item 4,seasonal products
+11,Item 4,cream cheese
+7,Item 4,baking powder
+14,Item 4,sliced cheese
+5,Item 4,syrup
+14,Item 4,chicken
+12,Item 4,hard cheese
+8,Item 4,jam
+12,Item 4,dessert
+5,Item 4,cleaner
+8,Item 4,curd cheese
+11,Item 4,beef
+5,Item 4,root vegetables
+8,Item 4,tidbits
+19,Item 4,root vegetables
+20,Item 4,pip fruit
+5,Item 4,pudding powder
+4,Item 4,nut snack
+27,Item 4,beef
+5,Item 4,berries
+19,Item 4,dessert
+4,Item 4,mustard
+10,Item 4,ice cream
+6,Item 4,syrup
+6,Item 4,sweet spreads
+5,Item 4,cereals
+9,Item 4,ice cream
+10,Item 4,condensed milk
+5,Item 4,prosecco
+5,Item 4,semi-finished bread
+8,Item 4,salt
+10,Item 4,processed cheese
+14,Item 4,butter
+10,Item 4,instant food products
+5,Item 4,uht-milk
+5,Item 4,pip fruit
+4,Item 4,pet care
+6,Item 4,waffles
+9,Item 4,specialty fat
+4,Item 4,kitchen towels
+4,Item 4,bathroom cleaner
+4,Item 4,cat food
+7,Item 4,liquor
+4,Item 4,softener
+6,Item 4,napkins
+5,Item 4,skin care
+8,Item 4,misc. beverages
+9,Item 4,cream
+5,Item 4,male cosmetics
+6,Item 4,cat food
+8,Item 4,white bread
+6,Item 4,prosecco
+9,Item 4,canned beer
+15,Item 4,onions
+11,Item 4,butter milk
+6,Item 4,detergent
+6,Item 4,liquor
+10,Item 4,white bread
+7,Item 4,semi-finished bread
+5,Item 4,dessert
+17,Item 4,root vegetables
+4,Item 4,syrup
+13,Item 4,condensed milk
+5,Item 4,specialty vegetables
+5,Item 4,dog food
+11,Item 4,dessert
+5,Item 4,specialty fat
+7,Item 4,cake bar
+13,Item 4,cream cheese
+11,Item 4,mayonnaise
+9,Item 4,meat spreads
+17,Item 4,pasta
+8,Item 4,rum
+7,Item 4,frozen fish
+6,Item 4,skin care
+6,Item 4,sauces
+10,Item 4,bottled water
+13,Item 4,mayonnaise
+21,Item 4,tropical fruit
+4,Item 4,pickled vegetables
+10,Item 4,sauces
+21,Item 4,whole milk
+28,Item 4,onions
+12,Item 4,uht-milk
+10,Item 4,beef
+4,Item 4,sliced cheese
+16,Item 4,berries
+5,Item 4,female sanitary products
+9,Item 4,bottled beer
+23,Item 4,citrus fruit
+6,Item 4,light bulbs
+10,Item 4,frozen fish
+4,Item 4,cleaner
+11,Item 4,ice cream
+7,Item 4,sparkling wine
+10,Item 4,specialty cheese
+12,Item 4,rice
+6,Item 4,packaged fruit/vegetables
+7,Item 4,herbs
+13,Item 4,beverages
+15,Item 4,flour
+10,Item 4,sugar
+13,Item 4,frozen meals
+8,Item 4,dog food
+8,Item 4,packaged fruit/vegetables
+10,Item 4,spices
+4,Item 4,abrasive cleaner
+7,Item 4,tidbits
+5,Item 4,instant coffee
+4,Item 4,specialty fat
+12,Item 4,grapes
+6,Item 4,sliced cheese
+7,Item 4,grapes
+20,Item 4,other vegetables
+5,Item 4,tidbits
+13,Item 4,frozen fish
+16,Item 4,oil
+20,Item 4,grapes
+11,Item 4,sliced cheese
+5,Item 4,abrasive cleaner
+15,Item 4,citrus fruit
+13,Item 4,butter milk
+11,Item 4,margarine
+19,Item 4,whipped/sour cream
+13,Item 4,hamburger meat
+12,Item 4,herbs
+23,Item 4,tropical fruit
+8,Item 4,frozen dessert
+11,Item 4,long life bakery product
+11,Item 4,processed cheese
+6,Item 4,soft cheese
+6,Item 4,organic sausage
+19,Item 4,citrus fruit
+4,Item 4,pip fruit
+14,Item 4,processed cheese
+10,Item 4,canned fish
+16,Item 4,beverages
+9,Item 4,baking powder
+11,Item 4,tropical fruit
+5,Item 4,oil
+15,Item 4,beef
+18,Item 4,berries
+7,Item 4,long life bakery product
+6,Item 4,spices
+5,Item 4,curd
+8,Item 4,bottled beer
+7,Item 4,specialty vegetables
+5,Item 4,soap
+4,Item 4,cooking chocolate
+7,Item 4,instant coffee
+4,Item 4,soap
+20,Item 4,citrus fruit
+4,Item 4,cereals
+6,Item 4,liqueur
+5,Item 4,frozen fish
+12,Item 4,flour
+10,Item 4,frozen potato products
+21,Item 4,pip fruit
+6,Item 4,specialty bar
+7,Item 4,sauces
+4,Item 4,popcorn
+5,Item 4,frozen potato products
+8,Item 4,condensed milk
+11,Item 4,citrus fruit
+4,Item 4,hair spray
+6,Item 4,dental care
+9,Item 4,pasta
+9,Item 4,cereals
+13,Item 4,grapes
+6,Item 4,frozen fish
+5,Item 4,curd cheese
+9,Item 4,turkey
+8,Item 4,herbs
+10,Item 4,specialty vegetables
+13,Item 4,sliced cheese
+24,Item 4,root vegetables
+11,Item 4,butter
+10,Item 4,berries
+4,Item 4,root vegetables
+12,Item 4,margarine
+12,Item 4,frozen vegetables
+16,Item 4,frozen fish
+21,Item 4,root vegetables
+13,Item 4,fish
+12,Item 4,pork
+19,Item 4,pip fruit
+9,Item 4,flour
+8,Item 4,nuts/prunes
+18,Item 4,dessert
+9,Item 4,packaged fruit/vegetables
+5,Item 4,rum
+14,Item 4,berries
+29,Item 4,tropical fruit
+13,Item 4,tropical fruit
+10,Item 4,hamburger meat
+7,Item 4,soups
+16,Item 4,pork
+6,Item 4,specialty vegetables
+9,Item 4,tidbits
+15,Item 4,sliced cheese
+9,Item 4,pork
+14,Item 4,condensed milk
+4,Item 4,hard cheese
+5,Item 4,mayonnaise
+14,Item 4,hamburger meat
+14,Item 4,soda
+7,Item 4,popcorn
+23,Item 4,other vegetables
+12,Item 4,berries
+14,Item 4,cream cheese
+6,Item 4,canned vegetables
+10,Item 4,oil
+11,Item 4,soft cheese
+8,Item 4,canned vegetables
+5,Item 5,abrasive cleaner
+5,Item 5,liquor (appetizer)
+5,Item 5,chocolate
+9,Item 5,curd
+5,Item 5,newspapers
+11,Item 5,rolls/buns
+6,Item 5,newspapers
+7,Item 5,bottled water
+5,Item 5,sugar
+8,Item 5,whipped/sour cream
+6,Item 5,specialty bar
+13,Item 5,domestic eggs
+8,Item 5,rolls/buns
+10,Item 5,whipped/sour cream
+10,Item 5,domestic eggs
+5,Item 5,soda
+7,Item 5,chocolate marshmallow
+6,Item 5,rolls/buns
+7,Item 5,salty snack
+8,Item 5,frozen potato products
+7,Item 5,specialty chocolate
+8,Item 5,oil
+5,Item 5,pastry
+5,Item 5,bottled beer
+10,Item 5,rolls/buns
+7,Item 5,oil
+7,Item 5,rolls/buns
+9,Item 5,onions
+9,Item 5,fruit/vegetable juice
+10,Item 5,root vegetables
+9,Item 5,rolls/buns
+10,Item 5,fruit/vegetable juice
+6,Item 5,brown bread
+7,Item 5,waffles
+8,Item 5,margarine
+6,Item 5,bottled beer
+7,Item 5,domestic eggs
+8,Item 5,coffee
+15,Item 5,pip fruit
+5,Item 5,shopping bags
+5,Item 5,margarine
+10,Item 5,whole milk
+5,Item 5,detergent
+6,Item 5,bottled water
+6,Item 5,chocolate
+7,Item 5,white bread
+6,Item 5,yogurt
+9,Item 5,beverages
+5,Item 5,snack products
+5,Item 5,flower soil/fertilizer
+8,Item 5,white bread
+5,Item 5,popcorn
+8,Item 5,waffles
+23,Item 5,root vegetables
+7,Item 5,cake bar
+6,Item 5,margarine
+7,Item 5,dessert
+5,Item 5,spices
+5,Item 5,dishes
+6,Item 5,make up remover
+12,Item 5,whole milk
+6,Item 5,canned beer
+12,Item 5,dessert
+6,Item 5,sliced cheese
+16,Item 5,yogurt
+7,Item 5,sugar
+8,Item 5,misc. beverages
+11,Item 5,root vegetables
+5,Item 5,photo/film
+6,Item 5,soda
+9,Item 5,yogurt
+11,Item 5,whole milk
+6,Item 5,pastry
+6,Item 5,whole milk
+5,Item 5,hygiene articles
+8,Item 5,butter milk
+11,Item 5,yogurt
+11,Item 5,dessert
+7,Item 5,whole milk
+8,Item 5,whole milk
+5,Item 5,waffles
+9,Item 5,oil
+7,Item 5,yogurt
+6,Item 5,whipped/sour cream
+13,Item 5,dessert
+5,Item 5,candy
+5,Item 5,soap
+9,Item 5,whole milk
+6,Item 5,sugar
+7,Item 5,soda
+5,Item 5,bottled water
+11,Item 5,butter milk
+5,Item 5,napkins
+8,Item 5,pet care
+8,Item 5,pastry
+6,Item 5,mayonnaise
+8,Item 5,butter
+5,Item 5,domestic eggs
+7,Item 5,whipped/sour cream
+7,Item 5,frozen vegetables
+11,Item 5,frozen vegetables
+7,Item 5,dog food
+7,Item 5,pastry
+7,Item 5,other vegetables
+6,Item 5,fruit/vegetable juice
+5,Item 5,rolls/buns
+6,Item 5,chewing gum
+8,Item 5,canned vegetables
+7,Item 5,bottled beer
+6,Item 5,napkins
+5,Item 5,white bread
+7,Item 5,fruit/vegetable juice
+8,Item 5,hard cheese
+5,Item 5,specialty bar
+10,Item 5,curd
+5,Item 5,seasonal products
+5,Item 5,canned beer
+14,Item 5,dessert
+11,Item 5,domestic eggs
+10,Item 5,white bread
+5,Item 5,male cosmetics
+8,Item 5,red/blush wine
+17,Item 5,whole milk
+6,Item 5,pasta
+9,Item 5,honey
+11,Item 5,uht-milk
+7,Item 5,cereals
+8,Item 5,soda
+8,Item 5,curd
+8,Item 5,roll products
+5,Item 5,white wine
+5,Item 5,salty snack
+6,Item 5,baking powder
+13,Item 5,yogurt
+11,Item 5,other vegetables
+6,Item 5,mustard
+10,Item 5,yogurt
+8,Item 5,brown bread
+8,Item 5,root vegetables
+6,Item 5,light bulbs
+9,Item 5,uht-milk
+10,Item 5,butter
+11,Item 5,frozen dessert
+5,Item 5,hair spray
+11,Item 5,soups
+10,Item 5,sliced cheese
+12,Item 5,frozen vegetables
+7,Item 5,brown bread
+9,Item 5,soda
+10,Item 5,instant food products
+6,Item 5,white bread
+10,Item 5,soups
+8,Item 5,yogurt
+6,Item 5,domestic eggs
+11,Item 5,potato products
+9,Item 5,pastry
+7,Item 5,detergent
+8,Item 5,frozen vegetables
+5,Item 5,cleaner
+7,Item 5,margarine
+7,Item 5,white wine
+5,Item 5,roll products
+5,Item 5,coffee
+7,Item 5,ready soups
+5,Item 5,candles
+6,Item 5,salty snack
+7,Item 5,butter
+6,Item 5,detergent
+10,Item 5,uht-milk
+5,Item 5,whipped/sour cream
+14,Item 5,other vegetables
+6,Item 5,frozen vegetables
+9,Item 5,specialty cheese
+5,Item 5,chocolate marshmallow
+17,Item 5,onions
+8,Item 5,uht-milk
+6,Item 5,long life bakery product
+5,Item 5,mayonnaise
+13,Item 5,rolls/buns
+13,Item 5,whole milk
+8,Item 5,bottled water
+9,Item 5,whipped/sour cream
+5,Item 5,rice
+11,Item 5,butter
+12,Item 5,other vegetables
+7,Item 5,packaged fruit/vegetables
+12,Item 5,butter
+10,Item 5,dessert
+8,Item 5,domestic eggs
+7,Item 5,cream cheese
+13,Item 5,other vegetables
+7,Item 5,organic products
+12,Item 5,whipped/sour cream
+15,Item 5,nuts/prunes
+12,Item 5,packaged fruit/vegetables
+8,Item 5,sweet spreads
+12,Item 5,berries
+9,Item 5,flour
+7,Item 5,coffee
+7,Item 5,canned beer
+9,Item 5,brown bread
+14,Item 5,soft cheese
+8,Item 5,frozen meals
+15,Item 5,whipped/sour cream
+6,Item 5,liqueur
+15,Item 5,curd
+8,Item 5,sugar
+5,Item 5,specialty chocolate
+19,Item 5,whole milk
+6,Item 5,misc. beverages
+5,Item 5,fruit/vegetable juice
+8,Item 5,sliced cheese
+5,Item 5,flower (seeds)
+9,Item 5,sliced cheese
+5,Item 5,canned vegetables
+20,Item 5,root vegetables
+16,Item 5,whipped/sour cream
+11,Item 5,cake bar
+23,Item 5,other vegetables
+10,Item 5,semi-finished bread
+10,Item 5,herbs
+10,Item 5,hard cheese
+6,Item 5,coffee
+18,Item 5,onions
+5,Item 5,long life bakery product
+13,Item 5,sugar
+8,Item 5,specialty chocolate
+5,Item 5,oil
+6,Item 5,pet care
+10,Item 5,processed cheese
+15,Item 5,other vegetables
+14,Item 5,butter
+14,Item 5,root vegetables
+6,Item 5,toilet cleaner
+8,Item 5,ice cream
+15,Item 5,brown bread
+11,Item 5,flour
+21,Item 5,whole milk
+18,Item 5,soft cheese
+6,Item 5,uht-milk
+26,Item 5,other vegetables
+7,Item 5,uht-milk
+13,Item 5,mayonnaise
+7,Item 5,dish cleaner
+11,Item 5,semi-finished bread
+8,Item 5,herbs
+10,Item 5,frozen dessert
+7,Item 5,vinegar
+6,Item 5,white wine
+7,Item 5,pickled vegetables
+16,Item 5,soft cheese
+17,Item 5,root vegetables
+9,Item 5,bottled beer
+10,Item 5,beverages
+11,Item 5,processed cheese
+9,Item 5,bottled water
+11,Item 5,margarine
+9,Item 5,canned fish
+14,Item 5,yogurt
+6,Item 5,curd
+9,Item 5,frozen vegetables
+5,Item 5,cookware
+16,Item 5,whole milk
+5,Item 5,potted plants
+5,Item 5,cat food
+32,Item 5,chicken
+12,Item 5,spread cheese
+10,Item 5,sugar
+5,Item 5,bathroom cleaner
+9,Item 5,domestic eggs
+19,Item 5,root vegetables
+13,Item 5,herbs
+7,Item 5,napkins
+12,Item 5,domestic eggs
+18,Item 5,butter
+17,Item 5,tropical fruit
+8,Item 5,canned beer
+7,Item 5,mustard
+9,Item 5,pasta
+9,Item 5,hard cheese
+8,Item 5,other vegetables
+10,Item 5,packaged fruit/vegetables
+9,Item 5,white bread
+7,Item 5,chocolate
+8,Item 5,detergent
+13,Item 5,whipped/sour cream
+10,Item 5,soft cheese
+11,Item 5,berries
+6,Item 5,hygiene articles
+9,Item 5,coffee
+7,Item 5,cat food
+14,Item 5,whipped/sour cream
+6,Item 5,abrasive cleaner
+5,Item 5,dog food
+14,Item 5,onions
+17,Item 5,butter milk
+19,Item 5,other vegetables
+12,Item 5,white bread
+12,Item 5,frozen meals
+8,Item 5,soft cheese
+12,Item 5,cream cheese
+11,Item 5,soda
+9,Item 5,detergent
+6,Item 5,candy
+15,Item 5,berries
+15,Item 5,frozen potato products
+5,Item 5,cling film/bags
+6,Item 5,rice
+15,Item 5,root vegetables
+6,Item 5,canned fish
+6,Item 5,skin care
+7,Item 5,salt
+5,Item 5,dental care
+10,Item 5,roll products
+6,Item 5,specialty chocolate
+12,Item 5,yogurt
+6,Item 5,pickled vegetables
+10,Item 5,ice cream
+5,Item 5,red/blush wine
+10,Item 5,pasta
+6,Item 5,butter
+6,Item 5,honey
+9,Item 5,margarine
+6,Item 5,instant coffee
+10,Item 5,mayonnaise
+15,Item 5,frozen vegetables
+8,Item 5,cream cheese
+15,Item 5,cream cheese
+9,Item 5,curd cheese
+7,Item 5,flour
+5,Item 5,misc. beverages
+11,Item 5,pudding powder
+8,Item 5,dessert
+7,Item 5,sliced cheese
+6,Item 5,cooking chocolate
+5,Item 5,brown bread
+6,Item 5,softener
+8,Item 5,condensed milk
+10,Item 5,brown bread
+17,Item 5,berries
+17,Item 5,yogurt
+7,Item 5,pasta
+7,Item 5,tea
+10,Item 5,other vegetables
+9,Item 5,butter milk
+6,Item 5,liquor
+9,Item 5,dessert
+11,Item 5,instant coffee
+11,Item 5,pasta
+9,Item 5,soft cheese
+21,Item 5,tropical fruit
+16,Item 5,root vegetables
+9,Item 5,other vegetables
+7,Item 5,spread cheese
+14,Item 5,pastry
+10,Item 5,margarine
+10,Item 5,flour
+8,Item 5,chewing gum
+19,Item 5,tropical fruit
+6,Item 5,waffles
+8,Item 5,salty snack
+6,Item 5,cat food
+7,Item 5,canned vegetables
+6,Item 5,dog food
+10,Item 5,berries
+9,Item 5,cream cheese
+16,Item 5,condensed milk
+17,Item 5,other vegetables
+11,Item 5,pickled vegetables
+8,Item 5,bottled beer
+10,Item 5,pastry
+10,Item 5,frozen meals
+10,Item 5,cream cheese
+7,Item 5,frozen dessert
+15,Item 5,rolls/buns
+9,Item 5,baking powder
+7,Item 5,semi-finished bread
+10,Item 5,red/blush wine
+8,Item 5,beverages
+8,Item 5,baking powder
+9,Item 5,ketchup
+11,Item 5,soft cheese
+8,Item 5,frozen dessert
+22,Item 5,onions
+8,Item 5,pasta
+6,Item 5,sparkling wine
+6,Item 5,sweet spreads
+13,Item 5,sliced cheese
+11,Item 5,herbs
+15,Item 5,white bread
+9,Item 5,pip fruit
+7,Item 5,instant food products
+6,Item 5,flour
+9,Item 5,semi-finished bread
+10,Item 5,frozen potato products
+8,Item 5,frozen fish
+5,Item 5,rum
+6,Item 5,nut snack
+8,Item 5,tidbits
+13,Item 5,butter
+11,Item 5,hard cheese
+9,Item 5,brandy
+7,Item 5,beverages
+6,Item 5,flower (seeds)
+5,Item 5,baking powder
+8,Item 5,candy
+5,Item 5,cake bar
+15,Item 5,ice cream
+7,Item 5,sauces
+16,Item 5,butter
+5,Item 5,yogurt
+7,Item 5,curd
+5,Item 5,salt
+7,Item 5,mayonnaise
+9,Item 5,processed cheese
+22,Item 5,other vegetables
+11,Item 5,coffee
+10,Item 5,coffee
+6,Item 5,red/blush wine
+7,Item 5,zwieback
+5,Item 5,nut snack
+6,Item 5,other vegetables
+8,Item 5,chocolate marshmallow
+14,Item 5,frozen meals
+6,Item 5,cake bar
+9,Item 5,mayonnaise
+13,Item 5,curd
+7,Item 5,candy
+12,Item 5,onions
+8,Item 5,liquor (appetizer)
+5,Item 5,softener
+13,Item 5,butter milk
+7,Item 5,frozen fish
+7,Item 5,baking powder
+6,Item 5,potted plants
+11,Item 5,frozen meals
+6,Item 5,kitchen towels
+11,Item 5,grapes
+7,Item 5,jam
+7,Item 5,hard cheese
+17,Item 5,herbs
+16,Item 5,other vegetables
+16,Item 5,dessert
+9,Item 5,herbs
+19,Item 5,hamburger meat
+8,Item 5,chocolate
+8,Item 5,fruit/vegetable juice
+7,Item 5,processed cheese
+11,Item 5,brown bread
+6,Item 5,sauces
+6,Item 5,oil
+8,Item 5,pickled vegetables
+14,Item 5,whole milk
+9,Item 5,berries
+10,Item 5,canned beer
+9,Item 5,salty snack
+16,Item 5,berries
+15,Item 5,beverages
+29,Item 5,onions
+11,Item 5,curd
+9,Item 5,cat food
+8,Item 5,potato products
+20,Item 5,yogurt
+10,Item 5,butter milk
+5,Item 5,flour
+13,Item 5,ice cream
+7,Item 5,dishes
+14,Item 5,nuts/prunes
+12,Item 5,specialty cheese
+17,Item 5,butter
+11,Item 5,oil
+8,Item 5,spices
+11,Item 5,fruit/vegetable juice
+8,Item 5,mustard
+9,Item 5,sugar
+9,Item 5,spread cheese
+15,Item 5,butter
+8,Item 5,sparkling wine
+5,Item 5,dish cleaner
+6,Item 5,semi-finished bread
+12,Item 5,herbs
+15,Item 5,whole milk
+7,Item 5,specialty bar
+8,Item 5,flour
+7,Item 5,instant coffee
+8,Item 5,popcorn
+8,Item 5,cat food
+18,Item 5,whole milk
+10,Item 5,cat food
+5,Item 5,vinegar
+9,Item 5,rice
+13,Item 5,hard cheese
+7,Item 5,ice cream
+13,Item 5,pastry
+13,Item 5,onions
+5,Item 5,processed cheese
+9,Item 5,ice cream
+13,Item 5,frozen vegetables
+16,Item 5,brown bread
+6,Item 5,specialty cheese
+8,Item 5,cling film/bags
+7,Item 5,softener
+9,Item 5,frozen potato products
+5,Item 5,instant food products
+7,Item 5,long life bakery product
+5,Item 5,curd
+17,Item 5,soft cheese
+15,Item 5,domestic eggs
+5,Item 5,toilet cleaner
+5,Item 5,kitchen towels
+10,Item 5,dog food
+14,Item 5,citrus fruit
+5,Item 5,liquor
+5,Item 5,house keeping products
+9,Item 5,canned vegetables
+5,Item 5,pickled vegetables
+14,Item 5,brown bread
+18,Item 5,berries
+13,Item 5,grapes
+11,Item 5,cat food
+7,Item 5,misc. beverages
+8,Item 5,instant food products
+11,Item 5,sliced cheese
+9,Item 5,instant food products
+9,Item 5,butter
+11,Item 5,ice cream
+5,Item 5,sparkling wine
+6,Item 5,popcorn
+6,Item 5,liquor (appetizer)
+15,Item 5,dessert
+10,Item 5,frozen vegetables
+5,Item 5,butter milk
+12,Item 5,uht-milk
+7,Item 5,roll products
+7,Item 5,specialty fat
+9,Item 5,frozen dessert
+19,Item 5,rolls/buns
+13,Item 5,curd cheese
+9,Item 5,condensed milk
+12,Item 5,flour
+10,Item 5,oil
+7,Item 5,salad dressing
+11,Item 5,sugar
+7,Item 5,sweet spreads
+12,Item 5,curd
+10,Item 5,salty snack
+5,Item 5,frozen vegetables
+7,Item 5,canned fish
+14,Item 5,ice cream
+10,Item 5,soda
+11,Item 5,mayonnaise
+9,Item 5,mustard
+16,Item 5,tropical fruit
+10,Item 5,spread cheese
+12,Item 5,hamburger meat
+22,Item 5,hamburger meat
+7,Item 5,liquor
+14,Item 5,frozen dessert
+14,Item 5,pork
+6,Item 5,hard cheese
+7,Item 5,specialty cheese
+5,Item 5,specialty vegetables
+13,Item 5,packaged fruit/vegetables
+6,Item 5,processed cheese
+12,Item 5,butter milk
+6,Item 5,frozen fish
+9,Item 5,roll products
+15,Item 5,grapes
+8,Item 5,vinegar
+6,Item 5,beverages
+14,Item 5,berries
+5,Item 5,other vegetables
+9,Item 5,vinegar
+19,Item 5,herbs
+20,Item 5,berries
+9,Item 5,frozen meals
+27,Item 5,tropical fruit
+20,Item 5,curd
+6,Item 5,syrup
+19,Item 5,butter milk
+7,Item 5,soft cheese
+6,Item 5,candles
+14,Item 5,domestic eggs
+11,Item 5,white bread
+5,Item 5,whole milk
+9,Item 5,sweet spreads
+5,Item 5,artif. sweetener
+14,Item 5,butter milk
+10,Item 5,canned fish
+12,Item 5,hard cheese
+6,Item 5,frozen meals
+6,Item 5,cling film/bags
+6,Item 5,brandy
+8,Item 5,honey
+6,Item 5,roll products
+12,Item 5,rolls/buns
+5,Item 5,rubbing alcohol
+14,Item 5,white bread
+10,Item 5,condensed milk
+8,Item 5,meat spreads
+7,Item 5,pet care
+7,Item 5,liquor (appetizer)
+6,Item 5,house keeping products
+13,Item 5,frozen meals
+6,Item 5,meat spreads
+11,Item 5,beverages
+12,Item 5,grapes
+14,Item 5,curd
+13,Item 5,pasta
+6,Item 5,cocoa drinks
+6,Item 5,ketchup
+8,Item 5,spread cheese
+17,Item 5,margarine
+6,Item 5,dishes
+15,Item 5,packaged fruit/vegetables
+6,Item 5,butter milk
+8,Item 5,semi-finished bread
+10,Item 5,liquor
+21,Item 5,pip fruit
+11,Item 5,salt
+6,Item 5,seasonal products
+6,Item 5,female sanitary products
+21,Item 5,soft cheese
+28,Item 5,whole milk
+12,Item 5,specialty fat
+5,Item 5,sliced cheese
+8,Item 5,processed cheese
+9,Item 5,liquor
+23,Item 5,tropical fruit
+9,Item 5,root vegetables
+7,Item 5,frozen meals
+7,Item 5,butter milk
+15,Item 5,cream
+5,Item 5,canned fish
+15,Item 5,yogurt
+10,Item 5,onions
+6,Item 5,cleaner
+5,Item 5,tea
+12,Item 5,processed cheese
+14,Item 5,beverages
+12,Item 5,frozen fish
+7,Item 5,hygiene articles
+12,Item 5,bottled water
+9,Item 5,grapes
+9,Item 5,frozen fish
+18,Item 5,other vegetables
+16,Item 5,hard cheese
+11,Item 5,condensed milk
+15,Item 5,margarine
+7,Item 5,red/blush wine
+5,Item 5,chewing gum
+10,Item 5,canned vegetables
+11,Item 5,whipped/sour cream
+10,Item 5,frozen fish
+8,Item 5,salt
+17,Item 5,grapes
+9,Item 5,packaged fruit/vegetables
+7,Item 5,berries
+17,Item 5,citrus fruit
+9,Item 5,cereals
+20,Item 5,whole milk
+5,Item 5,pasta
+6,Item 5,salt
+8,Item 5,ketchup
+16,Item 5,mustard
+16,Item 5,beverages
+11,Item 5,pet care
+19,Item 5,ice cream
+13,Item 5,tropical fruit
+15,Item 5,zwieback
+12,Item 5,root vegetables
+11,Item 5,cream cheese
+8,Item 5,instant coffee
+10,Item 5,tea
+16,Item 5,pip fruit
+8,Item 5,soups
+11,Item 5,waffles
+12,Item 5,rice
+8,Item 5,seasonal products
+6,Item 5,ice cream
+9,Item 5,canned beer
+5,Item 5,honey
+10,Item 5,bottled water
+6,Item 5,spices
+16,Item 5,rolls/buns
+8,Item 5,long life bakery product
+6,Item 5,zwieback
+9,Item 5,instant coffee
+8,Item 5,curd cheese
+7,Item 5,meat spreads
+6,Item 5,pudding powder
+5,Item 5,specialty cheese
+6,Item 5,curd cheese
+5,Item 5,sauces
+8,Item 5,frozen chicken
+5,Item 5,semi-finished bread
+15,Item 5,hamburger meat
+18,Item 5,root vegetables
+14,Item 5,herbs
+8,Item 5,rum
+15,Item 5,butter milk
+7,Item 5,curd cheese
+16,Item 5,curd
+8,Item 5,dish cleaner
+6,Item 5,salad dressing
+8,Item 5,canned fish
+6,Item 5,photo/film
+6,Item 5,condensed milk
+14,Item 5,grapes
+20,Item 5,pip fruit
+5,Item 5,frozen meals
+6,Item 5,soups
+6,Item 5,cream cheese
+7,Item 5,brandy
+8,Item 5,canned fruit
+12,Item 5,pasta
+21,Item 5,berries
+6,Item 5,dish cleaner
+7,Item 5,syrup
+21,Item 5,whipped/sour cream
+7,Item 5,seasonal products
+13,Item 5,cereals
+7,Item 5,soups
+6,Item 5,specialty fat
+21,Item 5,other vegetables
+17,Item 5,curd
+5,Item 5,female sanitary products
+6,Item 5,tea
+13,Item 5,root vegetables
+9,Item 5,sauces
+10,Item 5,bottled beer
+5,Item 5,skin care
+7,Item 5,chewing gum
+5,Item 5,frozen fruits
+11,Item 5,packaged fruit/vegetables
+15,Item 5,tropical fruit
+7,Item 5,root vegetables
+24,Item 5,other vegetables
+10,Item 5,chewing gum
+11,Item 5,onions
+11,Item 5,pip fruit
+8,Item 5,cake bar
+5,Item 5,syrup
+16,Item 5,butter milk
+12,Item 5,sugar
+12,Item 5,brown bread
+16,Item 5,domestic eggs
+18,Item 5,butter milk
+21,Item 5,butter
+29,Item 5,pip fruit
+13,Item 5,pip fruit
+10,Item 5,citrus fruit
+9,Item 5,dog food
+15,Item 5,hard cheese
+6,Item 5,cereals
+9,Item 5,cream
+5,Item 5,sweet spreads
+11,Item 5,pastry
+6,Item 5,canned vegetables
+7,Item 5,potato products
+14,Item 5,misc. beverages
+11,Item 5,canned fruit
+6,Item 5,tidbits
+7,Item 5,sparkling wine
+7,Item 5,snack products
+23,Item 5,packaged fruit/vegetables
+14,Item 5,specialty cheese
+5,Item 5,beverages
+10,Item 5,potato products
+6,Item 5,frozen dessert
+7,Item 5,ketchup
+9,Item 6,yogurt
+11,Item 6,flour
+6,Item 6,shopping bags
+7,Item 6,hygiene articles
+8,Item 6,artif. sweetener
+13,Item 6,brown bread
+8,Item 6,bottled water
+10,Item 6,uht-milk
+10,Item 6,brown bread
+6,Item 6,cat food
+7,Item 6,seasonal products
+8,Item 6,rolls/buns
+7,Item 6,candles
+8,Item 6,sparkling wine
+10,Item 6,oil
+7,Item 6,white wine
+7,Item 6,brandy
+9,Item 6,whipped/sour cream
+9,Item 6,canned beer
+10,Item 6,other vegetables
+9,Item 6,pastry
+10,Item 6,bottled beer
+6,Item 6,detergent
+7,Item 6,candy
+6,Item 6,sparkling wine
+7,Item 6,soda
+8,Item 6,long life bakery product
+15,Item 6,whole milk
+7,Item 6,margarine
+10,Item 6,soft cheese
+6,Item 6,dental care
+7,Item 6,dishes
+6,Item 6,napkins
+9,Item 6,soft cheese
+8,Item 6,brown bread
+8,Item 6,cake bar
+23,Item 6,other vegetables
+7,Item 6,specialty bar
+7,Item 6,spread cheese
+6,Item 6,hygiene articles
+6,Item 6,margarine
+12,Item 6,butter milk
+8,Item 6,baking powder
+8,Item 6,spices
+9,Item 6,sliced cheese
+6,Item 6,rolls/buns
+16,Item 6,whipped/sour cream
+8,Item 6,bottled beer
+11,Item 6,whole milk
+11,Item 6,yogurt
+6,Item 6,specialty bar
+12,Item 6,domestic eggs
+6,Item 6,soda
+8,Item 6,whipped/sour cream
+11,Item 6,cream cheese
+11,Item 6,rolls/buns
+7,Item 6,frozen fish
+6,Item 6,potted plants
+9,Item 6,bottled water
+7,Item 6,oil
+6,Item 6,abrasive cleaner
+13,Item 6,yogurt
+7,Item 6,canned beer
+9,Item 6,soda
+8,Item 6,soda
+8,Item 6,zwieback
+6,Item 6,salty snack
+8,Item 6,processed cheese
+7,Item 6,pastry
+10,Item 6,curd
+7,Item 6,specialty fat
+8,Item 6,pastry
+11,Item 6,pasta
+7,Item 6,salty snack
+7,Item 6,soap
+10,Item 6,sweet spreads
+6,Item 6,bottled beer
+7,Item 6,softener
+7,Item 6,curd
+6,Item 6,dishes
+11,Item 6,oil
+7,Item 6,instant coffee
+9,Item 6,frozen vegetables
+6,Item 6,newspapers
+8,Item 6,frozen vegetables
+8,Item 6,frozen dessert
+10,Item 6,frozen vegetables
+14,Item 6,butter milk
+6,Item 6,candy
+10,Item 6,bottled water
+8,Item 6,candy
+17,Item 6,mayonnaise
+7,Item 6,fruit/vegetable juice
+9,Item 6,baking powder
+11,Item 6,hard cheese
+7,Item 6,bottled water
+8,Item 6,yogurt
+8,Item 6,oil
+6,Item 6,white wine
+13,Item 6,hard cheese
+9,Item 6,white bread
+6,Item 6,soap
+10,Item 6,rolls/buns
+9,Item 6,margarine
+8,Item 6,other vegetables
+7,Item 6,butter
+7,Item 6,coffee
+11,Item 6,instant food products
+10,Item 6,processed cheese
+12,Item 6,pickled vegetables
+7,Item 6,canned fish
+8,Item 6,salty snack
+9,Item 6,misc. beverages
+10,Item 6,canned fish
+6,Item 6,canned beer
+10,Item 6,soda
+8,Item 6,potato products
+7,Item 6,female sanitary products
+6,Item 6,coffee
+11,Item 6,mustard
+9,Item 6,sugar
+11,Item 6,pastry
+8,Item 6,frozen fish
+7,Item 6,napkins
+7,Item 6,cleaner
+7,Item 6,long life bakery product
+7,Item 6,domestic eggs
+6,Item 6,seasonal products
+6,Item 6,flower (seeds)
+14,Item 6,whole milk
+7,Item 6,bottled beer
+9,Item 6,other vegetables
+6,Item 6,fruit/vegetable juice
+17,Item 6,whole milk
+8,Item 6,margarine
+6,Item 6,house keeping products
+9,Item 6,brown bread
+13,Item 6,margarine
+13,Item 6,whipped/sour cream
+8,Item 6,fruit/vegetable juice
+9,Item 6,oil
+8,Item 6,female sanitary products
+11,Item 6,soft cheese
+12,Item 6,whipped/sour cream
+7,Item 6,whole milk
+6,Item 6,specialty chocolate
+7,Item 6,potted plants
+8,Item 6,hard cheese
+10,Item 6,yogurt
+8,Item 6,sugar
+11,Item 6,semi-finished bread
+7,Item 6,waffles
+13,Item 6,packaged fruit/vegetables
+12,Item 6,uht-milk
+15,Item 6,root vegetables
+12,Item 6,whole milk
+8,Item 6,curd
+8,Item 6,dog food
+12,Item 6,packaged fruit/vegetables
+7,Item 6,bathroom cleaner
+9,Item 6,vinegar
+14,Item 6,hard cheese
+8,Item 6,coffee
+6,Item 6,cling film/bags
+15,Item 6,domestic eggs
+6,Item 6,cake bar
+15,Item 6,flour
+8,Item 6,soups
+19,Item 6,butter
+8,Item 6,white bread
+8,Item 6,specialty cheese
+9,Item 6,rolls/buns
+17,Item 6,yogurt
+20,Item 6,other vegetables
+9,Item 6,waffles
+6,Item 6,long life bakery product
+16,Item 6,cream cheese
+11,Item 6,seasonal products
+23,Item 6,whole milk
+10,Item 6,flour
+10,Item 6,domestic eggs
+18,Item 6,other vegetables
+7,Item 6,ready soups
+12,Item 6,curd
+13,Item 6,butter
+13,Item 6,baking powder
+8,Item 6,specialty bar
+10,Item 6,frozen meals
+10,Item 6,fruit/vegetable juice
+14,Item 6,processed cheese
+14,Item 6,other vegetables
+11,Item 6,uht-milk
+8,Item 6,domestic eggs
+15,Item 6,pastry
+11,Item 6,margarine
+21,Item 6,yogurt
+18,Item 6,processed cheese
+6,Item 6,waffles
+6,Item 6,brown bread
+26,Item 6,butter
+7,Item 6,flower (seeds)
+13,Item 6,frozen vegetables
+8,Item 6,canned beer
+11,Item 6,butter
+7,Item 6,house keeping products
+11,Item 6,bottled water
+7,Item 6,cocoa drinks
+16,Item 6,sliced cheese
+17,Item 6,other vegetables
+6,Item 6,light bulbs
+7,Item 6,kitchen towels
+10,Item 6,sliced cheese
+7,Item 6,semi-finished bread
+11,Item 6,frozen vegetables
+11,Item 6,coffee
+14,Item 6,roll products
+6,Item 6,male cosmetics
+10,Item 6,cream cheese
+7,Item 6,rolls/buns
+8,Item 6,pickled vegetables
+6,Item 6,whipped/sour cream
+15,Item 6,yogurt
+6,Item 6,pastry
+12,Item 6,rolls/buns
+6,Item 6,chocolate
+16,Item 6,tidbits
+32,Item 6,beef
+10,Item 6,baking powder
+8,Item 6,cereals
+19,Item 6,other vegetables
+7,Item 6,whisky
+13,Item 6,other vegetables
+9,Item 6,brandy
+12,Item 6,margarine
+18,Item 6,whipped/sour cream
+17,Item 6,root vegetables
+10,Item 6,pastry
+8,Item 6,chewing gum
+10,Item 6,butter
+9,Item 6,specialty cheese
+8,Item 6,whole milk
+11,Item 6,rice
+13,Item 6,whole milk
+11,Item 6,whipped/sour cream
+8,Item 6,softener
+13,Item 6,sliced cheese
+6,Item 6,kitchen towels
+11,Item 6,other vegetables
+6,Item 6,candles
+14,Item 6,soft cheese
+17,Item 6,ice cream
+19,Item 6,yogurt
+12,Item 6,sweet spreads
+7,Item 6,cream cheese
+12,Item 6,white bread
+10,Item 6,beverages
+11,Item 6,misc. beverages
+10,Item 6,waffles
+9,Item 6,dish cleaner
+6,Item 6,baking powder
+15,Item 6,butter milk
+15,Item 6,rolls/buns
+10,Item 6,condensed milk
+9,Item 6,curd
+7,Item 6,brown bread
+9,Item 6,domestic eggs
+7,Item 6,yogurt
+15,Item 6,onions
+7,Item 6,misc. beverages
+8,Item 6,mustard
+7,Item 6,vinegar
+8,Item 6,frozen meals
+10,Item 6,canned fruit
+7,Item 6,red/blush wine
+10,Item 6,margarine
+12,Item 6,brown bread
+6,Item 6,brandy
+13,Item 6,uht-milk
+7,Item 6,chewing gum
+9,Item 6,flour
+15,Item 6,mayonnaise
+8,Item 6,cream cheese
+9,Item 6,butter milk
+6,Item 6,mustard
+6,Item 6,sugar
+7,Item 6,frozen vegetables
+10,Item 6,soups
+10,Item 6,salt
+17,Item 6,whipped/sour cream
+7,Item 6,sweet spreads
+8,Item 6,jam
+9,Item 6,bottled beer
+6,Item 6,chewing gum
+6,Item 6,frozen meals
+11,Item 6,frozen fish
+10,Item 6,whipped/sour cream
+8,Item 6,chocolate
+12,Item 6,frozen vegetables
+7,Item 6,pasta
+11,Item 6,instant coffee
+9,Item 6,hard cheese
+21,Item 6,pip fruit
+16,Item 6,other vegetables
+9,Item 6,whole milk
+10,Item 6,ketchup
+12,Item 6,yogurt
+8,Item 6,male cosmetics
+19,Item 6,pip fruit
+9,Item 6,ketchup
+16,Item 6,soft cheese
+16,Item 6,onions
+17,Item 6,dessert
+11,Item 6,cat food
+10,Item 6,sauces
+10,Item 6,vinegar
+8,Item 6,butter
+15,Item 6,brown bread
+7,Item 6,jam
+7,Item 6,white bread
+7,Item 6,baking powder
+8,Item 6,specialty chocolate
+10,Item 6,salty snack
+8,Item 6,frozen potato products
+9,Item 6,canned fish
+9,Item 6,salt
+7,Item 6,liquor
+7,Item 6,syrup
+12,Item 6,roll products
+22,Item 6,other vegetables
+13,Item 6,domestic eggs
+9,Item 6,root vegetables
+6,Item 6,domestic eggs
+8,Item 6,canned fish
+7,Item 6,dish cleaner
+9,Item 6,coffee
+10,Item 6,mustard
+8,Item 6,white wine
+9,Item 6,pickled vegetables
+9,Item 6,salty snack
+8,Item 6,dish cleaner
+15,Item 6,frozen dessert
+9,Item 6,fruit/vegetable juice
+9,Item 6,cream cheese
+7,Item 6,snack products
+6,Item 6,specialty cheese
+14,Item 6,yogurt
+12,Item 6,specialty cheese
+22,Item 6,whole milk
+7,Item 6,cat food
+6,Item 6,whole milk
+8,Item 6,seasonal products
+9,Item 6,specialty fat
+14,Item 6,salt
+13,Item 6,rolls/buns
+6,Item 6,salt
+12,Item 6,other vegetables
+8,Item 6,waffles
+12,Item 6,tidbits
+19,Item 6,soft cheese
+11,Item 6,soda
+8,Item 6,pasta
+10,Item 6,frozen dessert
+8,Item 6,semi-finished bread
+9,Item 6,mayonnaise
+7,Item 6,instant food products
+11,Item 6,domestic eggs
+11,Item 6,root vegetables
+7,Item 6,whipped/sour cream
+7,Item 6,sugar
+16,Item 6,whole milk
+16,Item 6,yogurt
+19,Item 6,berries
+10,Item 6,root vegetables
+13,Item 6,curd
+9,Item 6,sweet spreads
+6,Item 6,dog food
+14,Item 6,butter
+10,Item 6,liquor (appetizer)
+7,Item 6,newspapers
+6,Item 6,misc. beverages
+15,Item 6,ice cream
+6,Item 6,instant coffee
+6,Item 6,female sanitary products
+7,Item 6,pickled vegetables
+29,Item 6,other vegetables
+11,Item 6,dessert
+6,Item 6,cereals
+12,Item 6,cream cheese
+12,Item 6,frozen meals
+11,Item 6,curd
+20,Item 6,whipped/sour cream
+13,Item 6,soft cheese
+7,Item 6,cling film/bags
+8,Item 6,misc. beverages
+14,Item 6,root vegetables
+12,Item 6,frozen fish
+14,Item 6,uht-milk
+15,Item 6,cream cheese
+11,Item 6,canned beer
+7,Item 6,sparkling wine
+8,Item 6,cat food
+15,Item 6,uht-milk
+12,Item 6,dessert
+10,Item 6,pasta
+7,Item 6,mustard
+12,Item 6,butter
+6,Item 6,bottled water
+16,Item 6,beverages
+15,Item 6,curd
+10,Item 6,whole milk
+7,Item 6,pet care
+11,Item 6,frozen meals
+12,Item 6,pastry
+7,Item 6,chocolate
+9,Item 6,uht-milk
+6,Item 6,dish cleaner
+8,Item 6,nut snack
+8,Item 6,flour
+8,Item 6,red/blush wine
+18,Item 6,dessert
+6,Item 6,chocolate marshmallow
+9,Item 6,ready soups
+9,Item 6,chocolate marshmallow
+16,Item 6,roll products
+16,Item 6,hard cheese
+6,Item 6,cleaner
+8,Item 6,house keeping products
+6,Item 6,cooking chocolate
+9,Item 6,pasta
+14,Item 6,frozen meals
+17,Item 6,hard cheese
+6,Item 6,pickled vegetables
+8,Item 6,dessert
+14,Item 6,tropical fruit
+8,Item 6,roll products
+16,Item 6,frozen meals
+7,Item 6,spices
+14,Item 6,coffee
+18,Item 6,root vegetables
+13,Item 6,root vegetables
+13,Item 6,frozen dessert
+11,Item 6,chewing gum
+6,Item 6,canned vegetables
+6,Item 6,soft cheese
+9,Item 6,roll products
+8,Item 6,tea
+7,Item 6,chocolate marshmallow
+10,Item 6,white bread
+9,Item 6,chewing gum
+10,Item 6,frozen fish
+18,Item 6,beverages
+9,Item 6,pet care
+14,Item 6,frozen vegetables
+12,Item 6,sliced cheese
+9,Item 6,soups
+14,Item 6,sliced cheese
+10,Item 6,roll products
+19,Item 6,pastry
+14,Item 6,vinegar
+9,Item 6,processed cheese
+12,Item 6,oil
+14,Item 6,whipped/sour cream
+15,Item 6,whipped/sour cream
+15,Item 6,frozen vegetables
+13,Item 6,cream cheese
+6,Item 6,cream cheese
+8,Item 6,mayonnaise
+10,Item 6,popcorn
+21,Item 6,other vegetables
+14,Item 6,frozen dessert
+8,Item 6,liquor (appetizer)
+9,Item 6,beverages
+7,Item 6,salt
+16,Item 6,pip fruit
+9,Item 6,frozen meals
+8,Item 6,meat spreads
+10,Item 6,mayonnaise
+12,Item 6,citrus fruit
+22,Item 6,tropical fruit
+14,Item 6,brown bread
+14,Item 6,dessert
+6,Item 6,white bread
+8,Item 6,kitchen towels
+9,Item 6,ice cream
+12,Item 6,flour
+9,Item 6,long life bakery product
+11,Item 6,red/blush wine
+8,Item 6,soft cheese
+11,Item 6,roll products
+7,Item 6,canned fruit
+9,Item 6,dog food
+7,Item 6,male cosmetics
+11,Item 6,spread cheese
+11,Item 6,butter milk
+15,Item 6,butter
+20,Item 6,root vegetables
+27,Item 6,pip fruit
+8,Item 6,butter milk
+6,Item 6,roll products
+20,Item 6,frozen potato products
+9,Item 6,cream
+11,Item 6,sweet spreads
+7,Item 6,tea
+14,Item 6,rolls/buns
+9,Item 6,frozen potato products
+10,Item 6,sugar
+13,Item 6,sparkling wine
+9,Item 6,cocoa drinks
+15,Item 6,potato products
+16,Item 6,root vegetables
+9,Item 6,detergent
+12,Item 6,hard cheese
+8,Item 6,canned fruit
+6,Item 6,pudding powder
+6,Item 6,ice cream
+6,Item 6,oil
+7,Item 6,detergent
+8,Item 6,sweet spreads
+8,Item 6,instant food products
+8,Item 6,cling film/bags
+14,Item 6,mustard
+8,Item 6,sauces
+10,Item 6,hard cheese
+9,Item 6,butter
+11,Item 6,sliced cheese
+7,Item 6,rice
+10,Item 6,artif. sweetener
+16,Item 6,butter
+10,Item 6,canned beer
+11,Item 6,curd cheese
+17,Item 6,curd
+6,Item 6,meat spreads
+13,Item 6,meat spreads
+7,Item 6,frozen meals
+6,Item 6,canned fish
+7,Item 6,cake bar
+13,Item 6,frozen meals
+8,Item 6,ice cream
+13,Item 6,sauces
+8,Item 6,rice
+11,Item 6,salt
+15,Item 6,soft cheese
+9,Item 6,specialty chocolate
+11,Item 6,processed cheese
+9,Item 6,frozen fish
+17,Item 6,soups
+16,Item 6,processed cheese
+15,Item 6,dessert
+13,Item 6,butter milk
+13,Item 6,pastry
+10,Item 6,chocolate
+9,Item 6,dessert
+21,Item 6,processed cheese
+28,Item 6,butter
+12,Item 6,instant coffee
+8,Item 6,ketchup
+6,Item 6,preservation products
+8,Item 6,uht-milk
+9,Item 6,rum
+23,Item 6,root vegetables
+9,Item 6,condensed milk
+16,Item 6,frozen vegetables
+11,Item 6,white bread
+7,Item 6,specialty chocolate
+12,Item 6,root vegetables
+12,Item 6,beverages
+6,Item 6,soups
+6,Item 6,make up remover
+6,Item 6,jam
+11,Item 6,pickled vegetables
+7,Item 6,zwieback
+7,Item 6,liquor (appetizer)
+10,Item 6,canned vegetables
+12,Item 6,soda
+18,Item 6,sliced cheese
+16,Item 6,spread cheese
+10,Item 6,pet care
+7,Item 6,curd cheese
+15,Item 6,sugar
+7,Item 6,hard cheese
+13,Item 6,vinegar
+7,Item 6,abrasive cleaner
+10,Item 6,packaged fruit/vegetables
+7,Item 6,specialty cheese
+7,Item 6,ice cream
+17,Item 6,onions
+9,Item 6,canned vegetables
+20,Item 6,dessert
+13,Item 6,canned vegetables
+8,Item 6,canned vegetables
+9,Item 6,cat food
+16,Item 6,soups
+11,Item 6,frozen dessert
+7,Item 6,light bulbs
+6,Item 6,rubbing alcohol
+19,Item 6,brown bread
+13,Item 6,herbs
+6,Item 6,liquor (appetizer)
+14,Item 6,curd
+15,Item 6,rice
+18,Item 6,whole milk
+10,Item 6,zwieback
+10,Item 6,specialty fat
+6,Item 6,photo/film
+10,Item 6,cocoa drinks
+8,Item 6,sliced cheese
+13,Item 6,frozen fish
+11,Item 6,specialty chocolate
+8,Item 6,hygiene articles
+7,Item 6,popcorn
+19,Item 6,onions
+9,Item 6,red/blush wine
+14,Item 6,frozen potato products
+16,Item 6,pastry
+7,Item 6,soups
+6,Item 6,sweet spreads
+6,Item 6,red/blush wine
+12,Item 6,mustard
+8,Item 6,abrasive cleaner
+11,Item 6,vinegar
+15,Item 6,tropical fruit
+18,Item 6,packaged fruit/vegetables
+9,Item 6,semi-finished bread
+6,Item 6,instant food products
+11,Item 6,specialty cheese
+6,Item 6,canned fruit
+16,Item 6,dessert
+8,Item 6,napkins
+11,Item 6,ice cream
+8,Item 6,beverages
+16,Item 6,herbs
+20,Item 6,berries
+8,Item 6,dental care
+9,Item 6,canned fruit
+12,Item 6,herbs
+21,Item 6,uht-milk
+7,Item 6,dog food
+21,Item 6,cream cheese
+13,Item 6,cat food
+11,Item 6,herbs
+10,Item 6,onions
+21,Item 6,whole milk
+7,Item 6,frozen potato products
+9,Item 6,curd cheese
+12,Item 6,spread cheese
+16,Item 6,packaged fruit/vegetables
+10,Item 6,long life bakery product
+18,Item 6,onions
+7,Item 6,uht-milk
+14,Item 6,herbs
+6,Item 6,sauces
+13,Item 6,semi-finished bread
+9,Item 6,white wine
+24,Item 6,whole milk
+10,Item 6,curd cheese
+10,Item 6,hygiene articles
+12,Item 6,processed cheese
+11,Item 6,snack products
+11,Item 6,onions
+20,Item 6,whole milk
+16,Item 6,condensed milk
+16,Item 6,rolls/buns
+13,Item 6,white bread
+18,Item 6,yogurt
+7,Item 6,roll products
+6,Item 6,popcorn
+21,Item 6,curd
+6,Item 6,liquor
+7,Item 6,canned vegetables
+29,Item 6,root vegetables
+10,Item 6,coffee
+16,Item 6,curd
+14,Item 6,berries
+12,Item 6,mayonnaise
+6,Item 6,semi-finished bread
+6,Item 6,rum
+9,Item 6,pudding powder
+14,Item 6,onions
+10,Item 6,butter milk
+14,Item 6,sugar
+13,Item 6,condensed milk
+6,Item 6,frozen vegetables
+15,Item 6,other vegetables
+10,Item 6,ice cream
+7,Item 6,flour
+14,Item 6,white wine
+11,Item 6,canned fish
+7,Item 6,beverages
+23,Item 6,butter
+14,Item 6,white bread
+12,Item 6,onions
+17,Item 6,grapes
+9,Item 7,flour
+11,Item 7,sweet spreads
+7,Item 7,napkins
+8,Item 7,soda
+13,Item 7,pastry
+10,Item 7,hard cheese
+10,Item 7,semi-finished bread
+7,Item 7,detergent
+8,Item 7,pickled vegetables
+7,Item 7,flower (seeds)
+8,Item 7,specialty chocolate
+10,Item 7,margarine
+7,Item 7,candles
+9,Item 7,rice
+9,Item 7,red/blush wine
+10,Item 7,butter
+9,Item 7,soda
+10,Item 7,softener
+7,Item 7,cling film/bags
+10,Item 7,pickled vegetables
+8,Item 7,red/blush wine
+7,Item 7,dishes
+8,Item 7,male cosmetics
+15,Item 7,hard cheese
+7,Item 7,newspapers
+10,Item 7,frozen vegetables
+9,Item 7,frozen vegetables
+8,Item 7,fruit/vegetable juice
+8,Item 7,chocolate
+23,Item 7,whole milk
+7,Item 7,shopping bags
+7,Item 7,brown bread
+12,Item 7,whipped/sour cream
+8,Item 7,tea
+12,Item 7,beverages
+8,Item 7,house keeping products
+9,Item 7,rolls/buns
+16,Item 7,frozen dessert
+11,Item 7,butter
+11,Item 7,rolls/buns
+7,Item 7,spices
+12,Item 7,sugar
+8,Item 7,flour
+11,Item 7,domestic eggs
+11,Item 7,pastry
+11,Item 7,whipped/sour cream
+7,Item 7,rolls/buns
+8,Item 7,sugar
+10,Item 7,mustard
+9,Item 7,canned beer
+9,Item 7,specialty cheese
+7,Item 7,soda
+13,Item 7,soft cheese
+9,Item 7,candy
+11,Item 7,roll products
+9,Item 7,misc. beverages
+8,Item 7,specialty bar
+8,Item 7,cake bar
+8,Item 7,white bread
+10,Item 7,curd cheese
+7,Item 7,coffee
+8,Item 7,waffles
+11,Item 7,specialty fat
+10,Item 7,coffee
+7,Item 7,hygiene articles
+11,Item 7,margarine
+7,Item 7,brandy
+7,Item 7,specialty bar
+8,Item 7,rolls/buns
+8,Item 7,rice
+10,Item 7,rolls/buns
+8,Item 7,rum
+14,Item 7,whipped/sour cream
+11,Item 7,flour
+10,Item 7,soda
+17,Item 7,frozen fish
+7,Item 7,salty snack
+9,Item 7,coffee
+8,Item 7,kitchen towels
+8,Item 7,whipped/sour cream
+8,Item 7,margarine
+13,Item 7,frozen meals
+9,Item 7,sugar
+8,Item 7,bottled beer
+9,Item 7,specialty bar
+8,Item 7,whole milk
+7,Item 7,kitchen towels
+10,Item 7,whipped/sour cream
+11,Item 7,semi-finished bread
+11,Item 7,canned fish
+9,Item 7,roll products
+12,Item 7,fruit/vegetable juice
+7,Item 7,long life bakery product
+8,Item 7,abrasive cleaner
+9,Item 7,waffles
+10,Item 7,bottled water
+10,Item 7,canned beer
+11,Item 7,coffee
+11,Item 7,vinegar
+8,Item 7,frozen dessert
+7,Item 7,red/blush wine
+8,Item 7,hygiene articles
+8,Item 7,candy
+7,Item 7,bottled water
+14,Item 7,butter milk
+9,Item 7,packaged fruit/vegetables
+8,Item 7,seasonal products
+9,Item 7,ice cream
+17,Item 7,curd
+8,Item 7,bottled water
+9,Item 7,margarine
+13,Item 7,canned fruit
+13,Item 7,frozen vegetables
+8,Item 7,long life bakery product
+9,Item 7,whipped/sour cream
+9,Item 7,mustard
+11,Item 7,hard cheese
+12,Item 7,soft cheese
+9,Item 7,chocolate
+7,Item 7,frozen vegetables
+10,Item 7,pasta
+12,Item 7,flour
+10,Item 7,spread cheese
+8,Item 7,instant coffee
+11,Item 7,artif. sweetener
+13,Item 7,butter
+12,Item 7,domestic eggs
+15,Item 7,other vegetables
+14,Item 7,yogurt
+12,Item 7,dessert
+8,Item 7,beverages
+8,Item 7,brandy
+12,Item 7,whole milk
+9,Item 7,bottled beer
+14,Item 7,spread cheese
+8,Item 7,popcorn
+8,Item 7,misc. beverages
+7,Item 7,dish cleaner
+15,Item 7,white bread
+8,Item 7,canned beer
+8,Item 7,pastry
+15,Item 7,rice
+8,Item 7,coffee
+8,Item 7,newspapers
+19,Item 7,dessert
+8,Item 7,chewing gum
+10,Item 7,canned vegetables
+9,Item 7,white bread
+9,Item 7,fruit/vegetable juice
+17,Item 7,whipped/sour cream
+20,Item 7,yogurt
+7,Item 7,bottled beer
+16,Item 7,domestic eggs
+16,Item 7,cream cheese
+11,Item 7,detergent
+23,Item 7,butter
+10,Item 7,baking powder
+18,Item 7,cream
+7,Item 7,potted plants
+12,Item 7,butter milk
+13,Item 7,curd
+8,Item 7,salty snack
+13,Item 7,cat food
+10,Item 7,domestic eggs
+15,Item 7,yogurt
+10,Item 7,candy
+14,Item 7,frozen vegetables
+14,Item 7,whole milk
+11,Item 7,white bread
+13,Item 7,beverages
+14,Item 7,rolls/buns
+10,Item 7,pastry
+15,Item 7,sauces
+11,Item 7,sugar
+21,Item 7,hard cheese
+18,Item 7,domestic eggs
+11,Item 7,brown bread
+26,Item 7,curd
+13,Item 7,margarine
+8,Item 7,liquor (appetizer)
+11,Item 7,yogurt
+9,Item 7,soups
+11,Item 7,soda
+8,Item 7,butter
+7,Item 7,specialty chocolate
+7,Item 7,instant coffee
+17,Item 7,whole milk
+10,Item 7,sugar
+9,Item 7,pastry
+8,Item 7,oil
+11,Item 7,syrup
+14,Item 7,flour
+10,Item 7,white bread
+7,Item 7,flour
+8,Item 7,softener
+15,Item 7,whipped/sour cream
+16,Item 7,frozen fish
+32,Item 7,citrus fruit
+12,Item 7,white bread
+15,Item 7,butter
+10,Item 7,cat food
+19,Item 7,whole milk
+12,Item 7,frozen vegetables
+10,Item 7,dog food
+13,Item 7,dessert
+9,Item 7,male cosmetics
+12,Item 7,baking powder
+18,Item 7,processed cheese
+17,Item 7,onions
+14,Item 7,butter
+8,Item 7,salt
+11,Item 7,soups
+13,Item 7,whipped/sour cream
+11,Item 7,whole milk
+14,Item 7,cream cheese
+17,Item 7,pastry
+19,Item 7,whipped/sour cream
+12,Item 7,soda
+7,Item 7,light bulbs
+7,Item 7,fruit/vegetable juice
+12,Item 7,instant coffee
+10,Item 7,cream cheese
+11,Item 7,chewing gum
+10,Item 7,chocolate
+9,Item 7,female sanitary products
+15,Item 7,frozen meals
+7,Item 7,chocolate
+15,Item 7,pastry
+10,Item 7,roll products
+7,Item 7,meat spreads
+9,Item 7,brown bread
+8,Item 7,decalcifier
+7,Item 7,margarine
+8,Item 7,cat food
+7,Item 7,sugar
+8,Item 7,baking powder
+12,Item 7,pastry
+13,Item 7,rolls/buns
+13,Item 7,domestic eggs
+9,Item 7,ketchup
+10,Item 7,brown bread
+15,Item 7,rolls/buns
+8,Item 7,detergent
+15,Item 7,domestic eggs
+7,Item 7,waffles
+8,Item 7,hard cheese
+9,Item 7,yogurt
+8,Item 7,napkins
+12,Item 7,butter
+7,Item 7,domestic eggs
+10,Item 7,sauces
+17,Item 7,herbs
+17,Item 7,domestic eggs
+7,Item 7,snack products
+9,Item 7,pickled vegetables
+10,Item 7,yogurt
+9,Item 7,sliced cheese
+12,Item 7,pasta
+11,Item 7,uht-milk
+9,Item 7,processed cheese
+21,Item 7,root vegetables
+16,Item 7,whole milk
+7,Item 7,softener
+14,Item 7,coffee
+10,Item 7,cereals
+12,Item 7,hard cheese
+15,Item 7,dessert
+19,Item 7,grapes
+12,Item 7,frozen meals
+7,Item 7,candy
+9,Item 7,pet care
+16,Item 7,oil
+16,Item 7,yogurt
+17,Item 7,yogurt
+11,Item 7,misc. beverages
+7,Item 7,syrup
+16,Item 7,hard cheese
+7,Item 7,oil
+7,Item 7,white wine
+9,Item 7,cake bar
+8,Item 7,brown bread
+13,Item 7,sliced cheese
+10,Item 7,nut snack
+12,Item 7,margarine
+22,Item 7,sliced cheese
+8,Item 7,jam
+9,Item 7,cat food
+11,Item 7,curd
+15,Item 7,margarine
+9,Item 7,other vegetables
+7,Item 7,chewing gum
+8,Item 7,sweet spreads
+13,Item 7,curd cheese
+9,Item 7,specialty vegetables
+7,Item 7,canned beer
+8,Item 7,dental care
+9,Item 7,whisky
+16,Item 7,frozen vegetables
+9,Item 7,bottled water
+7,Item 7,misc. beverages
+9,Item 7,sparkling wine
+8,Item 7,canned vegetables
+9,Item 7,domestic eggs
+7,Item 7,instant food products
+22,Item 7,curd
+9,Item 7,semi-finished bread
+14,Item 7,sugar
+12,Item 7,spread cheese
+15,Item 7,curd
+12,Item 7,pickled vegetables
+7,Item 7,yogurt
+19,Item 7,cream cheese
+11,Item 7,long life bakery product
+10,Item 7,artif. sweetener
+13,Item 7,hard cheese
+11,Item 7,other vegetables
+7,Item 7,rum
+16,Item 7,rolls/buns
+19,Item 7,butter
+8,Item 7,dishes
+10,Item 7,other vegetables
+10,Item 7,potato products
+9,Item 7,detergent
+14,Item 7,domestic eggs
+7,Item 7,salt
+10,Item 7,red/blush wine
+7,Item 7,photo/film
+9,Item 7,specialty chocolate
+16,Item 7,curd
+7,Item 7,seasonal products
+7,Item 7,female sanitary products
+8,Item 7,frozen fish
+7,Item 7,specialty vegetables
+14,Item 7,frozen meals
+9,Item 7,frozen fish
+29,Item 7,whole milk
+11,Item 7,frozen vegetables
+12,Item 7,frozen fish
+9,Item 7,long life bakery product
+11,Item 7,spices
+11,Item 7,cream cheese
+12,Item 7,sliced cheese
+20,Item 7,cream cheese
+16,Item 7,processed cheese
+12,Item 7,semi-finished bread
+14,Item 7,other vegetables
+8,Item 7,soups
+9,Item 7,salty snack
+14,Item 7,hard cheese
+15,Item 7,vinegar
+11,Item 7,liquor (appetizer)
+9,Item 7,tea
+10,Item 7,uht-milk
+9,Item 7,mayonnaise
+15,Item 7,frozen vegetables
+9,Item 7,baking powder
+7,Item 7,canned fish
+12,Item 7,yogurt
+11,Item 7,frozen potato products
+12,Item 7,ketchup
+9,Item 7,hard cheese
+11,Item 7,curd cheese
+10,Item 7,flour
+7,Item 7,liqueur
+9,Item 7,cereals
+18,Item 7,whipped/sour cream
+8,Item 7,frozen meals
+12,Item 7,oil
+8,Item 7,frozen vegetables
+13,Item 7,whole milk
+10,Item 7,sliced cheese
+7,Item 7,sparkling wine
+13,Item 7,white bread
+8,Item 7,instant food products
+16,Item 7,cat food
+9,Item 7,dish cleaner
+7,Item 7,popcorn
+16,Item 7,specialty cheese
+8,Item 7,flower (seeds)
+8,Item 7,dog food
+9,Item 7,canned vegetables
+17,Item 7,frozen meals
+14,Item 7,curd
+10,Item 7,waffles
+8,Item 7,yogurt
+8,Item 7,semi-finished bread
+16,Item 7,pastry
+10,Item 7,soft cheese
+9,Item 7,hygiene articles
+12,Item 7,rolls/buns
+14,Item 7,soda
+18,Item 7,other vegetables
+13,Item 7,other vegetables
+11,Item 7,decalcifier
+7,Item 7,house keeping products
+7,Item 7,cat food
+10,Item 7,meat spreads
+8,Item 7,pasta
+9,Item 7,cleaner
+9,Item 7,prosecco
+7,Item 7,pickled vegetables
+8,Item 7,cereals
+8,Item 7,domestic eggs
+11,Item 7,honey
+18,Item 7,frozen vegetables
+17,Item 7,soft cheese
+14,Item 7,frozen dessert
+12,Item 7,specialty cheese
+7,Item 7,liquor (appetizer)
+10,Item 7,specialty fat
+14,Item 7,processed cheese
+9,Item 7,chewing gum
+9,Item 7,snack products
+7,Item 7,cake bar
+9,Item 7,rum
+19,Item 7,semi-finished bread
+14,Item 7,margarine
+11,Item 7,soft cheese
+12,Item 7,cream cheese
+12,Item 7,waffles
+14,Item 7,semi-finished bread
+10,Item 7,bottled beer
+7,Item 7,abrasive cleaner
+15,Item 7,soft cheese
+15,Item 7,frozen dessert
+11,Item 7,frozen dessert
+13,Item 7,spices
+13,Item 7,semi-finished bread
+12,Item 7,brown bread
+21,Item 7,butter
+9,Item 7,cream cheese
+16,Item 7,root vegetables
+12,Item 7,cereals
+12,Item 7,root vegetables
+22,Item 7,berries
+11,Item 7,ready soups
+14,Item 7,pastry
+18,Item 7,butter milk
+8,Item 7,zwieback
+7,Item 7,nut snack
+21,Item 7,other vegetables
+8,Item 7,candles
+13,Item 7,yogurt
+9,Item 7,salt
+9,Item 7,sweet spreads
+11,Item 7,chocolate
+15,Item 7,whole milk
+12,Item 7,ice cream
+8,Item 7,meat spreads
+13,Item 7,ice cream
+12,Item 7,rice
+10,Item 7,oil
+19,Item 7,packaged fruit/vegetables
+20,Item 7,other vegetables
+27,Item 7,root vegetables
+9,Item 7,dental care
+10,Item 7,specialty vegetables
+20,Item 7,rolls/buns
+13,Item 7,uht-milk
+19,Item 7,soft cheese
+11,Item 7,salty snack
+8,Item 7,organic products
+9,Item 7,pasta
+14,Item 7,brown bread
+10,Item 7,pudding powder
+13,Item 7,chocolate
+10,Item 7,chewing gum
+14,Item 7,cream
+15,Item 7,artif. sweetener
+16,Item 7,other vegetables
+9,Item 7,softener
+9,Item 7,instant food products
+12,Item 7,frozen fruits
+7,Item 7,pastry
+9,Item 7,seasonal products
+8,Item 7,canned fish
+12,Item 7,spices
+14,Item 7,pickled vegetables
+8,Item 7,white wine
+13,Item 7,butter milk
+9,Item 7,oil
+10,Item 7,fruit/vegetable juice
+10,Item 7,long life bakery product
+17,Item 7,dessert
+17,Item 7,butter
+13,Item 7,canned fish
+14,Item 7,uht-milk
+13,Item 7,baking powder
+14,Item 7,herbs
+11,Item 7,canned vegetables
+7,Item 7,skin care
+17,Item 7,cat food
+8,Item 7,chocolate marshmallow
+7,Item 7,baking powder
+9,Item 7,condensed milk
+9,Item 7,zwieback
+7,Item 7,mustard
+13,Item 7,mustard
+21,Item 7,whipped/sour cream
+11,Item 7,oil
+21,Item 7,white bread
+28,Item 7,dessert
+12,Item 7,bottled water
+14,Item 7,sliced cheese
+9,Item 7,spread cheese
+12,Item 7,curd
+9,Item 7,chocolate marshmallow
+9,Item 7,dog food
+23,Item 7,other vegetables
+11,Item 7,sliced cheese
+10,Item 7,salty snack
+10,Item 7,misc. beverages
+15,Item 7,frozen potato products
+8,Item 7,liquor
+12,Item 7,uht-milk
+7,Item 7,dental care
+15,Item 7,condensed milk
+9,Item 7,artif. sweetener
+15,Item 7,sliced cheese
+11,Item 7,jam
+8,Item 7,sauces
+12,Item 7,roll products
+12,Item 7,canned beer
+18,Item 7,hard cheese
+7,Item 7,canned vegetables
+13,Item 7,organic products
+15,Item 7,soups
+8,Item 7,cream cheese
+13,Item 7,instant food products
+9,Item 7,sauces
+17,Item 7,other vegetables
+11,Item 7,meat spreads
+20,Item 7,butter milk
+13,Item 7,soda
+16,Item 7,sweet spreads
+20,Item 7,whole milk
+8,Item 7,potted plants
+10,Item 7,dessert
+19,Item 7,flour
+11,Item 7,mustard
+13,Item 7,rice
+15,Item 7,mustard
+9,Item 7,butter
+10,Item 7,tea
+18,Item 7,butter
+14,Item 7,rice
+11,Item 7,frozen fish
+16,Item 7,herbs
+11,Item 7,fruit/vegetable juice
+12,Item 7,canned fruit
+8,Item 7,dish cleaner
+11,Item 7,zwieback
+11,Item 7,frozen meals
+16,Item 7,frozen meals
+11,Item 7,baking powder
+19,Item 7,other vegetables
+9,Item 7,cling film/bags
+10,Item 7,instant food products
+13,Item 7,mayonnaise
+10,Item 7,white wine
+16,Item 7,sauces
+9,Item 7,napkins
+10,Item 7,salt
+12,Item 7,coffee
+10,Item 7,ketchup
+9,Item 7,popcorn
+8,Item 7,cleaner
+8,Item 7,specialty cheese
+15,Item 7,root vegetables
+18,Item 7,whole milk
+8,Item 7,bathroom cleaner
+16,Item 7,dessert
+16,Item 7,soft cheese
+7,Item 7,hard cheese
+16,Item 7,butter milk
+10,Item 7,detergent
+8,Item 7,sliced cheese
+8,Item 7,vinegar
+8,Item 7,pudding powder
+9,Item 7,curd
+15,Item 7,beverages
+12,Item 7,packaged fruit/vegetables
+21,Item 7,soft cheese
+10,Item 7,pet care
+7,Item 7,male cosmetics
+8,Item 7,nut snack
+21,Item 7,mayonnaise
+13,Item 7,fruit/vegetable juice
+8,Item 7,honey
+11,Item 7,spread cheese
+12,Item 7,mayonnaise
+16,Item 7,butter
+10,Item 7,specialty bar
+9,Item 7,soft cheese
+11,Item 7,bottled water
+15,Item 7,onions
+8,Item 7,artif. sweetener
+10,Item 7,snack products
+13,Item 7,oil
+24,Item 7,yogurt
+10,Item 7,napkins
+10,Item 7,rum
+10,Item 7,processed cheese
+12,Item 7,cat food
+16,Item 7,sliced cheese
+8,Item 7,soap
+11,Item 7,pasta
+16,Item 7,margarine
+9,Item 7,frozen potato products
+19,Item 7,frozen meals
+20,Item 7,onions
+10,Item 7,beverages
+13,Item 7,sugar
+18,Item 7,uht-milk
+18,Item 7,condensed milk
+18,Item 7,cream cheese
+21,Item 7,dessert
+7,Item 7,chocolate marshmallow
+10,Item 7,packaged fruit/vegetables
+8,Item 7,sparkling wine
+11,Item 7,packaged fruit/vegetables
+7,Item 7,cereals
+10,Item 7,canned fish
+8,Item 7,mustard
+15,Item 7,packaged fruit/vegetables
+9,Item 7,uht-milk
+22,Item 7,pip fruit
+14,Item 7,specialty cheese
+10,Item 7,whole milk
+14,Item 7,prosecco
+14,Item 7,soft cheese
+13,Item 7,jam
+7,Item 7,processed cheese
+23,Item 7,yogurt
+10,Item 7,ice cream
+9,Item 7,white wine
+12,Item 7,other vegetables
+16,Item 7,whipped/sour cream
+7,Item 7,bags
+11,Item 7,salt
+9,Item 7,meat spreads
+10,Item 7,instant coffee
+9,Item 7,frozen meals
+17,Item 7,root vegetables
+9,Item 8,bottled water
+11,Item 8,salty snack
+8,Item 8,abrasive cleaner
+13,Item 8,sugar
+8,Item 8,newspapers
+10,Item 8,rolls/buns
+10,Item 8,margarine
+8,Item 8,chocolate
+10,Item 8,canned vegetables
+9,Item 8,coffee
+9,Item 8,waffles
+10,Item 8,pasta
+9,Item 8,specialty bar
+10,Item 8,napkins
+10,Item 8,bottled beer
+8,Item 8,shopping bags
+15,Item 8,cream cheese
+9,Item 8,fruit/vegetable juice
+8,Item 8,bottled beer
+23,Item 8,butter
+12,Item 8,beverages
+8,Item 8,cling film/bags
+12,Item 8,cream cheese
+8,Item 8,flower (seeds)
+9,Item 8,salty snack
+16,Item 8,rolls/buns
+8,Item 8,napkins
+11,Item 8,frozen dessert
+11,Item 8,bottled water
+12,Item 8,soups
+8,Item 8,hygiene articles
+11,Item 8,brown bread
+11,Item 8,semi-finished bread
+11,Item 8,rolls/buns
+8,Item 8,soda
+10,Item 8,pickled vegetables
+9,Item 8,napkins
+9,Item 8,flour
+13,Item 8,rolls/buns
+9,Item 8,abrasive cleaner
+11,Item 8,margarine
+9,Item 8,chocolate
+8,Item 8,waffles
+8,Item 8,dish cleaner
+8,Item 8,chewing gum
+8,Item 8,brown bread
+10,Item 8,cat food
+11,Item 8,syrup
+10,Item 8,fruit/vegetable juice
+8,Item 8,softener
+11,Item 8,coffee
+9,Item 8,margarine
+8,Item 8,roll products
+8,Item 8,bottled water
+10,Item 8,semi-finished bread
+14,Item 8,sliced cheese
+11,Item 8,rice
+10,Item 8,misc. beverages
+17,Item 8,frozen potato products
+9,Item 8,red/blush wine
+8,Item 8,candles
+8,Item 8,sliced cheese
+13,Item 8,frozen dessert
+9,Item 8,pastry
+8,Item 8,seasonal products
+9,Item 8,detergent
+8,Item 8,pickled vegetables
+10,Item 8,frozen vegetables
+11,Item 8,flour
+9,Item 8,tea
+12,Item 8,liquor
+10,Item 8,soda
+10,Item 8,dish cleaner
+8,Item 8,long life bakery product
+11,Item 8,waffles
+9,Item 8,candles
+11,Item 8,sugar
+10,Item 8,organic products
+14,Item 8,whipped/sour cream
+9,Item 8,cat food
+9,Item 8,soda
+17,Item 8,yogurt
+13,Item 8,bottled water
+11,Item 8,domestic eggs
+12,Item 8,frozen meals
+10,Item 8,mustard
+12,Item 8,sugar
+8,Item 8,fruit/vegetable juice
+10,Item 8,coffee
+11,Item 8,sliced cheese
+11,Item 8,ready soups
+12,Item 8,rolls/buns
+15,Item 8,whole milk
+14,Item 8,hard cheese
+12,Item 8,yogurt
+12,Item 8,whipped/sour cream
+14,Item 8,curd cheese
+15,Item 8,pastry
+8,Item 8,ready soups
+15,Item 8,oil
+8,Item 8,potted plants
+19,Item 8,yogurt
+9,Item 8,brown bread
+9,Item 8,bottled beer
+17,Item 8,cream cheese
+20,Item 8,uht-milk
+9,Item 8,flower (seeds)
+16,Item 8,white bread
+16,Item 8,pastry
+11,Item 8,cleaner
+23,Item 8,yogurt
+10,Item 8,artif. sweetener
+10,Item 8,seasonal products
+18,Item 8,soft cheese
+13,Item 8,butter milk
+13,Item 8,soda
+10,Item 8,white bread
+15,Item 8,whipped/sour cream
+10,Item 8,dental care
+9,Item 8,canned beer
+14,Item 8,white bread
+14,Item 8,yogurt
+11,Item 8,pastry
+13,Item 8,uht-milk
+10,Item 8,long life bakery product
+8,Item 8,rum
+15,Item 8,pickled vegetables
+11,Item 8,artif. sweetener
+21,Item 8,processed cheese
+18,Item 8,white bread
+26,Item 8,dessert
+11,Item 8,white bread
+9,Item 8,instant food products
+11,Item 8,fruit/vegetable juice
+10,Item 8,pastry
+16,Item 8,margarine
+17,Item 8,curd
+10,Item 8,bottled water
+8,Item 8,pudding powder
+9,Item 8,brandy
+11,Item 8,canned beer
+9,Item 8,liquor (appetizer)
+14,Item 8,rice
+15,Item 8,hard cheese
+12,Item 8,baking powder
+32,Item 8,tropical fruit
+12,Item 8,pastry
+15,Item 8,curd
+10,Item 8,salty snack
+8,Item 8,salty snack
+12,Item 8,frozen dessert
+13,Item 8,yogurt
+9,Item 8,cookware
+11,Item 8,instant food products
+12,Item 8,cat food
+18,Item 8,sugar
+17,Item 8,other vegetables
+9,Item 8,dental care
+10,Item 8,dishes
+11,Item 8,baking powder
+10,Item 8,salt
+9,Item 8,hygiene articles
+13,Item 8,domestic eggs
+10,Item 8,brown bread
+14,Item 8,domestic eggs
+17,Item 8,oil
+17,Item 8,butter
+19,Item 8,soft cheese
+12,Item 8,long life bakery product
+12,Item 8,soda
+10,Item 8,sweet spreads
+12,Item 8,bottled water
+11,Item 8,specialty bar
+10,Item 8,specialty chocolate
+15,Item 8,domestic eggs
+15,Item 8,soda
+10,Item 8,oil
+9,Item 8,frozen vegetables
+15,Item 8,rolls/buns
+8,Item 8,coffee
+10,Item 8,snack products
+12,Item 8,margarine
+13,Item 8,flour
+13,Item 8,pasta
+8,Item 8,house keeping products
+9,Item 8,soups
+9,Item 8,dish cleaner
+10,Item 8,roll products
+15,Item 8,white bread
+8,Item 8,white bread
+9,Item 8,salt
+11,Item 8,bottled beer
+8,Item 8,pastry
+17,Item 8,whole milk
+11,Item 8,cat food
+10,Item 8,specialty fat
+12,Item 8,vinegar
+8,Item 8,female sanitary products
+17,Item 8,pastry
+8,Item 8,candy
+9,Item 8,softener
+10,Item 8,cream cheese
+12,Item 8,instant coffee
+11,Item 8,salad dressing
+21,Item 8,onions
+16,Item 8,curd
+14,Item 8,bottled water
+10,Item 8,canned fish
+12,Item 8,cereals
+15,Item 8,yogurt
+10,Item 8,canned beer
+19,Item 8,other vegetables
+12,Item 8,white bread
+11,Item 8,vinegar
+16,Item 8,pickled vegetables
+16,Item 8,soft cheese
+17,Item 8,frozen vegetables
+11,Item 8,long life bakery product
+16,Item 8,curd cheese
+8,Item 8,cream cheese
+15,Item 8,cat food
+8,Item 8,chocolate marshmallow
+9,Item 8,long life bakery product
+9,Item 8,newspapers
+8,Item 8,cleaner
+11,Item 8,mustard
+8,Item 8,jam
+22,Item 8,cream cheese
+13,Item 8,pastry
+10,Item 8,waffles
+11,Item 8,yogurt
+15,Item 8,sweet spreads
+9,Item 8,whole milk
+9,Item 8,specialty chocolate
+8,Item 8,dental care
+9,Item 8,female sanitary products
+11,Item 8,soda
+9,Item 8,skin care
+8,Item 8,photo/film
+9,Item 8,white wine
+16,Item 8,domestic eggs
+11,Item 8,roll products
+8,Item 8,hair spray
+14,Item 8,mayonnaise
+22,Item 8,dessert
+14,Item 8,soups
+13,Item 8,baking powder
+12,Item 8,canned fish
+11,Item 8,whipped/sour cream
+19,Item 8,frozen vegetables
+11,Item 8,napkins
+8,Item 8,specialty chocolate
+13,Item 8,sliced cheese
+13,Item 8,spread cheese
+9,Item 8,rolls/buns
+8,Item 8,red/blush wine
+8,Item 8,white wine
+11,Item 8,pickled vegetables
+11,Item 8,dessert
+16,Item 8,whipped/sour cream
+19,Item 8,domestic eggs
+10,Item 8,beverages
+11,Item 8,frozen fruits
+9,Item 8,potted plants
+9,Item 8,chewing gum
+14,Item 8,rolls/buns
+9,Item 8,kitchen towels
+16,Item 8,dessert
+15,Item 8,instant food products
+8,Item 8,detergent
+16,Item 8,ice cream
+14,Item 8,frozen potato products
+29,Item 8,butter
+23,Item 8,curd
+12,Item 8,rice
+11,Item 8,cereals
+8,Item 8,cookware
+12,Item 8,hard cheese
+8,Item 8,dishes
+20,Item 8,frozen vegetables
+13,Item 8,white bread
+14,Item 8,whole milk
+12,Item 8,fruit/vegetable juice
+17,Item 8,soft cheese
+14,Item 8,cream cheese
+8,Item 8,misc. beverages
+11,Item 8,butter milk
+8,Item 8,light bulbs
+12,Item 8,sliced cheese
+12,Item 8,processed cheese
+8,Item 8,specialty bar
+16,Item 8,frozen vegetables
+15,Item 8,salt
+12,Item 8,pickled vegetables
+14,Item 8,curd
+9,Item 8,domestic eggs
+11,Item 8,frozen vegetables
+13,Item 8,coffee
+8,Item 8,spices
+9,Item 8,frozen potato products
+9,Item 8,dog food
+18,Item 8,processed cheese
+10,Item 8,candy
+12,Item 8,pudding powder
+13,Item 8,bottled beer
+13,Item 8,pet care
+13,Item 8,dessert
+9,Item 8,misc. beverages
+9,Item 8,toilet cleaner
+13,Item 8,semi-finished bread
+16,Item 8,coffee
+9,Item 8,baby cosmetics
+16,Item 8,yogurt
+15,Item 8,brown bread
+17,Item 8,frozen fish
+14,Item 8,dessert
+15,Item 8,flour
+10,Item 8,specialty bar
+8,Item 8,whisky
+14,Item 8,processed cheese
+8,Item 8,canned beer
+16,Item 8,roll products
+9,Item 8,pet care
+12,Item 8,specialty vegetables
+10,Item 8,spread cheese
+14,Item 8,fruit/vegetable juice
+18,Item 8,whole milk
+13,Item 8,whole milk
+11,Item 8,bathroom cleaner
+10,Item 8,female sanitary products
+9,Item 8,pickled vegetables
+9,Item 8,curd cheese
+9,Item 8,mustard
+8,Item 8,pet care
+8,Item 8,rolls/buns
+11,Item 8,canned vegetables
+15,Item 8,frozen meals
+17,Item 8,uht-milk
+18,Item 8,frozen meals
+10,Item 8,whole milk
+9,Item 8,canned fish
+12,Item 8,dog food
+9,Item 8,cake bar
+9,Item 8,seasonal products
+13,Item 8,butter
+19,Item 8,zwieback
+13,Item 8,potato products
+14,Item 8,sugar
+12,Item 8,domestic eggs
+12,Item 8,seasonal products
+14,Item 8,potato products
+10,Item 8,brandy
+14,Item 8,ice cream
+15,Item 8,sliced cheese
+11,Item 8,misc. beverages
+10,Item 8,hard cheese
+19,Item 8,spread cheese
+13,Item 8,pickled vegetables
+13,Item 8,instant coffee
+10,Item 8,chewing gum
+21,Item 8,curd
+10,Item 8,frozen meals
+10,Item 8,sugar
+14,Item 8,pastry
+13,Item 8,brown bread
+16,Item 8,herbs
+10,Item 8,softener
+12,Item 8,other vegetables
+22,Item 8,whole milk
+11,Item 8,seasonal products
+14,Item 8,semi-finished bread
+14,Item 8,spices
+18,Item 8,yogurt
+10,Item 8,flour
+10,Item 8,cooking chocolate
+21,Item 8,butter
+13,Item 8,cream cheese
+8,Item 8,baking powder
+11,Item 8,specialty chocolate
+15,Item 8,butter
+11,Item 8,mayonnaise
+12,Item 8,curd cheese
+11,Item 8,zwieback
+10,Item 8,instant coffee
+15,Item 8,pasta
+11,Item 8,hard cheese
+19,Item 8,whole milk
+8,Item 8,liqueur
+20,Item 8,whole milk
+12,Item 8,semi-finished bread
+27,Item 8,onions
+20,Item 8,white bread
+13,Item 8,condensed milk
+19,Item 8,sliced cheese
+11,Item 8,popcorn
+14,Item 8,soda
+13,Item 8,whipped/sour cream
+10,Item 8,cocoa drinks
+9,Item 8,cleaner
+13,Item 8,softener
+9,Item 8,frozen chicken
+9,Item 8,dishes
+10,Item 8,detergent
+10,Item 8,red/blush wine
+15,Item 8,instant coffee
+16,Item 8,whole milk
+9,Item 8,candy
+12,Item 8,ice cream
+8,Item 8,cereals
+17,Item 8,dessert
+12,Item 8,brown bread
+10,Item 8,domestic eggs
+8,Item 8,cake bar
+10,Item 8,chocolate marshmallow
+12,Item 8,sauces
+14,Item 8,sweet spreads
+12,Item 8,pet care
+8,Item 8,male cosmetics
+15,Item 8,uht-milk
+9,Item 8,canned vegetables
+10,Item 8,cake bar
+14,Item 8,frozen fruits
+8,Item 8,bags
+10,Item 8,white wine
+8,Item 8,soap
+8,Item 8,canned vegetables
+14,Item 8,specialty cheese
+10,Item 8,sparkling wine
+13,Item 8,cat food
+8,Item 8,bathroom cleaner
+9,Item 8,liquor
+13,Item 8,misc. beverages
+9,Item 8,jam
+17,Item 8,coffee
+9,Item 8,white bread
+12,Item 8,tea
+10,Item 8,baking powder
+16,Item 8,potato products
+9,Item 8,spices
+11,Item 8,ketchup
+8,Item 8,kitchen towels
+13,Item 8,frozen meals
+10,Item 8,chocolate
+13,Item 8,ketchup
+21,Item 8,frozen vegetables
+10,Item 8,liquor (appetizer)
+21,Item 8,pastry
+28,Item 8,soft cheese
+16,Item 8,butter
+9,Item 8,pasta
+9,Item 8,rice
+9,Item 8,rum
+9,Item 8,whipped/sour cream
+10,Item 8,skin care
+9,Item 8,sparkling wine
+16,Item 8,flour
+15,Item 8,roll products
+11,Item 8,tea
+12,Item 8,specialty cheese
+15,Item 8,soft cheese
+9,Item 8,baking powder
+8,Item 8,syrup
+11,Item 8,abrasive cleaner
+9,Item 8,ketchup
+11,Item 8,canned fish
+14,Item 8,brown bread
+12,Item 8,flour
+12,Item 8,white wine
+18,Item 8,frozen fish
+11,Item 8,frozen meals
+14,Item 8,frozen vegetables
+9,Item 8,ready soups
+11,Item 8,dish cleaner
+15,Item 8,baking powder
+10,Item 8,tea
+8,Item 8,cocoa drinks
+8,Item 8,liquor (appetizer)
+10,Item 8,soups
+9,Item 8,cling film/bags
+20,Item 8,yogurt
+13,Item 8,fruit/vegetable juice
+16,Item 8,soda
+10,Item 8,yogurt
+11,Item 8,sweet spreads
+11,Item 8,potato products
+16,Item 8,brown bread
+19,Item 8,pasta
+11,Item 8,specialty vegetables
+13,Item 8,ice cream
+11,Item 8,pet care
+11,Item 8,sauces
+15,Item 8,organic products
+23,Item 8,butter milk
+9,Item 8,yogurt
+18,Item 8,curd
+12,Item 8,salt
+14,Item 8,margarine
+16,Item 8,other vegetables
+8,Item 8,sugar
+11,Item 8,sparkling wine
+9,Item 8,hair spray
+11,Item 8,instant coffee
+19,Item 8,butter
+9,Item 8,house keeping products
+14,Item 8,ready soups
+12,Item 8,canned vegetables
+10,Item 8,male cosmetics
+16,Item 8,bottled water
+8,Item 8,cooking chocolate
+9,Item 8,chocolate marshmallow
+8,Item 8,margarine
+8,Item 8,liquor
+17,Item 8,hard cheese
+16,Item 8,processed cheese
+11,Item 8,oil
+9,Item 8,popcorn
+14,Item 8,butter
+9,Item 8,uht-milk
+10,Item 8,hygiene articles
+8,Item 8,honey
+12,Item 8,instant food products
+14,Item 8,beverages
+12,Item 8,whole milk
+21,Item 8,sliced cheese
+13,Item 8,cake bar
+8,Item 8,canned fish
+17,Item 8,curd cheese
+12,Item 8,butter
+9,Item 8,nut snack
+13,Item 8,frozen vegetables
+18,Item 8,uht-milk
+11,Item 8,frozen fish
+15,Item 8,herbs
+8,Item 8,semi-finished bread
+24,Item 8,whipped/sour cream
+10,Item 8,cling film/bags
+11,Item 8,butter
+13,Item 8,beverages
+11,Item 8,ice cream
+10,Item 8,frozen potato products
+13,Item 8,rice
+20,Item 8,sliced cheese
+10,Item 8,popcorn
+16,Item 8,specialty cheese
+12,Item 8,dessert
+11,Item 8,honey
+16,Item 8,cereals
+13,Item 8,oil
+20,Item 8,other vegetables
+10,Item 8,mayonnaise
+10,Item 8,jam
+13,Item 8,syrup
+18,Item 8,curd cheese
+10,Item 8,sliced cheese
+18,Item 8,tidbits
+21,Item 8,yogurt
+8,Item 8,popcorn
+11,Item 8,curd
+10,Item 8,vinegar
+12,Item 8,potato products
+12,Item 8,frozen fish
+11,Item 8,cream cheese
+9,Item 8,decalcifier
+10,Item 8,curd cheese
+11,Item 8,uht-milk
+15,Item 8,margarine
+15,Item 8,canned fish
+22,Item 8,berries
+10,Item 8,processed cheese
+14,Item 8,long life bakery product
+23,Item 8,beverages
+10,Item 8,zwieback
+10,Item 8,instant food products
+14,Item 8,salt
+10,Item 8,meat spreads
+13,Item 8,soft cheese
+15,Item 8,condensed milk
+12,Item 8,zwieback
+9,Item 9,dishes
+11,Item 9,waffles
+13,Item 9,cereals
+10,Item 9,bottled water
+10,Item 9,baking powder
+10,Item 9,fruit/vegetable juice
+9,Item 9,chocolate
+9,Item 9,shopping bags
+10,Item 9,oil
+9,Item 9,bathroom cleaner
+10,Item 9,photo/film
+10,Item 9,chewing gum
+15,Item 9,domestic eggs
+10,Item 9,sugar
+9,Item 9,bottled beer
+23,Item 9,curd
+12,Item 9,hard cheese
+12,Item 9,rolls/buns
+9,Item 9,long life bakery product
+16,Item 9,salt
+11,Item 9,potato products
+9,Item 9,hygiene articles
+11,Item 9,soda
+12,Item 9,tea
+11,Item 9,margarine
+11,Item 9,pasta
+9,Item 9,newspapers
+9,Item 9,margarine
+13,Item 9,mustard
+9,Item 9,cleaner
+11,Item 9,misc. beverages
+9,Item 9,candy
+10,Item 9,specialty bar
+11,Item 9,candy
+10,Item 9,long life bakery product
+11,Item 9,dental care
+10,Item 9,hygiene articles
+14,Item 9,cream cheese
+11,Item 9,organic products
+17,Item 9,oil
+9,Item 9,chocolate marshmallow
+11,Item 9,hygiene articles
+13,Item 9,domestic eggs
+11,Item 9,rubbing alcohol
+9,Item 9,soda
+10,Item 9,chocolate
+9,Item 9,skin care
+10,Item 9,canned vegetables
+11,Item 9,oil
+11,Item 9,bottled beer
+9,Item 9,fruit/vegetable juice
+12,Item 9,rum
+10,Item 9,napkins
+11,Item 9,chocolate marshmallow
+9,Item 9,potted plants
+9,Item 9,bottled water
+17,Item 9,frozen vegetables
+9,Item 9,flower (seeds)
+13,Item 9,soda
+11,Item 9,cat food
+13,Item 9,pasta
+9,Item 9,sugar
+12,Item 9,margarine
+10,Item 9,dog food
+12,Item 9,coffee
+10,Item 9,white wine
+11,Item 9,hard cheese
+11,Item 9,bottled water
+13,Item 9,margarine
+12,Item 9,bottled water
+15,Item 9,spread cheese
+14,Item 9,rolls/buns
+12,Item 9,sliced cheese
+14,Item 9,frozen vegetables
+15,Item 9,bottled water
+15,Item 9,sugar
+19,Item 9,whipped/sour cream
+9,Item 9,zwieback
+9,Item 9,salty snack
+20,Item 9,mayonnaise
+16,Item 9,sugar
+16,Item 9,vinegar
+11,Item 9,house keeping products
+23,Item 9,whipped/sour cream
+10,Item 9,organic products
+10,Item 9,potted plants
+10,Item 9,sparkling wine
+18,Item 9,sliced cheese
+12,Item 9,curd cheese
+13,Item 9,yogurt
+13,Item 9,fruit/vegetable juice
+10,Item 9,salty snack
+10,Item 9,newspapers
+14,Item 9,pastry
+11,Item 9,instant coffee
+13,Item 9,sliced cheese
+11,Item 9,sauces
+21,Item 9,mayonnaise
+18,Item 9,pastry
+26,Item 9,butter milk
+11,Item 9,brown bread
+11,Item 9,popcorn
+10,Item 9,mustard
+16,Item 9,cat food
+17,Item 9,dessert
+9,Item 9,seasonal products
+10,Item 9,soda
+15,Item 9,specialty cheese
+9,Item 9,detergent
+11,Item 9,white bread
+9,Item 9,white wine
+11,Item 9,napkins
+14,Item 9,coffee
+10,Item 9,bottled beer
+15,Item 9,cream cheese
+9,Item 9,kitchen towels
+16,Item 9,margarine
+32,Item 9,root vegetables
+9,Item 9,canned beer
+15,Item 9,dessert
+10,Item 9,waffles
+9,Item 9,specialty bar
+19,Item 9,cream cheese
+12,Item 9,white bread
+10,Item 9,cookware
+13,Item 9,whipped/sour cream
+11,Item 9,coffee
+18,Item 9,baking powder
+17,Item 9,whole milk
+10,Item 9,brown bread
+14,Item 9,soft cheese
+9,Item 9,cat food
+11,Item 9,canned vegetables
+13,Item 9,flour
+10,Item 9,pastry
+14,Item 9,flour
+14,Item 9,brown bread
+17,Item 9,margarine
+17,Item 9,yogurt
+19,Item 9,sliced cheese
+12,Item 9,specialty bar
+12,Item 9,female sanitary products
+12,Item 9,bottled beer
+10,Item 9,hair spray
+15,Item 9,cat food
+15,Item 9,misc. beverages
+9,Item 9,baking powder
+11,Item 9,white wine
+15,Item 9,brown bread
+12,Item 9,fruit/vegetable juice
+13,Item 9,oil
+13,Item 9,semi-finished bread
+10,Item 9,canned fish
+9,Item 9,cling film/bags
+10,Item 9,margarine
+15,Item 9,rice
+9,Item 9,coffee
+11,Item 9,canned beer
+12,Item 9,whipped/sour cream
+9,Item 9,waffles
+17,Item 9,butter
+11,Item 9,pet care
+17,Item 9,flour
+11,Item 9,baking powder
+9,Item 9,female sanitary products
+10,Item 9,cat food
+9,Item 9,house keeping products
+10,Item 9,ice cream
+11,Item 9,red/blush wine
+12,Item 9,soda
+11,Item 9,frozen potato products
+21,Item 9,herbs
+16,Item 9,dessert
+14,Item 9,soda
+12,Item 9,long life bakery product
+15,Item 9,whipped/sour cream
+19,Item 9,whole milk
+12,Item 9,instant coffee
+10,Item 9,sweet spreads
+11,Item 9,fruit/vegetable juice
+10,Item 9,bathroom cleaner
+10,Item 9,canned fruit
+16,Item 9,specialty vegetables
+16,Item 9,mayonnaise
+17,Item 9,frozen meals
+11,Item 9,chocolate
+16,Item 9,white bread
+13,Item 9,white bread
+12,Item 9,baking powder
+22,Item 9,mayonnaise
+13,Item 9,cat food
+11,Item 9,soft cheese
+15,Item 9,soda
+9,Item 9,rolls/buns
+13,Item 9,rolls/buns
+9,Item 9,napkins
+16,Item 9,rolls/buns
+14,Item 9,domestic eggs
+22,Item 9,butter milk
+9,Item 9,dish cleaner
+12,Item 9,brown bread
+13,Item 9,bottled water
+9,Item 9,liquor (appetizer)
+11,Item 9,rolls/buns
+12,Item 9,sugar
+19,Item 9,salt
+10,Item 9,cling film/bags
+13,Item 9,processed cheese
+17,Item 9,processed cheese
+10,Item 9,flour
+16,Item 9,frozen vegetables
+16,Item 9,jam
+19,Item 9,rolls/buns
+10,Item 9,instant food products
+13,Item 9,brown bread
+11,Item 9,frozen meals
+10,Item 9,chocolate marshmallow
+14,Item 9,baking powder
+10,Item 9,light bulbs
+10,Item 9,coffee
+16,Item 9,yogurt
+9,Item 9,cake bar
+15,Item 9,sweet spreads
+16,Item 9,frozen dessert
+14,Item 9,white bread
+29,Item 9,yogurt
+23,Item 9,yogurt
+12,Item 9,cream cheese
+12,Item 9,salty snack
+11,Item 9,long life bakery product
+12,Item 9,specialty cheese
+20,Item 9,flour
+10,Item 9,rolls/buns
+13,Item 9,pickled vegetables
+12,Item 9,pickled vegetables
+14,Item 9,mayonnaise
+17,Item 9,sliced cheese
+12,Item 9,seasonal products
+15,Item 9,margarine
+11,Item 9,yogurt
+9,Item 9,candles
+12,Item 9,dental care
+12,Item 9,processed cheese
+12,Item 9,ice cream
+12,Item 9,spread cheese
+16,Item 9,frozen meals
+15,Item 9,vinegar
+10,Item 9,instant coffee
+14,Item 9,whipped/sour cream
+9,Item 9,red/blush wine
+11,Item 9,soups
+14,Item 9,butter milk
+9,Item 9,pastry
+18,Item 9,domestic eggs
+10,Item 9,sound storage medium
+13,Item 9,long life bakery product
+13,Item 9,frozen dessert
+9,Item 9,dental care
+13,Item 9,sugar
+16,Item 9,bottled water
+16,Item 9,domestic eggs
+16,Item 9,ice cream
+11,Item 9,sugar
+9,Item 9,popcorn
+14,Item 9,roll products
+17,Item 9,frozen dessert
+14,Item 9,yogurt
+10,Item 9,cleaner
+14,Item 9,frozen meals
+11,Item 9,jam
+16,Item 9,semi-finished bread
+12,Item 9,vinegar
+14,Item 9,bottled beer
+18,Item 9,yogurt
+13,Item 9,pastry
+9,Item 9,make up remover
+11,Item 9,detergent
+9,Item 9,pickled vegetables
+9,Item 9,sweet spreads
+15,Item 9,frozen chicken
+17,Item 9,soft cheese
+18,Item 9,white bread
+14,Item 9,oil
+19,Item 9,oil
+13,Item 9,baking powder
+14,Item 9,cat food
+14,Item 9,tidbits
+12,Item 9,napkins
+14,Item 9,rice
+10,Item 9,red/blush wine
+9,Item 9,kitchen utensil
+15,Item 9,hard cheese
+10,Item 9,domestic eggs
+15,Item 9,white bread
+19,Item 9,curd cheese
+13,Item 9,sweet spreads
+21,Item 9,butter milk
+10,Item 9,candy
+13,Item 9,canned vegetables
+16,Item 9,other vegetables
+9,Item 9,specialty chocolate
+12,Item 9,specialty chocolate
+10,Item 9,flower (seeds)
+12,Item 9,whole milk
+22,Item 9,pastry
+11,Item 9,hair spray
+14,Item 9,canned fish
+14,Item 9,pickled vegetables
+18,Item 9,whipped/sour cream
+14,Item 9,sliced cheese
+10,Item 9,specialty chocolate
+21,Item 9,uht-milk
+11,Item 9,rice
+11,Item 9,cereals
+11,Item 9,spices
+12,Item 9,domestic eggs
+13,Item 9,bottled beer
+15,Item 9,instant food products
+11,Item 9,specialty cheese
+19,Item 9,butter milk
+20,Item 9,dessert
+12,Item 9,pudding powder
+27,Item 9,whole milk
+20,Item 9,pastry
+19,Item 9,ice cream
+10,Item 9,soups
+14,Item 9,fruit/vegetable juice
+11,Item 9,specialty bar
+13,Item 9,condensed milk
+12,Item 9,liquor (appetizer)
+13,Item 9,female sanitary products
+14,Item 9,pasta
+14,Item 9,ice cream
+16,Item 9,spread cheese
+10,Item 9,jam
+12,Item 9,oil
+17,Item 9,butter milk
+12,Item 9,pastry
+10,Item 9,pickled vegetables
+10,Item 9,detergent
+9,Item 9,baby cosmetics
+12,Item 9,canned beer
+9,Item 9,roll products
+15,Item 9,rolls/buns
+11,Item 9,pastry
+16,Item 9,cream cheese
+17,Item 9,cream cheese
+13,Item 9,canned beer
+11,Item 9,instant food products
+10,Item 9,kitchen towels
+13,Item 9,pet care
+14,Item 9,butter
+15,Item 9,mayonnaise
+9,Item 9,male cosmetics
+17,Item 9,bottled water
+16,Item 9,rice
+9,Item 9,rice
+13,Item 9,instant food products
+12,Item 9,frozen vegetables
+21,Item 9,semi-finished bread
+11,Item 9,pickled vegetables
+28,Item 9,cream cheese
+13,Item 9,coffee
+23,Item 9,dessert
+9,Item 9,mayonnaise
+11,Item 9,salt
+16,Item 9,whipped/sour cream
+17,Item 9,curd
+10,Item 9,sauces
+11,Item 9,cleaner
+11,Item 9,liquor
+12,Item 9,specialty fat
+18,Item 9,rolls/buns
+16,Item 9,brown bread
+10,Item 9,dishes
+13,Item 9,misc. beverages
+10,Item 9,canned beer
+15,Item 9,long life bakery product
+15,Item 9,sauces
+10,Item 9,dental care
+13,Item 9,pudding powder
+11,Item 9,mustard
+10,Item 9,cake bar
+12,Item 9,flour
+17,Item 9,uht-milk
+20,Item 9,whipped/sour cream
+13,Item 9,red/blush wine
+16,Item 9,syrup
+20,Item 9,frozen meals
+16,Item 9,baking powder
+14,Item 9,processed cheese
+11,Item 9,salty snack
+19,Item 9,margarine
+15,Item 9,pickled vegetables
+10,Item 9,nut snack
+23,Item 9,domestic eggs
+9,Item 9,rum
+12,Item 9,canned vegetables
+14,Item 9,canned beer
+17,Item 9,hard cheese
+9,Item 9,light bulbs
+10,Item 9,cooking chocolate
+16,Item 9,whole milk
+15,Item 9,semi-finished bread
+9,Item 9,syrup
+13,Item 9,canned fish
+12,Item 9,white wine
+11,Item 9,softener
+9,Item 9,soap
+16,Item 9,cereals
+19,Item 9,processed cheese
+14,Item 9,bottled water
+12,Item 9,sweet spreads
+16,Item 9,soda
+9,Item 9,flower soil/fertilizer
+11,Item 9,domestic eggs
+13,Item 9,soups
+9,Item 9,misc. beverages
+15,Item 9,yogurt
+18,Item 9,frozen vegetables
+11,Item 9,vinegar
+12,Item 9,semi-finished bread
+15,Item 9,mustard
+14,Item 9,curd
+9,Item 9,brown bread
+16,Item 9,butter
+20,Item 9,hard cheese
+9,Item 9,sparkling wine
+12,Item 9,salt
+21,Item 9,cream cheese
+21,Item 9,ice cream
+13,Item 9,specialty chocolate
+11,Item 9,mayonnaise
+10,Item 9,potato products
+21,Item 9,spread cheese
+9,Item 9,abrasive cleaner
+10,Item 9,skin care
+12,Item 9,zwieback
+9,Item 9,photo/film
+11,Item 9,sparkling wine
+12,Item 9,yogurt
+16,Item 9,butter milk
+11,Item 9,dish cleaner
+15,Item 9,other vegetables
+12,Item 9,meat spreads
+24,Item 9,processed cheese
+12,Item 9,roll products
+10,Item 9,house keeping products
+11,Item 9,female sanitary products
+11,Item 9,spread cheese
+20,Item 9,frozen vegetables
+12,Item 9,butter milk
+16,Item 9,pickled vegetables
+12,Item 9,cake bar
+15,Item 9,pasta
+21,Item 9,rolls/buns
+19,Item 9,brown bread
+20,Item 9,whole milk
+9,Item 9,cooking chocolate
+11,Item 9,zwieback
+18,Item 9,roll products
+18,Item 9,frozen potato products
+21,Item 9,whipped/sour cream
+11,Item 9,semi-finished bread
+29,Item 9,curd
+11,Item 9,roll products
+10,Item 9,popcorn
+12,Item 9,soups
+9,Item 9,tea
+10,Item 9,frozen vegetables
+22,Item 9,other vegetables
+12,Item 9,pasta
+15,Item 9,pastry
+10,Item 9,whipped/sour cream
+11,Item 9,condensed milk
+14,Item 9,waffles
+14,Item 9,zwieback
+23,Item 9,hard cheese
+11,Item 9,cream cheese
+14,Item 9,margarine
+12,Item 9,curd
+17,Item 9,whipped/sour cream
+14,Item 9,semi-finished bread
+10,Item 9,rum
+11,Item 10,candy
+13,Item 10,coffee
+10,Item 10,long life bakery product
+10,Item 10,fruit/vegetable juice
+10,Item 10,bathroom cleaner
+10,Item 10,detergent
+10,Item 10,shopping bags
+10,Item 10,dishes
+15,Item 10,rice
+10,Item 10,baking powder
+23,Item 10,yogurt
+12,Item 10,rolls/buns
+12,Item 10,brown bread
+16,Item 10,sugar
+11,Item 10,bottled water
+11,Item 10,chocolate
+12,Item 10,soda
+11,Item 10,baking powder
+11,Item 10,soda
+10,Item 10,misc. beverages
+13,Item 10,pickled vegetables
+11,Item 10,specialty chocolate
+11,Item 10,napkins
+11,Item 10,hygiene articles
+10,Item 10,photo/film
+14,Item 10,white bread
+11,Item 10,misc. beverages
+10,Item 10,bottled beer
+17,Item 10,mustard
+13,Item 10,cereals
+10,Item 10,newspapers
+11,Item 10,coffee
+12,Item 10,liquor (appetizer)
+10,Item 10,napkins
+10,Item 10,cling film/bags
+11,Item 10,soap
+11,Item 10,fruit/vegetable juice
+10,Item 10,soda
+14,Item 10,frozen dessert
+17,Item 10,rolls/buns
+13,Item 10,misc. beverages
+13,Item 10,soups
+12,Item 10,coffee
+10,Item 10,canned beer
+10,Item 10,red/blush wine
+13,Item 10,sugar
+15,Item 10,frozen potato products
+14,Item 10,brown bread
+12,Item 10,ice cream
+12,Item 10,pastry
+14,Item 10,ice cream
+15,Item 10,fruit/vegetable juice
+15,Item 10,mustard
+19,Item 10,ice cream
+10,Item 10,rum
+17,Item 10,domestic eggs
+20,Item 10,brown bread
+16,Item 10,baking powder
+16,Item 10,oil
+11,Item 10,potted plants
+23,Item 10,hard cheese
+10,Item 10,chocolate marshmallow
+10,Item 10,hygiene articles
+18,Item 10,hard cheese
+12,Item 10,rice
+13,Item 10,domestic eggs
+13,Item 10,chocolate
+15,Item 10,frozen vegetables
+14,Item 10,soda
+11,Item 10,waffles
+13,Item 10,processed cheese
+14,Item 10,pasta
+15,Item 10,soda
+11,Item 10,rum
+21,Item 10,frozen vegetables
+18,Item 10,semi-finished bread
+11,Item 10,salty snack
+26,Item 10,yogurt
+13,Item 10,salty snack
+11,Item 10,margarine
+11,Item 10,chewing gum
+10,Item 10,coffee
+16,Item 10,pet care
+17,Item 10,whipped/sour cream
+10,Item 10,cake bar
+15,Item 10,brown bread
+11,Item 10,cookware
+11,Item 10,light bulbs
+14,Item 10,bottled water
+10,Item 10,chocolate
+10,Item 10,chewing gum
+15,Item 10,domestic eggs
+12,Item 10,misc. beverages
+32,Item 10,other vegetables
+15,Item 10,butter milk
+19,Item 10,vinegar
+13,Item 10,beverages
+11,Item 10,popcorn
+12,Item 10,canned beer
+18,Item 10,jam
+17,Item 10,butter
+10,Item 10,cleaner
+10,Item 10,margarine
+10,Item 10,flower (seeds)
+14,Item 10,sliced cheese
+11,Item 10,bottled beer
+13,Item 10,ketchup
+11,Item 10,sugar
+14,Item 10,oil
+14,Item 10,jam
+14,Item 10,sugar
+17,Item 10,soda
+17,Item 10,cream cheese
+19,Item 10,frozen vegetables
+12,Item 10,hygiene articles
+12,Item 10,newspapers
+12,Item 10,long life bakery product
+15,Item 10,coffee
+15,Item 10,salty snack
+15,Item 10,pastry
+10,Item 10,house keeping products
+12,Item 10,waffles
+13,Item 10,oil
+13,Item 10,fruit/vegetable juice
+10,Item 10,potted plants
+13,Item 10,margarine
+15,Item 10,margarine
+11,Item 10,male cosmetics
+12,Item 10,cream cheese
+12,Item 10,white bread
+17,Item 10,frozen vegetables
+12,Item 10,bottled water
+17,Item 10,fruit/vegetable juice
+11,Item 10,long life bakery product
+11,Item 10,cake bar
+21,Item 10,other vegetables
+16,Item 10,yogurt
+14,Item 10,bottled beer
+12,Item 10,specialty chocolate
+15,Item 10,soft cheese
+19,Item 10,butter
+11,Item 10,softener
+10,Item 10,soap
+16,Item 10,coffee
+16,Item 10,margarine
+17,Item 10,brown bread
+11,Item 10,specialty bar
+16,Item 10,semi-finished bread
+13,Item 10,pastry
+10,Item 10,cookware
+11,Item 10,kitchen towels
+22,Item 10,ice cream
+13,Item 10,bottled water
+11,Item 10,cat food
+13,Item 10,brown bread
+11,Item 10,brandy
+15,Item 10,sugar
+11,Item 10,sweet spreads
+22,Item 10,yogurt
+11,Item 10,red/blush wine
+10,Item 10,instant coffee
+14,Item 10,chewing gum
+13,Item 10,bottled beer
+11,Item 10,seasonal products
+12,Item 10,fruit/vegetable juice
+19,Item 10,specialty fat
+11,Item 10,newspapers
+13,Item 10,rolls/buns
+11,Item 10,dog food
+10,Item 10,specialty chocolate
+16,Item 10,white bread
+16,Item 10,soda
+19,Item 10,brown bread
+11,Item 10,domestic eggs
+10,Item 10,kitchen towels
+10,Item 10,candy
+10,Item 10,dental care
+16,Item 10,rolls/buns
+15,Item 10,canned fish
+14,Item 10,fruit/vegetable juice
+29,Item 10,whipped/sour cream
+23,Item 10,whipped/sour cream
+11,Item 10,tea
+12,Item 10,meat spreads
+12,Item 10,dog food
+20,Item 10,margarine
+10,Item 10,pastry
+12,Item 10,bottled beer
+12,Item 10,chocolate
+17,Item 10,hard cheese
+12,Item 10,dental care
+14,Item 10,rolls/buns
+15,Item 10,soups
+11,Item 10,frozen dessert
+10,Item 10,waffles
+16,Item 10,brown bread
+15,Item 10,oil
+10,Item 10,seasonal products
+12,Item 10,syrup
+14,Item 10,salad dressing
+14,Item 10,frozen vegetables
+13,Item 10,soda
+13,Item 10,cocoa drinks
+18,Item 10,rolls/buns
+12,Item 10,salty snack
+13,Item 10,detergent
+13,Item 10,baking powder
+16,Item 10,canned beer
+16,Item 10,pickled vegetables
+11,Item 10,jam
+14,Item 10,flour
+17,Item 10,white bread
+14,Item 10,soft cheese
+15,Item 10,cat food
+14,Item 10,domestic eggs
+16,Item 10,cat food
+10,Item 10,bottled water
+14,Item 10,chocolate
+18,Item 10,whipped/sour cream
+13,Item 10,frozen meals
+11,Item 10,dishes
+11,Item 10,liquor
+11,Item 10,chocolate marshmallow
+10,Item 10,dish cleaner
+17,Item 10,frozen meals
+18,Item 10,pasta
+10,Item 10,candles
+17,Item 10,coffee
+14,Item 10,liquor (appetizer)
+12,Item 10,brandy
+14,Item 10,pastry
+14,Item 10,instant food products
+11,Item 10,pastry
+19,Item 10,margarine
+14,Item 10,coffee
+12,Item 10,house keeping products
+10,Item 10,sparkling wine
+14,Item 10,salt
+15,Item 10,cream cheese
+11,Item 10,vinegar
+13,Item 10,cat food
+21,Item 10,yogurt
+14,Item 10,margarine
+13,Item 10,sweet spreads
+16,Item 10,whole milk
+12,Item 10,chocolate marshmallow
+12,Item 10,domestic eggs
+22,Item 10,roll products
+14,Item 10,cat food
+10,Item 10,pickled vegetables
+10,Item 10,male cosmetics
+21,Item 10,specialty cheese
+12,Item 10,canned fish
+10,Item 10,salty snack
+12,Item 10,cat food
+10,Item 10,skin care
+11,Item 10,house keeping products
+15,Item 10,yogurt
+14,Item 10,beverages
+12,Item 10,baking powder
+13,Item 10,long life bakery product
+12,Item 10,canned fruit
+15,Item 10,canned fruit
+11,Item 10,rice
+19,Item 10,yogurt
+20,Item 10,sliced cheese
+27,Item 10,butter
+20,Item 10,semi-finished bread
+13,Item 10,salt
+19,Item 10,white bread
+10,Item 10,sauces
+14,Item 10,red/blush wine
+11,Item 10,female sanitary products
+13,Item 10,instant coffee
+13,Item 10,napkins
+12,Item 10,sweet spreads
+10,Item 10,cat food
+17,Item 10,yogurt
+12,Item 10,semi-finished bread
+11,Item 10,mustard
+10,Item 10,softener
+12,Item 10,cake bar
+11,Item 10,pickled vegetables
+13,Item 10,hard cheese
+16,Item 10,domestic eggs
+10,Item 10,specialty bar
+14,Item 10,pickled vegetables
+11,Item 10,canned fruit
+12,Item 10,frozen meals
+15,Item 10,frozen meals
+13,Item 10,red/blush wine
+14,Item 10,roll products
+15,Item 10,mayonnaise
+13,Item 10,semi-finished bread
+21,Item 10,zwieback
+11,Item 10,canned fish
+12,Item 10,frozen fish
+21,Item 10,oil
+28,Item 10,specialty cheese
+12,Item 10,sugar
+16,Item 10,hard cheese
+10,Item 10,popcorn
+12,Item 10,chewing gum
+13,Item 10,liquor
+12,Item 10,specialty vegetables
+12,Item 10,detergent
+18,Item 10,brown bread
+16,Item 10,pastry
+12,Item 10,frozen vegetables
+15,Item 10,waffles
+15,Item 10,canned vegetables
+11,Item 10,candles
+17,Item 10,sliced cheese
+12,Item 10,oil
+17,Item 10,spread cheese
+12,Item 10,zwieback
+20,Item 10,frozen potato products
+16,Item 10,dog food
+15,Item 10,rolls/buns
+19,Item 10,sugar
+11,Item 10,canned beer
+12,Item 10,margarine
+23,Item 10,rolls/buns
+14,Item 10,cake bar
+15,Item 10,spices
+10,Item 10,abrasive cleaner
+15,Item 10,salt
+12,Item 10,popcorn
+11,Item 10,pasta
+19,Item 10,spread cheese
+11,Item 10,dish cleaner
+16,Item 10,red/blush wine
+11,Item 10,cooking chocolate
+10,Item 10,organic products
+15,Item 10,spread cheese
+17,Item 10,frozen dessert
+14,Item 10,dog food
+12,Item 10,pickled vegetables
+16,Item 10,frozen meals
+16,Item 10,salt
+16,Item 10,soft cheese
+16,Item 10,frozen potato products
+14,Item 10,yogurt
+16,Item 10,whipped/sour cream
+20,Item 10,frozen vegetables
+13,Item 10,rice
+21,Item 10,mustard
+13,Item 10,specialty bar
+11,Item 10,rolls/buns
+21,Item 10,pastry
+12,Item 10,toilet cleaner
+10,Item 10,light bulbs
+18,Item 10,mustard
+15,Item 10,whole milk
+12,Item 10,cling film/bags
+13,Item 10,pet care
+24,Item 10,frozen vegetables
+11,Item 10,oil
+13,Item 10,cake bar
+12,Item 10,nut snack
+20,Item 10,white bread
+12,Item 10,uht-milk
+11,Item 10,soups
+16,Item 10,canned fish
+12,Item 10,seasonal products
+15,Item 10,specialty vegetables
+21,Item 10,white bread
+19,Item 10,pasta
+20,Item 10,butter
+13,Item 10,cleaner
+19,Item 10,processed cheese
+21,Item 10,uht-milk
+12,Item 10,instant food products
+11,Item 10,syrup
+14,Item 10,misc. beverages
+29,Item 10,yogurt
+13,Item 10,canned vegetables
+11,Item 10,whipped/sour cream
+16,Item 10,frozen fish
+14,Item 10,semi-finished bread
+11,Item 10,brown bread
+16,Item 10,cream cheese
+10,Item 10,rolls/buns
+11,Item 10,canned vegetables
+15,Item 10,ready soups
+15,Item 10,bottled beer
+11,Item 10,cocoa drinks
+22,Item 10,curd
+14,Item 10,rice
+11,Item 10,white bread
+14,Item 10,cleaner
+14,Item 10,soups
+23,Item 10,frozen vegetables
+11,Item 10,semi-finished bread
+14,Item 10,canned fish
+11,Item 10,decalcifier
+12,Item 10,whipped/sour cream
+14,Item 10,waffles
+11,Item 10,nut snack
+15,Item 10,white bread
+17,Item 10,soft cheese
+11,Item 11,bathroom cleaner
+13,Item 11,soda
+15,Item 11,sugar
+23,Item 11,whipped/sour cream
+12,Item 11,dish cleaner
+12,Item 11,tea
+16,Item 11,cereals
+11,Item 11,bottled beer
+11,Item 11,newspapers
+12,Item 11,hygiene articles
+11,Item 11,waffles
+11,Item 11,fruit/vegetable juice
+13,Item 11,canned beer
+11,Item 11,detergent
+11,Item 11,cling film/bags
+14,Item 11,coffee
+11,Item 11,napkins
+17,Item 11,cat food
+11,Item 11,shopping bags
+13,Item 11,baking powder
+11,Item 11,potted plants
+12,Item 11,candy
+14,Item 11,domestic eggs
+17,Item 11,margarine
+13,Item 11,candy
+11,Item 11,candles
+12,Item 11,fruit/vegetable juice
+12,Item 11,sparkling wine
+13,Item 11,rum
+15,Item 11,brown bread
+14,Item 11,bottled water
+12,Item 11,rolls/buns
+12,Item 11,sugar
+14,Item 11,pastry
+15,Item 11,white wine
+15,Item 11,salty snack
+19,Item 11,pastry
+17,Item 11,pastry
+20,Item 11,pastry
+16,Item 11,coffee
+23,Item 11,frozen vegetables
+18,Item 11,domestic eggs
+12,Item 11,vinegar
+13,Item 11,white bread
+13,Item 11,hygiene articles
+15,Item 11,pastry
+14,Item 11,fruit/vegetable juice
+14,Item 11,sugar
+11,Item 11,dish cleaner
+13,Item 11,rolls/buns
+14,Item 11,specialty vegetables
+11,Item 11,skin care
+21,Item 11,pastry
+18,Item 11,soda
+26,Item 11,whipped/sour cream
+13,Item 11,seasonal products
+11,Item 11,cat food
+17,Item 11,uht-milk
+15,Item 11,canned vegetables
+14,Item 11,soda
+15,Item 11,flour
+12,Item 11,long life bakery product
+16,Item 11,soda
+32,Item 11,whole milk
+12,Item 11,waffles
+15,Item 11,whipped/sour cream
+19,Item 11,oil
+12,Item 11,pastry
+13,Item 11,brown bread
+11,Item 11,house keeping products
+18,Item 11,coffee
+17,Item 11,butter milk
+14,Item 11,ice cream
+11,Item 11,female sanitary products
+13,Item 11,misc. beverages
+13,Item 11,coffee
+14,Item 11,misc. beverages
+17,Item 11,salty snack
+17,Item 11,frozen vegetables
+19,Item 11,white bread
+12,Item 11,newspapers
+11,Item 11,chocolate
+12,Item 11,potted plants
+12,Item 11,seasonal products
+15,Item 11,bottled water
+15,Item 11,long life bakery product
+15,Item 11,pickled vegetables
+12,Item 11,decalcifier
+13,Item 11,waffles
+13,Item 11,pickled vegetables
+15,Item 11,detergent
+15,Item 11,canned fruit
+11,Item 11,flower (seeds)
+12,Item 11,brown bread
+17,Item 11,sauces
+17,Item 11,bottled beer
+11,Item 11,chewing gum
+11,Item 11,specialty chocolate
+12,Item 11,specialty bar
+11,Item 11,seasonal products
+21,Item 11,whole milk
+16,Item 11,frozen vegetables
+14,Item 11,canned beer
+15,Item 11,frozen potato products
+19,Item 11,whipped/sour cream
+12,Item 11,bottled beer
+16,Item 11,bottled water
+16,Item 11,jam
+17,Item 11,semi-finished bread
+11,Item 11,dishes
+16,Item 11,cat food
+15,Item 11,fruit/vegetable juice
+13,Item 11,bottled water
+12,Item 11,kitchen towels
+22,Item 11,frozen dessert
+15,Item 11,syrup
+13,Item 11,margarine
+15,Item 11,coffee
+16,Item 11,specialty fat
+11,Item 11,softener
+14,Item 11,sweet spreads
+12,Item 11,canned vegetables
+22,Item 11,mayonnaise
+14,Item 11,male cosmetics
+12,Item 11,oil
+11,Item 11,hygiene articles
+12,Item 11,chocolate
+19,Item 11,sugar
+13,Item 11,pastry
+17,Item 11,bottled water
+16,Item 11,brown bread
+16,Item 11,liquor (appetizer)
+11,Item 11,salty snack
+14,Item 11,rum
+16,Item 11,margarine
+15,Item 11,soda
+16,Item 11,instant food products
+14,Item 11,long life bakery product
+29,Item 11,sliced cheese
+23,Item 11,cream cheese
+12,Item 11,bottled water
+12,Item 11,napkins
+20,Item 11,canned vegetables
+16,Item 11,pastry
+14,Item 11,baking powder
+12,Item 11,male cosmetics
+17,Item 11,roll products
+11,Item 11,candy
+15,Item 11,soups
+12,Item 11,margarine
+12,Item 11,dog food
+15,Item 11,margarine
+12,Item 11,skin care
+14,Item 11,frozen dessert
+13,Item 11,salty snack
+18,Item 11,white bread
+13,Item 11,napkins
+13,Item 11,specialty bar
+13,Item 11,canned vegetables
+13,Item 11,canned fish
+16,Item 11,specialty chocolate
+16,Item 11,canned fish
+15,Item 11,canned beer
+14,Item 11,pasta
+14,Item 11,frozen vegetables
+14,Item 11,brown bread
+11,Item 11,liquor (appetizer)
+12,Item 11,dental care
+12,Item 11,cake bar
+14,Item 11,specialty chocolate
+18,Item 11,beverages
+13,Item 11,frozen fish
+11,Item 11,kitchen towels
+17,Item 11,brown bread
+18,Item 11,pickled vegetables
+14,Item 11,waffles
+12,Item 11,softener
+14,Item 11,salt
+11,Item 11,margarine
+19,Item 11,organic products
+13,Item 11,specialty chocolate
+14,Item 11,bottled beer
+14,Item 11,rolls/buns
+12,Item 11,photo/film
+15,Item 11,specialty cheese
+11,Item 11,baking powder
+13,Item 11,bottled beer
+12,Item 11,cookware
+21,Item 11,whipped/sour cream
+16,Item 11,butter milk
+12,Item 11,canned beer
+22,Item 11,oil
+18,Item 11,mayonnaise
+11,Item 11,soda
+12,Item 11,misc. beverages
+11,Item 11,popcorn
+14,Item 11,soft cheese
+12,Item 11,coffee
+13,Item 11,dental care
+11,Item 11,cereals
+12,Item 11,pickled vegetables
+11,Item 11,sugar
+19,Item 11,specialty cheese
+20,Item 11,rolls/buns
+12,Item 11,salty snack
+27,Item 11,yogurt
+20,Item 11,pickled vegetables
+13,Item 11,soups
+19,Item 11,coffee
+11,Item 11,specialty bar
+12,Item 11,detergent
+14,Item 11,snack products
+13,Item 11,long life bakery product
+12,Item 11,soda
+13,Item 11,kitchen towels
+14,Item 11,ketchup
+14,Item 11,spices
+12,Item 11,cling film/bags
+17,Item 11,cream cheese
+11,Item 11,bottled water
+14,Item 11,tea
+15,Item 11,mustard
+13,Item 11,frozen vegetables
+16,Item 11,white bread
+17,Item 11,rice
+13,Item 11,cling film/bags
+11,Item 11,jam
+12,Item 11,frozen fish
+14,Item 11,cereals
+14,Item 11,roll products
+15,Item 11,domestic eggs
+14,Item 11,detergent
+17,Item 11,misc. beverages
+14,Item 11,sauces
+13,Item 11,spices
+13,Item 11,dish cleaner
+12,Item 11,ice cream
+21,Item 11,flour
+11,Item 11,tea
+21,Item 11,mustard
+28,Item 11,domestic eggs
+14,Item 11,margarine
+12,Item 11,cat food
+16,Item 11,domestic eggs
+23,Item 11,soft cheese
+16,Item 11,ketchup
+15,Item 11,misc. beverages
+11,Item 11,ketchup
+17,Item 11,sliced cheese
+15,Item 11,potato products
+14,Item 11,mustard
+18,Item 11,pastry
+16,Item 11,chocolate
+12,Item 11,domestic eggs
+13,Item 11,liquor (appetizer)
+15,Item 11,chocolate
+13,Item 11,skin care
+17,Item 11,frozen meals
+17,Item 11,domestic eggs
+12,Item 11,chewing gum
+20,Item 11,hard cheese
+16,Item 11,waffles
+11,Item 11,long life bakery product
+19,Item 11,pudding powder
+13,Item 11,abrasive cleaner
+12,Item 11,soups
+23,Item 11,pastry
+12,Item 11,specialty chocolate
+18,Item 11,cream cheese
+14,Item 11,dish cleaner
+16,Item 11,whipped/sour cream
+15,Item 11,baking powder
+11,Item 11,flower soil/fertilizer
+16,Item 11,nut snack
+19,Item 11,salad dressing
+13,Item 11,sugar
+16,Item 11,sparkling wine
+15,Item 11,rolls/buns
+18,Item 11,sugar
+15,Item 11,semi-finished bread
+16,Item 11,oil
+16,Item 11,sliced cheese
+16,Item 11,hard cheese
+14,Item 11,frozen fish
+21,Item 11,frozen fish
+13,Item 11,vinegar
+21,Item 11,spices
+21,Item 11,canned fish
+14,Item 11,instant coffee
+17,Item 11,rolls/buns
+13,Item 11,chocolate
+14,Item 11,specialty bar
+11,Item 11,cooking chocolate
+18,Item 11,ketchup
+12,Item 11,cleaner
+15,Item 11,butter
+24,Item 11,frozen dessert
+11,Item 11,chocolate marshmallow
+11,Item 11,semi-finished bread
+20,Item 11,dog food
+16,Item 11,liquor
+16,Item 11,dog food
+15,Item 11,sweet spreads
+21,Item 11,brown bread
+13,Item 11,fruit/vegetable juice
+17,Item 11,sugar
+20,Item 11,whipped/sour cream
+13,Item 11,bathroom cleaner
+18,Item 11,oil
+19,Item 11,frozen vegetables
+21,Item 11,domestic eggs
+14,Item 11,salty snack
+14,Item 11,chocolate
+29,Item 11,cream
+13,Item 11,cake bar
+11,Item 11,frozen vegetables
+16,Item 11,rolls/buns
+14,Item 11,syrup
+22,Item 11,dessert
+14,Item 11,canned fish
+14,Item 11,hard cheese
+14,Item 11,toilet cleaner
+23,Item 11,domestic eggs
+11,Item 11,vinegar
+12,Item 11,flour
+11,Item 11,brandy
+17,Item 11,hard cheese
+12,Item 11,red/blush wine
+17,Item 11,flour
+13,Item 12,waffles
+15,Item 12,canned fruit
+23,Item 12,soft cheese
+12,Item 12,cookware
+12,Item 12,bottled water
+16,Item 12,canned vegetables
+12,Item 12,napkins
+13,Item 12,hygiene articles
+14,Item 12,long life bakery product
+17,Item 12,coffee
+13,Item 12,fruit/vegetable juice
+12,Item 12,cling film/bags
+14,Item 12,rolls/buns
+17,Item 12,soda
+13,Item 12,female sanitary products
+13,Item 12,soda
+12,Item 12,potted plants
+12,Item 12,dishes
+13,Item 12,long life bakery product
+12,Item 12,bottled beer
+15,Item 12,instant food products
+14,Item 12,bottled beer
+12,Item 12,soda
+12,Item 12,baking powder
+14,Item 12,coffee
+15,Item 12,salty snack
+15,Item 12,chocolate
+19,Item 12,salt
+17,Item 12,margarine
+20,Item 12,flour
+16,Item 12,cocoa drinks
+16,Item 12,long life bakery product
+23,Item 12,frozen fish
+18,Item 12,rolls/buns
+12,Item 12,margarine
+13,Item 12,pastry
+13,Item 12,napkins
+15,Item 12,instant coffee
+14,Item 12,red/blush wine
+14,Item 12,meat spreads
+14,Item 12,cat food
+15,Item 12,waffles
+21,Item 12,roll products
+18,Item 12,long life bakery product
+26,Item 12,soft cheese
+13,Item 12,detergent
+16,Item 12,bottled beer
+17,Item 12,frozen vegetables
+15,Item 12,bottled water
+14,Item 12,fruit/vegetable juice
+15,Item 12,rice
+12,Item 12,newspapers
+32,Item 12,butter
+12,Item 12,hygiene articles
+15,Item 12,domestic eggs
+19,Item 12,cat food
+12,Item 12,coffee
+13,Item 12,cat food
+18,Item 12,bottled water
+17,Item 12,yogurt
+14,Item 12,semi-finished bread
+13,Item 12,canned beer
+13,Item 12,cleaner
+14,Item 12,ketchup
+17,Item 12,chocolate
+17,Item 12,domestic eggs
+19,Item 12,pastry
+12,Item 12,shopping bags
+15,Item 12,soda
+15,Item 12,chewing gum
+15,Item 12,jam
+13,Item 12,seasonal products
+13,Item 12,dishes
+15,Item 12,softener
+15,Item 12,canned fish
+12,Item 12,detergent
+12,Item 12,chocolate
+17,Item 12,pickled vegetables
+12,Item 12,female sanitary products
+17,Item 12,salty snack
+12,Item 12,seasonal products
+21,Item 12,curd
+16,Item 12,brown bread
+14,Item 12,rum
+15,Item 12,rolls/buns
+19,Item 12,frozen meals
+16,Item 12,soda
+16,Item 12,sweet spreads
+17,Item 12,ketchup
+16,Item 12,bottled water
+15,Item 12,long life bakery product
+22,Item 12,margarine
+13,Item 12,newspapers
+15,Item 12,red/blush wine
+16,Item 12,spices
+12,Item 12,sweet spreads
+22,Item 12,white bread
+14,Item 12,hygiene articles
+12,Item 12,canned fish
+13,Item 12,cooking chocolate
+12,Item 12,chocolate marshmallow
+19,Item 12,jam
+13,Item 12,roll products
+13,Item 12,salty snack
+17,Item 12,red/blush wine
+16,Item 12,pasta
+16,Item 12,waffles
+19,Item 12,flour
+13,Item 12,chocolate
+14,Item 12,salty snack
+16,Item 12,honey
+15,Item 12,fruit/vegetable juice
+16,Item 12,baking powder
+14,Item 12,chocolate
+29,Item 12,hard cheese
+23,Item 12,frozen vegetables
+12,Item 12,chewing gum
+29,Item 12,mayonnaise
+20,Item 12,pickled vegetables
+13,Item 12,misc. beverages
+16,Item 12,jam
+14,Item 12,pickled vegetables
+14,Item 12,soda
+15,Item 12,meat spreads
+12,Item 12,photo/film
+12,Item 12,specialty bar
+12,Item 12,fruit/vegetable juice
+16,Item 12,cereals
+15,Item 12,spices
+14,Item 12,frozen potato products
+14,Item 12,oil
+18,Item 12,pickled vegetables
+13,Item 12,house keeping products
+13,Item 12,dental care
+13,Item 12,canned fruit
+13,Item 12,coffee
+16,Item 12,specialty bar
+16,Item 12,oil
+16,Item 12,cat food
+14,Item 12,sugar
+17,Item 12,pasta
+15,Item 12,bottled beer
+14,Item 12,specialty bar
+18,Item 12,soft cheese
+13,Item 12,frozen dessert
+13,Item 12,bottled water
+18,Item 12,sweet spreads
+14,Item 12,candy
+19,Item 12,coffee
+13,Item 12,candy
+14,Item 12,cling film/bags
+14,Item 12,pastry
+19,Item 12,baking powder
+12,Item 12,house keeping products
+21,Item 12,uht-milk
+14,Item 12,cake bar
+13,Item 12,specialty chocolate
+16,Item 12,beverages
+12,Item 12,cat food
+14,Item 12,napkins
+14,Item 12,popcorn
+18,Item 12,oil
+12,Item 12,canned beer
+15,Item 12,cream cheese
+12,Item 12,candy
+14,Item 12,specialty cheese
+19,Item 12,rolls/buns
+12,Item 12,long life bakery product
+27,Item 12,whipped/sour cream
+20,Item 12,sweet spreads
+13,Item 12,sweet spreads
+19,Item 12,soda
+14,Item 12,dishes
+13,Item 12,cake bar
+14,Item 12,cocoa drinks
+16,Item 12,potato products
+17,Item 12,processed cheese
+16,Item 12,margarine
+17,Item 12,potato products
+17,Item 12,instant food products
+14,Item 12,sparkling wine
+13,Item 12,kitchen towels
+12,Item 12,brown bread
+17,Item 12,sparkling wine
+21,Item 12,vinegar
+12,Item 12,waffles
+21,Item 12,ketchup
+28,Item 12,salt
+16,Item 12,vinegar
+23,Item 12,cream cheese
+17,Item 12,salt
+12,Item 12,candles
+18,Item 12,sauces
+16,Item 12,abrasive cleaner
+15,Item 12,specialty bar
+17,Item 12,frozen fish
+17,Item 12,rolls/buns
+20,Item 12,pastry
+16,Item 12,chocolate
+13,Item 12,nut snack
+19,Item 12,bottled water
+13,Item 12,dish cleaner
+13,Item 12,soap
+14,Item 12,bottled water
+23,Item 12,mustard
+12,Item 12,cleaner
+18,Item 12,frozen vegetables
+17,Item 12,brown bread
+13,Item 12,red/blush wine
+16,Item 12,processed cheese
+15,Item 12,cat food
+15,Item 12,sweet spreads
+16,Item 12,cake bar
+19,Item 12,frozen vegetables
+13,Item 12,bottled beer
+15,Item 12,pastry
+18,Item 12,soda
+17,Item 12,rice
+14,Item 12,misc. beverages
+16,Item 12,salty snack
+16,Item 12,curd cheese
+16,Item 12,rolls/buns
+20,Item 12,oil
+15,Item 12,cereals
+21,Item 12,white bread
+13,Item 12,baking powder
+21,Item 12,preservation products
+21,Item 12,bottled water
+14,Item 12,waffles
+17,Item 12,pastry
+13,Item 12,candles
+14,Item 12,dish cleaner
+12,Item 12,red/blush wine
+16,Item 12,flour
+15,Item 12,curd
+12,Item 12,specialty chocolate
+24,Item 12,rolls/buns
+13,Item 12,pudding powder
+17,Item 12,cream cheese
+20,Item 12,coffee
+12,Item 12,salty snack
+21,Item 12,pastry
+19,Item 12,instant food products
+17,Item 12,cat food
+20,Item 12,ice cream
+18,Item 12,margarine
+19,Item 12,frozen fruits
+13,Item 12,rubbing alcohol
+18,Item 12,coffee
+18,Item 12,mustard
+14,Item 12,specialty chocolate
+29,Item 12,sliced cheese
+14,Item 12,detergent
+15,Item 12,nut snack
+14,Item 12,artif. sweetener
+22,Item 12,yogurt
+15,Item 12,coffee
+14,Item 12,cream cheese
+14,Item 12,dental care
+23,Item 12,white bread
+12,Item 12,dish cleaner
+12,Item 12,pudding powder
+16,Item 12,fruit/vegetable juice
+15,Item 12,oil
+12,Item 12,cake bar
+13,Item 13,candy
+15,Item 13,misc. beverages
+23,Item 13,sliced cheese
+16,Item 13,canned fish
+13,Item 13,napkins
+14,Item 13,chocolate
+17,Item 13,soda
+13,Item 13,soap
+14,Item 13,sugar
+17,Item 13,liquor (appetizer)
+13,Item 13,shopping bags
+13,Item 13,detergent
+13,Item 13,abrasive cleaner
+15,Item 13,soda
+14,Item 13,salty snack
+14,Item 13,fruit/vegetable juice
+15,Item 13,chocolate
+15,Item 13,chocolate marshmallow
+19,Item 13,baking powder
+17,Item 13,soups
+20,Item 13,mustard
+16,Item 13,salty snack
+16,Item 13,detergent
+23,Item 13,domestic eggs
+18,Item 13,pastry
+13,Item 13,newspapers
+14,Item 13,soda
+13,Item 13,chocolate
+15,Item 13,specialty bar
+21,Item 13,rice
+18,Item 13,waffles
+26,Item 13,frozen vegetables
+13,Item 13,potted plants
+16,Item 13,red/blush wine
+17,Item 13,frozen meals
+15,Item 13,dish cleaner
+14,Item 13,canned beer
+15,Item 13,oil
+16,Item 13,white wine
+32,Item 13,curd
+15,Item 13,brown bread
+19,Item 13,specialty chocolate
+18,Item 13,soda
+17,Item 13,rolls/buns
+13,Item 13,salty snack
+14,Item 13,detergent
+14,Item 13,napkins
+14,Item 13,dishes
+17,Item 13,chocolate marshmallow
+19,Item 13,semi-finished bread
+15,Item 13,fruit/vegetable juice
+15,Item 13,cat food
+13,Item 13,female sanitary products
+13,Item 13,cookware
+13,Item 13,fruit/vegetable juice
+15,Item 13,decalcifier
+15,Item 13,coffee
+17,Item 13,bottled water
+17,Item 13,chocolate
+21,Item 13,yogurt
+16,Item 13,semi-finished bread
+14,Item 13,waffles
+19,Item 13,frozen fish
+16,Item 13,bottled beer
+16,Item 13,coffee
+17,Item 13,spices
+16,Item 13,seasonal products
+13,Item 13,popcorn
+22,Item 13,mustard
+15,Item 13,salty snack
+16,Item 13,baking powder
+22,Item 13,pastry
+19,Item 13,canned fish
+13,Item 13,margarine
+17,Item 13,long life bakery product
+16,Item 13,vinegar
+16,Item 13,chocolate marshmallow
+19,Item 13,instant food products
+13,Item 13,dishes
+16,Item 13,specialty chocolate
+15,Item 13,red/blush wine
+14,Item 13,candy
+29,Item 13,frozen meals
+29,Item 13,frozen vegetables
+20,Item 13,coffee
+13,Item 13,hygiene articles
+16,Item 13,soda
+14,Item 13,bottled beer
+15,Item 13,canned fish
+15,Item 13,bottled beer
+16,Item 13,bottled water
+14,Item 13,pastry
+14,Item 13,canned vegetables
+13,Item 13,specialty bar
+13,Item 13,candles
+13,Item 13,soda
+13,Item 13,seasonal products
+15,Item 13,long life bakery product
+14,Item 13,meat spreads
+17,Item 13,cereals
+14,Item 13,long life bakery product
+15,Item 13,softener
+16,Item 13,cake bar
+18,Item 13,sliced cheese
+13,Item 13,brown bread
+15,Item 13,dental care
+17,Item 13,oil
+18,Item 13,bottled water
+17,Item 13,cake bar
+14,Item 13,seasonal products
+14,Item 13,jam
+13,Item 13,bottled beer
+19,Item 13,bottled water
+14,Item 13,candles
+14,Item 13,potted plants
+15,Item 13,salt
+19,Item 13,fruit/vegetable juice
+13,Item 13,cleaner
+21,Item 13,frozen vegetables
+16,Item 13,sliced cheese
+22,Item 13,sugar
+14,Item 13,newspapers
+14,Item 13,chocolate marshmallow
+18,Item 13,mustard
+21,Item 13,pasta
+13,Item 13,bathroom cleaner
+15,Item 13,pastry
+14,Item 13,frozen fish
+19,Item 13,oil
+20,Item 13,sugar
+27,Item 13,sliced cheese
+20,Item 13,bottled water
+19,Item 13,salty snack
+14,Item 13,light bulbs
+16,Item 13,fruit/vegetable juice
+17,Item 13,white bread
+14,Item 13,specialty chocolate
+17,Item 13,instant food products
+17,Item 13,baking powder
+14,Item 13,coffee
+15,Item 13,mustard
+17,Item 13,specialty chocolate
+15,Item 13,canned vegetables
+21,Item 13,margarine
+14,Item 13,house keeping products
+21,Item 13,soda
+28,Item 13,pasta
+16,Item 13,spices
+13,Item 13,kitchen towels
+23,Item 13,frozen vegetables
+16,Item 13,canned vegetables
+16,Item 13,cat food
+17,Item 13,margarine
+15,Item 13,rum
+15,Item 13,canned beer
+18,Item 13,organic products
+16,Item 13,dental care
+13,Item 13,house keeping products
+17,Item 13,brown bread
+20,Item 13,semi-finished bread
+16,Item 13,specialty bar
+20,Item 13,sweet spreads
+13,Item 13,cooking chocolate
+14,Item 13,cake bar
+15,Item 13,cleaner
+23,Item 13,pickled vegetables
+14,Item 13,hygiene articles
+18,Item 13,frozen meals
+13,Item 13,flower (seeds)
+16,Item 13,domestic eggs
+15,Item 13,bottled water
+16,Item 13,cleaner
+13,Item 13,waffles
+18,Item 13,fruit/vegetable juice
+15,Item 13,specialty chocolate
+16,Item 13,honey
+16,Item 13,brown bread
+15,Item 13,waffles
+20,Item 13,baking powder
+14,Item 13,margarine
+21,Item 13,brown bread
+21,Item 13,coffee
+21,Item 13,red/blush wine
+14,Item 13,cling film/bags
+14,Item 13,rice
+15,Item 13,yogurt
+24,Item 13,semi-finished bread
+13,Item 13,long life bakery product
+17,Item 13,specialty cheese
+16,Item 13,nut snack
+21,Item 13,jam
+20,Item 13,rolls/buns
+18,Item 13,pickled vegetables
+19,Item 13,pastry
+13,Item 13,cling film/bags
+21,Item 13,flour
+29,Item 13,hard cheese
+16,Item 13,misc. beverages
+14,Item 13,kitchen utensil
+16,Item 13,white bread
+14,Item 13,liquor
+15,Item 13,house keeping products
+13,Item 13,photo/film
+22,Item 13,sliced cheese
+14,Item 13,frozen meals
+23,Item 13,bottled water
+16,Item 13,chewing gum
+15,Item 13,baking powder
+17,Item 13,salt
+14,Item 13,softener
+17,Item 13,red/blush wine
+15,Item 14,fruit/vegetable juice
+23,Item 14,cream cheese
+16,Item 14,skin care
+14,Item 14,baby cosmetics
+17,Item 14,chocolate
+14,Item 14,baking powder
+17,Item 14,cake bar
+14,Item 14,shopping bags
+14,Item 14,hygiene articles
+15,Item 14,newspapers
+15,Item 14,dish cleaner
+19,Item 14,bottled water
+17,Item 14,canned fish
+20,Item 14,coffee
+16,Item 14,waffles
+16,Item 14,cleaner
+23,Item 14,white bread
+18,Item 14,mustard
+14,Item 14,potted plants
+14,Item 14,fruit/vegetable juice
+14,Item 14,misc. beverages
+15,Item 14,napkins
+21,Item 14,margarine
+18,Item 14,specialty chocolate
+26,Item 14,rolls/buns
+16,Item 14,dish cleaner
+17,Item 14,bottled water
+15,Item 14,abrasive cleaner
+14,Item 14,salty snack
+15,Item 14,margarine
+32,Item 14,yogurt
+15,Item 14,roll products
+19,Item 14,detergent
+18,Item 14,fruit/vegetable juice
+17,Item 14,oil
+14,Item 14,newspapers
+14,Item 14,dish cleaner
+17,Item 14,detergent
+17,Item 14,brown bread
+19,Item 14,oil
+15,Item 14,waffles
+15,Item 14,tea
+17,Item 14,rubbing alcohol
+17,Item 14,cooking chocolate
+21,Item 14,whipped/sour cream
+16,Item 14,oil
+14,Item 14,chocolate
+15,Item 14,long life bakery product
+19,Item 14,ice cream
+16,Item 14,bottled water
+17,Item 14,ready soups
+16,Item 14,softener
+15,Item 14,female sanitary products
+22,Item 14,soups
+15,Item 14,popcorn
+15,Item 14,bottled beer
+16,Item 14,bottled beer
+22,Item 14,rice
+14,Item 14,light bulbs
+15,Item 14,candy
+19,Item 14,coffee
+16,Item 14,soda
+16,Item 14,candy
+19,Item 14,soda
+16,Item 14,detergent
+16,Item 14,fruit/vegetable juice
+14,Item 14,house keeping products
+29,Item 14,frozen dessert
+23,Item 14,rolls/buns
+29,Item 14,frozen potato products
+20,Item 14,bottled water
+17,Item 14,misc. beverages
+14,Item 14,red/blush wine
+14,Item 14,rice
+14,Item 14,popcorn
+16,Item 14,nut snack
+15,Item 14,chocolate
+14,Item 14,chewing gum
+17,Item 14,soda
+14,Item 14,chocolate marshmallow
+15,Item 14,hygiene articles
+16,Item 14,specialty chocolate
+14,Item 14,dishes
+18,Item 14,rolls/buns
+15,Item 14,kitchen towels
+17,Item 14,specialty fat
+17,Item 14,specialty bar
+14,Item 14,seasonal products
+14,Item 14,candles
+14,Item 14,coffee
+15,Item 14,canned fish
+15,Item 14,specialty chocolate
+19,Item 14,salty snack
+21,Item 14,pastry
+16,Item 14,frozen vegetables
+22,Item 14,artif. sweetener
+14,Item 14,detergent
+18,Item 14,baking powder
+14,Item 14,long life bakery product
+21,Item 14,organic products
+15,Item 14,bottled water
+14,Item 14,rolls/buns
+19,Item 14,cat food
+20,Item 14,pickled vegetables
+27,Item 14,cream cheese
+20,Item 14,soda
+19,Item 14,long life bakery product
+14,Item 14,cling film/bags
+15,Item 14,detergent
+16,Item 14,chocolate
+17,Item 14,sauces
+14,Item 14,specialty bar
+14,Item 14,cake bar
+14,Item 14,waffles
+21,Item 14,pickled vegetables
+21,Item 14,misc. beverages
+28,Item 14,vinegar
+16,Item 14,long life bakery product
+23,Item 14,frozen meals
+15,Item 14,salty snack
+17,Item 14,jam
+14,Item 14,bottled beer
+18,Item 14,canned fruit
+16,Item 14,napkins
+17,Item 14,rice
+20,Item 14,flour
+16,Item 14,canned beer
+23,Item 14,soda
+18,Item 14,instant food products
+17,Item 14,canned fruit
+16,Item 14,white bread
+19,Item 14,rolls/buns
+15,Item 14,canned beer
+18,Item 14,chocolate
+17,Item 14,coffee
+14,Item 14,napkins
+15,Item 14,cling film/bags
+16,Item 14,chewing gum
+16,Item 14,rolls/buns
+15,Item 14,chewing gum
+20,Item 14,dog food
+14,Item 14,canned vegetables
+21,Item 14,sugar
+21,Item 14,cocoa drinks
+21,Item 14,salty snack
+18,Item 14,waffles
+15,Item 14,frozen meals
+24,Item 14,zwieback
+17,Item 14,frozen meals
+20,Item 14,fruit/vegetable juice
+16,Item 14,dental care
+21,Item 14,soda
+17,Item 14,fruit/vegetable juice
+20,Item 14,margarine
+18,Item 14,coffee
+19,Item 14,sugar
+18,Item 14,salty snack
+29,Item 14,frozen vegetables
+16,Item 14,cake bar
+15,Item 14,flower (seeds)
+15,Item 14,specialty bar
+22,Item 14,spread cheese
+14,Item 14,brown bread
+16,Item 14,specialty bar
+17,Item 14,pasta
+17,Item 14,salty snack
+15,Item 15,hygiene articles
+23,Item 15,frozen meals
+16,Item 15,hygiene articles
+17,Item 15,dish cleaner
+17,Item 15,candy
+15,Item 15,shopping bags
+15,Item 15,dental care
+19,Item 15,misc. beverages
+17,Item 15,chocolate
+20,Item 15,cocoa drinks
+16,Item 15,candy
+16,Item 15,napkins
+23,Item 15,rice
+18,Item 15,specialty chocolate
+15,Item 15,light bulbs
+21,Item 15,sugar
+18,Item 15,napkins
+26,Item 15,white bread
+17,Item 15,fruit/vegetable juice
+15,Item 15,sugar
+16,Item 15,chocolate
+32,Item 15,whipped/sour cream
+19,Item 15,dish cleaner
+18,Item 15,salty snack
+17,Item 15,hygiene articles
+17,Item 15,semi-finished bread
+19,Item 15,cat food
+15,Item 15,photo/film
+15,Item 15,napkins
+15,Item 15,candles
+21,Item 15,soft cheese
+16,Item 15,dog food
+15,Item 15,chocolate
+19,Item 15,domestic eggs
+16,Item 15,male cosmetics
+16,Item 15,soda
+17,Item 15,soda
+16,Item 15,flower soil/fertilizer
+22,Item 15,pickled vegetables
+15,Item 15,candy
+16,Item 15,waffles
+22,Item 15,sugar
+19,Item 15,fruit/vegetable juice
+17,Item 15,rubbing alcohol
+16,Item 15,salty snack
+16,Item 15,bathroom cleaner
+19,Item 15,salty snack
+16,Item 15,newspapers
+29,Item 15,domestic eggs
+23,Item 15,sugar
+29,Item 15,rolls/buns
+20,Item 15,soda
+15,Item 15,softener
+16,Item 15,fruit/vegetable juice
+15,Item 15,newspapers
+16,Item 15,canned beer
+17,Item 15,long life bakery product
+16,Item 15,kitchen towels
+18,Item 15,pastry
+17,Item 15,pudding powder
+18,Item 15,long life bakery product
+17,Item 15,detergent
+19,Item 15,snack products
+19,Item 15,waffles
+21,Item 15,flour
+16,Item 15,roll products
+22,Item 15,mustard
+18,Item 15,popcorn
+21,Item 15,baking powder
+15,Item 15,fruit/vegetable juice
+19,Item 15,coffee
+20,Item 15,tea
+27,Item 15,frozen meals
+20,Item 15,fruit/vegetable juice
+19,Item 15,chewing gum
+16,Item 15,potted plants
+17,Item 15,bottled beer
+16,Item 15,specialty bar
+17,Item 15,napkins
+17,Item 15,syrup
+17,Item 15,seasonal products
+21,Item 15,bottled water
+21,Item 15,long life bakery product
+28,Item 15,oil
+16,Item 15,dish cleaner
+23,Item 15,frozen potato products
+16,Item 15,cooking chocolate
+15,Item 15,specialty chocolate
+16,Item 15,kitchen utensil
+15,Item 15,cling film/bags
+17,Item 15,oil
+17,Item 15,canned beer
+20,Item 15,pasta
+16,Item 15,baby cosmetics
+20,Item 15,misc. beverages
+16,Item 15,detergent
+23,Item 15,long life bakery product
+18,Item 15,soda
+17,Item 15,bottled water
+16,Item 15,coffee
+15,Item 15,red/blush wine
+16,Item 15,female sanitary products
+19,Item 15,flour
+16,Item 15,bottled beer
+16,Item 15,sugar
+15,Item 15,house keeping products
+21,Item 15,sauces
+17,Item 15,cooking chocolate
+18,Item 15,chocolate marshmallow
+15,Item 15,domestic eggs
+24,Item 15,margarine
+17,Item 15,white bread
+20,Item 15,long life bakery product
+16,Item 15,dishes
+21,Item 15,fruit/vegetable juice
+17,Item 15,salty snack
+20,Item 15,mustard
+19,Item 15,soda
+18,Item 15,bottled beer
+21,Item 15,cereals
+29,Item 15,frozen fish
+16,Item 15,seasonal products
+22,Item 15,semi-finished bread
+15,Item 15,cookware
+23,Item 15,fruit/vegetable juice
+16,Item 15,cleaner
+15,Item 15,long life bakery product
+17,Item 15,cat food
+23,Item 16,frozen fish
+16,Item 16,napkins
+17,Item 16,napkins
+17,Item 16,seasonal products
+19,Item 16,fruit/vegetable juice
+17,Item 16,candy
+20,Item 16,fruit/vegetable juice
+16,Item 16,newspapers
+23,Item 16,specialty fat
+18,Item 16,specialty bar
+21,Item 16,pickled vegetables
+18,Item 16,dishes
+26,Item 16,brown bread
+16,Item 16,kitchen towels
+17,Item 16,specialty chocolate
+16,Item 16,candy
+32,Item 16,beverages
+19,Item 16,abrasive cleaner
+18,Item 16,long life bakery product
+17,Item 16,waffles
+19,Item 16,bottled water
+21,Item 16,cream cheese
+16,Item 16,fruit/vegetable juice
+19,Item 16,pastry
+16,Item 16,cling film/bags
+16,Item 16,dish cleaner
+17,Item 16,canned beer
+16,Item 16,flower (seeds)
+22,Item 16,coffee
+22,Item 16,pet care
+19,Item 16,long life bakery product
+17,Item 16,hygiene articles
+16,Item 16,detergent
+16,Item 16,light bulbs
+19,Item 16,chocolate
+16,Item 16,shopping bags
+29,Item 16,white bread
+23,Item 16,mustard
+20,Item 16,misc. beverages
+17,Item 16,chocolate
+16,Item 16,seasonal products
+17,Item 16,cake bar
+18,Item 16,semi-finished bread
+17,Item 16,pickled vegetables
+19,Item 16,waffles
+19,Item 16,decalcifier
+21,Item 16,margarine
+16,Item 16,pasta
+22,Item 16,soups
+21,Item 16,canned vegetables
+20,Item 16,soda
+27,Item 16,frozen potato products
+20,Item 16,bottled beer
+16,Item 16,chocolate marshmallow
+17,Item 16,house keeping products
+17,Item 16,female sanitary products
+21,Item 16,soda
+21,Item 16,waffles
+28,Item 16,mustard
+23,Item 16,domestic eggs
+16,Item 16,potted plants
+17,Item 16,chewing gum
+18,Item 16,dental care
+17,Item 16,red/blush wine
+20,Item 16,canned vegetables
+16,Item 16,cookware
+20,Item 16,salty snack
+19,Item 16,hygiene articles
+23,Item 16,chocolate
+18,Item 16,fruit/vegetable juice
+17,Item 16,misc. beverages
+16,Item 16,bottled beer
+16,Item 16,house keeping products
+19,Item 16,artif. sweetener
+16,Item 16,chocolate
+16,Item 16,long life bakery product
+16,Item 16,hygiene articles
+16,Item 16,cake bar
+21,Item 16,sweet spreads
+21,Item 16,chocolate
+18,Item 16,bathroom cleaner
+24,Item 16,sugar
+17,Item 16,pastry
+20,Item 16,specialty chocolate
+21,Item 16,syrup
+19,Item 16,popcorn
+17,Item 16,popcorn
+20,Item 16,ready soups
+18,Item 16,liquor (appetizer)
+18,Item 16,abrasive cleaner
+18,Item 16,chocolate
+21,Item 16,canned fish
+29,Item 16,frozen potato products
+22,Item 16,canned vegetables
+23,Item 16,bottled beer
+17,Item 16,fruit/vegetable juice
+23,Item 17,domestic eggs
+17,Item 17,newspapers
+17,Item 17,skin care
+19,Item 17,canned beer
+17,Item 17,napkins
+20,Item 17,salty snack
+23,Item 17,dog food
+18,Item 17,dental care
+21,Item 17,bottled water
+18,Item 17,kitchen towels
+26,Item 17,pastry
+32,Item 17,soft cheese
+19,Item 17,cleaner
+18,Item 17,candy
+17,Item 17,candy
+17,Item 17,potted plants
+19,Item 17,fruit/vegetable juice
+17,Item 17,flower (seeds)
+17,Item 17,shopping bags
+21,Item 17,frozen vegetables
+19,Item 17,soda
+17,Item 17,popcorn
+22,Item 17,long life bakery product
+22,Item 17,coffee
+19,Item 17,waffles
+19,Item 17,specialty chocolate
+29,Item 17,salt
+23,Item 17,ketchup
+29,Item 17,rice
+20,Item 17,fruit/vegetable juice
+18,Item 17,waffles
+17,Item 17,detergent
+18,Item 17,oil
+17,Item 17,specialty bar
+18,Item 17,detergent
+17,Item 17,dishes
+19,Item 17,chocolate marshmallow
+19,Item 17,hygiene articles
+21,Item 17,canned fish
+22,Item 17,cereals
+18,Item 17,chocolate
+21,Item 17,cat food
+20,Item 17,bottled beer
+27,Item 17,domestic eggs
+20,Item 17,white wine
+19,Item 17,napkins
+17,Item 17,photo/film
+21,Item 17,waffles
+21,Item 17,chocolate
+28,Item 17,ketchup
+23,Item 17,white bread
+17,Item 17,abrasive cleaner
+18,Item 17,napkins
+17,Item 17,hygiene articles
+20,Item 17,specialty chocolate
+20,Item 17,cake bar
+19,Item 17,cling film/bags
+23,Item 17,specialty chocolate
+18,Item 17,salty snack
+17,Item 17,fruit/vegetable juice
+18,Item 17,hygiene articles
+21,Item 17,female sanitary products
+24,Item 17,instant food products
+20,Item 17,specialty bar
+19,Item 17,chocolate
+17,Item 17,cake bar
+20,Item 17,bottled water
+18,Item 17,bathroom cleaner
+18,Item 17,specialty bar
+29,Item 17,brown bread
+22,Item 17,bottled water
+23,Item 17,canned beer
+17,Item 17,kitchen towels
+23,Item 18,white bread
+19,Item 18,specialty chocolate
+20,Item 18,long life bakery product
+23,Item 18,bottled water
+18,Item 18,shopping bags
+21,Item 18,fruit/vegetable juice
+26,Item 18,pasta
+32,Item 18,hard cheese
+19,Item 18,hygiene articles
+18,Item 18,napkins
+19,Item 18,detergent
+21,Item 18,brown bread
+19,Item 18,syrup
+22,Item 18,chocolate
+22,Item 18,soda
+19,Item 18,chocolate
+29,Item 18,rice
+23,Item 18,meat spreads
+29,Item 18,oil
+20,Item 18,salty snack
+18,Item 18,potted plants
+18,Item 18,fruit/vegetable juice
+18,Item 18,newspapers
+19,Item 18,candy
+19,Item 18,napkins
+21,Item 18,coffee
+22,Item 18,jam
+18,Item 18,candy
+21,Item 18,chewing gum
+20,Item 18,chocolate
+27,Item 18,rolls/buns
+20,Item 18,prosecco
+19,Item 18,newspapers
+21,Item 18,chocolate
+21,Item 18,specialty chocolate
+28,Item 18,canned vegetables
+23,Item 18,semi-finished bread
+18,Item 18,kitchen towels
+20,Item 18,male cosmetics
+19,Item 18,house keeping products
+23,Item 18,specialty bar
+18,Item 18,specialty bar
+20,Item 18,seasonal products
+21,Item 18,pet care
+21,Item 18,candy
+21,Item 18,rubbing alcohol
+24,Item 18,canned fish
+20,Item 18,chocolate marshmallow
+21,Item 18,dish cleaner
+19,Item 18,dish cleaner
+20,Item 18,canned beer
+18,Item 18,light bulbs
+19,Item 18,chocolate marshmallow
+21,Item 18,bottled water
+29,Item 18,margarine
+22,Item 18,misc. beverages
+23,Item 18,sparkling wine
+23,Item 19,sugar
+19,Item 19,potted plants
+20,Item 19,chocolate
+23,Item 19,fruit/vegetable juice
+21,Item 19,candy
+26,Item 19,soups
+32,Item 19,cream cheese
+19,Item 19,shopping bags
+19,Item 19,house keeping products
+21,Item 19,pastry
+19,Item 19,detergent
+22,Item 19,seasonal products
+22,Item 19,fruit/vegetable juice
+19,Item 19,flower (seeds)
+29,Item 19,oil
+23,Item 19,canned fish
+29,Item 19,specialty fat
+20,Item 19,waffles
+19,Item 19,seasonal products
+19,Item 19,light bulbs
+21,Item 19,fruit/vegetable juice
+22,Item 19,bottled water
+21,Item 19,chocolate
+19,Item 19,dish cleaner
+20,Item 19,napkins
+27,Item 19,roll products
+21,Item 19,chocolate marshmallow
+21,Item 19,detergent
+28,Item 19,pickled vegetables
+23,Item 19,oil
+20,Item 19,newspapers
+20,Item 19,detergent
+19,Item 19,candles
+23,Item 19,chocolate marshmallow
+19,Item 19,cleaner
+21,Item 19,dish cleaner
+21,Item 19,hygiene articles
+24,Item 19,bottled water
+20,Item 19,hygiene articles
+21,Item 19,dental care
+20,Item 19,skin care
+19,Item 19,candy
+21,Item 19,bottled beer
+29,Item 19,baking powder
+22,Item 19,syrup
+23,Item 19,waffles
+23,Item 20,cereals
+20,Item 20,seasonal products
+23,Item 20,long life bakery product
+21,Item 20,skin care
+26,Item 20,baby food
+32,Item 20,mayonnaise
+21,Item 20,semi-finished bread
+22,Item 20,female sanitary products
+22,Item 20,salty snack
+29,Item 20,margarine
+23,Item 20,bottled beer
+29,Item 20,specialty vegetables
+20,Item 20,potted plants
+21,Item 20,salty snack
+22,Item 20,bottled beer
+21,Item 20,potted plants
+20,Item 20,newspapers
+27,Item 20,salt
+20,Item 20,candy
+21,Item 20,detergent
+21,Item 20,napkins
+28,Item 20,canned fish
+23,Item 20,instant coffee
+20,Item 20,shopping bags
+20,Item 20,house keeping products
+23,Item 20,candy
+20,Item 20,soap
+21,Item 20,specialty bar
+21,Item 20,abrasive cleaner
+24,Item 20,bottled beer
+20,Item 20,hygiene articles
+21,Item 20,hygiene articles
+29,Item 20,cat food
+22,Item 20,waffles
+23,Item 20,chocolate
+23,Item 21,fruit/vegetable juice
+23,Item 21,softener
+21,Item 21,napkins
+26,Item 21,fruit/vegetable juice
+32,Item 21,domestic eggs
+21,Item 21,margarine
+22,Item 21,hygiene articles
+22,Item 21,long life bakery product
+29,Item 21,mustard
+23,Item 21,chewing gum
+29,Item 21,canned fish
+21,Item 21,specialty chocolate
+22,Item 21,candles
+21,Item 21,flower (seeds)
+27,Item 21,rice
+21,Item 21,house keeping products
+28,Item 21,instant coffee
+23,Item 21,soda
+23,Item 21,napkins
+21,Item 21,kitchen towels
+21,Item 21,hygiene articles
+24,Item 21,snack products
+21,Item 21,newspapers
+29,Item 21,pet care
+22,Item 21,chocolate
+23,Item 21,candy
+23,Item 22,bottled beer
+23,Item 22,napkins
+26,Item 22,salty snack
+32,Item 22,rolls/buns
+22,Item 22,cling film/bags
+22,Item 22,napkins
+29,Item 22,baking powder
+23,Item 22,decalcifier
+29,Item 22,coffee
+22,Item 22,potted plants
+27,Item 22,margarine
+28,Item 22,tea
+23,Item 22,fruit/vegetable juice
+23,Item 22,cookware
+24,Item 22,waffles
+29,Item 22,soda
+22,Item 22,seasonal products
+23,Item 22,cleaner
+23,Item 23,waffles
+23,Item 23,cling film/bags
+26,Item 23,waffles
+32,Item 23,roll products
+29,Item 23,dog food
+23,Item 23,hygiene articles
+29,Item 23,instant coffee
+27,Item 23,jam
+28,Item 23,misc. beverages
+23,Item 23,flower (seeds)
+23,Item 23,newspapers
+24,Item 23,chocolate marshmallow
+29,Item 23,fruit/vegetable juice
+23,Item 23,dental care
+26,Item 24,cake bar
+32,Item 24,flour
+29,Item 24,bottled water
+29,Item 24,bottled beer
+27,Item 24,coffee
+28,Item 24,bottled beer
+24,Item 24,hygiene articles
+29,Item 24,nut snack
+26,Item 25,chocolate
+32,Item 25,pasta
+29,Item 25,fruit/vegetable juice
+29,Item 25,liquor (appetizer)
+27,Item 25,long life bakery product
+28,Item 25,white wine
+29,Item 25,chocolate
+26,Item 26,shopping bags
+32,Item 26,margarine
+29,Item 26,rum
+29,Item 26,long life bakery product
+27,Item 26,waffles
+28,Item 26,chocolate
+29,Item 26,female sanitary products
+32,Item 27,specialty fat
+29,Item 27,long life bakery product
+29,Item 27,chocolate
+27,Item 27,hygiene articles
+28,Item 27,abrasive cleaner
+29,Item 27,hygiene articles
+32,Item 28,sugar
+29,Item 28,chocolate
+29,Item 28,napkins
+28,Item 28,hygiene articles
+32,Item 29,soups
+29,Item 29,cooking chocolate
+29,Item 29,house keeping products
+32,Item 30,skin care
+32,Item 31,hygiene articles
+32,Item 32,candles
+4,source,df_5
+3,source,df_5
+1,source,df_5
+5,source,df_5
+2,source,df_5
+9,source,df_5
+11,source,df_5
+6,source,df_5
+7,source,df_5
+8,source,df_5
+13,source,df_5
+10,source,df_5
+15,source,df_5
+23,source,df_5
+12,source,df_5
+16,source,df_5
+14,source,df_5
+17,source,df_5
+19,source,df_5
+20,source,df_5
+18,source,df_5
+21,source,df_5
+26,source,df_5
+32,source,df_5
+22,source,df_5
+29,source,df_5
+27,source,df_5
+28,source,df_5
+24,source,df_5
