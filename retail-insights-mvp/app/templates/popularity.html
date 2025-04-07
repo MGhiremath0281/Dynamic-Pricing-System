@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Product Popularity Prediction</h2>
+    <form method="post">
+        <label>Sub-Category: <input type="text" name="sub_category" required></label><br>
+        <label>Price: <input type="number" name="price" step="0.01" required></label><br>
+        <label>Discount: <input type="number" name="discount" step="0.01" required></label><br>
+        <label>Rating: <input type="number" name="rating" step="0.1" required></label><br>
+        <label>Review Count: <input type="number" name="review_count" required></label><br>
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction %}
+        <h3>Prediction Result:</h3>
+        <p>The predicted popularity of this product is: <strong>{{ prediction }}</strong></p>
+    {% endif %}
+{% endblock %}

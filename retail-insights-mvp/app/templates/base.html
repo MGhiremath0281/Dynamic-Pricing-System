@@ -1,0 +1,33 @@
+<!-- app/templates/base.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Retail Insights</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <h1>🛒 AI-Powered Dynamic Pricing System</h1>
+        <p>Revolutionizing e-commerce with real-time pricing intelligence</p>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/popularity">Popularity</a>
+            <a href="/recommendation">Recommendation</a>
+            <a href="/segmentation">Segmentation</a>
+            <a href="/basket">Basket</a>
+            <a href="/dashboard">Dashboard</a>
+        </nav>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer>
+        <p>&copy; 2025 AI-Powered Dynamic Pricing System. Built for smarter e-commerce solutions.</p>
+    </footer>
+</body>
+</html>

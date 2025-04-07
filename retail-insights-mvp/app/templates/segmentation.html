@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Customer Segmentation</h2>
+    <form method="post">
+        <label>Unit Price: <input type="number" name="unit_price" step="0.01" required></label><br>
+        <label>Quantity: <input type="number" name="quantity" required></label><br>
+        <label>Total: <input type="number" name="total" step="0.01" required></label><br>
+        <label>Rating: <input type="number" name="rating" step="0.1" required></label><br>
+        <button type="submit">Segment Customer</button>
+    </form>
+
+    {% if segment %}
+        <h3>Customer Segment:</h3>
+        <p>This customer belongs to the <strong>{{ segment }}</strong> segment.</p>
+    {% endif %}
+{% endblock %}
