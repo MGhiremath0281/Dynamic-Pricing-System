@@ -1,1758 +1,1501 @@
-Sub Category,Price,Has_Discount,Rating_Score,Num_Reviews,Popular
-Bakery & Desserts,56.99,0,4.3,265.0,0
-Bakery & Desserts,159.99,0,5.0,1.0,0
-Bakery & Desserts,44.99,0,4.1,441.0,0
-Bakery & Desserts,39.99,0,4.7,9459.0,1
-Bakery & Desserts,59.99,0,4.5,758.0,1
-Bakery & Desserts,59.99,0,4.4,369.0,0
-Bakery & Desserts,74.99,0,4.7,2241.0,1
-Bakery & Desserts,59.99,0,4.4,232.0,0
-Bakery & Desserts,29.99,0,4.4,1679.0,0
-Bakery & Desserts,159.99,0,5.0,2.0,0
-Bakery & Desserts,62.99,0,4.0,357.0,0
-Bakery & Desserts,299.99,0,3.0,1.0,0
-Bakery & Desserts,54.99,0,4.7,273.0,0
-Bakery & Desserts,54.99,0,4.6,369.0,0
-Bakery & Desserts,89.99,0,4.6,133.0,0
-Bakery & Desserts,59.99,0,4.5,452.0,0
-Bakery & Desserts,89.99,0,,,0
-Bakery & Desserts,49.99,0,4.2,85.0,0
-Bakery & Desserts,159.99,0,1.5,2.0,0
-Bakery & Desserts,89.99,0,,,0
-Bakery & Desserts,99.99,0,3.6,5.0,0
-Bakery & Desserts,89.99,0,3.0,2.0,0
-Bakery & Desserts,24.99,0,4.7,687.0,1
-Bakery & Desserts,39.99,0,4.3,845.0,0
-Bakery & Desserts,72.99,0,4.3,87.0,0
-Bakery & Desserts,119.99,0,2.2,4.0,0
-Bakery & Desserts,109.99,0,4.2,181.0,0
-Bakery & Desserts,99.99,0,4.0,16.0,0
-Bakery & Desserts,34.99,0,4.5,702.0,1
-Bakery & Desserts,59.99,0,4.2,137.0,0
-Bakery & Desserts,89.99,0,3.0,5.0,0
-Bakery & Desserts,89.99,0,,,0
-Bakery & Desserts,59.99,0,,,0
-Beverages & Water,99.99,1,4.5,28.0,0
-Beverages & Water,27.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,20.99,1,,,0
-Beverages & Water,19.99,1,,,0
-Beverages & Water,19.99,1,,,0
-Beverages & Water,439.99,1,4.3,1957.0,0
-Beverages & Water,9.99,0,,,0
-Beverages & Water,14.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,21.49,0,,,0
-Beverages & Water,17.99,0,,,0
-Beverages & Water,89.99,1,4.4,40.0,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,4.99,0,,,0
-Beverages & Water,24.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,54.99,0,4.8,33.0,0
-Beverages & Water,12.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,32.99,0,5.0,1.0,0
-Beverages & Water,29.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,13.79,0,,,0
-Beverages & Water,23.49,0,,,0
-Beverages & Water,19.99,0,,,0
-Beverages & Water,14.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,13.79,0,,,0
-Beverages & Water,14.99,0,,,0
-Beverages & Water,34.99,0,4.5,1911.0,1
-Beverages & Water,39.99,0,4.0,138.0,0
-Beverages & Water,19.99,0,,,0
-Beverages & Water,22.99,0,,,0
-Beverages & Water,49.99,0,4.8,1150.0,1
-Beverages & Water,14.99,0,,,0
-Beverages & Water,8.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,12.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,15.99,0,,,0
-Beverages & Water,12.99,0,,,0
-Beverages & Water,13.79,0,,,0
-Beverages & Water,28.99,0,,,0
-Beverages & Water,27.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,34.99,0,4.7,2340.0,1
-Beverages & Water,15.99,0,,,0
-Beverages & Water,12.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,39.99,1,,,0
-Beverages & Water,16.49,0,,,0
-Beverages & Water,549.99,0,3.6,15.0,0
-Beverages & Water,17.49,1,,,0
-Beverages & Water,25.99,0,,,0
-Beverages & Water,11.69,0,,,0
-Beverages & Water,59.99,0,4.8,312.0,0
-Beverages & Water,69.99,0,4.0,777.0,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,19.99,0,,,0
-Beverages & Water,21.79,0,,,0
-Beverages & Water,99.99,0,4.1,753.0,0
-Beverages & Water,17.99,0,,,0
-Beverages & Water,29.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,37.99,0,,,0
-Beverages & Water,19.99,0,,,0
-Beverages & Water,139.99,0,3.8,49.0,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,37.99,0,,,0
-Beverages & Water,159.99,0,4.3,210.0,0
-Beverages & Water,19.99,0,,,0
-Beverages & Water,13.79,0,,,0
-Beverages & Water,13.79,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,17.99,0,,,0
-Beverages & Water,9.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,14.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,15.99,0,,,0
-Beverages & Water,99.99,0,5.0,6.0,0
-Beverages & Water,18.49,0,,,0
-Beverages & Water,17.99,0,,,0
-Beverages & Water,15.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,69.99,0,4.9,62.0,0
-Beverages & Water,19.99,0,,,0
-Beverages & Water,37.99,0,,,0
-Beverages & Water,12.99,0,,,0
-Beverages & Water,12.99,0,,,0
-Beverages & Water,28.99,0,,,0
-Beverages & Water,74.99,0,4.3,354.0,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,16.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,18.99,0,,,0
-Beverages & Water,15.99,0,,,0
-Beverages & Water,36.99,0,,,0
-Beverages & Water,54.99,0,4.7,6.0,0
-Beverages & Water,28.99,0,,,0
-Beverages & Water,36.99,0,,,0
-Beverages & Water,23.49,0,,,0
-Beverages & Water,20.99,0,,,0
-Beverages & Water,99.99,0,4.0,35.0,0
-Beverages & Water,14.99,0,,,0
-Beverages & Water,39.99,0,,,0
-Beverages & Water,10.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,61.99,0,,,0
-Beverages & Water,10.99,0,,,0
-Beverages & Water,39.99,0,,,0
-Beverages & Water,22.99,0,,,0
-Beverages & Water,61.99,0,,,0
-Beverages & Water,24.99,0,4.0,3.0,0
-Beverages & Water,39.99,0,4.8,1251.0,1
-Beverages & Water,9.99,0,,,0
-Beverages & Water,15.99,0,,,0
-Beverages & Water,22.99,0,,,0
-Beverages & Water,9.99,0,,,0
-Beverages & Water,89.99,0,4.2,90.0,0
-Beverages & Water,17.99,0,,,0
-Beverages & Water,49.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,39.99,1,,,0
-Beverages & Water,17.99,0,,,0
-Beverages & Water,20.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,41.99,0,,,0
-Beverages & Water,21.99,0,,,0
-Beverages & Water,22.99,0,,,0
-Beverages & Water,49.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,9.99,0,,,0
-Beverages & Water,17.59,0,,,0
-Beverages & Water,49.99,0,,,0
-Beverages & Water,49.99,0,,,0
-Beverages & Water,23.99,0,,,0
-Beverages & Water,11.99,0,,,0
-Beverages & Water,24.49,0,3.7,21.0,0
-Breakfast,10.49,1,,,0
-Breakfast,9.69,0,,,0
-Breakfast,8.19,1,,,0
-Breakfast,9.99,0,,,0
-Breakfast,28.99,1,4.8,1275.0,1
-Breakfast,36.99,0,4.7,149.0,0
-Breakfast,14.99,0,,,0
-Breakfast,9.99,0,,,0
-Breakfast,10.49,0,,,0
-Breakfast,12.99,0,,,0
-Breakfast,9.49,0,,,0
-Breakfast,12.49,0,,,0
-Breakfast,10.99,0,,,0
-Breakfast,9.99,0,,,0
-Breakfast,11.99,1,,,0
-Breakfast,9.99,0,,,0
-Breakfast,11.99,0,,,0
-Breakfast,10.99,0,,,0
-Breakfast,10.99,0,,,0
-Breakfast,12.69,0,,,0
-Breakfast,14.99,0,,,0
-Candy,16.99,0,,,0
-Candy,15.99,0,,,0
-Candy,16.99,0,,,0
-Candy,22.99,0,,,0
-Candy,10.99,1,,,0
-Candy,11.99,0,,,0
-Candy,15.99,0,,,0
-Candy,34.99,0,,,0
-Candy,29.99,0,4.8,227.0,0
-Candy,11.99,1,,,0
-Candy,14.99,0,,,0
-Candy,24.99,0,,,0
-Candy,39.99,0,,,0
-Candy,29.99,0,4.9,761.0,1
-Candy,15.99,0,,,0
-Candy,11.99,0,,,0
-Candy,44.99,0,,,0
-Candy,31.99,0,,,0
-Candy,17.99,0,,,0
-Candy,49.99,0,4.7,1452.0,1
-Candy,18.99,0,4.7,601.0,1
-Candy,14.99,0,,,0
-Candy,54.99,0,4.7,228.0,0
-Candy,15.99,0,,,0
-Candy,32.99,0,4.0,12.0,0
-Candy,44.99,0,2.5,2.0,0
-Candy,32.99,0,3.4,7.0,0
-Candy,28.99,0,,,0
-Candy,12.99,0,,,0
-Candy,19.99,0,,,0
-Candy,15.49,0,,,0
-Candy,10.99,0,,,0
-Candy,21.99,0,,,0
-Candy,46.99,0,4.6,165.0,0
-Candy,11.49,0,,,0
-Candy,39.99,0,,,0
-Candy,16.39,1,,,0
-Candy,19.99,0,,,0
-Candy,17.49,0,,,0
-Candy,29.99,0,,,0
-Candy,19.99,0,,,0
-Candy,15.99,0,,,0
-Candy,18.99,0,,,0
-Candy,14.99,0,,,0
-Candy,15.99,0,,,0
-Candy,34.99,0,4.6,6766.0,1
-Candy,17.99,0,,,0
-Candy,18.99,0,,,0
-Candy,13.99,0,,,0
-Candy,19.99,0,,,0
-Candy,16.39,1,,,0
-Candy,39.99,0,,,0
-Candy,9.99,0,,,0
-Candy,19.99,0,,,0
-Candy,17.99,0,,,0
-Candy,11.99,0,,,0
-Candy,16.99,0,,,0
-Candy,16.99,0,,,0
-Candy,11.49,0,,,0
-Candy,19.99,0,,,0
-Candy,17.99,0,,,0
-Candy,44.99,0,,,0
-Candy,10.99,1,,,0
-Candy,8.99,0,,,0
-Candy,24.99,0,,,0
-Candy,24.99,0,,,0
-Candy,16.49,0,,,0
-Candy,10.49,1,,,0
-Candy,11.99,0,,,0
-Candy,34.99,0,4.7,2848.0,1
-Candy,14.99,0,,,0
-Candy,38.99,0,,,0
-Candy,10.99,1,,,0
-Candy,34.99,0,4.6,345.0,0
-Candy,34.99,0,,,0
-Candy,10.99,1,,,0
-Candy,11.49,0,,,0
-Candy,19.99,0,,,0
-Candy,19.99,0,,,0
-Candy,39.99,0,,,0
-Candy,36.99,0,,,0
-Candy,26.99,0,,,0
-Candy,11.99,0,,,0
-Candy,49.99,0,,,0
-Candy,13.49,0,,,0
-Candy,14.99,0,,,0
-Candy,26.99,0,,,0
-Candy,37.99,0,,,0
-Candy,39.99,0,,,0
-Candy,18.99,0,,,0
-Candy,19.99,0,,,0
-Candy,49.99,0,,,0
-Candy,16.99,0,,,0
-Candy,14.99,0,,,0
-Candy,19.99,0,,,0
-Candy,11.99,1,,,0
-Candy,18.99,0,4.7,68.0,0
-Candy,34.99,0,,,0
-Candy,19.99,0,,,0
-Candy,21.99,0,,,0
-Candy,14.49,0,,,0
-Candy,26.69,1,,,0
-Candy,20.99,0,,,0
-Candy,13.99,0,,,0
-Candy,42.99,0,3.0,8.0,0
-Candy,39.99,0,,,0
-Candy,44.99,0,,,0
-Candy,22.99,0,,,0
-Candy,36.99,0,,,0
-Candy,44.99,0,,,0
-Candy,15.99,0,,,0
-Candy,14.99,0,,,0
-Candy,11.99,1,,,0
-Candy,34.99,0,,,0
-Candy,34.99,0,4.7,35.0,0
-Candy,11.49,0,,,0
-Candy,39.99,0,,,0
-Candy,45.99,0,,,0
-Candy,49.99,0,,,0
-Candy,39.99,0,4.2,11.0,0
-Candy,25.99,0,,,0
-Candy,39.99,0,,,0
-Candy,14.99,0,,,0
-Candy,39.99,0,,,0
-Candy,54.99,0,4.0,1.0,0
-Candy,44.99,0,,,0
-Candy,17.99,0,,,0
-Candy,39.99,0,,,0
-Candy,17.99,0,,,0
-Candy,24.99,0,,,0
-Candy,21.99,0,,,0
-Candy,17.99,0,,,0
-Candy,17.99,0,,,0
-Candy,42.99,0,3.4,14.0,0
-Candy,11.99,0,,,0
-Candy,25.99,0,,,0
-Candy,36.99,0,,,0
-Candy,46.99,0,,,0
-Candy,42.99,0,3.8,12.0,0
-Candy,34.99,0,,,0
-Candy,17.99,0,,,0
-Candy,24.99,0,,,0
-Candy,7.99,0,,,0
-Candy,17.99,0,,,0
-Candy,26.99,0,,,0
-Candy,15.49,0,,,0
-Candy,22.99,0,,,0
-Candy,25.69,1,,,0
-Candy,31.99,0,,,0
-Candy,15.99,0,,,0
-Candy,13.49,0,,,0
-Candy,26.99,0,,,0
-Candy,54.99,0,,,0
-Candy,17.99,0,,,0
-Cleaning Supplies,28.99,1,,,0
-Cleaning Supplies,28.99,1,,,0
-Cleaning Supplies,24.99,1,,,0
-Cleaning Supplies,15.99,1,,,0
-Cleaning Supplies,15.99,1,,,0
-Cleaning Supplies,19.49,1,,,0
-Cleaning Supplies,12.09,1,,,0
-Cleaning Supplies,19.99,1,,,0
-Cleaning Supplies,10.79,1,,,0
-Cleaning Supplies,16.99,0,,,0
-Cleaning Supplies,17.89,1,,,0
-Cleaning Supplies,13.99,1,,,0
-Cleaning Supplies,42.99,1,4.8,2658.0,1
-Cleaning Supplies,23.99,0,,,0
-Cleaning Supplies,34.99,0,,,0
-Cleaning Supplies,28.79,0,,,0
-Cleaning Supplies,21.49,0,,,0
-Cleaning Supplies,54.99,0,4.6,386.0,0
-Cleaning Supplies,21.99,0,,,0
-Cleaning Supplies,19.99,0,,,0
-Cleaning Supplies,89.99,0,4.7,3.0,0
-Cleaning Supplies,22.99,0,,,0
-Cleaning Supplies,14.49,1,,,0
-Cleaning Supplies,84.99,0,4.3,19.0,0
-Cleaning Supplies,89.99,0,4.8,1171.0,1
-Cleaning Supplies,14.49,1,,,0
-Cleaning Supplies,38.99,0,4.6,308.0,0
-Cleaning Supplies,38.99,0,4.7,1064.0,1
-Cleaning Supplies,13.99,0,,,0
-Cleaning Supplies,13.99,0,,,0
-Cleaning Supplies,29.99,0,4.4,112.0,0
-Cleaning Supplies,17.99,0,,,0
-Cleaning Supplies,16.99,1,,,0
-Cleaning Supplies,32.99,0,,,0
-Cleaning Supplies,12.99,0,,,0
-Cleaning Supplies,38.99,0,4.7,2060.0,1
-Cleaning Supplies,22.99,0,,,0
-Cleaning Supplies,22.99,0,,,0
-Cleaning Supplies,20.89,0,,,0
-Cleaning Supplies,44.99,0,,,0
-Cleaning Supplies,36.99,0,3.3,3.0,0
-Cleaning Supplies,9.79,0,,,0
-Cleaning Supplies,29.89,0,4.7,12.0,0
-Cleaning Supplies,29.99,0,,,0
-Cleaning Supplies,54.99,0,4.2,29.0,0
-Cleaning Supplies,39.99,0,3.7,31.0,0
-Cleaning Supplies,19.99,0,,,0
-Cleaning Supplies,24.99,0,,,0
-Cleaning Supplies,9.49,0,,,0
-Cleaning Supplies,22.99,0,4.6,1571.0,1
-Cleaning Supplies,24.99,0,4.5,116.0,0
-Cleaning Supplies,22.99,0,,,0
-Cleaning Supplies,41.99,0,4.9,12.0,0
-Cleaning Supplies,19.99,0,,,0
-Cleaning Supplies,10.99,0,,,0
-Cleaning Supplies,74.99,0,2.3,3.0,0
-Cleaning Supplies,17.89,1,4.7,896.0,1
-Cleaning Supplies,29.99,0,,,0
-Cleaning Supplies,199.99,0,4.5,426.0,0
-Cleaning Supplies,42.99,0,,,0
-Cleaning Supplies,49.99,0,4.4,183.0,0
-Cleaning Supplies,11.99,0,,,0
-Cleaning Supplies,14.99,0,,,0
-Cleaning Supplies,12.49,0,,,0
-Cleaning Supplies,10.99,0,,,0
-Cleaning Supplies,59.99,0,4.4,19.0,0
-Cleaning Supplies,23.99,0,3.7,55.0,0
-Cleaning Supplies,29.99,0,4.8,997.0,1
-Cleaning Supplies,18.49,0,4.6,403.0,0
-Cleaning Supplies,10.99,0,,,0
-Cleaning Supplies,14.99,0,,,0
-Cleaning Supplies,47.99,0,4.1,164.0,0
-Cleaning Supplies,18.39,1,,,0
-Cleaning Supplies,24.99,0,4.7,23.0,0
-Cleaning Supplies,22.99,0,4.7,1044.0,1
-Cleaning Supplies,34.99,0,3.8,192.0,0
-Cleaning Supplies,26.99,0,4.7,827.0,1
-Cleaning Supplies,34.99,0,3.8,20.0,0
-Cleaning Supplies,13.99,0,,,0
-Cleaning Supplies,8.99,0,,,0
-Cleaning Supplies,43.99,0,4.5,355.0,0
-Cleaning Supplies,33.99,0,4.7,96.0,0
-Cleaning Supplies,19.99,0,,,0
-Cleaning Supplies,39.99,0,4.7,198.0,0
-Cleaning Supplies,17.49,0,,,0
-Cleaning Supplies,21.99,0,4.7,1114.0,1
-Cleaning Supplies,28.49,0,,,0
-Cleaning Supplies,34.99,0,4.9,7.0,0
-Cleaning Supplies,19.99,0,,,0
-Cleaning Supplies,8.99,0,,,0
-Cleaning Supplies,17.49,0,,,0
-Cleaning Supplies,89.99,0,4.8,53.0,0
-Cleaning Supplies,29.99,0,4.5,194.0,0
-Cleaning Supplies,26.99,0,,,0
-Coffee,31.99,1,,,0
-Coffee,31.99,1,,,0
-Coffee,31.99,1,,,0
-Coffee,10.29,1,,,0
-Coffee,42.99,0,,,0
-Coffee,31.99,1,,,0
-Coffee,19.99,0,4.5,1087.0,1
-Coffee,13.99,0,,,0
-Coffee,18.99,0,4.4,2061.0,0
-Coffee,42.99,0,4.0,306.0,0
-Coffee,42.99,0,,,0
-Coffee,37.99,0,4.7,1903.0,1
-Coffee,18.99,0,,,0
-Coffee,17.99,0,,,0
-Coffee,42.99,0,,,0
-Coffee,44.99,0,4.7,2458.0,1
-Coffee,42.99,0,,,0
-Coffee,20.99,0,,,0
-Coffee,42.99,0,,,0
-Coffee,42.99,0,4.7,361.0,0
-Coffee,37.99,0,4.7,2762.0,1
-Coffee,17.99,0,,,0
-Coffee,18.99,0,,,0
-Coffee,42.99,0,,,0
-Coffee,29.99,0,4.6,2428.0,1
-Coffee,42.99,0,,,0
-Coffee,14.99,0,,,0
-Coffee,19.99,0,,,0
-Coffee,17.99,0,,,0
-Coffee,35.99,0,,,0
-Coffee,16.99,0,,,0
-Coffee,18.99,0,,,0
-Coffee,39.99,0,4.5,217.0,0
-Coffee,28.99,1,,,0
-Coffee,42.99,0,,,0
-Coffee,42.99,0,4.7,534.0,1
-Coffee,47.99,0,4.7,631.0,1
-Coffee,42.99,0,4.7,244.0,0
-Coffee,25.99,0,,,0
-Coffee,44.99,0,,,0
-Coffee,44.99,0,4.7,1664.0,1
-Coffee,48.99,0,,,0
-Coffee,99.99,0,4.7,13.0,0
-Coffee,41.99,0,,,0
-Coffee,48.99,0,,,0
-Coffee,14.99,0,,,0
-Coffee,28.99,0,,,0
-Coffee,48.99,0,,,0
-Coffee,44.99,0,4.7,2525.0,1
-Coffee,56.99,0,4.7,1353.0,1
-Coffee,44.99,0,,,0
-Coffee,22.99,0,,,0
-Coffee,44.99,0,4.6,1822.0,1
-Coffee,34.99,1,4.8,2468.0,1
-Coffee,34.99,0,3.9,85.0,0
-Coffee,19.99,0,,,0
-Coffee,39.99,0,4.7,1948.0,1
-Coffee,39.99,0,4.6,424.0,0
-Coffee,12.99,0,,,0
-Coffee,39.99,0,4.6,14.0,0
-Coffee,36.99,0,4.3,462.0,0
-Coffee,48.99,0,,,0
-Coffee,11.99,0,,,0
-Coffee,29.99,0,4.1,107.0,0
-Coffee,48.99,0,,,0
-Coffee,16.99,0,,,0
-Coffee,59.99,0,4.2,55.0,0
-Coffee,34.99,0,4.6,812.0,1
-Coffee,59.99,0,4.5,53.0,0
-Coffee,59.99,0,4.3,27.0,0
-Coffee,10.99,0,,,0
-Coffee,16.99,0,,,0
-Coffee,13.99,0,,,0
-Coffee,29.69,1,,,0
-Coffee,14.99,0,,,0
-Coffee,6.59,0,,,0
-Coffee,14.99,0,,,0
-Coffee,44.99,0,4.7,1180.0,1
-Coffee,39.99,0,4.5,147.0,0
-Coffee,39.99,0,4.6,531.0,1
-Coffee,39.99,0,3.7,18.0,0
-Coffee,4.99,0,,,0
-Coffee,39.99,0,4.6,355.0,0
-Coffee,14.99,0,,,0
-Coffee,23.99,0,,,0
-Coffee,21.99,0,,,0
-Coffee,44.99,0,4.8,2216.0,1
-Coffee,20.99,0,,,0
-Coffee,39.99,0,4.5,1046.0,1
-Coffee,16.99,0,,,0
-Coffee,13.99,0,,,0
-Coffee,18.99,0,,,0
-Coffee,39.99,0,4.4,129.0,0
-Coffee,14.99,0,,,0
-Coffee,42.99,0,4.4,1278.0,0
-Deli,99.99,1,4.4,89.0,0
-Deli,119.99,0,4.5,220.0,0
-Deli,199.99,1,4.6,2452.0,1
-Deli,89.99,0,4.2,811.0,0
-Deli,149.99,1,4.4,226.0,0
-Deli,199.99,0,4.5,1307.0,1
-Deli,649.99,0,4.6,516.0,1
-Deli,1.0,0,5.0,2.0,0
-Deli,109.99,0,,,0
-Deli,124.99,0,4.5,996.0,1
-Deli,249.99,0,4.5,1466.0,1
-Deli,249.99,0,4.4,451.0,0
-Deli,279.99,0,4.4,348.0,0
-Deli,249.99,0,4.2,42.0,0
-Deli,199.99,0,4.5,261.0,0
-Deli,169.99,0,4.5,268.0,0
-Deli,549.99,0,4.7,79.0,0
-Deli,1.0,0,4.6,57.0,0
-Deli,379.99,0,4.6,429.0,0
-Deli,59.99,0,3.9,151.0,0
-Deli,249.99,0,4.5,537.0,1
-Floral,49.99,0,4.0,6573.0,0
-Floral,74.99,0,4.6,2893.0,1
-Floral,59.99,0,,,0
-Floral,54.99,0,,,0
-Floral,64.99,0,,,0
-Floral,64.99,0,,,0
-Floral,46.99,0,4.3,5936.0,0
-Floral,49.99,0,4.2,18098.0,0
-Floral,69.99,0,,,0
-Floral,59.99,0,4.2,1552.0,0
-Floral,49.99,0,3.7,4046.0,0
-Floral,64.99,0,,,0
-Floral,54.99,0,4.2,1620.0,0
-Floral,49.99,0,3.9,701.0,0
-Floral,55.99,0,3.9,3642.0,0
-Floral,49.99,0,3.9,798.0,0
-Floral,59.99,0,4.4,2956.0,0
-Floral,99.99,0,4.4,562.0,0
-Floral,59.99,0,4.5,3227.0,1
-Floral,64.99,0,,,0
-Floral,49.99,0,4.1,6241.0,0
-Floral,43.99,0,4.3,1733.0,0
-Floral,99.99,0,4.2,2051.0,0
-Floral,49.99,0,3.9,606.0,0
-Floral,109.99,0,4.7,2421.0,1
-Floral,109.99,0,4.7,3119.0,1
-Floral,129.99,0,,,0
-Floral,49.99,0,3.5,4801.0,0
-Floral,56.99,0,4.1,1633.0,0
-Floral,64.99,0,4.4,1633.0,0
-Floral,59.99,0,,,0
-Floral,49.99,0,4.3,5997.0,0
-Floral,69.99,0,3.9,1210.0,0
-Floral,49.99,0,4.1,2122.0,0
-Floral,46.99,0,4.4,4171.0,0
-Floral,59.99,0,4.4,1440.0,0
-Floral,49.99,0,4.0,3294.0,0
-Floral,64.99,0,,,0
-Floral,57.99,0,4.4,1648.0,0
-Floral,56.99,0,4.2,1579.0,0
-Floral,49.99,0,4.0,3616.0,0
-Floral,69.99,0,4.1,1181.0,0
-Floral,49.99,0,4.3,3616.0,0
-Floral,42.99,0,3.9,2622.0,0
-Floral,43.99,0,4.2,2618.0,0
-Floral,59.99,0,,,0
-Floral,109.99,0,4.8,3452.0,1
-Floral,58.99,0,4.5,2066.0,1
-Floral,52.99,0,4.2,1143.0,0
-Floral,52.99,0,4.3,3557.0,0
-Floral,69.99,0,,,0
-Floral,179.99,0,3.8,154.0,0
-Floral,74.99,0,4.6,1557.0,1
-Floral,45.99,0,4.2,3690.0,0
-Floral,59.99,0,4.7,15.0,0
-Floral,64.99,0,4.4,374.0,0
-Floral,49.99,0,,,0
-Floral,69.99,0,4.5,921.0,1
-Floral,69.99,0,,,0
-Floral,56.99,0,,,0
-Floral,43.99,0,4.2,863.0,0
-Floral,45.99,0,4.4,3401.0,0
-Floral,119.99,0,3.7,123.0,0
-Floral,59.99,0,,,0
-Floral,49.99,0,,,0
-Floral,46.99,0,4.3,4202.0,0
-Floral,64.99,0,,,0
-Floral,219.99,0,4.5,807.0,1
-Floral,49.99,0,,,0
-Floral,84.99,0,4.7,310.0,0
-Floral,109.99,0,3.7,579.0,0
-Floral,129.99,0,4.3,841.0,0
-Floral,55.99,0,4.2,911.0,0
-Floral,219.99,0,4.6,239.0,0
-Floral,219.99,0,4.4,96.0,0
-Gift Baskets,11.99,0,,,0
-Gift Baskets,39.99,0,4.7,3083.0,1
-Gift Baskets,49.99,0,4.5,15616.0,1
-Gift Baskets,199.99,1,4.6,2452.0,1
-Gift Baskets,49.99,1,4.5,10.0,0
-Gift Baskets,17.99,0,,,0
-Gift Baskets,29.99,0,4.4,1679.0,0
-Gift Baskets,119.99,0,4.5,220.0,0
-Gift Baskets,44.99,0,4.5,555.0,1
-Gift Baskets,39.99,0,4.4,410.0,0
-Gift Baskets,149.99,1,4.4,226.0,0
-Gift Baskets,49.99,0,4.7,850.0,1
-Gift Baskets,39.99,0,4.1,92.0,0
-Gift Baskets,199.99,0,4.5,1307.0,1
-Gift Baskets,49.99,0,4.1,184.0,0
-Gift Baskets,34.99,0,4.7,1143.0,1
-Gift Baskets,99.99,1,4.4,89.0,0
-Gift Baskets,69.99,0,4.5,335.0,0
-Gift Baskets,59.99,0,4.4,18.0,0
-Gift Baskets,14.99,0,,,0
-Gift Baskets,39.99,0,4.2,1413.0,0
-Gift Baskets,99.99,0,4.6,119.0,0
-Gift Baskets,39.99,0,4.6,941.0,1
-Gift Baskets,49.99,0,4.8,17.0,0
-Gift Baskets,89.99,0,4.5,79.0,0
-Gift Baskets,79.99,0,4.3,152.0,0
-Gift Baskets,69.99,0,3.7,3.0,0
-Gift Baskets,69.99,0,4.4,45.0,0
-Gift Baskets,59.99,0,4.5,314.0,0
-Gift Baskets,39.99,0,4.5,251.0,0
-Gift Baskets,149.99,0,5.0,3.0,0
-Gift Baskets,159.99,0,4.5,859.0,1
-Gift Baskets,34.99,0,4.6,97.0,0
-Gift Baskets,49.99,0,4.5,60.0,0
-Gift Baskets,59.99,0,3.8,46.0,0
-Gift Baskets,49.99,0,,,0
-Gift Baskets,49.99,0,4.4,18.0,0
-Gift Baskets,44.99,0,,,0
-Gift Baskets,39.99,0,4.5,440.0,0
-Gift Baskets,44.99,0,5.0,3.0,0
-Gift Baskets,15.99,0,,,0
-Gift Baskets,49.99,0,4.5,128.0,0
-Gift Baskets,89.99,0,4.8,465.0,0
-Gift Baskets,124.99,0,4.5,996.0,1
-Gift Baskets,34.99,0,4.4,312.0,0
-Gift Baskets,46.99,0,4.4,753.0,0
-Gift Baskets,54.99,0,4.3,119.0,0
-Gift Baskets,79.99,0,4.8,115.0,0
-Gift Baskets,21.99,0,,,0
-Gift Baskets,199.99,0,4.5,261.0,0
-Gift Baskets,49.99,0,,,0
-Gift Baskets,54.99,0,4.6,265.0,0
-Gift Baskets,59.99,0,4.8,147.0,0
-Gift Baskets,56.99,0,4.8,477.0,0
-Gift Baskets,59.99,0,4.6,106.0,0
-Gift Baskets,39.99,0,4.2,8.0,0
-Gift Baskets,79.99,0,4.4,598.0,0
-Gift Baskets,109.99,0,4.5,41.0,0
-Gift Baskets,379.99,0,4.6,429.0,0
-Gift Baskets,109.99,0,4.7,1103.0,1
-Gift Baskets,169.99,0,4.5,268.0,0
-Gift Baskets,69.99,0,4.4,543.0,0
-Gift Baskets,69.99,0,5.0,1.0,0
-Gift Baskets,89.99,0,4.4,39.0,0
-Gift Baskets,249.99,0,4.4,451.0,0
-Gift Baskets,59.99,0,4.0,27.0,0
-Gift Baskets,49.99,0,4.4,44.0,0
-Gift Baskets,549.99,0,4.7,79.0,0
-Gift Baskets,279.99,0,4.4,348.0,0
-Gift Baskets,59.99,0,,,0
-Gift Baskets,34.99,0,,,0
-Gift Baskets,79.99,0,4.2,26.0,0
-Gift Baskets,49.99,0,4.6,63.0,0
-Gift Baskets,59.99,0,4.2,21.0,0
-Gift Baskets,34.99,0,4.3,204.0,0
-Gift Baskets,59.99,0,4.1,10.0,0
-Gift Baskets,59.99,0,4.0,4.0,0
-Gift Baskets,69.99,0,4.0,4.0,0
-Gift Baskets,46.99,0,3.9,830.0,0
-Gift Baskets,229.99,0,4.4,553.0,0
-Gift Baskets,1.0,0,4.6,57.0,0
-Gift Baskets,1.0,0,5.0,2.0,0
-Gift Baskets,59.99,0,4.2,137.0,0
-Gift Baskets,59.99,0,3.2,4.0,0
-Gift Baskets,54.99,0,,,0
-Gift Baskets,69.99,0,5.0,2.0,0
-Gift Baskets,54.99,0,,,0
-Gift Baskets,39.99,0,,,0
-Gift Baskets,29.99,0,,,0
-Household,18.99,0,,,0
-Household,25.99,0,,,0
-Household,11.99,0,,,0
-Household,12.99,0,,,0
-Household,17.99,0,,,0
-Household,20.99,0,,,0
-Household,17.99,0,,,0
-Household,20.99,0,,,0
-Household,20.99,0,,,0
-Household,18.99,0,,,0
-Household,18.99,0,,,0
-Household,24.99,0,,,0
-Household,17.99,0,,,0
-Household,26.99,0,,,0
-Household,14.99,0,,,0
-Household,27.99,0,,,0
-Household,36.99,0,,,0
-Household,9.99,0,,,0
-Household,19.99,0,,,0
-Household,9.99,0,,,0
-Household,12.99,0,,,0
-Household,8.49,0,,,0
-Household,7.49,0,,,0
-Household,12.99,0,,,0
-Household,8.99,0,,,0
-Household,11.39,0,,,0
-Household,22.99,0,,,0
-Household,22.99,0,,,0
-Household,12.99,0,,,0
-Household,12.99,0,,,0
-Household,49.99,0,,,0
-Household,26.99,0,,,0
-Household,93.79,0,,,0
-Household,109.99,0,,,0
-Household,17.99,0,,,0
-Household,91.79,0,,,0
-Household,11.39,0,,,0
-Household,11.29,0,,,0
-Household,93.79,0,,,0
-Household,12.39,0,,,0
-Household,95.79,0,,,0
-Household,22.99,0,,,0
-Household,10.49,0,,,0
-Household,117.79,0,,,0
-Household,15.99,0,,,0
-Household,14.99,0,,,0
-Household,26.99,0,,,0
-Household,69.79,0,,,0
-Household,4.49,0,,,0
-Household,52.79,0,,,0
-Household,93.79,0,,,0
-Household,102.79,0,,,0
-Household,84.79,0,,,0
-Household,10.19,0,,,0
-Household,16.49,0,,,0
-Household,5.49,0,,,0
-Household,19.99,0,,,0
-Household,12.99,0,,,0
-Household,12.79,0,,,0
-Household,9.49,0,,,0
-Household,11.99,0,,,0
-Household,19.99,0,,,0
-Household,8.99,0,,,0
-Household,10.99,0,,,0
-Household,14.99,0,,,0
-Household,17.99,0,,,0
-Household,11.99,0,,,0
-Household,15.99,0,,,0
-Household,16.99,0,,,0
-Household,13.99,0,,,0
-Household,26.99,0,,,0
-Household,10.99,0,,,0
-Household,39.99,0,,,0
-Household,14.99,0,,,0
-Household,39.99,0,,,0
-Household,14.99,0,,,0
-Household,73.99,0,,,0
-Household,18.99,0,,,0
-Household,18.99,0,,,0
-Household,22.99,0,,,0
-Household,16.99,0,,,0
-Kirkland Signature Grocery,8.99,0,,,0
-Kirkland Signature Grocery,22.99,0,,,0
-Kirkland Signature Grocery,31.99,1,,,0
-Kirkland Signature Grocery,15.99,1,4.7,2218.0,1
-Kirkland Signature Grocery,31.99,1,,,0
-Kirkland Signature Grocery,31.99,1,,,0
-Kirkland Signature Grocery,52.99,0,4.5,1398.0,1
-Kirkland Signature Grocery,18.99,0,,,0
-Kirkland Signature Grocery,36.99,0,4.6,2196.0,1
-Kirkland Signature Grocery,16.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,21.99,0,,,0
-Kirkland Signature Grocery,19.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,32.99,0,4.5,2366.0,1
-Kirkland Signature Grocery,22.99,0,,,0
-Kirkland Signature Grocery,32.99,0,4.7,4394.0,1
-Kirkland Signature Grocery,37.99,0,4.7,1903.0,1
-Kirkland Signature Grocery,32.99,0,4.6,1568.0,1
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,31.99,1,,,0
-Kirkland Signature Grocery,11.99,0,,,0
-Kirkland Signature Grocery,15.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,9.99,0,,,0
-Kirkland Signature Grocery,52.99,0,4.6,2313.0,1
-Kirkland Signature Grocery,49.99,0,4.6,2994.0,1
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,44.99,0,4.7,2458.0,1
-Kirkland Signature Grocery,22.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,18.99,0,,,0
-Kirkland Signature Grocery,52.99,0,4.6,3871.0,1
-Kirkland Signature Grocery,20.99,0,,,0
-Kirkland Signature Grocery,12.99,0,,,0
-Kirkland Signature Grocery,37.99,0,4.7,2762.0,1
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,21.99,0,,,0
-Kirkland Signature Grocery,11.99,0,,,0
-Kirkland Signature Grocery,7.99,0,,,0
-Kirkland Signature Grocery,18.99,0,,,0
-Kirkland Signature Grocery,18.99,0,,,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,18.99,0,,,0
-Kirkland Signature Grocery,22.99,0,,,0
-Kirkland Signature Grocery,18.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,9.99,0,,,0
-Kirkland Signature Grocery,9.79,0,,,0
-Kirkland Signature Grocery,16.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,32.99,0,4.5,1620.0,1
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,19.99,0,,,0
-Kirkland Signature Grocery,949.99,0,4.6,58.0,0
-Kirkland Signature Grocery,16.99,0,,,0
-Kirkland Signature Grocery,20.99,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,52.99,0,,,0
-Kirkland Signature Grocery,32.99,0,,,0
-Kirkland Signature Grocery,27.99,0,4.8,4595.0,1
-Kirkland Signature Grocery,10.49,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,9.49,0,,,0
-Kirkland Signature Grocery,33.99,0,,,0
-Kirkland Signature Grocery,19.99,0,,,0
-Kirkland Signature Grocery,52.99,0,4.6,1715.0,1
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,19.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,36.99,0,4.5,1310.0,1
-Kirkland Signature Grocery,18.49,0,,,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,3.99,0,,,0
-Kirkland Signature Grocery,21.99,0,,,0
-Kirkland Signature Grocery,4.79,0,,,0
-Kirkland Signature Grocery,8.99,0,,,0
-Kirkland Signature Grocery,28.99,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,15.99,0,,,0
-Kirkland Signature Grocery,12.99,0,,,0
-Kirkland Signature Grocery,16.99,0,,,0
-Kirkland Signature Grocery,34.99,0,,,0
-Kirkland Signature Grocery,11.99,0,,,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,38.99,0,,,0
-Kirkland Signature Grocery,8.99,0,,,0
-Kirkland Signature Grocery,11.99,0,,,0
-Kirkland Signature Grocery,15.99,0,,,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,12.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,12.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,19.99,0,,,0
-Kirkland Signature Grocery,7.99,0,,,0
-Kirkland Signature Grocery,6.69,0,,,0
-Kirkland Signature Grocery,36.99,0,4.7,5134.0,1
-Kirkland Signature Grocery,16.99,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,11.99,0,,,0
-Kirkland Signature Grocery,9.99,0,,,0
-Kirkland Signature Grocery,13.99,0,,,0
-Kirkland Signature Grocery,14.99,0,,,0
-Kirkland Signature Grocery,37.49,0,,,0
-Kirkland Signature Grocery,21.99,0,,,0
-Kirkland Signature Grocery,16.49,0,,,0
-Kirkland Signature Grocery,9.49,0,,,0
-Kirkland Signature Grocery,8.99,0,,,0
-Kirkland Signature Grocery,17.99,0,,,0
-Kirkland Signature Grocery,42.99,0,4.4,1278.0,0
-Kirkland Signature Grocery,10.99,0,,,0
-Kirkland Signature Grocery,11.49,0,,,0
-Laundry Detergent & Supplies,28.99,1,,,0
-Laundry Detergent & Supplies,28.99,1,,,0
-Laundry Detergent & Supplies,24.99,1,,,0
-Laundry Detergent & Supplies,19.49,1,,,0
-Laundry Detergent & Supplies,10.79,1,,,0
-Laundry Detergent & Supplies,17.89,1,,,0
-Laundry Detergent & Supplies,13.99,1,,,0
-Laundry Detergent & Supplies,42.99,1,4.8,2658.0,1
-Laundry Detergent & Supplies,23.99,0,,,0
-Laundry Detergent & Supplies,34.99,0,,,0
-Laundry Detergent & Supplies,28.79,0,,,0
-Laundry Detergent & Supplies,21.49,0,,,0
-Laundry Detergent & Supplies,54.99,0,4.6,386.0,0
-Laundry Detergent & Supplies,21.99,0,,,0
-Laundry Detergent & Supplies,19.99,0,,,0
-Laundry Detergent & Supplies,89.99,0,4.7,3.0,0
-Laundry Detergent & Supplies,22.99,0,,,0
-Laundry Detergent & Supplies,84.99,0,4.3,19.0,0
-Laundry Detergent & Supplies,89.99,0,4.8,1171.0,1
-Laundry Detergent & Supplies,38.99,0,4.6,308.0,0
-Laundry Detergent & Supplies,38.99,0,4.7,1064.0,1
-Laundry Detergent & Supplies,29.99,0,4.4,112.0,0
-Laundry Detergent & Supplies,17.99,0,,,0
-Laundry Detergent & Supplies,16.99,1,,,0
-Laundry Detergent & Supplies,38.99,0,4.7,2060.0,1
-Laundry Detergent & Supplies,22.99,0,,,0
-Laundry Detergent & Supplies,44.99,0,,,0
-Laundry Detergent & Supplies,29.99,0,,,0
-Laundry Detergent & Supplies,54.99,0,4.2,29.0,0
-Laundry Detergent & Supplies,19.99,0,,,0
-Laundry Detergent & Supplies,24.99,0,4.5,116.0,0
-Laundry Detergent & Supplies,74.99,0,2.3,3.0,0
-Laundry Detergent & Supplies,17.89,1,4.7,896.0,1
-Laundry Detergent & Supplies,11.99,0,,,0
-Laundry Detergent & Supplies,18.39,1,,,0
-Laundry Detergent & Supplies,43.99,0,4.5,355.0,0
-Laundry Detergent & Supplies,39.99,0,4.7,198.0,0
-Laundry Detergent & Supplies,34.99,0,4.9,7.0,0
-Laundry Detergent & Supplies,17.49,0,,,0
-Meat & Seafood,149.99,1,4.6,1237.0,1
-Meat & Seafood,229.99,1,,,0
-Meat & Seafood,239.99,1,4.0,108.0,0
-Meat & Seafood,14.99,0,,,0
-Meat & Seafood,129.99,1,,,0
-Meat & Seafood,109.99,1,,,0
-Meat & Seafood,109.99,1,4.7,104.0,0
-Meat & Seafood,259.99,0,,,0
-Meat & Seafood,159.99,0,4.2,11.0,0
-Meat & Seafood,149.99,0,4.5,249.0,0
-Meat & Seafood,139.99,0,4.4,207.0,0
-Meat & Seafood,209.99,0,4.2,179.0,0
-Meat & Seafood,99.99,0,4.3,43.0,0
-Meat & Seafood,349.99,0,4.4,8.0,0
-Meat & Seafood,109.99,1,4.6,336.0,0
-Meat & Seafood,169.99,0,3.0,1.0,0
-Meat & Seafood,199.99,0,4.5,50.0,0
-Meat & Seafood,219.99,0,4.0,602.0,0
-Meat & Seafood,99.99,0,4.0,19.0,0
-Meat & Seafood,279.99,1,4.8,151.0,0
-Meat & Seafood,159.99,0,4.5,859.0,1
-Meat & Seafood,89.99,0,3.5,20.0,0
-Meat & Seafood,119.99,0,3.5,109.0,0
-Meat & Seafood,109.99,1,4.6,329.0,0
-Meat & Seafood,229.99,0,4.6,349.0,0
-Meat & Seafood,199.99,0,4.5,1307.0,1
-Meat & Seafood,299.99,0,4.2,165.0,0
-Meat & Seafood,279.99,0,,,0
-Meat & Seafood,199.99,0,4.7,342.0,0
-Meat & Seafood,99.99,0,4.5,251.0,0
-Meat & Seafood,199.99,0,4.3,1787.0,0
-Meat & Seafood,129.99,0,4.4,118.0,0
-Meat & Seafood,339.99,0,1.0,1.0,0
-Meat & Seafood,399.99,0,4.3,271.0,0
-Meat & Seafood,199.99,0,3.9,1100.0,0
-Meat & Seafood,349.99,0,4.2,104.0,0
-Meat & Seafood,239.99,0,4.6,335.0,0
-Meat & Seafood,219.99,0,4.7,208.0,0
-Meat & Seafood,279.99,0,,,0
-Meat & Seafood,89.99,0,3.1,16.0,0
-Meat & Seafood,179.99,0,3.4,141.0,0
-Meat & Seafood,429.99,0,4.6,492.0,0
-Meat & Seafood,114.99,0,4.4,48.0,0
-Meat & Seafood,299.99,0,4.5,110.0,0
-Meat & Seafood,239.99,0,,,0
-Meat & Seafood,129.99,0,,,0
-Meat & Seafood,219.99,0,4.5,388.0,0
-Meat & Seafood,109.99,0,4.1,134.0,0
-Meat & Seafood,199.99,0,4.5,106.0,0
-Meat & Seafood,99.99,0,4.2,26.0,0
-Meat & Seafood,249.99,0,4.6,13.0,0
-Meat & Seafood,229.99,0,4.4,947.0,0
-Meat & Seafood,379.99,0,4.4,134.0,0
-Meat & Seafood,159.99,0,,,0
-Meat & Seafood,369.99,0,4.2,5.0,0
-Meat & Seafood,469.99,0,3.4,64.0,0
-Meat & Seafood,219.99,0,4.5,1193.0,1
-Meat & Seafood,469.99,0,4.4,755.0,0
-Meat & Seafood,64.99,0,4.4,53.0,0
-Meat & Seafood,249.99,0,2.6,18.0,0
-Meat & Seafood,189.99,0,4.2,677.0,0
-Meat & Seafood,59.99,0,4.5,1550.0,1
-Meat & Seafood,79.99,0,4.4,75.0,0
-Meat & Seafood,99.99,0,4.5,173.0,0
-Meat & Seafood,249.99,0,4.6,1640.0,1
-Meat & Seafood,89.99,0,4.2,56.0,0
-Meat & Seafood,129.99,0,4.0,41.0,0
-Meat & Seafood,199.99,0,4.4,41.0,0
-Meat & Seafood,109.99,0,4.5,196.0,0
-Meat & Seafood,159.99,0,,,0
-Meat & Seafood,299.99,0,3.9,220.0,0
-Meat & Seafood,89.99,0,4.0,132.0,0
-Meat & Seafood,64.99,0,5.0,6.0,0
-Meat & Seafood,329.99,0,3.8,16.0,0
-Meat & Seafood,269.99,0,4.6,41.0,0
-Meat & Seafood,449.99,0,3.7,22.0,0
-Meat & Seafood,179.99,0,4.5,40.0,0
-Meat & Seafood,529.99,0,4.0,4.0,0
-Meat & Seafood,149.99,0,4.7,20.0,0
-Meat & Seafood,169.99,0,1.0,1.0,0
-Meat & Seafood,169.99,0,3.0,55.0,0
-Meat & Seafood,999.99,0,4.6,424.0,0
-Meat & Seafood,1.0,0,4.6,657.0,1
-Meat & Seafood,99.99,0,4.4,38.0,0
-Meat & Seafood,199.99,0,4.4,48.0,0
-Meat & Seafood,119.99,0,4.5,26.0,0
-Meat & Seafood,239.99,0,4.1,109.0,0
-Meat & Seafood,999.99,0,4.5,36.0,0
-Meat & Seafood,139.99,0,4.7,13.0,0
-Meat & Seafood,549.99,0,4.4,16.0,0
-Meat & Seafood,249.99,0,4.2,194.0,0
-Meat & Seafood,239.99,0,4.4,354.0,0
-Meat & Seafood,,1,4.5,4.0,0
-Meat & Seafood,399.99,0,3.9,62.0,0
-Meat & Seafood,259.99,0,2.8,5.0,0
-Meat & Seafood,399.99,0,4.2,14.0,0
-Meat & Seafood,89.99,0,4.0,90.0,0
-Meat & Seafood,119.99,0,4.4,104.0,0
-Meat & Seafood,299.99,0,4.2,247.0,0
-Meat & Seafood,129.99,0,4.7,93.0,0
-Meat & Seafood,159.99,0,4.0,18.0,0
-Meat & Seafood,189.99,0,4.1,7.0,0
-Meat & Seafood,169.99,0,4.4,262.0,0
-Meat & Seafood,269.99,0,4.8,190.0,0
-Meat & Seafood,199.99,0,,,0
-Meat & Seafood,179.99,0,4.5,209.0,0
-Meat & Seafood,179.99,0,2.9,64.0,0
-Meat & Seafood,149.99,0,4.1,344.0,0
-Meat & Seafood,59.99,0,4.1,114.0,0
-Meat & Seafood,159.99,0,4.9,10.0,0
-Meat & Seafood,549.99,0,4.1,9.0,0
-Meat & Seafood,69.97,0,4.5,26.0,0
-Meat & Seafood,349.99,0,4.6,313.0,0
-Meat & Seafood,139.99,0,4.9,7.0,0
-Meat & Seafood,209.99,0,4.3,286.0,0
-Meat & Seafood,329.99,0,4.6,235.0,0
-Meat & Seafood,99.99,0,4.2,67.0,0
-Meat & Seafood,169.99,0,,,0
-Meat & Seafood,229.99,0,4.4,229.0,0
-Meat & Seafood,179.99,0,4.6,42.0,0
-Meat & Seafood,149.99,0,4.7,78.0,0
-Meat & Seafood,269.99,0,4.3,232.0,0
-Meat & Seafood,249.99,0,4.1,264.0,0
-Meat & Seafood,569.99,0,4.5,208.0,0
-Meat & Seafood,219.99,0,4.4,87.0,0
-Meat & Seafood,189.99,0,4.7,23.0,0
-Meat & Seafood,299.99,0,3.3,88.0,0
-Meat & Seafood,219.99,0,4.3,751.0,0
-Meat & Seafood,159.99,0,3.6,67.0,0
-Meat & Seafood,149.99,0,4.1,75.0,0
-Meat & Seafood,129.99,0,4.0,29.0,0
-Meat & Seafood,139.99,0,4.3,3.0,0
-Meat & Seafood,239.99,0,,,0
-Meat & Seafood,229.99,0,4.4,553.0,0
-Meat & Seafood,249.99,0,5.0,1.0,0
-Meat & Seafood,139.99,0,3.8,146.0,0
-Meat & Seafood,129.99,0,4.0,22.0,0
-Meat & Seafood,259.99,0,3.8,6.0,0
-Meat & Seafood,139.99,0,4.3,32.0,0
-Meat & Seafood,219.99,0,4.5,140.0,0
-Meat & Seafood,159.99,0,4.5,288.0,0
-Meat & Seafood,249.99,0,4.8,84.0,0
-Meat & Seafood,79.99,0,4.2,104.0,0
-Meat & Seafood,649.99,0,4.7,305.0,0
-Organic,11.99,0,,,0
-Organic,9.99,0,,,0
-Organic,18.99,0,,,0
-Organic,9.99,0,,,0
-Organic,14.99,0,,,0
-Organic,14.99,0,,,0
-Organic,47.99,0,4.7,631.0,1
-Organic,17.99,0,,,0
-Organic,33.99,0,,,0
-Organic,14.99,0,,,0
-Organic,10.99,0,,,0
-Organic,48.99,0,,,0
-Organic,14.99,0,,,0
-Organic,44.99,0,4.7,2525.0,1
-Organic,44.99,0,4.6,1822.0,1
-Organic,10.99,0,,,0
-Organic,12.99,0,,,0
-Organic,11.69,0,,,0
-Organic,39.99,0,4.4,440.0,0
-Organic,17.99,0,,,0
-Organic,17.99,0,,,0
-Organic,11.99,0,,,0
-Organic,49.99,0,4.6,1819.0,1
-Organic,19.99,0,,,0
-Organic,12.99,0,,,0
-Organic,9.99,0,,,0
-Organic,9.49,0,,,0
-Organic,44.99,0,4.8,2216.0,1
-Organic,10.99,0,,,0
-Organic,17.99,0,,,0
-Organic,39.99,0,4.5,1046.0,1
-Organic,10.99,0,,,0
-Organic,27.99,0,4.7,571.0,1
-Pantry & Dry Goods,189.99,0,,,0
-Pantry & Dry Goods,59.99,1,4.6,1571.0,1
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,9.69,1,,,0
-Pantry & Dry Goods,23.99,0,,,0
-Pantry & Dry Goods,9.69,1,,,0
-Pantry & Dry Goods,10.99,1,,,0
-Pantry & Dry Goods,11.99,0,,,0
-Pantry & Dry Goods,18.99,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,74.99,0,4.6,255.0,0
-Pantry & Dry Goods,7.99,0,,,0
-Pantry & Dry Goods,22.99,0,,,0
-Pantry & Dry Goods,10.99,1,,,0
-Pantry & Dry Goods,18.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,22.99,0,,,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,12.49,0,,,0
-Pantry & Dry Goods,13.49,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,18.99,0,,,0
-Pantry & Dry Goods,19.99,0,,,0
-Pantry & Dry Goods,19.99,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,52.99,0,,,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,26.99,0,,,0
-Pantry & Dry Goods,10.39,1,,,0
-Pantry & Dry Goods,17.99,0,,,0
-Pantry & Dry Goods,17.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,59.99,1,4.7,1444.0,1
-Pantry & Dry Goods,56.99,0,4.8,851.0,1
-Pantry & Dry Goods,79.99,0,4.8,115.0,0
-Pantry & Dry Goods,39.99,0,4.7,98.0,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,3.99,0,,,0
-Pantry & Dry Goods,79.99,0,4.5,122.0,0
-Pantry & Dry Goods,29.99,0,4.2,122.0,0
-Pantry & Dry Goods,24.99,0,,,0
-Pantry & Dry Goods,59.99,0,4.7,50.0,0
-Pantry & Dry Goods,29.99,0,4.8,1241.0,1
-Pantry & Dry Goods,4.79,0,,,0
-Pantry & Dry Goods,17.49,1,,,0
-Pantry & Dry Goods,64.99,0,4.3,285.0,0
-Pantry & Dry Goods,12.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,17.99,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,19.99,0,,,0
-Pantry & Dry Goods,11.99,0,,,0
-Pantry & Dry Goods,21.99,0,4.5,122.0,0
-Pantry & Dry Goods,15.99,0,,,0
-Pantry & Dry Goods,349.99,0,4.3,15.0,0
-Pantry & Dry Goods,44.99,0,5.0,3.0,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,8.99,0,,,0
-Pantry & Dry Goods,49.99,0,4.7,646.0,1
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,27.99,0,5.0,1.0,0
-Pantry & Dry Goods,109.99,0,4.5,52.0,0
-Pantry & Dry Goods,12.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,59.99,0,4.7,401.0,0
-Pantry & Dry Goods,10.69,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,13.99,0,,,0
-Pantry & Dry Goods,15.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,24.99,0,,,0
-Pantry & Dry Goods,12.99,0,,,0
-Pantry & Dry Goods,21.99,0,4.4,41.0,0
-Pantry & Dry Goods,7.99,0,,,0
-Pantry & Dry Goods,6.69,0,,,0
-Pantry & Dry Goods,37.99,0,,,0
-Pantry & Dry Goods,69.99,0,4.5,4.0,0
-Pantry & Dry Goods,6.49,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,229.99,0,4.3,43.0,0
-Pantry & Dry Goods,7.99,0,,,0
-Pantry & Dry Goods,16.99,0,,,0
-Pantry & Dry Goods,99.99,0,4.4,215.0,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,21.99,0,,,0
-Pantry & Dry Goods,10.69,1,,,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,10.69,1,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,10.49,0,,,0
-Pantry & Dry Goods,54.99,0,4.9,41.0,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,12.99,0,,,0
-Pantry & Dry Goods,49.99,0,3.7,17.0,0
-Pantry & Dry Goods,11.99,0,,,0
-Pantry & Dry Goods,16.99,0,,,0
-Pantry & Dry Goods,44.99,0,3.9,15.0,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,36.99,0,4.7,561.0,1
-Pantry & Dry Goods,8.99,0,,,0
-Pantry & Dry Goods,19.99,0,4.7,411.0,0
-Pantry & Dry Goods,27.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,16.99,0,,,0
-Pantry & Dry Goods,15.99,0,,,0
-Pantry & Dry Goods,18.99,0,,,0
-Pantry & Dry Goods,12.99,0,,,0
-Pantry & Dry Goods,6.99,0,,,0
-Pantry & Dry Goods,9.49,0,,,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,8.99,0,,,0
-Pantry & Dry Goods,19.99,0,4.9,906.0,1
-Pantry & Dry Goods,36.99,0,3.3,11.0,0
-Pantry & Dry Goods,16.99,1,,,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,21.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,17.99,0,,,0
-Pantry & Dry Goods,16.99,0,,,0
-Pantry & Dry Goods,8.49,0,,,0
-Pantry & Dry Goods,349.99,0,4.1,19.0,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,49.99,0,4.8,880.0,1
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,14.99,0,,,0
-Pantry & Dry Goods,16.99,0,4.7,970.0,1
-Pantry & Dry Goods,8.49,0,,,0
-Pantry & Dry Goods,49.99,0,4.4,172.0,0
-Pantry & Dry Goods,6.99,0,,,0
-Pantry & Dry Goods,37.99,0,4.4,46.0,0
-Pantry & Dry Goods,17.99,0,,,0
-Pantry & Dry Goods,8.99,1,,,0
-Pantry & Dry Goods,56.99,0,4.7,177.0,0
-Pantry & Dry Goods,19.99,0,,,0
-Pantry & Dry Goods,15.99,0,,,0
-Pantry & Dry Goods,11.99,0,,,0
-Pantry & Dry Goods,26.99,0,,,0
-Pantry & Dry Goods,12.99,0,,,0
-Pantry & Dry Goods,24.99,0,,,0
-Pantry & Dry Goods,16.99,0,,,0
-Pantry & Dry Goods,26.99,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,15.99,0,,,0
-Pantry & Dry Goods,10.49,0,,,0
-Pantry & Dry Goods,10.99,0,,,0
-Pantry & Dry Goods,6.99,0,,,0
-Pantry & Dry Goods,7.99,0,,,0
-Pantry & Dry Goods,11.99,0,,,0
-Pantry & Dry Goods,28.99,0,,,0
-Pantry & Dry Goods,49.99,0,4.1,47.0,0
-Pantry & Dry Goods,54.99,0,4.5,39.0,0
-Pantry & Dry Goods,8.99,0,,,0
-Pantry & Dry Goods,21.99,0,4.6,437.0,0
-Pantry & Dry Goods,8.49,0,,,0
-Pantry & Dry Goods,9.99,0,,,0
-Pantry & Dry Goods,7.99,0,,,0
-Pantry & Dry Goods,79.99,0,3.4,13.0,0
-Pantry & Dry Goods,27.99,0,4.7,571.0,1
-Pantry & Dry Goods,44.99,0,4.8,23.0,0
-Pantry & Dry Goods,79.99,0,4.6,308.0,0
-Pantry & Dry Goods,36.99,0,4.7,570.0,1
-Pantry & Dry Goods,19.99,0,4.6,680.0,1
-Paper & Plastic Products,26.99,1,,,0
-Paper & Plastic Products,29.99,0,,,0
-Paper & Plastic Products,29.99,0,,,0
-Paper & Plastic Products,18.49,1,,,0
-Paper & Plastic Products,22.99,0,,,0
-Paper & Plastic Products,31.99,0,4.6,256.0,0
-Paper & Plastic Products,28.79,0,4.4,316.0,0
-Paper & Plastic Products,26.99,0,3.1,12.0,0
-Paper & Plastic Products,34.99,0,,,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,56.99,0,2.7,19.0,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,18.99,0,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,28.79,0,4.1,101.0,0
-Paper & Plastic Products,62.99,0,3.7,15.0,0
-Paper & Plastic Products,46.99,0,4.2,1076.0,0
-Paper & Plastic Products,25.99,0,,,0
-Paper & Plastic Products,36.99,0,,,0
-Paper & Plastic Products,48.99,0,,,0
-Paper & Plastic Products,11.99,0,,,0
-Paper & Plastic Products,12.99,0,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,28.99,0,5.0,3.0,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,22.99,0,,,0
-Paper & Plastic Products,23.99,0,4.7,116.0,0
-Paper & Plastic Products,28.99,0,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,22.49,0,4.7,837.0,1
-Paper & Plastic Products,13.69,1,,,0
-Paper & Plastic Products,19.99,0,,,0
-Paper & Plastic Products,26.49,0,,,0
-Paper & Plastic Products,22.99,0,,,0
-Paper & Plastic Products,16.19,1,,,0
-Paper & Plastic Products,19.99,0,,,0
-Paper & Plastic Products,18.49,0,,,0
-Paper & Plastic Products,19.99,0,,,0
-Paper & Plastic Products,26.99,0,,,0
-Paper & Plastic Products,11.89,1,,,0
-Paper & Plastic Products,12.49,0,,,0
-Paper & Plastic Products,34.99,0,,,0
-Paper & Plastic Products,38.99,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,13.99,0,,,0
-Paper & Plastic Products,16.99,0,,,0
-Paper & Plastic Products,19.99,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,12.99,0,,,0
-Paper & Plastic Products,13.99,0,,,0
-Paper & Plastic Products,57.99,0,4.7,10.0,0
-Paper & Plastic Products,52.99,0,3.7,6.0,0
-Paper & Plastic Products,13.99,0,,,0
-Paper & Plastic Products,72.99,0,3.5,2.0,0
-Paper & Plastic Products,18.99,0,,,0
-Paper & Plastic Products,13.99,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,19.49,0,,,0
-Paper & Plastic Products,15.29,0,,,0
-Paper & Plastic Products,14.99,0,,,0
-Paper & Plastic Products,19.39,0,,,0
-Paper & Plastic Products,33.99,0,,,0
-Paper & Plastic Products,19.99,0,,,0
-Paper & Plastic Products,24.99,0,,,0
-Paper & Plastic Products,37.49,0,,,0
-Paper & Plastic Products,13.39,0,,,0
-Paper & Plastic Products,37.99,0,,,0
-Paper & Plastic Products,16.49,0,,,0
-Paper & Plastic Products,20.99,0,,,0
-Paper & Plastic Products,12.99,0,,,0
-Paper & Plastic Products,19.99,0,,,0
-Paper & Plastic Products,16.49,0,,,0
-Paper & Plastic Products,79.99,0,5.0,4.0,0
-Paper & Plastic Products,16.49,0,,,0
-Paper & Plastic Products,13.99,0,,,0
-Paper & Plastic Products,28.99,0,,,0
-Paper & Plastic Products,23.49,0,,,0
-Paper & Plastic Products,33.99,0,,,0
-Paper & Plastic Products,49.99,0,,,0
-Poultry,159.99,0,4.2,11.0,0
-Poultry,149.99,0,4.5,249.0,0
-Poultry,139.99,0,4.4,207.0,0
-Poultry,179.99,0,4.5,40.0,0
-Poultry,149.99,0,4.7,20.0,0
-Poultry,99.99,0,4.4,38.0,0
-Poultry,,1,4.5,4.0,0
-Poultry,179.99,0,4.6,42.0,0
-Poultry,219.99,0,4.5,140.0,0
-Seafood,149.99,1,4.6,1237.0,1
-Seafood,239.99,1,4.0,108.0,0
-Seafood,14.99,0,,,0
-Seafood,259.99,0,,,0
-Seafood,209.99,0,4.2,179.0,0
-Seafood,349.99,0,4.4,8.0,0
-Seafood,199.99,0,4.5,50.0,0
-Seafood,219.99,0,4.0,602.0,0
-Seafood,119.99,0,3.5,109.0,0
-Seafood,229.99,0,4.6,349.0,0
-Seafood,199.99,0,3.9,1100.0,0
-Seafood,349.99,0,4.2,104.0,0
-Seafood,239.99,0,4.6,335.0,0
-Seafood,279.99,0,,,0
-Seafood,179.99,0,3.4,141.0,0
-Seafood,299.99,0,4.5,110.0,0
-Seafood,239.99,0,,,0
-Seafood,219.99,0,4.5,388.0,0
-Seafood,109.99,0,4.1,134.0,0
-Seafood,249.99,0,4.6,13.0,0
-Seafood,229.99,0,4.4,947.0,0
-Seafood,379.99,0,4.4,134.0,0
-Seafood,159.99,0,,,0
-Seafood,64.99,0,4.4,53.0,0
-Seafood,189.99,0,4.2,677.0,0
-Seafood,59.99,0,4.5,1550.0,1
-Seafood,79.99,0,4.4,75.0,0
-Seafood,129.99,0,4.0,41.0,0
-Seafood,269.99,0,4.6,41.0,0
-Seafood,169.99,0,1.0,1.0,0
-Seafood,199.99,0,4.4,48.0,0
-Seafood,119.99,0,4.5,26.0,0
-Seafood,259.99,0,2.8,5.0,0
-Seafood,169.99,0,4.4,262.0,0
-Seafood,269.99,0,4.8,190.0,0
-Seafood,199.99,0,,,0
-Seafood,179.99,0,2.9,64.0,0
-Seafood,59.99,0,4.1,114.0,0
-Seafood,69.97,0,4.5,26.0,0
-Seafood,269.99,0,4.3,232.0,0
-Seafood,249.99,0,4.1,264.0,0
-Seafood,219.99,0,4.4,87.0,0
-Seafood,189.99,0,4.7,23.0,0
-Seafood,139.99,0,4.3,3.0,0
-Seafood,159.99,0,4.5,288.0,0
-Seafood,249.99,0,4.8,84.0,0
-Seafood,79.99,0,4.2,104.0,0
-Snacks,8.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,39.99,1,4.7,292.0,0
-Snacks,39.99,1,4.8,273.0,0
-Snacks,16.99,1,,,0
-Snacks,13.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,18.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,22.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,9.49,1,,,0
-Snacks,22.99,0,,,0
-Snacks,20.99,1,,,0
-Snacks,23.99,0,,,0
-Snacks,,1,,,0
-Snacks,22.99,0,,,0
-Snacks,49.99,0,5.0,2.0,0
-Snacks,23.99,0,,,0
-Snacks,11.49,1,,,0
-Snacks,14.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,18.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,11.89,1,,,0
-Snacks,44.99,0,4.1,441.0,0
-Snacks,14.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,42.99,0,4.2,243.0,0
-Snacks,54.99,0,4.5,437.0,0
-Snacks,17.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,22.99,0,,,0
-Snacks,22.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,27.99,0,4.7,1418.0,1
-Snacks,12.99,0,,,0
-Snacks,8.99,1,,,0
-Snacks,18.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,9.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,10.69,1,,,0
-Snacks,16.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,18.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,24.49,0,,,0
-Snacks,49.99,0,5.0,11.0,0
-Snacks,32.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,22.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,44.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,10.49,0,,,0
-Snacks,17.99,0,,,0
-Snacks,38.99,0,4.7,2153.0,1
-Snacks,17.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,49.99,0,4.8,101.0,0
-Snacks,9.99,0,,,0
-Snacks,18.99,0,,,0
-Snacks,11.59,1,,,0
-Snacks,33.99,0,,,0
-Snacks,39.99,0,4.1,92.0,0
-Snacks,13.49,0,,,0
-Snacks,13.99,1,,,0
-Snacks,26.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,12.49,0,,,0
-Snacks,15.39,0,,,0
-Snacks,21.99,0,,,0
-Snacks,24.99,0,,,0
-Snacks,13.19,0,,,0
-Snacks,11.99,0,4.6,731.0,1
-Snacks,12.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,18.39,1,,,0
-Snacks,16.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,49.99,0,4.2,85.0,0
-Snacks,8.99,0,,,0
-Snacks,12.49,0,,,0
-Snacks,12.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,9.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,21.79,0,,,0
-Snacks,18.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,7.79,1,,,0
-Snacks,24.99,0,4.4,5.0,0
-Snacks,16.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,18.99,0,,,0
-Snacks,42.99,0,3.7,82.0,0
-Snacks,11.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,42.99,0,3.4,79.0,0
-Snacks,12.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,13.99,1,,,0
-Snacks,12.99,0,,,0
-Snacks,42.99,0,4.7,64.0,0
-Snacks,19.99,0,,,0
-Snacks,29.99,0,,,0
-Snacks,10.49,0,,,0
-Snacks,15.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,64.99,0,4.5,454.0,0
-Snacks,17.99,0,,,0
-Snacks,39.99,0,4.4,440.0,0
-Snacks,42.99,0,4.0,128.0,0
-Snacks,16.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,26.99,0,,,0
-Snacks,12.99,0,,,0
-Snacks,20.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,42.99,0,4.6,556.0,1
-Snacks,11.99,0,,,0
-Snacks,7.99,1,,,0
-Snacks,9.49,0,,,0
-Snacks,16.99,0,,,0
-Snacks,36.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,20.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,109.99,0,4.7,1103.0,1
-Snacks,11.49,0,,,0
-Snacks,16.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,13.79,0,,,0
-Snacks,42.99,0,4.3,117.0,0
-Snacks,17.99,0,,,0
-Snacks,36.99,0,,,0
-Snacks,9.49,0,,,0
-Snacks,16.99,0,,,0
-Snacks,10.69,1,,,0
-Snacks,12.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,59.99,0,2.8,15.0,0
-Snacks,13.99,0,,,0
-Snacks,14.99,1,,,0
-Snacks,39.99,0,4.6,523.0,1
-Snacks,49.99,0,,,0
-Snacks,10.49,1,,,0
-Snacks,11.49,0,,,0
-Snacks,22.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,13.49,0,,,0
-Snacks,28.99,0,,,0
-Snacks,13.69,0,,,0
-Snacks,11.99,0,,,0
-Snacks,26.99,0,,,0
-Snacks,11.89,1,,,0
-Snacks,12.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,62.99,0,,,0
-Snacks,49.99,0,4.6,1819.0,1
-Snacks,10.99,0,,,0
-Snacks,32.99,0,4.5,786.0,1
-Snacks,11.99,0,,,0
-Snacks,35.99,0,,,0
-Snacks,11.49,0,,,0
-Snacks,17.99,0,,,0
-Snacks,36.99,0,4.7,918.0,1
-Snacks,17.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,49.99,0,4.2,64.0,0
-Snacks,14.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,8.49,0,,,0
-Snacks,18.99,0,,,0
-Snacks,49.99,0,4.5,42.0,0
-Snacks,14.99,0,,,0
-Snacks,29.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,9.99,0,,,0
-Snacks,19.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,16.99,0,,,0
-Snacks,44.99,0,,,0
-Snacks,9.99,0,,,0
-Snacks,27.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,14.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,37.99,0,,,0
-Snacks,12.49,0,,,0
-Snacks,11.49,1,,,0
-Snacks,15.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,28.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,9.99,0,,,0
-Snacks,9.49,0,,,0
-Snacks,17.99,1,,,0
-Snacks,8.49,0,,,0
-Snacks,9.99,0,,,0
-Snacks,15.99,0,,,0
-Snacks,24.99,0,4.0,816.0,0
-Snacks,18.99,0,,,0
-Snacks,12.49,0,,,0
-Snacks,39.99,0,4.6,1352.0,1
-Snacks,9.99,0,,,0
-Snacks,56.99,0,4.8,477.0,0
-Snacks,59.99,0,3.2,4.0,0
-Snacks,15.99,0,,,0
-Snacks,25.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,21.99,0,,,0
-Snacks,18.49,0,,,0
-Snacks,24.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,54.99,0,4.6,819.0,1
-Snacks,22.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,18.99,0,,,0
-Snacks,13.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,29.99,0,,,0
-Snacks,26.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,49.99,0,,,0
-Snacks,10.49,0,,,0
-Snacks,11.99,0,,,0
-Snacks,11.99,0,,,0
-Snacks,17.99,0,,,0
-Snacks,39.99,0,4.4,11.0,0
-Snacks,17.99,0,,,0
-Snacks,22.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,12.49,0,,,0
-Snacks,16.99,0,,,0
-Snacks,32.99,0,4.6,611.0,1
-Snacks,23.99,0,,,0
-Snacks,49.99,0,,,0
-Snacks,49.99,0,,,0
-Snacks,49.99,0,,,0
-Snacks,10.99,0,,,0
-Snacks,23.99,0,,,0
-Snacks,49.99,0,,,0
-Snacks,22.99,0,,,0
-Snacks,17.49,0,,,0
-Snacks,21.99,0,,,0
+Sub Category,Price (INR),Has_Discount,Rating_score,Num_reviews,Popularity
+Meat,1559,0,4.5,121,Medium
+Beverages,132,1,3.7,264,Low
+Spices,126,1,4.2,713,Medium
+Dairy,189,0,3.6,393,Low
+Grains,435,1,3.9,210,Low
+Frozen Foods,71,0,4.3,610,Medium
+Frozen Foods,237,1,3.7,925,Low
+Meat,1367,1,4.3,180,Medium
+Beverages,336,0,3.9,890,Low
+Meat,1397,1,4.3,365,Medium
+Vegetables,18,1,3.9,947,Low
+Snacks,79,0,4.2,992,Medium
+Dairy,120,1,3.6,921,Low
+Snacks,21,1,4.0,615,Medium
+Frozen Foods,309,1,3.6,779,Low
+Vegetables,23,0,4.2,511,Medium
+Meat,1375,0,4.2,774,Medium
+Vegetables,120,0,4.2,971,Medium
+Packaged Foods,237,1,4.3,206,Medium
+Fruits,28,1,3.5,697,Low
+Spices,72,0,3.7,642,Low
+Spices,172,0,3.5,428,Low
+Beverages,260,1,4.3,77,Low
+Meat,300,1,3.6,82,Low
+Meat,506,1,4.2,854,Medium
+Dairy,143,1,4.5,596,High
+Fruits,246,0,3.7,818,Low
+Beverages,247,0,4.1,844,Medium
+Packaged Foods,256,0,4.4,603,Medium
+Dairy,102,1,4.1,290,Medium
+Snacks,23,1,3.9,456,Low
+Meat,848,0,4.5,590,High
+Snacks,32,1,4.1,748,Medium
+Dairy,125,1,3.6,731,Low
+Packaged Foods,695,1,3.8,847,Low
+Frozen Foods,397,0,4.1,239,Medium
+Fruits,140,1,4.3,308,Medium
+Meat,809,1,4.5,698,High
+Beverages,254,0,4.4,733,Medium
+Spices,68,1,4.2,282,Medium
+Snacks,81,0,4.4,613,Medium
+Meat,1509,0,3.5,662,Low
+Fruits,100,0,3.5,51,Low
+Vegetables,63,0,3.9,785,Low
+Fruits,145,1,3.9,733,Low
+Frozen Foods,209,1,4.1,885,Medium
+Meat,302,1,4.5,450,High
+Grains,329,0,3.8,659,Low
+Grains,956,0,3.5,250,Low
+Grains,513,0,3.7,709,Low
+Snacks,38,1,3.7,560,Low
+Dairy,187,1,4.1,869,Medium
+Packaged Foods,689,0,3.6,921,Low
+Fruits,286,1,4.3,522,Medium
+Vegetables,51,0,4.1,813,Medium
+Frozen Foods,161,0,3.8,621,Low
+Fruits,21,0,3.9,86,Low
+Meat,108,0,3.7,708,Low
+Dairy,187,1,4.0,169,Medium
+Fruits,135,0,3.5,469,Low
+Grains,153,1,3.7,161,Low
+Packaged Foods,148,0,3.6,945,Low
+Vegetables,63,0,4.3,210,Medium
+Snacks,52,1,3.9,865,Low
+Snacks,27,0,3.7,450,Low
+Fruits,195,1,4.5,932,High
+Grains,424,1,4.0,279,Medium
+Dairy,47,0,4.5,275,Medium
+Beverages,315,0,3.5,502,Low
+Dairy,43,0,3.5,561,Low
+Fruits,191,1,3.9,567,Low
+Dairy,163,0,3.9,329,Low
+Fruits,200,0,3.7,749,Low
+Fruits,135,0,3.9,977,Low
+Meat,1284,1,3.7,177,Low
+Vegetables,34,1,4.0,619,Medium
+Dairy,143,1,4.2,675,Medium
+Grains,712,1,4.5,539,High
+Vegetables,26,1,3.5,442,Low
+Grains,225,0,4.4,808,Medium
+Frozen Foods,355,0,4.2,574,Medium
+Frozen Foods,362,1,3.8,370,Low
+Spices,153,1,3.7,520,Low
+Vegetables,75,1,4.1,903,Medium
+Dairy,192,1,4.0,363,Medium
+Frozen Foods,391,0,3.8,731,Low
+Grains,832,1,4.5,493,High
+Beverages,293,0,3.9,152,Low
+Snacks,25,0,3.8,399,Low
+Dairy,94,1,3.8,705,Low
+Vegetables,133,1,3.7,706,Low
+Spices,72,0,4.4,395,Medium
+Beverages,146,1,4.1,176,Medium
+Packaged Foods,690,1,4.4,562,Medium
+Vegetables,105,1,4.0,609,Medium
+Packaged Foods,537,0,3.9,946,Low
+Meat,803,0,3.9,839,Low
+Meat,1199,1,3.7,135,Low
+Packaged Foods,334,1,3.9,96,Low
+Fruits,113,1,3.8,502,Low
+Frozen Foods,390,0,3.8,338,Low
+Beverages,52,1,4.4,807,Medium
+Beverages,129,1,3.8,272,Low
+Frozen Foods,299,0,4.4,657,Medium
+Fruits,23,1,4.2,385,Medium
+Meat,357,0,4.5,901,High
+Spices,149,1,3.7,429,Low
+Fruits,198,0,3.9,317,Low
+Dairy,104,0,4.2,891,Medium
+Vegetables,44,0,3.5,139,Low
+Spices,102,1,4.4,651,Medium
+Vegetables,124,0,4.1,245,Medium
+Frozen Foods,163,0,4.5,462,High
+Spices,173,0,3.9,810,Low
+Snacks,29,0,4.3,969,Medium
+Dairy,138,1,3.8,145,Low
+Spices,160,1,3.9,829,Low
+Fruits,202,0,4.1,266,Medium
+Dairy,144,1,3.5,930,Low
+Snacks,32,0,3.7,226,Low
+Snacks,31,0,4.3,964,Medium
+Packaged Foods,504,1,3.8,900,Low
+Frozen Foods,193,0,3.9,148,Low
+Packaged Foods,518,1,3.9,200,Low
+Packaged Foods,88,0,3.9,91,Low
+Frozen Foods,272,1,3.9,212,Low
+Meat,832,0,4.5,707,High
+Packaged Foods,123,1,3.5,302,Low
+Grains,568,1,4.2,219,Medium
+Packaged Foods,683,1,3.9,78,Low
+Beverages,451,0,4.2,545,Medium
+Fruits,164,0,4.1,266,Medium
+Snacks,55,1,3.7,494,Low
+Grains,216,0,4.4,907,Medium
+Dairy,78,1,3.7,222,Low
+Vegetables,135,1,3.8,525,Low
+Spices,70,0,4.3,984,Medium
+Fruits,209,0,3.5,458,Low
+Spices,170,1,3.9,183,Low
+Frozen Foods,93,0,3.9,129,Low
+Grains,262,0,3.9,725,Low
+Dairy,186,1,4.3,451,Medium
+Packaged Foods,354,1,3.5,422,Low
+Grains,935,0,4.1,61,Low
+Frozen Foods,273,1,4.2,407,Medium
+Spices,165,0,4.2,171,Medium
+Snacks,27,1,3.6,589,Low
+Beverages,70,1,4.5,551,High
+Fruits,220,0,3.9,773,Low
+Dairy,173,1,3.7,305,Low
+Beverages,332,0,3.6,59,Low
+Spices,39,1,4.5,926,High
+Beverages,148,1,3.5,423,Low
+Fruits,165,1,3.5,828,Low
+Beverages,311,0,4.3,903,Medium
+Fruits,117,0,3.7,560,Low
+Fruits,25,1,3.5,758,Low
+Beverages,387,0,3.9,72,Low
+Beverages,82,0,4.4,507,Medium
+Dairy,184,0,4.3,927,Medium
+Fruits,70,0,3.8,495,Low
+Fruits,53,1,4.2,600,Medium
+Frozen Foods,299,1,4.0,167,Medium
+Dairy,162,1,3.5,103,Low
+Beverages,251,0,4.3,450,Medium
+Meat,1330,0,3.9,959,Low
+Vegetables,84,0,4.1,471,Medium
+Vegetables,47,1,3.6,899,Low
+Dairy,91,0,4.0,530,Medium
+Spices,88,1,4.1,155,Medium
+Dairy,120,0,3.8,187,Low
+Spices,154,1,3.5,557,Low
+Snacks,88,1,4.0,102,Medium
+Vegetables,135,0,4.5,801,High
+Dairy,150,0,4.1,232,Medium
+Grains,961,1,3.8,409,Low
+Snacks,75,0,3.7,913,Low
+Dairy,194,0,3.6,110,Low
+Frozen Foods,100,0,3.9,54,Low
+Vegetables,101,1,4.0,454,Medium
+Grains,562,0,4.3,573,Medium
+Frozen Foods,95,1,3.5,127,Low
+Frozen Foods,350,0,4.3,843,Medium
+Packaged Foods,96,0,4.0,288,Medium
+Spices,103,0,3.5,75,Low
+Snacks,20,1,3.5,916,Low
+Snacks,98,0,4.2,775,Medium
+Frozen Foods,77,0,4.2,435,Medium
+Frozen Foods,63,0,4.2,932,Medium
+Meat,1126,0,4.1,799,Medium
+Vegetables,47,0,3.7,64,Low
+Packaged Foods,680,0,4.4,88,Low
+Packaged Foods,322,0,4.0,523,Medium
+Packaged Foods,194,0,3.8,74,Low
+Snacks,29,0,4.3,158,Medium
+Vegetables,120,1,4.0,83,Low
+Spices,177,0,3.7,603,Low
+Packaged Foods,662,1,3.8,331,Low
+Vegetables,68,0,4.0,790,Medium
+Packaged Foods,338,0,4.0,326,Medium
+Grains,631,0,3.8,399,Low
+Spices,64,0,4.1,948,Medium
+Dairy,70,1,3.9,597,Low
+Spices,15,1,3.8,781,Low
+Snacks,98,1,4.0,930,Medium
+Spices,188,1,4.3,243,Medium
+Spices,35,0,3.9,375,Low
+Frozen Foods,167,1,3.7,773,Low
+Fruits,39,0,3.5,139,Low
+Grains,854,1,4.5,560,High
+Snacks,96,0,3.7,722,Low
+Grains,739,1,4.4,310,Medium
+Meat,1773,1,3.6,62,Low
+Spices,139,1,3.5,368,Low
+Beverages,358,0,4.3,960,Medium
+Spices,47,0,3.7,655,Low
+Fruits,88,1,3.6,383,Low
+Beverages,405,0,4.3,979,Medium
+Dairy,74,0,4.2,369,Medium
+Grains,621,1,4.2,828,Medium
+Packaged Foods,278,1,3.7,774,Low
+Beverages,34,0,4.5,127,Medium
+Frozen Foods,111,1,4.3,798,Medium
+Frozen Foods,138,1,4.2,889,Medium
+Meat,715,1,3.7,686,Low
+Grains,914,0,3.5,714,Low
+Fruits,244,0,4.1,870,Medium
+Spices,113,0,4.1,996,Medium
+Grains,695,0,4.1,228,Medium
+Spices,51,1,3.8,64,Low
+Fruits,250,0,3.8,206,Low
+Grains,490,0,3.9,460,Low
+Meat,388,1,3.8,647,Low
+Vegetables,19,0,4.5,891,High
+Fruits,137,1,3.8,926,Low
+Spices,189,1,4.2,310,Medium
+Snacks,95,0,3.6,460,Low
+Dairy,75,1,4.5,332,High
+Beverages,177,0,4.4,921,Medium
+Grains,183,1,4.1,864,Medium
+Frozen Foods,351,0,4.4,190,Medium
+Spices,199,1,4.3,672,Medium
+Spices,69,0,3.8,373,Low
+Beverages,405,0,4.2,176,Medium
+Frozen Foods,141,0,4.4,954,Medium
+Grains,100,0,4.2,346,Medium
+Grains,828,0,3.5,863,Low
+Beverages,434,1,3.8,231,Low
+Meat,924,0,4.0,616,Medium
+Dairy,182,0,4.3,358,Medium
+Packaged Foods,251,1,4.3,166,Medium
+Frozen Foods,340,0,3.8,586,Low
+Frozen Foods,124,1,3.6,952,Low
+Vegetables,100,0,4.5,925,High
+Dairy,191,0,4.1,229,Medium
+Grains,550,1,3.5,226,Low
+Grains,715,1,3.6,518,Low
+Fruits,103,0,3.5,197,Low
+Grains,391,1,4.2,610,Medium
+Meat,1892,1,4.1,484,Medium
+Spices,71,1,3.5,478,Low
+Spices,28,1,3.5,639,Low
+Dairy,152,1,4.0,996,Medium
+Snacks,20,1,4.1,920,Medium
+Dairy,71,1,4.4,927,Medium
+Vegetables,133,0,4.1,104,Medium
+Vegetables,144,0,4.2,882,Medium
+Packaged Foods,492,0,4.2,103,Medium
+Packaged Foods,288,0,3.7,100,Low
+Fruits,111,0,4.2,467,Medium
+Dairy,135,1,4.2,863,Medium
+Snacks,56,1,3.9,959,Low
+Meat,1043,1,4.1,379,Medium
+Meat,1796,0,3.9,196,Low
+Dairy,75,0,3.6,563,Low
+Fruits,216,1,4.5,795,High
+Vegetables,128,1,3.8,310,Low
+Beverages,451,1,4.3,275,Medium
+Beverages,457,0,3.8,555,Low
+Grains,413,1,3.5,763,Low
+Spices,68,1,4.1,177,Medium
+Fruits,134,0,4.3,601,Medium
+Vegetables,34,0,4.3,807,Medium
+Grains,284,1,3.8,715,Low
+Frozen Foods,78,0,3.6,776,Low
+Beverages,104,1,3.6,177,Low
+Beverages,71,1,4.3,983,Medium
+Vegetables,26,0,4.3,427,Medium
+Meat,1752,1,4.0,76,Low
+Packaged Foods,336,1,4.5,217,Medium
+Vegetables,21,0,4.3,870,Medium
+Meat,1005,0,3.5,971,Low
+Beverages,219,1,3.6,871,Low
+Fruits,200,1,3.7,843,Low
+Beverages,296,1,4.5,561,High
+Snacks,78,0,4.2,276,Medium
+Grains,147,0,4.2,807,Medium
+Grains,118,1,3.5,811,Low
+Snacks,39,0,3.7,293,Low
+Fruits,220,1,3.6,550,Low
+Packaged Foods,762,1,3.5,690,Low
+Packaged Foods,110,0,4.2,91,Low
+Packaged Foods,88,0,3.7,547,Low
+Beverages,137,1,3.7,527,Low
+Grains,915,1,3.7,662,Low
+Fruits,36,1,4.3,872,Medium
+Fruits,31,1,4.2,388,Medium
+Spices,158,0,4.1,534,Medium
+Grains,759,1,4.3,515,Medium
+Packaged Foods,317,0,4.5,971,High
+Packaged Foods,587,0,4.4,65,Low
+Meat,500,0,4.4,135,Medium
+Frozen Foods,319,0,3.9,568,Low
+Packaged Foods,737,1,3.6,876,Low
+Meat,1600,1,3.8,984,Low
+Dairy,185,0,4.4,664,Medium
+Fruits,33,0,4.2,669,Medium
+Vegetables,140,0,4.5,985,High
+Frozen Foods,232,0,4.1,576,Medium
+Spices,13,0,4.0,970,Medium
+Vegetables,25,0,4.4,157,Medium
+Vegetables,64,0,4.4,595,Medium
+Meat,1904,0,3.6,465,Low
+Dairy,162,0,3.8,78,Low
+Fruits,264,1,4.3,321,Medium
+Spices,130,1,4.3,408,Medium
+Snacks,24,0,3.5,52,Low
+Spices,167,1,3.8,195,Low
+Beverages,182,1,3.5,998,Low
+Packaged Foods,448,0,4.3,393,Medium
+Snacks,31,0,4.4,854,Medium
+Beverages,456,1,4.0,856,Medium
+Spices,72,1,4.2,60,Low
+Vegetables,61,1,4.5,633,High
+Snacks,82,1,3.9,292,Low
+Frozen Foods,156,1,4.3,267,Medium
+Packaged Foods,555,0,4.2,823,Medium
+Beverages,290,1,4.1,738,Medium
+Packaged Foods,148,1,4.4,802,Medium
+Frozen Foods,227,1,3.5,265,Low
+Dairy,199,0,4.0,830,Medium
+Spices,134,0,4.3,378,Medium
+Snacks,33,0,3.6,316,Low
+Packaged Foods,372,0,4.3,244,Medium
+Packaged Foods,787,1,4.4,570,Medium
+Spices,34,0,4.5,275,Medium
+Spices,133,0,4.0,377,Medium
+Beverages,205,1,3.6,503,Low
+Beverages,345,1,3.9,642,Low
+Vegetables,49,0,3.7,747,Low
+Dairy,95,1,3.6,89,Low
+Fruits,281,1,3.7,385,Low
+Spices,101,0,4.5,620,High
+Packaged Foods,412,0,4.3,742,Medium
+Frozen Foods,240,0,4.0,749,Medium
+Meat,232,0,4.4,810,Medium
+Dairy,70,0,4.4,443,Medium
+Beverages,187,0,3.6,405,Low
+Vegetables,86,0,4.1,273,Medium
+Fruits,252,0,4.2,272,Medium
+Vegetables,97,0,3.7,375,Low
+Dairy,197,0,4.4,282,Medium
+Vegetables,72,1,3.9,327,Low
+Snacks,39,1,3.8,291,Low
+Snacks,83,0,4.0,450,Medium
+Frozen Foods,242,1,4.4,169,Medium
+Vegetables,59,1,3.8,812,Low
+Dairy,164,1,4.1,78,Low
+Fruits,153,0,3.7,508,Low
+Frozen Foods,75,1,3.6,334,Low
+Snacks,32,0,4.1,320,Medium
+Meat,896,0,4.5,933,High
+Vegetables,93,1,4.5,588,High
+Dairy,120,1,4.2,653,Medium
+Beverages,332,1,3.9,133,Low
+Grains,708,0,3.9,436,Low
+Fruits,77,1,4.0,576,Medium
+Vegetables,73,0,4.3,841,Medium
+Vegetables,24,1,4.5,633,High
+Packaged Foods,706,0,3.9,569,Low
+Vegetables,140,0,3.9,585,Low
+Frozen Foods,95,0,4.3,783,Medium
+Meat,1396,1,3.8,789,Low
+Packaged Foods,727,1,4.3,880,Medium
+Grains,550,0,3.6,393,Low
+Spices,148,1,3.5,121,Low
+Beverages,303,1,3.6,415,Low
+Grains,593,0,4.3,850,Medium
+Grains,474,1,4.5,263,Medium
+Dairy,127,0,3.5,637,Low
+Packaged Foods,95,1,4.0,135,Medium
+Snacks,52,1,4.2,977,Medium
+Vegetables,106,1,3.5,850,Low
+Packaged Foods,638,1,4.4,967,Medium
+Meat,293,1,4.1,139,Medium
+Frozen Foods,192,1,4.4,936,Medium
+Fruits,142,1,4.3,823,Medium
+Packaged Foods,408,0,4.3,419,Medium
+Spices,81,1,3.8,367,Low
+Meat,558,1,3.8,439,Low
+Frozen Foods,71,1,3.7,176,Low
+Packaged Foods,749,1,4.5,61,Low
+Meat,1647,0,4.3,350,Medium
+Dairy,161,0,4.1,799,Medium
+Snacks,64,1,4.1,358,Medium
+Meat,387,0,3.6,963,Low
+Dairy,189,0,4.2,922,Medium
+Dairy,195,1,3.7,84,Low
+Grains,256,0,4.1,381,Medium
+Fruits,232,0,4.4,73,Low
+Snacks,56,1,3.8,201,Low
+Vegetables,105,0,3.8,299,Low
+Beverages,383,1,3.8,627,Low
+Vegetables,15,0,4.4,804,Medium
+Dairy,164,1,3.7,286,Low
+Vegetables,49,0,3.5,916,Low
+Frozen Foods,57,1,4.1,347,Medium
+Vegetables,128,0,3.9,983,Low
+Packaged Foods,367,1,4.2,280,Medium
+Packaged Foods,133,1,4.1,887,Medium
+Fruits,47,1,3.7,278,Low
+Beverages,478,1,4.2,725,Medium
+Meat,1426,0,4.5,59,Low
+Dairy,157,1,4.4,654,Medium
+Frozen Foods,381,1,4.3,306,Medium
+Beverages,305,1,4.5,562,High
+Packaged Foods,625,1,3.8,333,Low
+Packaged Foods,156,0,3.9,253,Low
+Beverages,334,0,4.2,605,Medium
+Spices,165,0,4.0,669,Medium
+Snacks,97,1,4.3,560,Medium
+Beverages,49,1,3.5,168,Low
+Dairy,98,0,3.5,740,Low
+Frozen Foods,325,0,3.6,265,Low
+Vegetables,59,0,4.3,88,Low
+Spices,180,1,4.1,477,Medium
+Grains,901,0,3.8,385,Low
+Vegetables,133,0,4.2,390,Medium
+Fruits,283,0,4.0,566,Medium
+Grains,224,1,3.5,360,Low
+Meat,1341,0,4.4,463,Medium
+Vegetables,35,1,4.2,930,Medium
+Spices,98,1,3.8,850,Low
+Fruits,166,0,3.9,353,Low
+Beverages,390,1,3.6,753,Low
+Grains,624,0,3.5,730,Low
+Packaged Foods,737,0,4.3,806,Medium
+Packaged Foods,373,1,4.0,543,Medium
+Snacks,38,1,3.6,643,Low
+Packaged Foods,328,0,4.5,690,High
+Spices,63,0,4.3,774,Medium
+Fruits,95,1,4.1,192,Medium
+Beverages,432,1,4.3,466,Medium
+Fruits,243,0,3.7,989,Low
+Grains,316,0,4.2,671,Medium
+Frozen Foods,314,0,3.9,843,Low
+Spices,57,1,4.0,973,Medium
+Beverages,250,1,4.3,61,Low
+Beverages,333,0,3.8,832,Low
+Meat,1449,1,3.6,413,Low
+Beverages,436,0,4.1,385,Medium
+Beverages,153,0,4.3,853,Medium
+Dairy,54,1,3.9,190,Low
+Grains,836,1,3.8,422,Low
+Snacks,46,0,3.7,697,Low
+Frozen Foods,207,1,3.6,994,Low
+Snacks,94,0,4.4,88,Low
+Meat,1058,1,3.5,987,Low
+Frozen Foods,85,1,3.8,935,Low
+Meat,1945,0,4.2,734,Medium
+Frozen Foods,96,0,4.1,967,Medium
+Grains,326,1,4.3,75,Low
+Packaged Foods,59,1,4.4,682,Medium
+Frozen Foods,121,1,3.5,203,Low
+Beverages,97,1,4.2,580,Medium
+Snacks,79,0,4.4,906,Medium
+Vegetables,78,0,3.5,532,Low
+Vegetables,128,0,3.5,711,Low
+Beverages,172,0,4.1,209,Medium
+Frozen Foods,127,0,4.3,303,Medium
+Packaged Foods,369,0,4.1,646,Medium
+Vegetables,76,1,4.0,686,Medium
+Meat,1876,0,4.1,329,Medium
+Dairy,107,1,4.0,603,Medium
+Meat,720,1,3.8,793,Low
+Beverages,382,1,3.7,122,Low
+Spices,106,0,4.0,474,Medium
+Meat,807,0,3.5,877,Low
+Vegetables,14,1,4.5,209,Medium
+Beverages,293,1,4.2,611,Medium
+Dairy,83,0,4.4,308,Medium
+Grains,887,1,4.1,221,Medium
+Vegetables,111,0,3.7,403,Low
+Meat,1921,1,4.2,711,Medium
+Frozen Foods,85,0,4.3,360,Medium
+Frozen Foods,207,0,4.1,961,Medium
+Fruits,155,1,3.7,705,Low
+Meat,447,0,4.2,679,Medium
+Beverages,497,1,4.2,413,Medium
+Fruits,140,1,3.9,133,Low
+Grains,455,1,4.2,792,Medium
+Fruits,291,1,4.0,549,Medium
+Vegetables,45,0,4.1,163,Medium
+Vegetables,114,0,3.6,810,Low
+Packaged Foods,498,0,3.7,229,Low
+Meat,1789,1,3.6,360,Low
+Grains,468,1,4.5,192,Medium
+Grains,365,0,3.8,539,Low
+Fruits,61,1,3.6,478,Low
+Dairy,197,1,4.4,719,Medium
+Grains,116,1,4.1,997,Medium
+Packaged Foods,448,0,3.7,627,Low
+Vegetables,29,1,4.4,586,Medium
+Vegetables,34,0,4.0,338,Medium
+Snacks,33,0,4.0,287,Medium
+Snacks,22,0,4.3,951,Medium
+Packaged Foods,702,0,3.6,441,Low
+Beverages,481,0,3.8,222,Low
+Snacks,37,0,4.0,721,Medium
+Vegetables,69,0,3.7,336,Low
+Dairy,44,0,3.6,827,Low
+Packaged Foods,691,1,4.5,739,High
+Spices,92,0,3.7,198,Low
+Packaged Foods,205,1,3.7,312,Low
+Fruits,279,1,4.1,601,Medium
+Fruits,120,0,3.8,270,Low
+Snacks,55,1,4.0,280,Medium
+Vegetables,72,0,3.8,752,Low
+Dairy,46,0,4.0,575,Medium
+Meat,1864,0,4.0,694,Medium
+Meat,485,1,4.5,454,High
+Grains,791,0,3.9,699,Low
+Meat,1949,1,4.1,950,Medium
+Fruits,32,0,4.4,291,Medium
+Beverages,210,1,3.9,222,Low
+Snacks,79,0,3.9,357,Low
+Meat,728,1,3.8,595,Low
+Snacks,71,0,4.0,603,Medium
+Beverages,71,0,3.5,154,Low
+Fruits,139,0,4.3,178,Medium
+Vegetables,69,1,3.5,59,Low
+Vegetables,67,1,4.2,838,Medium
+Meat,901,1,4.5,775,High
+Spices,186,0,3.5,904,Low
+Spices,182,0,3.9,465,Low
+Fruits,106,0,4.2,894,Medium
+Spices,96,0,3.5,670,Low
+Dairy,191,0,4.2,66,Low
+Beverages,177,0,4.2,875,Medium
+Snacks,30,1,3.7,440,Low
+Dairy,67,0,4.5,491,High
+Beverages,290,1,4.0,401,Medium
+Spices,73,1,4.0,672,Medium
+Fruits,242,1,4.2,970,Medium
+Packaged Foods,512,1,3.7,610,Low
+Snacks,87,1,4.3,218,Medium
+Packaged Foods,427,0,3.6,827,Low
+Beverages,193,1,4.5,537,High
+Vegetables,127,0,3.9,209,Low
+Vegetables,20,1,3.5,985,Low
+Vegetables,68,1,4.4,675,Medium
+Grains,463,1,3.9,221,Low
+Dairy,152,1,3.9,171,Low
+Meat,138,0,4.3,992,Medium
+Vegetables,135,1,4.2,287,Medium
+Meat,762,1,4.5,305,High
+Grains,711,0,4.3,583,Medium
+Vegetables,11,0,3.9,512,Low
+Snacks,46,1,3.7,456,Low
+Spices,53,0,4.0,732,Medium
+Beverages,218,0,4.2,564,Medium
+Grains,68,0,4.1,157,Medium
+Packaged Foods,177,0,4.2,411,Medium
+Frozen Foods,193,1,3.5,925,Low
+Beverages,32,0,3.8,153,Low
+Dairy,103,1,3.6,540,Low
+Packaged Foods,59,0,4.1,780,Medium
+Vegetables,121,0,4.3,549,Medium
+Snacks,77,1,3.5,63,Low
+Packaged Foods,467,0,4.3,69,Low
+Dairy,109,1,3.7,150,Low
+Frozen Foods,181,0,3.8,69,Low
+Frozen Foods,73,1,3.7,203,Low
+Beverages,259,0,4.0,920,Medium
+Beverages,231,1,3.8,237,Low
+Packaged Foods,69,0,4.1,632,Medium
+Snacks,33,0,4.2,790,Medium
+Frozen Foods,104,1,3.8,937,Low
+Spices,171,1,3.6,964,Low
+Dairy,88,0,3.7,455,Low
+Spices,118,1,4.4,166,Medium
+Snacks,83,0,3.8,399,Low
+Meat,212,0,3.5,195,Low
+Snacks,66,0,4.3,167,Medium
+Fruits,217,1,3.8,801,Low
+Grains,608,1,4.5,920,High
+Packaged Foods,651,1,3.9,554,Low
+Snacks,80,1,3.6,820,Low
+Fruits,273,1,4.0,898,Medium
+Dairy,186,1,3.7,351,Low
+Frozen Foods,118,0,3.9,98,Low
+Beverages,103,1,3.9,405,Low
+Grains,651,1,4.1,344,Medium
+Vegetables,138,1,4.3,661,Medium
+Grains,858,1,4.3,592,Medium
+Snacks,43,0,3.8,774,Low
+Spices,117,1,4.0,269,Medium
+Meat,262,0,4.2,955,Medium
+Grains,667,0,4.0,605,Medium
+Packaged Foods,277,1,4.5,645,High
+Vegetables,116,0,3.9,245,Low
+Vegetables,16,1,3.6,721,Low
+Spices,157,1,4.1,966,Medium
+Frozen Foods,203,1,4.2,945,Medium
+Packaged Foods,214,1,3.9,131,Low
+Beverages,160,0,4.4,982,Medium
+Spices,58,0,3.7,906,Low
+Beverages,413,1,4.3,494,Medium
+Packaged Foods,210,1,3.9,757,Low
+Frozen Foods,376,1,4.1,338,Medium
+Fruits,171,0,3.6,77,Low
+Frozen Foods,92,0,4.1,647,Medium
+Fruits,36,1,4.0,543,Medium
+Grains,659,0,4.4,902,Medium
+Beverages,31,1,4.3,115,Medium
+Frozen Foods,147,1,3.7,686,Low
+Meat,1209,1,4.2,985,Medium
+Grains,620,1,3.7,753,Low
+Dairy,102,0,4.1,326,Medium
+Snacks,45,0,3.8,927,Low
+Snacks,34,1,4.2,262,Medium
+Grains,677,1,4.5,430,High
+Packaged Foods,729,1,4.4,930,Medium
+Vegetables,140,1,3.5,603,Low
+Snacks,25,0,3.8,840,Low
+Packaged Foods,428,1,4.5,964,High
+Beverages,336,0,4.2,317,Medium
+Frozen Foods,57,1,4.3,213,Medium
+Beverages,114,1,4.1,954,Medium
+Spices,51,1,3.8,503,Low
+Vegetables,16,1,3.7,926,Low
+Dairy,66,1,4.5,89,Low
+Grains,978,1,3.5,569,Low
+Beverages,445,1,4.5,662,High
+Snacks,89,1,4.0,836,Medium
+Packaged Foods,573,0,4.1,65,Low
+Fruits,82,0,4.1,582,Medium
+Vegetables,13,1,4.0,555,Medium
+Meat,1763,0,3.9,586,Low
+Dairy,136,1,4.3,965,Medium
+Vegetables,135,1,3.9,276,Low
+Packaged Foods,421,1,3.6,695,Low
+Dairy,99,1,4.3,444,Medium
+Vegetables,117,1,4.3,774,Medium
+Spices,140,1,4.4,326,Medium
+Spices,199,0,3.9,724,Low
+Snacks,53,0,3.7,992,Low
+Vegetables,67,0,4.3,328,Medium
+Grains,322,0,4.5,911,High
+Dairy,72,1,3.6,115,Low
+Dairy,195,0,4.1,503,Medium
+Packaged Foods,709,1,3.5,808,Low
+Meat,739,0,3.7,565,Low
+Frozen Foods,352,1,3.9,276,Low
+Packaged Foods,678,0,3.8,703,Low
+Snacks,95,0,4.1,442,Medium
+Dairy,116,0,3.6,164,Low
+Fruits,153,0,4.5,456,High
+Vegetables,129,1,4.0,191,Medium
+Snacks,91,1,3.7,708,Low
+Snacks,44,1,4.2,319,Medium
+Frozen Foods,151,0,4.0,993,Medium
+Packaged Foods,132,1,3.7,948,Low
+Frozen Foods,324,0,3.8,222,Low
+Meat,1841,0,4.3,812,Medium
+Meat,732,1,3.7,992,Low
+Snacks,33,1,4.0,486,Medium
+Snacks,59,0,4.3,369,Medium
+Fruits,108,1,4.5,870,High
+Dairy,117,1,4.3,757,Medium
+Snacks,27,1,4.3,686,Medium
+Grains,986,1,4.1,65,Low
+Fruits,177,1,3.7,828,Low
+Vegetables,78,1,3.8,918,Low
+Dairy,176,1,3.7,531,Low
+Spices,74,1,4.1,480,Medium
+Spices,85,1,4.3,708,Medium
+Frozen Foods,357,0,4.0,281,Medium
+Beverages,336,1,3.8,554,Low
+Dairy,171,0,4.1,397,Medium
+Snacks,41,1,3.7,903,Low
+Vegetables,100,0,4.3,818,Medium
+Spices,96,1,4.0,263,Medium
+Packaged Foods,771,0,4.0,779,Medium
+Spices,133,1,3.5,490,Low
+Fruits,161,0,3.8,873,Low
+Fruits,160,0,4.0,98,Low
+Fruits,209,1,4.5,453,High
+Fruits,109,0,3.9,806,Low
+Fruits,211,1,4.4,412,Medium
+Grains,431,0,4.3,393,Medium
+Beverages,334,0,3.5,905,Low
+Beverages,336,0,4.1,232,Medium
+Packaged Foods,600,0,4.5,543,High
+Dairy,178,0,3.5,217,Low
+Dairy,115,1,4.2,158,Medium
+Fruits,109,0,4.4,502,Medium
+Spices,162,0,4.1,719,Medium
+Meat,1812,0,3.8,899,Low
+Vegetables,77,1,3.5,688,Low
+Snacks,38,0,4.2,133,Medium
+Fruits,244,1,4.4,804,Medium
+Packaged Foods,154,1,3.6,868,Low
+Frozen Foods,259,0,4.0,762,Medium
+Packaged Foods,600,1,3.7,133,Low
+Grains,716,0,3.6,654,Low
+Grains,436,1,4.2,307,Medium
+Fruits,287,0,4.5,882,High
+Meat,1936,0,4.4,406,Medium
+Beverages,91,0,4.3,328,Medium
+Spices,47,1,3.9,487,Low
+Vegetables,108,0,4.1,122,Medium
+Beverages,151,1,3.6,849,Low
+Dairy,195,1,4.3,112,Medium
+Meat,459,0,4.4,874,Medium
+Grains,661,1,3.5,969,Low
+Meat,1413,1,3.9,56,Low
+Snacks,56,1,3.5,242,Low
+Snacks,38,0,4.4,493,Medium
+Vegetables,135,0,3.5,930,Low
+Grains,625,0,4.2,979,Medium
+Snacks,75,1,4.0,882,Medium
+Snacks,69,0,4.2,393,Medium
+Dairy,114,0,3.8,715,Low
+Grains,412,1,4.5,283,Medium
+Dairy,89,1,4.5,174,Medium
+Beverages,59,1,3.9,171,Low
+Beverages,199,1,3.9,84,Low
+Meat,745,1,3.6,250,Low
+Fruits,96,0,3.8,962,Low
+Grains,117,0,3.9,538,Low
+Fruits,181,0,4.0,870,Medium
+Meat,1046,0,4.4,403,Medium
+Dairy,124,1,3.9,349,Low
+Meat,935,0,3.5,653,Low
+Spices,134,0,3.6,188,Low
+Snacks,70,0,3.5,148,Low
+Vegetables,113,1,4.3,713,Medium
+Frozen Foods,324,0,4.1,902,Medium
+Spices,37,0,3.5,662,Low
+Snacks,38,0,4.5,166,Medium
+Vegetables,20,1,4.0,710,Medium
+Grains,444,0,3.9,233,Low
+Snacks,60,1,4.4,573,Medium
+Grains,578,0,3.7,715,Low
+Snacks,89,0,4.1,811,Medium
+Snacks,94,0,4.2,456,Medium
+Packaged Foods,548,1,3.5,740,Low
+Beverages,491,0,3.6,653,Low
+Dairy,43,0,3.7,97,Low
+Packaged Foods,165,0,3.5,386,Low
+Fruits,244,1,4.2,196,Medium
+Grains,372,0,3.9,62,Low
+Meat,819,1,4.0,398,Medium
+Grains,732,0,4.0,955,Medium
+Frozen Foods,369,1,3.9,253,Low
+Vegetables,44,1,4.3,783,Medium
+Dairy,58,1,4.2,843,Medium
+Fruits,49,0,3.7,114,Low
+Snacks,44,0,3.5,960,Low
+Beverages,170,1,4.2,950,Medium
+Packaged Foods,176,0,3.8,596,Low
+Vegetables,113,0,4.3,851,Medium
+Snacks,49,0,4.0,124,Medium
+Dairy,111,0,3.6,94,Low
+Dairy,162,1,3.6,985,Low
+Fruits,181,1,4.0,237,Medium
+Vegetables,22,1,3.6,344,Low
+Dairy,175,0,4.2,943,Medium
+Meat,1150,1,4.1,614,Medium
+Meat,420,0,4.3,719,Medium
+Beverages,298,0,3.7,102,Low
+Dairy,96,0,4.0,80,Low
+Fruits,202,0,4.4,59,Low
+Snacks,91,1,3.8,709,Low
+Vegetables,23,1,3.8,102,Low
+Spices,88,1,3.8,254,Low
+Meat,875,1,4.1,976,Medium
+Vegetables,91,1,3.6,688,Low
+Packaged Foods,765,0,4.3,290,Medium
+Frozen Foods,398,1,3.6,145,Low
+Grains,343,0,4.1,137,Medium
+Vegetables,17,0,4.0,374,Medium
+Packaged Foods,206,1,4.5,682,High
+Fruits,126,0,4.3,972,Medium
+Vegetables,109,1,3.7,190,Low
+Dairy,151,1,3.7,470,Low
+Fruits,205,0,4.4,974,Medium
+Fruits,236,1,4.1,955,Medium
+Meat,1848,0,4.5,62,Low
+Beverages,446,1,4.5,834,High
+Snacks,66,0,4.3,582,Medium
+Snacks,31,0,4.4,962,Medium
+Beverages,333,0,4.3,404,Medium
+Vegetables,114,1,4.1,62,Low
+Vegetables,109,0,3.6,577,Low
+Packaged Foods,378,1,4.5,871,High
+Spices,109,0,4.1,222,Medium
+Vegetables,146,1,4.2,312,Medium
+Snacks,37,0,4.0,989,Medium
+Beverages,57,1,4.0,487,Medium
+Fruits,40,1,4.5,276,Medium
+Packaged Foods,98,1,4.0,699,Medium
+Beverages,73,0,3.9,635,Low
+Beverages,131,1,3.6,898,Low
+Snacks,33,1,3.7,970,Low
+Dairy,150,1,3.5,829,Low
+Grains,933,1,4.5,458,High
+Snacks,79,1,4.0,882,Medium
+Snacks,47,1,3.5,153,Low
+Frozen Foods,332,1,3.9,731,Low
+Packaged Foods,723,0,4.0,440,Medium
+Beverages,182,0,4.1,568,Medium
+Snacks,76,1,4.5,422,High
+Snacks,96,0,3.8,672,Low
+Dairy,199,0,4.2,274,Medium
+Meat,828,1,4.2,94,Low
+Grains,108,1,4.2,244,Medium
+Packaged Foods,206,1,3.6,461,Low
+Meat,1341,1,4.4,153,Medium
+Packaged Foods,680,0,4.2,657,Medium
+Snacks,69,0,4.0,282,Medium
+Fruits,78,1,4.1,411,Medium
+Packaged Foods,75,0,4.4,556,Medium
+Dairy,50,0,3.9,505,Low
+Spices,77,0,4.5,540,High
+Fruits,68,0,3.8,151,Low
+Spices,191,1,4.3,608,Medium
+Packaged Foods,735,1,4.4,802,Medium
+Vegetables,14,1,3.8,410,Low
+Spices,63,0,3.6,471,Low
+Vegetables,24,1,4.4,326,Medium
+Beverages,419,1,4.0,495,Medium
+Vegetables,87,1,3.7,567,Low
+Spices,181,0,4.5,669,High
+Fruits,228,1,4.5,382,High
+Vegetables,20,0,4.0,730,Medium
+Snacks,67,1,4.5,139,Medium
+Packaged Foods,381,0,3.9,650,Low
+Vegetables,28,0,4.1,919,Medium
+Grains,203,1,3.8,669,Low
+Dairy,68,0,3.6,322,Low
+Beverages,365,1,3.6,296,Low
+Spices,150,1,4.2,527,Medium
+Snacks,84,0,4.1,642,Medium
+Snacks,63,0,3.9,123,Low
+Snacks,47,1,4.5,777,High
+Frozen Foods,301,1,3.6,616,Low
+Spices,185,0,4.0,662,Medium
+Packaged Foods,398,0,4.4,789,Medium
+Packaged Foods,487,1,4.1,716,Medium
+Vegetables,138,1,4.3,654,Medium
+Meat,1876,0,3.8,453,Low
+Beverages,123,0,3.7,674,Low
+Meat,1726,1,3.5,323,Low
+Snacks,72,0,3.6,373,Low
+Fruits,133,0,4.4,203,Medium
+Snacks,29,0,4.5,90,Low
+Packaged Foods,242,0,4.0,403,Medium
+Spices,178,0,3.8,758,Low
+Spices,188,0,3.7,637,Low
+Frozen Foods,158,1,4.1,352,Medium
+Meat,426,1,4.2,694,Medium
+Beverages,491,1,4.1,923,Medium
+Snacks,34,1,3.8,158,Low
+Spices,50,1,3.7,161,Low
+Meat,1681,1,4.3,524,Medium
+Snacks,34,0,3.9,946,Low
+Dairy,150,1,4.5,89,Low
+Snacks,43,1,4.4,53,Low
+Dairy,73,0,3.5,520,Low
+Beverages,277,1,4.1,926,Medium
+Beverages,380,1,3.9,879,Low
+Packaged Foods,558,0,4.0,375,Medium
+Beverages,342,1,4.2,440,Medium
+Meat,1208,0,3.8,564,Low
+Dairy,125,0,3.8,893,Low
+Grains,560,1,4.3,958,Medium
+Meat,1949,1,3.9,586,Low
+Dairy,165,1,4.5,96,Low
+Grains,789,0,4.2,71,Low
+Beverages,339,0,4.2,802,Medium
+Meat,1922,1,4.4,81,Low
+Vegetables,18,0,4.5,529,High
+Frozen Foods,263,0,3.5,885,Low
+Snacks,44,0,3.9,918,Low
+Grains,802,0,4.3,612,Medium
+Snacks,85,1,4.1,940,Medium
+Grains,50,0,4.1,427,Medium
+Meat,608,1,4.3,642,Medium
+Vegetables,82,0,4.0,311,Medium
+Snacks,71,0,3.7,386,Low
+Fruits,95,1,4.1,241,Medium
+Fruits,290,1,3.8,963,Low
+Fruits,62,1,3.7,537,Low
+Frozen Foods,338,1,3.6,750,Low
+Meat,827,0,3.7,951,Low
+Packaged Foods,217,0,3.9,242,Low
+Beverages,312,1,4.0,574,Medium
+Dairy,186,1,4.5,604,High
+Frozen Foods,138,1,3.8,477,Low
+Meat,1637,1,4.0,932,Medium
+Packaged Foods,568,1,4.2,424,Medium
+Dairy,153,1,4.1,644,Medium
+Dairy,111,1,3.5,162,Low
+Beverages,360,0,4.5,189,Medium
+Fruits,116,0,4.3,973,Medium
+Beverages,147,1,4.5,82,Low
+Vegetables,121,0,3.7,775,Low
+Beverages,408,1,4.1,501,Medium
+Fruits,160,1,4.0,440,Medium
+Meat,1649,0,3.7,177,Low
+Grains,526,1,3.8,78,Low
+Spices,91,0,4.4,410,Medium
+Packaged Foods,441,1,4.4,66,Low
+Vegetables,15,1,3.9,461,Low
+Packaged Foods,131,1,3.8,474,Low
+Fruits,238,0,4.1,436,Medium
+Frozen Foods,147,0,3.7,257,Low
+Vegetables,133,1,4.4,215,Medium
+Grains,203,0,4.1,344,Medium
+Grains,69,0,4.3,999,Medium
+Snacks,38,1,3.7,416,Low
+Vegetables,62,1,4.0,884,Medium
+Grains,768,0,4.4,122,Medium
+Fruits,67,1,4.3,492,Medium
+Snacks,78,1,3.6,462,Low
+Snacks,84,0,4.4,315,Medium
+Beverages,108,0,4.0,996,Medium
+Beverages,408,1,4.0,917,Medium
+Vegetables,34,0,3.5,930,Low
+Snacks,26,0,4.3,213,Medium
+Dairy,168,1,3.8,122,Low
+Frozen Foods,337,1,4.0,706,Medium
+Frozen Foods,332,1,3.6,468,Low
+Snacks,44,1,3.8,654,Low
+Packaged Foods,297,1,3.5,92,Low
+Packaged Foods,90,1,3.6,261,Low
+Spices,48,0,3.9,200,Low
+Snacks,66,1,3.5,415,Low
+Beverages,328,1,3.6,345,Low
+Vegetables,71,1,3.5,380,Low
+Vegetables,103,1,4.1,699,Medium
+Vegetables,47,0,3.7,213,Low
+Spices,183,0,4.4,919,Medium
+Fruits,110,1,4.2,740,Medium
+Frozen Foods,258,0,4.0,668,Medium
+Packaged Foods,344,0,3.5,743,Low
+Beverages,166,1,4.2,236,Medium
+Beverages,287,0,4.4,412,Medium
+Grains,729,1,3.6,301,Low
+Beverages,364,1,3.6,915,Low
+Grains,561,0,4.4,234,Medium
+Snacks,26,0,4.5,871,High
+Spices,77,1,3.5,872,Low
+Dairy,160,0,4.0,87,Low
+Beverages,442,0,3.5,763,Low
+Beverages,271,0,3.7,670,Low
+Snacks,54,1,3.9,178,Low
+Snacks,31,1,4.5,361,High
+Frozen Foods,72,0,3.9,110,Low
+Frozen Foods,101,1,4.3,798,Medium
+Meat,1937,1,4.1,913,Medium
+Beverages,65,1,4.4,226,Medium
+Frozen Foods,363,0,3.5,930,Low
+Beverages,346,0,4.0,158,Medium
+Dairy,78,1,4.3,679,Medium
+Beverages,455,0,3.5,125,Low
+Meat,513,0,4.0,506,Medium
+Beverages,116,0,3.8,544,Low
+Meat,1168,0,4.1,665,Medium
+Beverages,479,0,4.0,669,Medium
+Vegetables,103,1,4.0,338,Medium
+Fruits,145,0,4.4,548,Medium
+Frozen Foods,187,0,3.7,981,Low
+Vegetables,37,0,4.1,296,Medium
+Grains,176,0,4.0,960,Medium
+Spices,81,0,4.3,224,Medium
+Fruits,38,0,4.4,985,Medium
+Frozen Foods,190,1,3.5,979,Low
+Fruits,264,1,4.1,689,Medium
+Spices,35,0,4.1,318,Medium
+Beverages,311,0,3.7,56,Low
+Frozen Foods,354,0,3.9,242,Low
+Fruits,81,0,4.5,586,High
+Dairy,68,0,4.5,465,High
+Frozen Foods,193,0,4.0,717,Medium
+Packaged Foods,681,1,3.5,142,Low
+Packaged Foods,647,1,4.3,548,Medium
+Dairy,157,0,4.1,767,Medium
+Dairy,186,1,4.3,478,Medium
+Dairy,178,0,4.3,281,Medium
+Vegetables,137,1,3.6,785,Low
+Spices,31,1,4.3,921,Medium
+Snacks,98,1,3.8,874,Low
+Fruits,192,1,3.6,382,Low
+Grains,384,1,4.5,795,High
+Dairy,122,0,4.0,255,Medium
+Spices,68,0,3.8,556,Low
+Snacks,94,1,4.5,145,Medium
+Vegetables,71,1,3.5,954,Low
+Vegetables,70,1,4.3,981,Medium
+Spices,67,0,4.1,529,Medium
+Frozen Foods,258,0,3.9,260,Low
+Meat,1215,0,4.0,974,Medium
+Frozen Foods,264,0,3.7,838,Low
+Frozen Foods,341,1,3.9,806,Low
+Grains,623,1,4.4,494,Medium
+Grains,577,1,4.2,108,Medium
+Packaged Foods,89,0,4.5,435,High
+Frozen Foods,349,0,3.5,779,Low
+Vegetables,149,0,4.4,840,Medium
+Vegetables,71,1,3.5,433,Low
+Grains,554,0,3.7,727,Low
+Dairy,100,0,3.9,427,Low
+Snacks,26,1,4.4,486,Medium
+Snacks,42,0,4.0,389,Medium
+Frozen Foods,389,1,3.5,589,Low
+Spices,10,0,4.0,119,Medium
+Beverages,125,0,3.9,877,Low
+Spices,55,1,4.0,266,Medium
+Spices,119,0,4.2,793,Medium
+Meat,203,0,4.0,963,Medium
+Vegetables,17,0,3.5,231,Low
+Grains,737,0,3.8,701,Low
+Frozen Foods,396,0,3.5,852,Low
+Snacks,94,0,3.9,548,Low
+Grains,975,0,3.9,852,Low
+Grains,215,0,4.2,163,Medium
+Fruits,202,0,4.5,491,High
+Dairy,42,1,3.9,902,Low
+Frozen Foods,388,0,3.8,622,Low
+Dairy,113,0,4.5,714,High
+Snacks,67,0,4.1,969,Medium
+Vegetables,37,0,4.5,950,High
+Dairy,188,1,3.6,949,Low
+Grains,162,1,3.8,727,Low
+Packaged Foods,63,0,4.5,238,Medium
+Vegetables,64,1,3.6,937,Low
+Meat,1198,0,3.9,392,Low
+Packaged Foods,620,0,4.3,231,Medium
+Frozen Foods,388,0,4.1,309,Medium
+Fruits,162,1,4.0,775,Medium
+Vegetables,102,1,3.6,453,Low
+Vegetables,121,0,4.1,108,Medium
+Spices,127,1,4.0,692,Medium
+Spices,99,1,3.6,854,Low
+Fruits,249,1,3.8,487,Low
+Frozen Foods,124,1,4.2,860,Medium
+Grains,709,1,4.2,975,Medium
+Fruits,147,1,3.8,488,Low
+Meat,1075,0,4.5,288,Medium
+Spices,185,0,3.9,264,Low
+Spices,82,0,3.7,261,Low
+Beverages,263,0,4.1,874,Medium
+Spices,104,0,3.8,429,Low
+Meat,1432,0,3.5,834,Low
+Frozen Foods,399,0,3.7,543,Low
+Vegetables,80,1,4.4,851,Medium
+Snacks,69,1,4.2,955,Medium
+Snacks,34,0,3.8,948,Low
+Beverages,155,0,4.2,633,Medium
+Spices,65,0,4.2,956,Medium
+Spices,102,1,4.2,109,Medium
+Frozen Foods,88,1,3.5,469,Low
+Snacks,45,1,3.8,272,Low
+Vegetables,136,1,4.2,520,Medium
+Grains,691,0,4.1,60,Low
+Beverages,221,1,4.4,473,Medium
+Spices,108,1,4.1,194,Medium
+Fruits,266,0,4.4,874,Medium
+Meat,205,0,4.2,275,Medium
+Packaged Foods,138,1,3.6,420,Low
+Spices,154,0,4.4,320,Medium
+Meat,778,0,3.5,81,Low
+Packaged Foods,89,1,4.4,780,Medium
+Beverages,111,0,4.3,496,Medium
+Grains,260,1,4.1,810,Medium
+Dairy,87,1,4.1,856,Medium
+Snacks,78,0,4.2,958,Medium
+Fruits,248,1,3.7,638,Low
+Packaged Foods,237,1,4.0,181,Medium
+Meat,1195,0,4.5,535,High
+Grains,169,1,3.9,783,Low
+Dairy,195,0,4.0,787,Medium
+Grains,657,0,4.0,761,Medium
+Meat,171,1,4.3,55,Low
+Dairy,177,0,4.5,125,Medium
+Fruits,274,0,3.8,394,Low
+Packaged Foods,336,1,3.9,811,Low
+Snacks,41,1,4.4,675,Medium
+Fruits,295,1,3.5,999,Low
+Snacks,20,0,3.5,969,Low
+Frozen Foods,377,1,4.5,158,Medium
+Meat,1809,1,4.2,364,Medium
+Frozen Foods,160,0,4.1,278,Medium
+Fruits,175,0,4.1,51,Low
+Grains,771,0,3.5,335,Low
+Meat,112,1,3.6,782,Low
+Vegetables,22,0,3.9,655,Low
+Beverages,141,0,3.5,985,Low
+Dairy,155,0,4.3,229,Medium
+Frozen Foods,102,0,3.8,975,Low
+Fruits,156,1,3.5,93,Low
+Dairy,114,1,4.3,849,Medium
+Fruits,256,1,4.3,953,Medium
+Spices,164,1,3.5,156,Low
+Spices,51,1,3.7,188,Low
+Meat,1806,0,3.5,530,Low
+Frozen Foods,270,0,3.9,473,Low
+Meat,1691,1,4.0,995,Medium
+Grains,982,0,3.7,871,Low
+Spices,186,0,3.7,188,Low
+Spices,58,0,3.7,499,Low
+Spices,92,0,4.5,322,High
+Grains,196,1,4.0,77,Low
+Vegetables,47,0,3.9,420,Low
+Snacks,87,1,4.4,226,Medium
+Snacks,77,0,3.8,619,Low
+Fruits,124,1,4.1,749,Medium
+Dairy,138,1,4.2,745,Medium
+Fruits,229,1,4.2,658,Medium
+Spices,123,1,4.0,541,Medium
+Packaged Foods,416,1,4.2,637,Medium
+Spices,128,1,4.3,560,Medium
+Vegetables,76,1,4.2,559,Medium
+Grains,122,1,3.8,409,Low
+Frozen Foods,260,0,4.2,54,Low
+Dairy,66,1,3.5,320,Low
+Dairy,144,0,4.4,736,Medium
+Vegetables,104,1,3.8,189,Low
+Meat,1255,0,4.1,417,Medium
+Fruits,265,0,3.6,719,Low
+Dairy,161,0,4.3,901,Medium
+Fruits,135,1,3.9,495,Low
+Fruits,272,0,4.4,299,Medium
+Snacks,98,1,4.3,838,Medium
+Spices,130,1,3.9,119,Low
+Fruits,131,1,4.1,140,Medium
+Vegetables,113,0,3.7,601,Low
+Vegetables,147,0,3.8,761,Low
+Meat,302,0,3.9,939,Low
+Beverages,340,0,4.2,492,Medium
+Grains,910,0,4.3,620,Medium
+Vegetables,113,1,3.7,79,Low
+Meat,1725,0,4.5,494,High
+Grains,781,1,4.3,664,Medium
+Frozen Foods,233,0,3.6,296,Low
+Snacks,95,0,4.1,327,Medium
+Spices,110,0,3.5,882,Low
+Packaged Foods,240,1,4.0,475,Medium
+Beverages,364,0,4.0,727,Medium
+Dairy,47,1,3.5,578,Low
+Grains,651,0,3.5,215,Low
+Fruits,97,0,4.0,212,Medium
+Spices,198,0,4.0,558,Medium
+Fruits,264,1,3.7,109,Low
+Grains,758,1,4.4,866,Medium
+Meat,1340,1,4.4,864,Medium
+Beverages,49,1,4.0,620,Medium
+Vegetables,141,0,4.3,575,Medium
+Meat,483,1,4.1,448,Medium
+Dairy,102,0,3.7,386,Low
+Dairy,186,1,3.8,724,Low
+Frozen Foods,93,1,4.2,366,Medium
+Fruits,69,0,3.7,849,Low
+Snacks,32,1,4.4,177,Medium
+Beverages,397,0,3.8,857,Low
+Snacks,64,1,3.6,336,Low
+Dairy,175,1,4.5,208,Medium
+Packaged Foods,536,0,3.6,825,Low
+Meat,1627,1,3.7,152,Low
+Frozen Foods,174,0,3.7,847,Low
+Frozen Foods,279,1,3.6,246,Low
+Beverages,250,0,3.6,220,Low
+Meat,552,1,4.0,683,Medium
+Snacks,42,1,4.4,195,Medium
+Spices,131,1,4.3,790,Medium
+Frozen Foods,261,1,4.2,940,Medium
+Dairy,145,0,4.5,450,High
+Snacks,82,1,3.5,858,Low
+Dairy,172,1,4.0,553,Medium
+Grains,340,1,3.5,199,Low
+Meat,878,0,4.5,564,High
+Packaged Foods,365,1,4.1,319,Medium
+Fruits,37,0,4.5,282,Medium
+Packaged Foods,763,0,3.9,96,Low
+Snacks,49,0,3.6,286,Low
+Spices,121,0,4.3,635,Medium
+Frozen Foods,363,1,4.1,688,Medium
+Packaged Foods,74,1,3.7,165,Low
+Vegetables,19,0,4.5,572,High
+Beverages,434,1,4.1,552,Medium
+Fruits,83,1,4.3,859,Medium
+Vegetables,63,0,4.5,833,High
+Fruits,262,1,3.7,236,Low
+Frozen Foods,193,1,4.3,413,Medium
+Frozen Foods,125,1,3.8,807,Low
+Vegetables,68,0,4.5,640,High
+Spices,16,0,4.1,991,Medium
+Spices,133,1,4.5,66,Low
+Fruits,27,0,4.4,769,Medium
+Snacks,47,1,3.9,975,Low
+Meat,499,1,4.4,120,Medium
+Snacks,56,0,3.7,960,Low
+Snacks,66,1,3.8,836,Low
+Frozen Foods,70,1,3.9,76,Low
+Meat,1111,0,3.8,330,Low
+Grains,880,1,3.6,967,Low
+Vegetables,109,1,3.7,520,Low
+Vegetables,71,1,3.8,583,Low
+Snacks,71,0,3.8,890,Low
+Meat,1110,0,4.0,631,Medium
+Snacks,98,0,3.8,58,Low
+Snacks,69,1,3.9,965,Low
+Meat,737,0,3.9,327,Low
+Frozen Foods,373,0,3.6,638,Low
+Frozen Foods,186,1,4.1,629,Medium
+Dairy,198,1,3.7,490,Low
+Beverages,218,0,3.7,656,Low
+Beverages,317,1,4.5,933,High
+Frozen Foods,179,1,4.2,834,Medium
+Meat,344,0,4.5,137,Medium
+Fruits,23,0,4.4,928,Medium
+Vegetables,149,0,3.5,274,Low
+Fruits,66,1,3.9,667,Low
+Meat,1509,1,4.2,821,Medium
+Dairy,193,0,4.2,867,Medium
+Dairy,51,0,4.4,844,Medium
+Fruits,201,1,3.5,705,Low
+Vegetables,69,1,3.8,727,Low
+Packaged Foods,145,0,4.4,493,Medium
+Frozen Foods,345,0,4.2,410,Medium
+Grains,603,0,3.9,295,Low
+Grains,234,1,3.6,412,Low
+Packaged Foods,385,1,4.4,650,Medium
+Vegetables,21,1,4.3,637,Medium
+Frozen Foods,250,1,4.3,787,Medium
+Snacks,58,1,3.6,370,Low
+Dairy,163,1,4.2,972,Medium
+Vegetables,66,1,3.6,334,Low
+Beverages,185,1,4.1,329,Medium
+Beverages,423,1,3.9,707,Low
+Spices,151,1,4.4,381,Medium
+Grains,503,1,3.8,71,Low
+Snacks,75,0,3.5,990,Low
+Snacks,39,1,4.0,244,Medium
+Meat,579,0,4.5,449,High
+Beverages,481,0,4.2,804,Medium
+Meat,1841,1,3.5,648,Low
+Meat,1681,1,3.5,730,Low
+Grains,544,1,3.6,822,Low
+Snacks,97,0,4.5,914,High
+Beverages,316,0,3.5,525,Low
+Dairy,149,1,4.1,849,Medium
+Spices,150,0,3.8,340,Low
+Beverages,230,0,4.0,560,Medium
+Packaged Foods,656,1,3.6,990,Low
+Beverages,248,0,4.2,296,Medium
+Fruits,231,1,4.1,657,Medium
+Meat,665,1,4.5,974,High
+Grains,779,1,3.7,581,Low
+Dairy,166,1,3.9,160,Low
+Fruits,213,0,3.8,375,Low
+Spices,38,1,3.7,722,Low
+Dairy,147,1,3.8,670,Low
+Snacks,92,0,3.8,292,Low
+Grains,836,1,4.5,734,High
+Packaged Foods,135,1,3.8,160,Low
+Beverages,394,1,4.5,260,Medium
+Spices,51,1,3.7,75,Low
+Meat,398,0,4.3,69,Low
+Spices,48,0,4.1,828,Medium
+Frozen Foods,91,0,4.5,855,High
+Vegetables,28,1,4.0,991,Medium
+Snacks,61,1,3.5,916,Low
+Spices,81,0,3.8,935,Low
+Spices,16,0,4.1,366,Medium
+Snacks,44,1,4.4,919,Medium
+Dairy,156,0,3.9,649,Low
+Packaged Foods,318,0,4.0,615,Medium
+Packaged Foods,165,1,3.8,124,Low
+Fruits,26,1,4.4,572,Medium
+Grains,264,0,4.1,547,Medium
+Packaged Foods,587,0,4.0,590,Medium
+Dairy,136,1,3.7,847,Low
+Fruits,227,1,3.8,142,Low
+Spices,188,1,4.4,556,Medium
+Beverages,93,1,3.8,555,Low
+Grains,369,0,4.3,539,Medium
+Meat,1401,0,3.6,218,Low
+Frozen Foods,187,0,4.1,545,Medium
+Vegetables,61,0,3.5,797,Low
+Beverages,217,1,3.8,962,Low
+Snacks,62,1,4.4,309,Medium
+Fruits,90,1,3.6,506,Low
+Dairy,47,0,4.2,341,Medium
+Vegetables,132,0,4.5,593,High
+Packaged Foods,707,1,3.7,608,Low
+Snacks,56,0,4.1,353,Medium
+Frozen Foods,88,0,3.8,591,Low
+Grains,252,1,3.8,579,Low
+Frozen Foods,230,0,4.1,302,Medium
+Fruits,106,1,4.0,631,Medium
+Spices,161,1,3.7,150,Low
+Vegetables,104,1,3.9,591,Low
+Packaged Foods,82,1,3.9,573,Low
+Grains,911,0,4.1,954,Medium
+Grains,454,1,4.1,590,Medium
+Fruits,254,1,3.9,320,Low
+Vegetables,126,1,4.0,323,Medium
+Dairy,174,0,3.6,797,Low
+Grains,470,1,3.5,413,Low
+Frozen Foods,60,1,4.5,771,High
+Snacks,41,1,4.0,475,Medium
+Packaged Foods,552,0,3.9,616,Low
+Meat,1535,1,3.7,680,Low
+Fruits,284,1,4.0,465,Medium
+Beverages,244,0,4.4,102,Medium
+Frozen Foods,300,0,4.4,832,Medium
+Meat,1024,0,3.7,388,Low
+Frozen Foods,397,0,3.7,567,Low
+Grains,638,0,3.7,116,Low
+Spices,17,0,4.4,389,Medium
+Snacks,70,0,3.7,606,Low
+Spices,96,1,3.7,545,Low
+Packaged Foods,383,0,3.9,376,Low
+Meat,1737,1,4.3,839,Medium
+Spices,122,0,3.5,315,Low
+Spices,193,0,4.3,355,Medium
+Packaged Foods,514,1,4.4,543,Medium
+Packaged Foods,469,0,4.1,220,Medium
+Grains,476,0,3.6,239,Low
+Vegetables,68,1,4.3,141,Medium
+Dairy,95,0,4.3,281,Medium
+Snacks,87,1,4.3,372,Medium
+Frozen Foods,55,1,4.2,481,Medium
+Meat,705,0,3.9,586,Low
+Snacks,85,1,4.1,862,Medium
+Vegetables,72,1,3.6,160,Low
+Packaged Foods,488,0,3.7,84,Low
+Meat,1432,1,4.0,606,Medium
+Spices,60,0,4.1,775,Medium
+Meat,1563,1,3.7,899,Low
+Meat,1855,1,4.5,338,High
+Dairy,67,0,3.8,302,Low
+Fruits,56,1,3.7,659,Low
+Dairy,119,1,4.1,359,Medium
+Grains,577,1,3.7,493,Low
+Spices,192,0,4.0,134,Medium
+Frozen Foods,281,0,4.3,538,Medium
+Fruits,153,0,3.7,113,Low
+Meat,1038,0,4.1,401,Medium
+Vegetables,96,0,3.5,966,Low
+Packaged Foods,664,0,4.5,862,High
+Vegetables,97,0,4.2,484,Medium
+Frozen Foods,184,1,3.8,396,Low
+Grains,396,0,3.9,158,Low
+Packaged Foods,582,1,4.2,161,Medium
+Fruits,167,0,4.0,678,Medium
+Fruits,47,0,3.6,586,Low
+Frozen Foods,346,1,4.5,298,Medium
+Grains,951,0,4.5,703,High
+Vegetables,12,0,3.9,404,Low
+Fruits,171,0,3.6,290,Low
+Snacks,54,1,3.5,202,Low
+Fruits,145,0,3.6,394,Low
+Vegetables,34,1,4.0,548,Medium
+Packaged Foods,690,1,3.7,530,Low
+Vegetables,89,1,4.2,488,Medium
+Vegetables,43,0,4.0,70,Low
+Frozen Foods,119,1,4.3,97,Low
+Meat,386,1,4.4,591,Medium
+Packaged Foods,323,1,4.2,805,Medium
+Packaged Foods,528,0,3.8,240,Low
+Spices,18,0,4.3,203,Medium
+Snacks,35,0,3.7,938,Low
+Snacks,88,0,3.9,837,Low
+Vegetables,120,1,3.8,987,Low
+Frozen Foods,238,0,4.3,57,Low
+Dairy,149,1,4.3,166,Medium
+Dairy,81,0,3.8,425,Low
+Beverages,103,1,4.2,122,Medium
+Snacks,90,1,4.0,873,Medium
+Meat,1738,1,4.1,902,Medium
+Meat,1792,1,4.4,228,Medium
+Beverages,252,0,3.6,837,Low
+Meat,308,0,3.6,714,Low
+Frozen Foods,269,1,4.1,631,Medium
+Dairy,138,1,4.5,935,High
+Snacks,83,0,3.7,775,Low
+Dairy,165,0,4.2,410,Medium
+Snacks,34,0,4.1,596,Medium
+Meat,369,0,3.7,919,Low
+Snacks,26,1,3.7,354,Low
+Packaged Foods,193,0,4.0,281,Medium
+Dairy,111,1,3.8,644,Low
+Frozen Foods,322,0,4.1,204,Medium
+Frozen Foods,83,1,4.3,567,Medium
+Spices,155,0,4.0,334,Medium
+Packaged Foods,488,0,4.2,380,Medium
+Frozen Foods,164,1,3.6,333,Low
+Dairy,114,1,3.7,651,Low
+Beverages,83,1,4.1,271,Medium
+Spices,188,1,4.0,108,Medium
+Meat,1004,0,3.5,718,Low
+Spices,65,1,3.8,84,Low
+Dairy,143,0,4.5,50,Low
+Grains,221,0,4.3,172,Medium
+Frozen Foods,227,0,3.8,214,Low
+Packaged Foods,748,0,3.5,788,Low
+Beverages,77,1,3.7,421,Low
+Dairy,155,1,3.5,941,Low
+Spices,125,0,3.6,99,Low
+Grains,767,1,4.0,76,Low
+Vegetables,45,0,4.2,640,Medium
+Dairy,86,0,4.3,915,Medium
+Spices,105,0,3.8,802,Low
+Fruits,53,1,4.3,398,Medium
+Vegetables,91,1,4.1,526,Medium
+Meat,1827,0,4.3,599,Medium
+Spices,100,1,3.6,258,Low
+Beverages,491,0,4.2,143,Medium
+Snacks,80,0,4.0,340,Medium
+Beverages,301,1,4.4,177,Medium
+Fruits,292,1,4.4,552,Medium
+Vegetables,141,0,4.1,531,Medium
+Grains,642,0,4.3,374,Medium
+Beverages,177,1,3.7,666,Low
+Beverages,230,0,4.4,746,Medium
+Vegetables,18,0,3.8,391,Low
+Grains,327,1,4.1,206,Medium
+Grains,300,1,3.5,579,Low
+Meat,1060,0,3.5,562,Low
+Spices,141,1,3.6,332,Low
+Fruits,125,0,4.1,277,Medium
+Grains,367,1,3.6,648,Low
+Vegetables,115,1,4.2,674,Medium
+Spices,27,1,3.5,278,Low
+Meat,288,1,3.5,128,Low
+Vegetables,39,1,3.6,875,Low
+Snacks,86,0,4.2,195,Medium
+Frozen Foods,312,1,4.0,519,Medium
+Frozen Foods,242,1,3.5,101,Low
+Vegetables,116,0,3.9,523,Low
+Packaged Foods,480,1,4.4,484,Medium
+Spices,188,1,3.8,460,Low
+Grains,889,0,4.0,290,Medium
+Fruits,43,1,4.1,132,Medium
+Grains,880,0,4.1,877,Medium
+Dairy,101,1,4.0,508,Medium
+Snacks,48,0,4.3,603,Medium
+Vegetables,40,1,3.6,808,Low
+Frozen Foods,322,1,4.1,256,Medium
+Spices,31,0,4.2,936,Medium
+Dairy,96,1,3.6,852,Low
+Vegetables,134,0,3.8,902,Low
+Grains,982,0,3.7,946,Low
+Beverages,466,1,4.5,110,Medium
+Grains,729,1,3.5,661,Low
+Frozen Foods,241,0,3.5,938,Low
+Meat,1514,1,3.9,376,Low
+Vegetables,55,0,3.8,255,Low
+Meat,707,0,3.6,59,Low
+Vegetables,134,0,3.9,701,Low
+Grains,199,1,4.3,389,Medium
+Fruits,258,0,4.4,247,Medium
+Dairy,185,1,3.5,328,Low
+Meat,1533,0,4.1,896,Medium
+Frozen Foods,146,0,3.8,670,Low
+Meat,803,0,4.3,118,Medium
+Vegetables,64,1,3.5,897,Low
+Meat,905,0,4.4,596,Medium
+Dairy,126,0,3.6,658,Low
+Packaged Foods,730,0,4.1,564,Medium
+Frozen Foods,81,0,3.6,92,Low
+Meat,716,0,3.8,785,Low
+Grains,152,1,4.1,139,Medium
+Vegetables,135,1,3.5,146,Low
+Frozen Foods,164,0,4.4,868,Medium
+Spices,50,1,4.5,333,High
+Fruits,206,1,4.4,179,Medium
+Snacks,90,0,4.3,264,Medium
+Grains,561,0,4.4,764,Medium
+Frozen Foods,74,0,4.5,166,Medium
+Grains,90,0,4.2,473,Medium
+Spices,106,0,4.2,278,Medium
+Packaged Foods,179,1,4.3,367,Medium
+Spices,146,1,3.5,322,Low
+Beverages,335,1,4.2,764,Medium

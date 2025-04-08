@@ -1,82 +1,79 @@
-# models/train_recommendation.py
-
-import sys
-import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-
-from app.utils.helpers import get_logger
-from config import RECOMMENDATION_CLEAN, RECOMMENDATION_MODEL
-
 import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.metrics import mean_squared_error
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
 import pickle
-import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
 
-logger = get_logger("train_recommendation")
+# Path to your dataset (use raw string or double backslashes)
+RECOMMENDATION_CLEAN = 'data\\recommendation_dataset.csv'  # Update path as needed
 
-def get_top_n_recommendations(similarity_df, item, n=5):
-    if item not in similarity_df.columns:
-        return []
-    similar_items = similarity_df[item].sort_values(ascending=False)
-    return similar_items.iloc[1:n+1].index.tolist()
+# Load data function
+def load_data():
+    try:
+        df = pd.read_csv(RECOMMENDATION_CLEAN)
+        return df
+    except FileNotFoundError:
+        print(f"Error: The file at {RECOMMENDATION_CLEAN} was not found.")
+        raise
 
-def evaluate_model(basket, similarity_df, top_n=5):
-    logger.info(f"🧪 Evaluating Top-{top_n} recommendations on a subset of users...")
-
-    hit_count = 0
-    total = 0
-    test_users = np.random.choice(basket.index, size=min(50, len(basket)), replace=False)
-
-    for user in test_users:
-        user_items = basket.loc[user]
-        bought_items = user_items[user_items > 0].index.tolist()
-
-        if len(bought_items) < 2:
-            continue  # Not enough items to evaluate
-
-        test_item = np.random.choice(bought_items)
-        bought_items.remove(test_item)
-
-        recommended = []
-        for item in bought_items:
-            recommended.extend(get_top_n_recommendations(similarity_df, item, n=top_n))
-
-        recommended = set(recommended)
-        total += 1
-        if test_item in recommended:
-            hit_count += 1
-
-    hit_rate = hit_count / total if total else 0
-    logger.info(f"🎯 Hit Rate@{top_n}: {hit_rate:.2f}")
-
+# Train the recommendation model
 def train():
-    logger.info("📥 Loading dataset...")
-    df = pd.read_csv(RECOMMENDATION_CLEAN)
+    # Load the dataset
+    print("🚀 Starting recommendation model training...")
+    df = load_data()
 
-    logger.info(f"📊 Columns: {df.columns.tolist()}")
-    logger.info(f"🔢 Dataset shape: {df.shape}")
+    # Check the structure of the dataset (just for debugging)
+    print("📊 Columns:", df.columns)
+    print("🔢 Dataset shape:", df.shape)
 
-    logger.info("🔧 Creating user-item interaction matrix...")
-    basket = pd.crosstab(df['Member_number'], df['itemDescription'])
+    # Clean the data if necessary (example: drop NA, encode categorical variables)
+    print("🧼 Cleaning data...")
+    df = df.dropna()  # Example: remove rows with missing values
 
-    logger.info("📐 Computing item-item similarity...")
-    similarity_matrix = cosine_similarity(basket.T)
-    similarity_df = pd.DataFrame(similarity_matrix, index=basket.columns, columns=basket.columns)
+    # Features and target variable (adjusted based on the dataset)
+    X = df.drop(columns=['Final Score'])  # Use 'Final Score' as the target
+    y = df['Final Score']  # 'Final Score' is the target variable for prediction
 
-    logger.info("📊 Evaluating model...")
-    evaluate_model(basket, similarity_df, top_n=5)
+    # Preprocessing pipeline for categorical variables
+    # OneHotEncoder will be used for the 'Category' column (you can add more columns if necessary)
+    categorical_features = ['Category']
+    numeric_features = [col for col in X.columns if col not in categorical_features]
 
-    model = {
-        "similarity_matrix": similarity_df,
-        "basket": basket
-    }
+    # Column transformer: applies OneHotEncoder to 'Category' and leaves other columns unchanged
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('cat', OneHotEncoder(), categorical_features),
+            ('num', 'passthrough', numeric_features)
+        ])
 
-    # ✅ Save model
-    with open(RECOMMENDATION_MODEL, "wb") as f:
+    # Create a pipeline that applies preprocessing and then fits the model
+    model = Pipeline(steps=[
+        ('preprocessor', preprocessor),
+        ('regressor', RandomForestRegressor(n_estimators=100, random_state=42))  # Changed to Regressor
+    ])
+
+    # Split the data into training and test sets
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+
+    # Train the model
+    print("🛠️ Training the model...")
+    model.fit(X_train, y_train)
+
+    # Evaluate the model
+    print("📈 Model evaluation:")
+    y_pred = model.predict(X_test)
+    mse = mean_squared_error(y_test, y_pred)  # Mean Squared Error for regression problems
+    print(f"Mean Squared Error (MSE): {mse}")
+
+    # Save the model to a .pkl file
+    model_path = 'models/saved/recommendation_model.pkl'
+    with open(model_path, 'wb') as f:
         pickle.dump(model, f)
+    print(f"✅ Model saved to: {model_path}")
 
-    logger.info(f"✅ Recommendation model saved to: {RECOMMENDATION_MODEL}")
-
+# Start training
 if __name__ == "__main__":
-    logger.info("🚀 Starting recommendation model training...")
     train()

@@ -1,17 +1,202 @@
-{% extends 'base.html' %}
+<!DOCTYPE html>
+<html lang="en">
 
-{% block content %}
-    <h2>Customer Segmentation</h2>
-    <form method="post">
-        <label>Unit Price: <input type="number" name="unit_price" step="0.01" required></label><br>
-        <label>Quantity: <input type="number" name="quantity" required></label><br>
-        <label>Total: <input type="number" name="total" step="0.01" required></label><br>
-        <label>Rating: <input type="number" name="rating" step="0.1" required></label><br>
-        <button type="submit">Segment Customer</button>
-    </form>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Segmentation Prediction</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #121212;
+            /* Dark background */
+            color: #e0f7fa;
+            /* Light blue text */
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
 
-    {% if segment %}
-        <h3>Customer Segment:</h3>
-        <p>This customer belongs to the <strong>{{ segment }}</strong> segment.</p>
-    {% endif %}
-{% endblock %}
+        .container {
+            background: rgba(40, 60, 90, 0.7);
+            /* Dark blue with transparency */
+            backdrop-filter: blur(10px);
+            /* Glass effect */
+            width: 80%;
+            /* Adjust overall width as needed */
+            max-width: 500px;
+            /* Keep the form size a bit smaller */
+            padding: 30px;
+            /* Adjust padding for smaller form */
+            border-radius: 12px;
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        h2 {
+            text-align: center;
+            color: #81d4fa;
+            /* Medium blue for title */
+            margin-bottom: 25px;
+            /* Adjust margin for smaller form */
+            font-size: 2rem;
+            /* Slightly smaller title */
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.4);
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+            /* Adjust margin for smaller form elements */
+        }
+
+        label {
+            display: block;
+            font-size: 14px;
+            /* Slightly smaller label */
+            color: #b0bec5;
+            /* Light grey-blue for labels */
+            margin-bottom: 6px;
+        }
+
+        input[type="number"] {
+            width: calc(100% - 12px);
+            padding: 8px;
+            /* Slightly smaller padding */
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 6px;
+            background-color: rgba(50, 70, 100, 0.5);
+            /* Slightly darker transparent background */
+            color: #e0f7fa;
+            font-size: 14px;
+            /* Slightly smaller input text */
+        }
+
+        .btn {
+            background-color: #64b5f6;
+            /* Blue button */
+            color: #fff;
+            /* White text */
+            padding: 10px 18px;
+            /* Slightly smaller button padding */
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+            /* Slightly smaller button text */
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+        }
+
+        .btn:hover {
+            background-color: #1e88e5;
+            /* Darker blue on hover */
+        }
+
+        .result {
+            margin-top: 25px;
+            /* Adjust margin for smaller form */
+            padding: 15px;
+            /* Adjust padding for smaller result area */
+            background-color: rgba(60, 90, 70, 0.6);
+            /* Greenish transparent background */
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            font-size: 16px;
+            /* Slightly smaller result text */
+            text-align: center;
+            color: #aed581;
+            /* Light green for result text */
+        }
+
+        .result h3 {
+            color: #c5e1a5;
+            /* Slightly lighter green for heading */
+            margin-bottom: 8px;
+            /* Adjust margin for smaller result heading */
+            font-size: 1.3rem;
+            /* Slightly smaller result heading */
+        }
+
+        .error {
+            color: #ef9a9a;
+            /* Light red for error text */
+            font-size: 16px;
+            /* Slightly smaller error text */
+            text-align: center;
+            margin-top: 20px;
+            /* Adjust margin for smaller form */
+            padding: 12px;
+            /* Adjust padding for smaller error area */
+            background-color: rgba(90, 50, 50, 0.6);
+            /* Reddish transparent background */
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+        }
+
+        .category-text {
+            font-size: 16px;
+            /* Adjust font size for category text */
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h2>Segmentation Prediction</h2>
+        <form action="/predict_segmentation" method="POST">
+            <div class="form-group">
+                <label for="price_inr">Price (INR):</label>
+                <input type="number" id="price_inr" name="Price (INR)" required>
+            </div>
+
+            <div class="form-group">
+                <label for="quantity_sold">Quantity Sold:</label>
+                <input type="number" id="quantity_sold" name="Quantity Sold" required>
+            </div>
+
+            <div class="form-group">
+                <label for="sales_target">Sales (Target):</label>
+                <input type="number" id="sales_target" name="Sales (Target)" required>
+            </div>
+
+            <button type="submit" class="btn">Predict</button>
+        </form>
+
+        {% if segment %}
+        <div class="result">
+            <h3>Segmentation Result:</h3>
+            <p>Segment:
+                {% if segment == 0 %}
+                <span class="category-text" style="color: red;">Low Value</span> - This product falls into the "low
+                value" category. It may not be performing well and might need re-strategizing.
+                {% elif segment == 1 %}
+                <span class="category-text" style="color: orange;">Medium Value</span> - This product is in the "medium
+                value" category, performing decently, but improvements can be made.
+                {% elif segment == 2 %}
+                <span class="category-text" style="color: green;">High Value</span> - This product is in the "high
+                value" category, indicating good performance. Consider boosting its visibility further.
+                {% elif segment == 3 %}
+                <span class="category-text" style="color: blue;">Premium</span> - This product is in the "premium"
+                category. It shows strong sales potential and should be promoted as a top item.
+                {% endif %}
+            </p>
+        </div>
+        {% elif error %}
+        <div class="error">
+            <p>{{ error }}</p>
+        </div>
+        {% endif %}
+    </div>
+
+</body>
+
+</html>

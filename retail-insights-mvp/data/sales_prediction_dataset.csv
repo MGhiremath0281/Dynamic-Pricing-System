@@ -1,1 +1,2001 @@
-Sub Category,Price,Discount_x,Rating,Title,Product Description,Sales,Discount
+Date,Product ID,Product Category,Price (INR),Quantity Sold,Discount (%),Promotions,Store Location,Day of the Week,Seasonality,Sales (Target)
+2024-02-07,151,Beverages,607,45,16,Yes,Bangalore,Sunday,Peak Season,22944.6
+2024-12-18,192,Dairy,908,26,27,No,Bangalore,Tuesday,Regular,17233.84
+2024-12-02,114,Vegetables,65,39,24,No,Bangalore,Monday,Peak Season,1926.6
+2024-09-07,171,Snacks,691,28,28,No,Bangalore,Sunday,Off-Season,13930.56
+2024-06-19,160,Fruits,482,5,15,No,Bangalore,Sunday,Holiday,2048.5
+2024-03-31,120,Dairy,611,8,22,Yes,Bangalore,Thursday,Holiday,3812.6400000000003
+2024-12-28,182,Fruits,329,25,1,Yes,Bangalore,Thursday,Regular,8142.75
+2024-02-29,186,Snacks,105,27,21,Yes,Bangalore,Tuesday,Regular,2239.65
+2024-10-21,174,Beverages,111,46,17,No,Bangalore,Friday,Off-Season,4237.98
+2024-03-05,174,Beverages,679,23,16,No,Bangalore,Thursday,Regular,13118.279999999999
+2024-10-13,187,Vegetables,692,30,29,Yes,Bangalore,Thursday,Peak Season,14739.599999999999
+2024-08-17,199,Dairy,733,45,6,No,Bangalore,Friday,Off-Season,31005.899999999998
+2024-02-05,123,Dairy,955,47,12,No,Bangalore,Monday,Peak Season,39498.8
+2024-09-18,102,Vegetables,947,23,17,Yes,Bangalore,Thursday,Holiday,18078.23
+2024-02-16,121,Fruits,261,49,28,Yes,Bangalore,Wednesday,Peak Season,9208.08
+2024-10-03,152,Beverages,884,47,13,No,Bangalore,Saturday,Holiday,36146.76
+2024-03-17,101,Beverages,21,20,29,No,Bangalore,Saturday,Peak Season,298.2
+2024-07-01,187,Dairy,244,18,17,No,Bangalore,Thursday,Holiday,3645.3599999999997
+2024-05-05,129,Dairy,820,18,12,Yes,Bangalore,Monday,Regular,12988.8
+2024-06-30,137,Vegetables,764,2,10,Yes,Bangalore,Sunday,Peak Season,1375.2
+2024-02-05,101,Snacks,992,4,20,Yes,Bangalore,Monday,Holiday,3174.4
+2024-10-15,163,Fruits,945,30,29,Yes,Bangalore,Tuesday,Peak Season,20128.5
+2024-09-17,159,Snacks,948,33,20,Yes,Bangalore,Wednesday,Off-Season,25027.2
+2024-01-18,120,Snacks,608,36,15,No,Bangalore,Monday,Regular,18604.8
+2024-01-28,132,Dairy,135,18,22,No,Bangalore,Friday,Holiday,1895.4
+2024-08-25,175,Dairy,685,37,16,No,Bangalore,Wednesday,Off-Season,21289.8
+2024-02-13,157,Dairy,937,19,7,Yes,Bangalore,Saturday,Peak Season,16556.789999999997
+2024-10-16,121,Snacks,122,47,18,Yes,Bangalore,Wednesday,Off-Season,4701.88
+2024-05-30,188,Fruits,213,28,19,Yes,Bangalore,Friday,Peak Season,4830.84
+2024-02-10,148,Dairy,185,40,14,No,Bangalore,Thursday,Regular,6364.0
+2024-05-28,190,Beverages,890,20,8,Yes,Bangalore,Friday,Off-Season,16376.0
+2024-09-10,158,Fruits,109,49,19,Yes,Bangalore,Friday,Regular,4326.21
+2024-07-28,141,Beverages,705,33,9,No,Bangalore,Thursday,Holiday,21171.15
+2024-01-20,191,Fruits,141,12,11,Yes,Bangalore,Thursday,Peak Season,1505.88
+2024-11-12,159,Dairy,162,15,20,No,Bangalore,Thursday,Peak Season,1944.0
+2024-01-07,179,Vegetables,125,41,22,Yes,Bangalore,Thursday,Regular,3997.5
+2024-04-25,114,Dairy,906,39,19,Yes,Bangalore,Thursday,Regular,28620.54
+2024-05-30,161,Snacks,447,2,29,No,Bangalore,Friday,Holiday,634.74
+2024-06-18,161,Snacks,324,29,0,No,Bangalore,Tuesday,Off-Season,9396.0
+2024-05-26,146,Fruits,891,41,24,No,Bangalore,Tuesday,Peak Season,27763.56
+2024-04-14,161,Snacks,990,10,19,No,Bangalore,Monday,Peak Season,8019.000000000001
+2024-11-16,150,Dairy,336,2,8,No,Bangalore,Tuesday,Holiday,618.24
+2024-03-16,154,Beverages,982,11,21,No,Bangalore,Saturday,Holiday,8533.58
+2024-05-15,163,Dairy,654,13,14,Yes,Bangalore,Tuesday,Regular,7311.72
+2024-05-16,102,Fruits,921,10,0,Yes,Bangalore,Friday,Regular,9210.0
+2024-01-03,150,Snacks,28,14,11,No,Bangalore,Thursday,Off-Season,348.88
+2024-09-17,106,Beverages,793,18,2,Yes,Bangalore,Thursday,Holiday,13988.52
+2024-11-12,120,Vegetables,92,9,10,No,Bangalore,Sunday,Off-Season,745.2
+2024-02-06,172,Beverages,378,39,1,Yes,Bangalore,Sunday,Holiday,14594.58
+2024-07-23,138,Beverages,242,28,15,No,Bangalore,Sunday,Peak Season,5759.599999999999
+2024-05-24,117,Dairy,435,3,8,Yes,Bangalore,Friday,Holiday,1200.6000000000001
+2024-05-20,103,Vegetables,572,20,14,Yes,Bangalore,Saturday,Holiday,9838.4
+2024-05-29,188,Fruits,389,6,11,Yes,Bangalore,Tuesday,Peak Season,2077.26
+2024-08-26,159,Fruits,735,27,0,Yes,Bangalore,Friday,Holiday,19845.0
+2024-01-06,113,Beverages,283,2,12,Yes,Bangalore,Monday,Off-Season,498.08
+2024-01-31,108,Beverages,859,29,13,No,Bangalore,Thursday,Regular,21672.57
+2024-04-17,189,Snacks,709,38,24,No,Bangalore,Sunday,Regular,20475.920000000002
+2024-01-15,152,Vegetables,879,3,24,No,Bangalore,Wednesday,Off-Season,2004.1200000000001
+2024-03-23,101,Beverages,337,16,7,Yes,Bangalore,Monday,Peak Season,5014.5599999999995
+2024-03-15,183,Snacks,103,30,7,No,Bangalore,Sunday,Holiday,2873.7
+2024-09-29,191,Vegetables,337,40,26,Yes,Bangalore,Saturday,Off-Season,9975.2
+2024-11-19,159,Fruits,130,2,29,Yes,Bangalore,Monday,Regular,184.6
+2024-04-23,170,Snacks,270,17,11,Yes,Bangalore,Friday,Regular,4085.1
+2024-02-05,143,Vegetables,402,41,0,No,Bangalore,Tuesday,Off-Season,16482.0
+2024-09-26,107,Snacks,26,12,10,Yes,Bangalore,Thursday,Regular,280.8
+2024-02-19,146,Beverages,478,35,7,No,Bangalore,Saturday,Off-Season,15558.9
+2024-11-23,134,Dairy,103,43,9,No,Bangalore,Saturday,Regular,4030.3900000000003
+2024-04-11,177,Fruits,227,1,29,Yes,Bangalore,Wednesday,Off-Season,161.17
+2024-02-29,180,Beverages,919,45,18,Yes,Bangalore,Monday,Holiday,33911.100000000006
+2024-04-07,135,Beverages,409,15,10,No,Bangalore,Wednesday,Holiday,5521.5
+2024-05-15,149,Vegetables,333,26,6,No,Bangalore,Tuesday,Holiday,8138.5199999999995
+2024-06-07,103,Snacks,41,37,10,No,Bangalore,Sunday,Holiday,1365.3
+2024-03-14,101,Fruits,429,21,16,No,Bangalore,Tuesday,Regular,7567.5599999999995
+2024-07-24,105,Beverages,914,49,0,No,Bangalore,Sunday,Peak Season,44786.0
+2024-07-22,153,Vegetables,534,31,25,No,Bangalore,Wednesday,Off-Season,12415.5
+2024-04-27,103,Fruits,146,25,28,Yes,Bangalore,Thursday,Peak Season,2628.0
+2024-02-28,153,Snacks,828,23,20,No,Bangalore,Tuesday,Regular,15235.2
+2024-05-14,192,Beverages,719,24,20,No,Bangalore,Wednesday,Regular,13804.800000000001
+2024-11-20,162,Beverages,893,38,7,No,Bangalore,Monday,Peak Season,31558.62
+2024-10-28,117,Beverages,33,28,22,No,Bangalore,Wednesday,Peak Season,720.72
+2024-01-20,189,Fruits,990,21,23,Yes,Bangalore,Wednesday,Regular,16008.300000000001
+2024-05-16,143,Fruits,997,43,5,Yes,Bangalore,Friday,Regular,40727.45
+2024-10-31,133,Fruits,31,18,21,No,Bangalore,Tuesday,Off-Season,440.82
+2024-10-15,173,Fruits,106,36,17,No,Bangalore,Thursday,Holiday,3167.2799999999997
+2024-07-29,161,Vegetables,543,35,5,No,Bangalore,Thursday,Holiday,18054.75
+2024-01-16,199,Dairy,928,45,4,Yes,Bangalore,Friday,Off-Season,40089.6
+2024-03-04,113,Vegetables,556,9,12,Yes,Bangalore,Sunday,Peak Season,4403.52
+2024-08-08,194,Beverages,320,38,18,Yes,Bangalore,Saturday,Regular,9971.2
+2024-06-05,147,Vegetables,262,30,21,Yes,Bangalore,Sunday,Peak Season,6209.400000000001
+2024-12-11,114,Snacks,141,44,7,Yes,Bangalore,Thursday,Holiday,5769.719999999999
+2024-01-03,171,Fruits,166,34,8,Yes,Bangalore,Wednesday,Holiday,5192.4800000000005
+2024-02-19,177,Snacks,586,32,16,No,Bangalore,Friday,Peak Season,15751.68
+2024-02-18,186,Snacks,769,3,2,Yes,Bangalore,Monday,Holiday,2260.86
+2024-03-21,161,Beverages,375,3,18,Yes,Bangalore,Tuesday,Regular,922.5000000000001
+2024-01-13,139,Fruits,704,28,10,No,Bangalore,Tuesday,Off-Season,17740.8
+2024-04-20,184,Snacks,923,44,23,Yes,Bangalore,Tuesday,Peak Season,31271.24
+2024-04-28,179,Beverages,752,15,16,No,Bangalore,Wednesday,Regular,9475.199999999999
+2024-09-03,181,Fruits,650,41,20,Yes,Bangalore,Monday,Regular,21320.0
+2024-05-29,152,Dairy,328,23,18,No,Bangalore,Friday,Holiday,6186.080000000001
+2024-11-05,123,Beverages,714,40,1,No,Bangalore,Friday,Regular,28274.4
+2024-10-10,125,Vegetables,307,11,7,No,Bangalore,Tuesday,Peak Season,3140.6099999999997
+2024-11-21,188,Fruits,326,48,18,No,Bangalore,Monday,Regular,12831.36
+2024-11-23,159,Snacks,831,32,6,No,Bangalore,Monday,Off-Season,24996.48
+2024-12-27,140,Snacks,613,36,27,Yes,Bangalore,Monday,Regular,16109.64
+2024-02-29,128,Vegetables,985,33,26,Yes,Bangalore,Thursday,Regular,24053.7
+2024-12-15,114,Vegetables,933,24,16,No,Bangalore,Thursday,Off-Season,18809.28
+2024-02-25,144,Snacks,742,39,5,No,Bangalore,Tuesday,Regular,27491.1
+2024-11-09,164,Fruits,681,34,18,No,Bangalore,Monday,Regular,18986.280000000002
+2024-08-22,188,Beverages,568,28,23,Yes,Bangalore,Saturday,Holiday,12246.08
+2024-06-22,170,Vegetables,371,37,5,No,Bangalore,Monday,Peak Season,13040.65
+2024-01-13,108,Vegetables,331,7,27,No,Bangalore,Friday,Holiday,1691.4099999999999
+2024-04-13,187,Vegetables,892,4,1,No,Bangalore,Friday,Peak Season,3532.32
+2024-11-14,100,Dairy,78,37,5,No,Bangalore,Tuesday,Off-Season,2741.7
+2024-10-11,107,Fruits,662,1,22,Yes,Bangalore,Saturday,Off-Season,516.36
+2024-07-27,187,Fruits,943,1,4,No,Bangalore,Monday,Off-Season,905.28
+2024-05-27,162,Fruits,733,47,18,No,Bangalore,Sunday,Peak Season,28249.820000000003
+2024-10-29,110,Fruits,774,20,19,Yes,Bangalore,Saturday,Peak Season,12538.800000000001
+2024-05-22,180,Fruits,54,19,3,No,Bangalore,Tuesday,Peak Season,995.22
+2024-08-02,107,Snacks,464,29,21,No,Bangalore,Friday,Off-Season,10630.24
+2024-08-24,134,Vegetables,112,10,25,Yes,Bangalore,Sunday,Peak Season,840.0
+2024-05-13,134,Snacks,969,18,16,Yes,Bangalore,Friday,Regular,14651.279999999999
+2024-12-21,132,Dairy,978,28,10,Yes,Bangalore,Thursday,Holiday,24645.600000000002
+2024-06-29,104,Beverages,226,35,3,No,Bangalore,Tuesday,Off-Season,7672.7
+2024-02-17,140,Vegetables,372,43,25,No,Bangalore,Tuesday,Holiday,11997.0
+2024-02-26,127,Dairy,922,47,12,Yes,Bangalore,Monday,Regular,38133.92
+2024-06-02,106,Snacks,351,31,19,Yes,Bangalore,Monday,Peak Season,8813.61
+2024-07-17,172,Beverages,836,27,25,Yes,Bangalore,Thursday,Holiday,16929.0
+2024-06-02,171,Dairy,881,11,16,No,Bangalore,Sunday,Regular,8140.44
+2024-11-27,111,Beverages,744,49,8,No,Bangalore,Wednesday,Regular,33539.520000000004
+2024-01-26,133,Dairy,178,49,3,Yes,Bangalore,Saturday,Holiday,8460.34
+2024-04-26,132,Snacks,973,38,22,No,Bangalore,Wednesday,Off-Season,28839.72
+2024-02-18,147,Beverages,976,5,27,Yes,Bangalore,Wednesday,Holiday,3562.4
+2024-11-26,122,Dairy,43,8,13,No,Bangalore,Tuesday,Off-Season,299.28
+2024-08-19,161,Snacks,423,34,18,No,Bangalore,Saturday,Peak Season,11793.240000000002
+2024-01-11,187,Vegetables,824,48,25,No,Bangalore,Tuesday,Off-Season,29664.0
+2024-04-17,136,Snacks,535,12,27,No,Bangalore,Saturday,Peak Season,4686.599999999999
+2024-01-29,198,Snacks,751,38,2,Yes,Bangalore,Friday,Holiday,27967.239999999998
+2024-02-02,143,Vegetables,383,1,13,No,Bangalore,Tuesday,Peak Season,333.21
+2024-02-27,185,Snacks,401,31,7,No,Bangalore,Tuesday,Regular,11560.83
+2024-04-26,190,Vegetables,551,4,23,Yes,Bangalore,Tuesday,Peak Season,1697.08
+2024-11-09,134,Vegetables,975,49,26,No,Bangalore,Sunday,Off-Season,35353.5
+2024-05-04,164,Vegetables,171,45,27,Yes,Bangalore,Thursday,Off-Season,5617.349999999999
+2024-05-17,198,Dairy,581,5,0,Yes,Bangalore,Tuesday,Off-Season,2905.0
+2024-10-12,146,Beverages,708,30,9,No,Bangalore,Monday,Peak Season,19328.4
+2024-05-13,177,Dairy,966,24,17,No,Bangalore,Monday,Off-Season,19242.719999999998
+2024-11-08,102,Vegetables,627,3,15,Yes,Bangalore,Saturday,Off-Season,1598.85
+2024-05-28,100,Beverages,636,11,7,Yes,Bangalore,Friday,Regular,6506.28
+2024-12-13,104,Beverages,439,45,0,Yes,Bangalore,Thursday,Peak Season,19755.0
+2024-10-09,189,Vegetables,269,4,11,No,Bangalore,Sunday,Regular,957.64
+2024-06-29,113,Beverages,136,26,7,Yes,Bangalore,Saturday,Off-Season,3288.4799999999996
+2024-01-25,126,Beverages,885,27,23,Yes,Bangalore,Monday,Off-Season,18399.15
+2024-03-18,108,Dairy,531,46,15,Yes,Bangalore,Thursday,Off-Season,20762.1
+2024-11-05,178,Beverages,759,43,17,No,Bangalore,Thursday,Peak Season,27088.71
+2024-10-28,114,Vegetables,597,27,3,Yes,Bangalore,Friday,Holiday,15635.43
+2024-04-05,189,Fruits,354,42,5,No,Bangalore,Thursday,Off-Season,14124.599999999999
+2024-09-27,141,Fruits,437,6,11,No,Bangalore,Tuesday,Off-Season,2333.58
+2024-02-15,176,Fruits,951,15,26,Yes,Bangalore,Thursday,Off-Season,10556.1
+2024-08-13,150,Vegetables,793,30,8,No,Bangalore,Friday,Off-Season,21886.8
+2024-11-21,162,Fruits,314,42,14,Yes,Bangalore,Saturday,Peak Season,11341.68
+2024-08-01,195,Dairy,957,37,15,No,Bangalore,Friday,Holiday,30097.649999999998
+2024-06-14,151,Vegetables,774,37,23,No,Bangalore,Sunday,Holiday,22051.260000000002
+2024-03-18,195,Vegetables,390,42,11,Yes,Bangalore,Friday,Holiday,14578.2
+2024-05-29,103,Vegetables,205,37,23,Yes,Bangalore,Monday,Off-Season,5840.45
+2024-10-12,193,Beverages,265,35,22,Yes,Bangalore,Tuesday,Off-Season,7234.5
+2024-12-02,122,Beverages,656,23,13,No,Bangalore,Monday,Holiday,13126.56
+2024-08-23,114,Beverages,287,6,12,No,Bangalore,Saturday,Holiday,1515.36
+2024-03-31,142,Snacks,662,4,24,Yes,Bangalore,Wednesday,Off-Season,2012.48
+2024-12-02,128,Dairy,256,18,1,Yes,Bangalore,Saturday,Off-Season,4561.92
+2024-02-02,135,Vegetables,549,9,2,No,Bangalore,Tuesday,Regular,4842.18
+2024-09-30,112,Vegetables,571,49,25,No,Bangalore,Thursday,Regular,20984.25
+2024-10-08,131,Beverages,40,29,23,No,Bangalore,Friday,Regular,893.2
+2024-07-26,170,Vegetables,930,13,29,Yes,Bangalore,Wednesday,Holiday,8583.9
+2024-11-06,158,Vegetables,756,47,21,No,Bangalore,Tuesday,Peak Season,28070.280000000002
+2024-11-19,185,Fruits,886,17,9,Yes,Bangalore,Monday,Off-Season,13706.42
+2024-01-01,127,Vegetables,813,45,8,No,Bangalore,Friday,Regular,33658.200000000004
+2024-11-10,165,Snacks,539,32,25,No,Bangalore,Saturday,Peak Season,12936.0
+2024-09-12,141,Beverages,119,48,19,Yes,Bangalore,Monday,Off-Season,4626.72
+2024-12-20,144,Dairy,771,22,7,Yes,Bangalore,Tuesday,Peak Season,15774.66
+2024-12-22,161,Dairy,497,4,9,Yes,Bangalore,Tuesday,Holiday,1809.0800000000002
+2024-06-20,156,Fruits,618,5,18,No,Bangalore,Saturday,Holiday,2533.8
+2024-04-03,105,Dairy,317,37,2,No,Bangalore,Wednesday,Holiday,11494.42
+2024-01-27,127,Dairy,959,41,23,No,Bangalore,Saturday,Regular,30275.63
+2024-09-22,127,Beverages,545,49,4,Yes,Bangalore,Thursday,Off-Season,25636.8
+2024-12-09,143,Beverages,353,13,2,No,Bangalore,Monday,Holiday,4497.22
+2024-06-14,183,Snacks,21,34,25,Yes,Bangalore,Wednesday,Regular,535.5
+2024-06-26,129,Fruits,394,45,26,Yes,Bangalore,Friday,Regular,13120.2
+2024-06-29,161,Dairy,312,22,15,Yes,Bangalore,Sunday,Regular,5834.4
+2024-04-02,174,Snacks,856,23,16,No,Bangalore,Thursday,Regular,16537.92
+2024-01-27,191,Fruits,953,3,14,No,Bangalore,Wednesday,Holiday,2458.74
+2024-05-30,188,Dairy,572,42,2,Yes,Bangalore,Sunday,Regular,23543.52
+2024-06-17,161,Dairy,337,34,11,No,Bangalore,Sunday,Holiday,10197.62
+2024-12-17,196,Beverages,521,32,8,Yes,Bangalore,Monday,Holiday,15338.24
+2024-07-01,100,Vegetables,847,45,20,Yes,Bangalore,Tuesday,Regular,30492.0
+2024-08-27,126,Fruits,400,49,11,No,Bangalore,Friday,Holiday,17444.0
+2024-09-21,161,Dairy,642,21,25,Yes,Bangalore,Saturday,Off-Season,10111.5
+2024-05-12,176,Fruits,33,46,14,Yes,Bangalore,Monday,Off-Season,1305.48
+2024-04-17,102,Snacks,523,44,1,No,Bangalore,Thursday,Peak Season,22781.88
+2024-05-18,169,Snacks,250,21,22,Yes,Bangalore,Sunday,Off-Season,4095.0
+2024-12-22,171,Vegetables,103,44,17,Yes,Bangalore,Thursday,Holiday,3761.56
+2024-09-15,126,Dairy,149,11,19,Yes,Bangalore,Sunday,Holiday,1327.5900000000001
+2024-05-22,108,Beverages,762,39,11,Yes,Bangalore,Tuesday,Off-Season,26449.02
+2024-07-14,161,Dairy,857,4,22,Yes,Bangalore,Tuesday,Regular,2673.84
+2024-01-09,136,Fruits,164,1,3,Yes,Bangalore,Friday,Regular,159.07999999999998
+2024-07-24,196,Snacks,910,28,22,Yes,Bangalore,Saturday,Holiday,19874.4
+2024-05-24,150,Fruits,876,24,15,No,Bangalore,Friday,Regular,17870.399999999998
+2024-12-08,143,Vegetables,47,35,22,No,Bangalore,Tuesday,Peak Season,1283.1000000000001
+2024-05-29,123,Snacks,85,13,15,Yes,Bangalore,Tuesday,Peak Season,939.25
+2024-08-03,178,Beverages,182,47,0,Yes,Bangalore,Thursday,Off-Season,8554.0
+2024-12-18,158,Snacks,248,34,21,No,Bangalore,Tuesday,Off-Season,6661.280000000001
+2024-04-14,131,Dairy,280,11,24,No,Bangalore,Wednesday,Regular,2340.8
+2024-10-21,195,Dairy,468,36,1,No,Bangalore,Sunday,Holiday,16679.52
+2024-12-03,187,Snacks,443,17,29,No,Bangalore,Monday,Off-Season,5347.009999999999
+2024-06-23,151,Vegetables,479,35,2,No,Bangalore,Tuesday,Peak Season,16429.7
+2024-01-18,161,Dairy,971,18,25,Yes,Bangalore,Friday,Off-Season,13108.5
+2024-11-10,157,Dairy,695,40,20,No,Bangalore,Saturday,Off-Season,22240.0
+2024-11-12,151,Beverages,320,22,24,No,Bangalore,Sunday,Peak Season,5350.4
+2024-03-08,111,Snacks,938,24,19,No,Bangalore,Sunday,Holiday,18234.72
+2024-03-20,138,Dairy,322,19,16,Yes,Bangalore,Saturday,Off-Season,5139.12
+2024-03-12,101,Vegetables,306,37,19,Yes,Bangalore,Saturday,Off-Season,9170.82
+2024-04-06,102,Fruits,414,39,21,Yes,Bangalore,Sunday,Off-Season,12755.34
+2024-05-22,155,Snacks,29,21,20,Yes,Bangalore,Wednesday,Regular,487.20000000000005
+2024-11-05,180,Beverages,726,8,29,Yes,Bangalore,Friday,Off-Season,4123.679999999999
+2024-06-21,158,Dairy,649,28,28,Yes,Bangalore,Wednesday,Peak Season,13083.84
+2024-07-26,101,Vegetables,289,5,0,No,Bangalore,Tuesday,Holiday,1445.0
+2024-10-20,101,Snacks,611,17,19,Yes,Bangalore,Monday,Holiday,8413.470000000001
+2024-12-07,191,Vegetables,989,37,5,Yes,Bangalore,Saturday,Peak Season,34763.35
+2024-03-18,153,Vegetables,624,36,28,No,Bangalore,Friday,Regular,16174.08
+2024-12-09,186,Beverages,797,19,14,Yes,Bangalore,Saturday,Peak Season,13022.98
+2024-10-26,195,Snacks,863,27,25,No,Bangalore,Wednesday,Holiday,17475.75
+2024-04-25,196,Dairy,881,34,25,No,Bangalore,Thursday,Peak Season,22465.5
+2024-07-03,100,Beverages,380,11,13,Yes,Bangalore,Tuesday,Regular,3636.6
+2024-02-09,118,Dairy,276,45,19,No,Bangalore,Monday,Holiday,10060.2
+2024-12-15,101,Fruits,152,47,14,No,Bangalore,Tuesday,Regular,6143.84
+2024-02-25,152,Vegetables,295,12,13,No,Bangalore,Thursday,Peak Season,3079.8
+2024-08-10,143,Fruits,795,21,24,No,Bangalore,Monday,Off-Season,12688.2
+2024-08-27,189,Vegetables,702,11,20,Yes,Bangalore,Thursday,Peak Season,6177.6
+2024-12-03,131,Beverages,991,39,23,No,Bangalore,Tuesday,Regular,29759.73
+2024-06-24,169,Dairy,532,28,24,Yes,Bangalore,Wednesday,Peak Season,11320.960000000001
+2024-05-10,131,Dairy,332,5,25,No,Bangalore,Sunday,Off-Season,1245.0
+2024-12-09,167,Beverages,595,17,4,No,Bangalore,Tuesday,Regular,9710.4
+2024-12-26,154,Snacks,905,20,5,No,Bangalore,Tuesday,Peak Season,17195.0
+2024-01-20,174,Fruits,999,41,16,Yes,Bangalore,Tuesday,Regular,34405.56
+2024-04-02,155,Fruits,303,46,10,Yes,Bangalore,Friday,Regular,12544.2
+2024-05-30,116,Dairy,140,12,15,Yes,Bangalore,Thursday,Holiday,1428.0
+2024-03-03,137,Dairy,126,6,11,No,Bangalore,Thursday,Holiday,672.84
+2024-01-23,123,Dairy,952,17,14,No,Bangalore,Saturday,Regular,13918.24
+2024-06-10,168,Beverages,706,19,22,No,Bangalore,Thursday,Peak Season,10462.92
+2024-08-10,197,Snacks,223,26,3,No,Bangalore,Saturday,Peak Season,5624.0599999999995
+2024-07-24,169,Fruits,184,48,26,Yes,Bangalore,Friday,Peak Season,6535.68
+2024-08-18,185,Vegetables,324,44,17,No,Bangalore,Wednesday,Off-Season,11832.48
+2024-10-22,110,Beverages,516,44,20,Yes,Bangalore,Saturday,Regular,18163.2
+2024-12-12,115,Fruits,651,32,27,No,Bangalore,Tuesday,Regular,15207.359999999999
+2024-01-13,196,Snacks,575,6,2,Yes,Bangalore,Wednesday,Off-Season,3381.0
+2024-01-19,172,Beverages,843,36,21,Yes,Bangalore,Sunday,Regular,23974.920000000002
+2024-08-13,158,Fruits,175,38,7,No,Bangalore,Friday,Regular,6184.5
+2024-12-06,169,Beverages,386,11,22,No,Bangalore,Thursday,Off-Season,3311.88
+2024-08-28,179,Fruits,738,33,2,Yes,Bangalore,Saturday,Holiday,23866.92
+2024-08-24,192,Fruits,921,24,7,No,Bangalore,Tuesday,Regular,20556.719999999998
+2024-05-21,102,Snacks,639,23,17,No,Bangalore,Monday,Off-Season,12198.51
+2024-06-08,119,Vegetables,270,15,9,Yes,Bangalore,Sunday,Peak Season,3685.5
+2024-12-03,158,Snacks,976,27,24,Yes,Bangalore,Monday,Holiday,20027.52
+2024-01-31,135,Fruits,935,11,19,Yes,Bangalore,Wednesday,Peak Season,8330.85
+2024-09-25,118,Beverages,901,17,16,Yes,Bangalore,Thursday,Regular,12866.279999999999
+2024-03-11,189,Snacks,353,14,7,No,Bangalore,Monday,Holiday,4596.0599999999995
+2024-07-08,166,Vegetables,661,27,22,Yes,Bangalore,Wednesday,Off-Season,13920.66
+2024-02-28,118,Fruits,988,18,10,Yes,Bangalore,Friday,Regular,16005.6
+2024-12-06,119,Snacks,530,28,28,Yes,Bangalore,Wednesday,Off-Season,10684.8
+2024-11-14,195,Snacks,312,47,4,No,Bangalore,Sunday,Holiday,14077.439999999999
+2024-09-14,170,Snacks,39,47,25,Yes,Bangalore,Wednesday,Peak Season,1374.75
+2024-04-05,151,Snacks,301,4,12,No,Bangalore,Sunday,Regular,1059.52
+2024-08-01,132,Beverages,816,7,20,Yes,Bangalore,Wednesday,Regular,4569.6
+2024-10-04,139,Vegetables,20,45,22,Yes,Bangalore,Tuesday,Off-Season,702.0
+2024-01-05,138,Vegetables,138,35,4,No,Bangalore,Wednesday,Holiday,4636.8
+2024-01-25,181,Fruits,54,48,23,Yes,Bangalore,Saturday,Off-Season,1995.8400000000001
+2024-09-28,100,Dairy,217,9,26,Yes,Bangalore,Wednesday,Holiday,1445.22
+2024-10-19,110,Beverages,504,8,12,No,Bangalore,Tuesday,Regular,3548.16
+2024-01-13,191,Fruits,776,45,5,Yes,Bangalore,Tuesday,Holiday,33174.0
+2024-10-24,156,Fruits,78,17,28,Yes,Bangalore,Friday,Regular,954.7199999999999
+2024-07-28,188,Snacks,856,17,4,Yes,Bangalore,Sunday,Holiday,13969.92
+2024-02-05,149,Dairy,180,49,8,Yes,Bangalore,Thursday,Peak Season,8114.400000000001
+2024-08-29,122,Dairy,710,33,26,No,Bangalore,Monday,Holiday,17338.2
+2024-11-17,130,Beverages,225,32,15,Yes,Bangalore,Monday,Peak Season,6120.0
+2024-02-07,193,Dairy,31,8,1,No,Bangalore,Wednesday,Holiday,245.52
+2024-06-02,141,Fruits,509,19,0,Yes,Bangalore,Friday,Holiday,9671.0
+2024-12-14,198,Dairy,295,38,7,No,Bangalore,Wednesday,Off-Season,10425.3
+2024-09-10,106,Dairy,712,3,27,Yes,Bangalore,Monday,Off-Season,1559.28
+2024-03-18,115,Vegetables,261,5,18,No,Bangalore,Sunday,Regular,1070.1000000000001
+2024-11-11,189,Fruits,235,13,29,Yes,Bangalore,Sunday,Off-Season,2169.0499999999997
+2024-01-19,159,Dairy,270,47,10,No,Bangalore,Sunday,Holiday,11421.0
+2024-01-11,101,Dairy,830,46,27,No,Bangalore,Tuesday,Off-Season,27871.399999999998
+2024-12-10,100,Snacks,145,31,11,Yes,Bangalore,Thursday,Holiday,4000.55
+2024-04-21,147,Dairy,236,16,11,No,Bangalore,Friday,Peak Season,3360.64
+2024-03-07,111,Dairy,325,32,6,Yes,Bangalore,Tuesday,Holiday,9776.0
+2024-01-11,168,Vegetables,816,22,25,Yes,Bangalore,Thursday,Regular,13464.0
+2024-03-09,136,Fruits,204,29,12,Yes,Bangalore,Friday,Peak Season,5206.08
+2024-11-25,131,Beverages,58,22,26,Yes,Bangalore,Friday,Regular,944.24
+2024-01-15,108,Fruits,242,43,7,Yes,Bangalore,Monday,Regular,9677.58
+2024-01-24,198,Snacks,203,3,28,No,Bangalore,Tuesday,Regular,438.47999999999996
+2024-10-27,118,Fruits,514,10,28,Yes,Bangalore,Friday,Off-Season,3700.7999999999997
+2024-03-15,147,Dairy,446,42,21,Yes,Bangalore,Saturday,Regular,14798.28
+2024-03-28,179,Snacks,197,21,27,Yes,Bangalore,Sunday,Peak Season,3020.0099999999998
+2024-02-10,102,Fruits,938,16,25,Yes,Bangalore,Friday,Holiday,11256.0
+2024-11-15,119,Snacks,447,12,29,Yes,Bangalore,Thursday,Regular,3808.4399999999996
+2024-08-09,123,Beverages,313,2,8,Yes,Bangalore,Monday,Peak Season,575.9200000000001
+2024-05-22,153,Fruits,871,41,6,No,Bangalore,Wednesday,Regular,33568.34
+2024-05-08,132,Dairy,170,24,25,No,Bangalore,Sunday,Holiday,3060.0
+2024-12-05,123,Snacks,403,35,20,Yes,Bangalore,Monday,Peak Season,11284.0
+2024-07-15,174,Vegetables,657,30,23,No,Bangalore,Wednesday,Peak Season,15176.7
+2024-11-15,171,Snacks,832,30,14,Yes,Bangalore,Tuesday,Holiday,21465.6
+2024-01-01,135,Vegetables,327,47,1,Yes,Bangalore,Tuesday,Peak Season,15215.31
+2024-10-20,137,Dairy,355,35,22,Yes,Bangalore,Friday,Holiday,9691.5
+2024-05-10,183,Beverages,965,19,19,Yes,Bangalore,Saturday,Peak Season,14851.35
+2024-11-14,198,Vegetables,765,8,24,Yes,Bangalore,Tuesday,Peak Season,4651.2
+2024-01-30,188,Beverages,911,26,11,No,Bangalore,Friday,Holiday,21080.54
+2024-11-21,198,Snacks,394,49,0,No,Bangalore,Sunday,Holiday,19306.0
+2024-10-11,124,Dairy,27,40,22,No,Bangalore,Monday,Peak Season,842.4
+2024-02-03,192,Vegetables,360,7,21,No,Bangalore,Tuesday,Peak Season,1990.8000000000002
+2024-06-29,117,Snacks,148,30,7,Yes,Bangalore,Monday,Holiday,4129.2
+2024-08-30,181,Fruits,795,7,4,No,Bangalore,Monday,Off-Season,5342.4
+2024-05-27,165,Snacks,688,3,14,Yes,Bangalore,Saturday,Holiday,1775.04
+2024-08-08,153,Beverages,371,1,0,No,Bangalore,Tuesday,Peak Season,371.0
+2024-09-06,134,Dairy,377,36,0,No,Bangalore,Monday,Peak Season,13572.0
+2024-01-02,179,Dairy,536,25,24,No,Bangalore,Saturday,Peak Season,10184.0
+2024-08-01,160,Snacks,514,37,9,No,Bangalore,Saturday,Holiday,17306.38
+2024-12-28,140,Fruits,105,1,21,Yes,Bangalore,Tuesday,Peak Season,82.95
+2024-12-11,199,Beverages,194,15,9,No,Bangalore,Saturday,Off-Season,2648.1
+2024-05-31,132,Snacks,821,37,20,No,Bangalore,Tuesday,Regular,24301.600000000002
+2024-04-02,167,Snacks,212,13,14,Yes,Bangalore,Tuesday,Off-Season,2370.16
+2024-12-26,132,Dairy,330,40,16,Yes,Bangalore,Wednesday,Holiday,11088.0
+2024-07-24,113,Beverages,138,8,21,No,Bangalore,Monday,Peak Season,872.1600000000001
+2024-12-27,120,Fruits,237,5,5,Yes,Bangalore,Thursday,Holiday,1125.75
+2024-06-27,147,Dairy,446,9,2,Yes,Bangalore,Tuesday,Regular,3933.72
+2024-04-18,119,Snacks,989,1,12,Yes,Bangalore,Monday,Holiday,870.32
+2024-08-17,107,Dairy,433,36,15,No,Bangalore,Sunday,Peak Season,13249.8
+2024-08-28,106,Dairy,133,35,7,Yes,Bangalore,Saturday,Regular,4329.15
+2024-11-24,166,Vegetables,997,2,29,No,Bangalore,Friday,Regular,1415.74
+2024-04-20,116,Dairy,164,40,14,No,Bangalore,Tuesday,Peak Season,5641.6
+2024-11-30,132,Dairy,557,23,16,No,Bangalore,Saturday,Peak Season,10761.24
+2024-03-24,147,Beverages,667,9,16,No,Bangalore,Saturday,Peak Season,5042.5199999999995
+2024-10-07,175,Dairy,322,34,21,Yes,Bangalore,Saturday,Holiday,8648.92
+2024-03-16,158,Fruits,763,46,25,No,Bangalore,Saturday,Off-Season,26323.5
+2024-08-20,185,Snacks,900,14,12,Yes,Bangalore,Saturday,Holiday,11088.0
+2024-01-04,121,Beverages,607,4,16,No,Bangalore,Tuesday,Holiday,2039.52
+2024-01-15,129,Dairy,859,30,5,Yes,Bangalore,Sunday,Off-Season,24481.5
+2024-05-01,137,Fruits,364,31,16,No,Bangalore,Thursday,Peak Season,9478.56
+2024-09-13,150,Snacks,833,38,15,Yes,Bangalore,Wednesday,Peak Season,26905.899999999998
+2024-07-15,153,Beverages,983,11,13,No,Bangalore,Saturday,Off-Season,9407.31
+2024-11-13,107,Fruits,820,35,12,No,Bangalore,Saturday,Off-Season,25256.0
+2024-11-12,126,Dairy,20,8,5,Yes,Bangalore,Wednesday,Holiday,152.0
+2024-06-15,126,Vegetables,166,3,2,No,Bangalore,Sunday,Regular,488.03999999999996
+2024-01-15,197,Vegetables,306,14,13,No,Bangalore,Sunday,Off-Season,3727.08
+2024-08-07,120,Beverages,995,13,13,No,Bangalore,Tuesday,Holiday,11253.45
+2024-07-17,129,Fruits,673,45,14,Yes,Bangalore,Monday,Regular,26045.1
+2024-03-08,196,Snacks,72,32,7,No,Bangalore,Friday,Peak Season,2142.72
+2024-07-02,127,Fruits,323,34,28,No,Bangalore,Friday,Peak Season,7907.04
+2024-11-21,163,Vegetables,88,45,14,Yes,Bangalore,Monday,Holiday,3405.6
+2024-04-15,196,Beverages,380,19,21,Yes,Bangalore,Tuesday,Holiday,5703.8
+2024-12-02,168,Dairy,621,38,28,Yes,Bangalore,Friday,Off-Season,16990.559999999998
+2024-08-11,160,Fruits,977,16,26,Yes,Bangalore,Sunday,Peak Season,11567.68
+2024-05-23,147,Vegetables,239,2,12,Yes,Bangalore,Wednesday,Holiday,420.64
+2024-02-26,118,Snacks,981,40,16,No,Bangalore,Monday,Peak Season,32961.6
+2024-03-19,103,Beverages,723,17,20,No,Bangalore,Sunday,Peak Season,9832.800000000001
+2024-03-05,134,Dairy,985,34,23,No,Bangalore,Thursday,Off-Season,25787.3
+2024-05-11,163,Fruits,594,42,2,Yes,Bangalore,Tuesday,Regular,24449.04
+2024-12-23,148,Snacks,604,16,27,No,Bangalore,Monday,Off-Season,7054.72
+2024-12-25,116,Dairy,180,38,5,Yes,Bangalore,Friday,Holiday,6498.0
+2024-10-08,143,Vegetables,700,2,4,Yes,Bangalore,Tuesday,Off-Season,1344.0
+2024-10-24,191,Vegetables,108,2,21,No,Bangalore,Wednesday,Off-Season,170.64000000000001
+2024-12-09,129,Snacks,707,26,25,Yes,Bangalore,Tuesday,Peak Season,13786.5
+2024-02-22,192,Vegetables,800,13,16,Yes,Bangalore,Tuesday,Off-Season,8736.0
+2024-12-14,145,Beverages,604,47,22,No,Bangalore,Wednesday,Holiday,22142.64
+2024-02-12,105,Snacks,776,31,24,Yes,Bangalore,Saturday,Regular,18282.56
+2024-12-05,198,Vegetables,608,34,1,Yes,Bangalore,Wednesday,Off-Season,20465.28
+2024-03-03,136,Fruits,178,39,25,No,Bangalore,Sunday,Off-Season,5206.5
+2024-04-17,123,Vegetables,508,3,14,Yes,Bangalore,Tuesday,Regular,1310.6399999999999
+2024-01-05,192,Beverages,990,8,4,Yes,Bangalore,Wednesday,Holiday,7603.2
+2024-11-23,145,Dairy,343,23,25,No,Bangalore,Saturday,Holiday,5916.75
+2024-09-28,152,Dairy,629,14,19,No,Bangalore,Sunday,Off-Season,7132.860000000001
+2024-04-23,194,Vegetables,400,27,5,No,Bangalore,Monday,Peak Season,10260.0
+2024-07-11,198,Dairy,121,29,5,No,Bangalore,Wednesday,Off-Season,3333.5499999999997
+2024-09-12,159,Vegetables,513,39,26,Yes,Bangalore,Wednesday,Regular,14805.18
+2024-08-11,196,Beverages,663,39,17,Yes,Bangalore,Tuesday,Regular,21461.309999999998
+2024-01-06,162,Dairy,633,1,17,No,Bangalore,Sunday,Regular,525.39
+2024-03-27,184,Fruits,38,17,3,Yes,Bangalore,Monday,Off-Season,626.62
+2024-12-21,131,Vegetables,473,41,16,Yes,Bangalore,Thursday,Off-Season,16290.119999999999
+2024-12-07,186,Dairy,501,30,24,No,Bangalore,Thursday,Holiday,11422.8
+2024-12-25,132,Beverages,613,13,13,No,Bangalore,Friday,Peak Season,6933.03
+2024-02-24,166,Beverages,416,21,13,Yes,Bangalore,Wednesday,Off-Season,7600.32
+2024-08-03,117,Fruits,298,19,12,No,Bangalore,Wednesday,Holiday,4982.56
+2024-03-06,124,Beverages,870,19,6,No,Bangalore,Monday,Off-Season,15538.199999999999
+2024-11-28,194,Beverages,384,25,11,No,Bangalore,Saturday,Holiday,8544.0
+2024-04-20,153,Dairy,350,22,22,Yes,Bangalore,Thursday,Holiday,6006.0
+2024-11-01,157,Vegetables,660,31,14,No,Bangalore,Friday,Peak Season,17595.6
+2024-02-06,166,Snacks,363,17,18,Yes,Bangalore,Monday,Off-Season,5060.22
+2024-03-13,145,Beverages,841,23,10,Yes,Bangalore,Wednesday,Holiday,17408.7
+2024-07-11,123,Beverages,474,32,14,Yes,Bangalore,Thursday,Regular,13044.48
+2024-04-12,131,Snacks,620,10,11,No,Bangalore,Sunday,Regular,5518.0
+2024-12-30,146,Beverages,744,10,2,No,Bangalore,Friday,Regular,7291.2
+2024-01-16,185,Dairy,674,36,16,No,Bangalore,Tuesday,Peak Season,20381.76
+2024-05-10,122,Dairy,84,8,2,No,Bangalore,Thursday,Holiday,658.56
+2024-06-05,165,Snacks,95,20,18,No,Bangalore,Friday,Peak Season,1558.0000000000002
+2024-05-23,126,Beverages,730,32,19,Yes,Bangalore,Monday,Off-Season,18921.600000000002
+2024-02-29,101,Beverages,162,14,3,Yes,Bangalore,Tuesday,Off-Season,2199.96
+2024-11-15,189,Vegetables,936,28,2,Yes,Bangalore,Friday,Holiday,25683.84
+2024-03-10,116,Beverages,934,46,25,No,Bangalore,Friday,Regular,32223.0
+2024-03-06,132,Dairy,847,24,15,Yes,Bangalore,Wednesday,Holiday,17278.8
+2024-07-06,108,Fruits,624,15,11,Yes,Bangalore,Saturday,Holiday,8330.4
+2024-04-04,142,Fruits,492,22,7,No,Bangalore,Thursday,Holiday,10066.32
+2024-07-16,147,Fruits,436,30,23,No,Bangalore,Wednesday,Peak Season,10071.6
+2024-01-10,138,Fruits,324,4,28,Yes,Bangalore,Sunday,Off-Season,933.12
+2024-05-28,192,Beverages,755,13,28,Yes,Bangalore,Tuesday,Holiday,7066.8
+2024-07-29,141,Beverages,516,23,16,No,Bangalore,Saturday,Holiday,9969.119999999999
+2024-04-19,125,Vegetables,310,8,6,No,Bangalore,Friday,Holiday,2331.2
+2024-02-05,198,Beverages,959,18,10,No,Bangalore,Wednesday,Peak Season,15535.800000000001
+2024-08-14,149,Fruits,121,12,17,No,Bangalore,Saturday,Peak Season,1205.1599999999999
+2024-01-01,124,Snacks,286,31,0,Yes,Bangalore,Sunday,Peak Season,8866.0
+2024-04-11,123,Snacks,886,14,2,Yes,Bangalore,Thursday,Holiday,12155.92
+2024-12-06,112,Dairy,987,34,3,No,Bangalore,Sunday,Regular,32551.26
+2024-06-20,159,Dairy,641,18,12,Yes,Bangalore,Tuesday,Regular,10153.44
+2024-05-03,106,Beverages,993,34,5,Yes,Bangalore,Monday,Regular,32073.899999999998
+2024-08-18,156,Snacks,861,11,25,No,Bangalore,Wednesday,Off-Season,7103.25
+2024-04-16,135,Fruits,981,41,13,Yes,Bangalore,Tuesday,Holiday,34992.27
+2024-09-01,144,Fruits,961,12,4,Yes,Bangalore,Monday,Regular,11070.72
+2024-12-25,119,Fruits,796,49,15,Yes,Bangalore,Wednesday,Regular,33153.4
+2024-09-25,164,Beverages,22,15,14,No,Bangalore,Tuesday,Regular,283.8
+2024-05-23,107,Beverages,104,31,14,No,Bangalore,Sunday,Holiday,2772.64
+2024-08-14,115,Vegetables,813,49,29,Yes,Bangalore,Tuesday,Regular,28284.269999999997
+2024-05-22,113,Fruits,347,29,3,No,Bangalore,Saturday,Regular,9761.11
+2024-01-22,175,Fruits,835,26,7,No,Bangalore,Sunday,Holiday,20190.3
+2024-03-12,186,Beverages,469,18,26,No,Bangalore,Wednesday,Off-Season,6247.08
+2024-09-25,114,Beverages,473,32,15,Yes,Bangalore,Tuesday,Peak Season,12865.6
+2024-05-19,191,Vegetables,943,22,27,Yes,Bangalore,Friday,Regular,15144.58
+2024-07-26,197,Vegetables,648,38,15,No,Bangalore,Wednesday,Peak Season,20930.399999999998
+2024-10-25,165,Dairy,240,17,29,Yes,Bangalore,Tuesday,Off-Season,2896.7999999999997
+2024-12-16,131,Snacks,173,23,3,Yes,Bangalore,Saturday,Off-Season,3859.63
+2024-04-02,186,Fruits,684,24,12,Yes,Bangalore,Monday,Regular,14446.08
+2024-06-12,162,Fruits,31,8,25,Yes,Bangalore,Monday,Holiday,186.0
+2024-01-18,185,Vegetables,152,41,27,Yes,Bangalore,Friday,Off-Season,4549.36
+2024-09-25,150,Vegetables,323,6,12,No,Bangalore,Wednesday,Peak Season,1705.44
+2024-06-11,124,Dairy,312,5,1,Yes,Bangalore,Saturday,Peak Season,1544.4
+2024-11-11,157,Snacks,994,44,2,Yes,Bangalore,Tuesday,Peak Season,42861.28
+2024-08-04,162,Dairy,319,29,21,Yes,Bangalore,Tuesday,Peak Season,7308.29
+2024-06-20,161,Snacks,759,28,7,No,Bangalore,Monday,Off-Season,19764.359999999997
+2024-07-12,121,Fruits,802,11,23,No,Bangalore,Saturday,Regular,6792.9400000000005
+2024-09-13,157,Dairy,62,1,14,No,Bangalore,Sunday,Regular,53.32
+2024-12-09,157,Vegetables,963,43,10,Yes,Bangalore,Friday,Peak Season,37268.1
+2024-07-08,185,Dairy,362,19,8,No,Bangalore,Monday,Regular,6327.76
+2024-08-03,148,Dairy,345,9,6,No,Bangalore,Monday,Peak Season,2918.7
+2024-08-05,151,Fruits,833,27,12,No,Bangalore,Friday,Peak Season,19792.08
+2024-01-12,141,Vegetables,517,34,1,No,Bangalore,Wednesday,Holiday,17402.22
+2024-07-17,169,Vegetables,383,44,7,Yes,Bangalore,Tuesday,Off-Season,15672.359999999999
+2024-03-23,114,Beverages,910,4,6,No,Bangalore,Wednesday,Off-Season,3421.6
+2024-04-06,153,Beverages,446,36,23,No,Bangalore,Saturday,Peak Season,12363.12
+2024-04-10,159,Beverages,40,18,11,Yes,Bangalore,Sunday,Off-Season,640.8
+2024-06-18,196,Fruits,426,15,18,Yes,Bangalore,Thursday,Regular,5239.8
+2024-07-10,107,Dairy,638,13,6,No,Bangalore,Thursday,Peak Season,7796.36
+2024-10-17,152,Vegetables,355,19,9,Yes,Bangalore,Thursday,Holiday,6137.95
+2024-05-20,159,Vegetables,834,49,28,No,Bangalore,Friday,Regular,29423.52
+2024-11-12,104,Dairy,136,6,24,Yes,Bangalore,Monday,Holiday,620.16
+2024-07-31,167,Vegetables,143,48,15,Yes,Bangalore,Sunday,Holiday,5834.4
+2024-06-10,105,Dairy,418,12,2,No,Bangalore,Wednesday,Off-Season,4915.68
+2024-06-23,195,Fruits,812,37,29,Yes,Bangalore,Tuesday,Off-Season,21331.239999999998
+2024-02-10,193,Fruits,823,17,9,No,Bangalore,Thursday,Peak Season,12731.810000000001
+2024-04-07,146,Fruits,734,23,5,Yes,Bangalore,Wednesday,Off-Season,16037.9
+2024-06-12,198,Dairy,70,26,17,No,Bangalore,Thursday,Holiday,1510.6
+2024-12-06,154,Dairy,802,29,17,Yes,Bangalore,Sunday,Holiday,19304.14
+2024-10-22,139,Snacks,343,33,4,Yes,Bangalore,Thursday,Regular,10866.24
+2024-07-08,151,Vegetables,808,27,20,Yes,Bangalore,Tuesday,Holiday,17452.8
+2024-04-06,115,Vegetables,160,25,28,Yes,Bangalore,Saturday,Peak Season,2880.0
+2024-08-15,112,Snacks,489,10,6,Yes,Bangalore,Saturday,Peak Season,4596.599999999999
+2024-03-29,129,Snacks,806,47,27,No,Bangalore,Sunday,Off-Season,27653.86
+2024-07-06,118,Fruits,821,23,1,Yes,Bangalore,Saturday,Off-Season,18694.17
+2024-08-13,116,Snacks,353,21,10,No,Bangalore,Friday,Off-Season,6671.7
+2024-06-19,162,Dairy,912,21,29,No,Bangalore,Monday,Peak Season,13597.92
+2024-10-11,118,Beverages,983,43,12,No,Bangalore,Friday,Holiday,37196.72
+2024-01-24,191,Dairy,392,13,22,Yes,Bangalore,Wednesday,Off-Season,3974.88
+2024-08-31,157,Snacks,583,37,4,No,Bangalore,Friday,Regular,20708.16
+2024-08-20,154,Vegetables,513,33,29,Yes,Bangalore,Wednesday,Off-Season,12019.59
+2024-04-28,189,Dairy,558,24,5,No,Bangalore,Wednesday,Peak Season,12722.4
+2024-04-06,189,Vegetables,688,44,23,No,Bangalore,Monday,Off-Season,23309.440000000002
+2024-02-10,161,Dairy,770,11,25,No,Bangalore,Tuesday,Holiday,6352.5
+2024-05-08,122,Vegetables,175,17,28,No,Bangalore,Sunday,Off-Season,2142.0
+2024-04-03,108,Dairy,310,4,13,No,Bangalore,Monday,Peak Season,1078.8
+2024-01-19,111,Vegetables,667,47,11,Yes,Bangalore,Sunday,Peak Season,27900.61
+2024-11-18,100,Beverages,163,25,3,No,Bangalore,Saturday,Regular,3952.75
+2024-05-03,157,Fruits,125,30,28,No,Bangalore,Saturday,Peak Season,2700.0
+2024-02-14,100,Dairy,439,9,22,Yes,Bangalore,Friday,Regular,3081.78
+2024-11-20,133,Beverages,689,21,5,Yes,Bangalore,Wednesday,Holiday,13745.55
+2024-04-19,195,Fruits,677,20,9,Yes,Bangalore,Thursday,Peak Season,12321.4
+2024-02-27,147,Dairy,21,19,17,No,Bangalore,Thursday,Off-Season,331.16999999999996
+2024-07-23,188,Beverages,964,19,14,No,Bangalore,Sunday,Holiday,15751.76
+2024-02-10,100,Beverages,608,12,7,No,Bangalore,Wednesday,Off-Season,6785.28
+2024-12-31,115,Beverages,663,37,25,No,Bangalore,Sunday,Off-Season,18398.25
+2024-09-18,160,Snacks,109,42,8,No,Bangalore,Monday,Off-Season,4211.76
+2024-07-31,163,Vegetables,364,17,4,No,Bangalore,Tuesday,Holiday,5940.48
+2024-08-02,162,Fruits,369,37,9,Yes,Bangalore,Monday,Holiday,12424.23
+2024-09-24,168,Vegetables,478,48,19,Yes,Bangalore,Wednesday,Peak Season,18584.64
+2024-11-09,121,Vegetables,282,39,5,No,Bangalore,Wednesday,Off-Season,10448.1
+2024-04-30,192,Vegetables,370,28,15,No,Bangalore,Tuesday,Regular,8806.0
+2024-02-17,166,Beverages,127,41,23,No,Bangalore,Sunday,Peak Season,4009.39
+2024-11-28,175,Vegetables,605,35,26,No,Bangalore,Friday,Holiday,15669.5
+2024-01-24,125,Snacks,58,47,2,No,Bangalore,Friday,Regular,2671.48
+2024-10-15,115,Dairy,928,48,9,Yes,Bangalore,Tuesday,Holiday,40535.04
+2024-01-04,150,Beverages,178,18,10,Yes,Bangalore,Friday,Regular,2883.6
+2024-05-02,185,Fruits,602,14,10,No,Bangalore,Thursday,Peak Season,7585.2
+2024-02-09,156,Dairy,978,35,16,Yes,Bangalore,Friday,Regular,28753.2
+2024-10-23,128,Dairy,331,44,3,No,Bangalore,Friday,Peak Season,14127.08
+2024-08-23,177,Dairy,260,41,3,No,Bangalore,Friday,Holiday,10340.199999999999
+2024-03-05,191,Vegetables,957,7,16,No,Bangalore,Thursday,Regular,5627.16
+2024-05-15,168,Vegetables,464,41,8,Yes,Bangalore,Sunday,Off-Season,17502.08
+2024-03-21,146,Beverages,317,13,18,Yes,Bangalore,Friday,Off-Season,3379.2200000000003
+2024-11-13,193,Vegetables,971,18,4,No,Bangalore,Saturday,Holiday,16778.88
+2024-06-02,161,Vegetables,55,37,21,Yes,Bangalore,Thursday,Regular,1607.65
+2024-03-12,168,Vegetables,103,13,23,Yes,Bangalore,Tuesday,Off-Season,1031.03
+2024-09-28,175,Beverages,471,36,5,No,Bangalore,Monday,Peak Season,16108.199999999999
+2024-10-26,115,Beverages,905,31,2,Yes,Bangalore,Tuesday,Regular,27493.899999999998
+2024-06-24,189,Snacks,794,2,21,Yes,Bangalore,Monday,Regular,1254.52
+2024-07-09,189,Snacks,841,16,0,No,Bangalore,Tuesday,Off-Season,13456.0
+2024-11-26,147,Snacks,404,9,19,No,Bangalore,Saturday,Peak Season,2945.1600000000003
+2024-01-24,184,Snacks,191,9,21,Yes,Bangalore,Monday,Peak Season,1358.01
+2024-12-26,138,Dairy,395,38,15,No,Bangalore,Monday,Peak Season,12758.5
+2024-10-15,199,Dairy,704,11,22,Yes,Bangalore,Wednesday,Regular,6040.320000000001
+2024-07-31,132,Snacks,381,22,10,No,Bangalore,Monday,Holiday,7543.8
+2024-04-10,193,Snacks,578,33,12,No,Bangalore,Monday,Regular,16785.12
+2024-06-30,122,Fruits,910,36,26,No,Bangalore,Wednesday,Regular,24242.4
+2024-01-07,109,Dairy,160,45,9,No,Bangalore,Friday,Off-Season,6552.0
+2024-01-19,168,Fruits,906,23,2,Yes,Bangalore,Friday,Holiday,20421.239999999998
+2024-07-21,199,Fruits,937,45,8,No,Bangalore,Wednesday,Peak Season,38791.8
+2024-02-18,133,Vegetables,137,45,27,No,Bangalore,Thursday,Off-Season,4500.45
+2024-09-01,151,Beverages,296,34,11,No,Bangalore,Monday,Regular,8956.960000000001
+2024-05-14,194,Dairy,745,9,22,Yes,Bangalore,Monday,Holiday,5229.900000000001
+2024-03-11,109,Snacks,239,24,13,Yes,Bangalore,Wednesday,Peak Season,4990.32
+2024-09-27,118,Snacks,924,8,0,No,Bangalore,Wednesday,Peak Season,7392.0
+2024-12-06,157,Beverages,45,7,17,No,Bangalore,Thursday,Regular,261.45
+2024-05-08,195,Dairy,540,36,16,No,Bangalore,Saturday,Peak Season,16329.599999999999
+2024-08-03,100,Snacks,802,18,26,No,Bangalore,Friday,Peak Season,10682.64
+2024-06-30,168,Snacks,29,3,8,No,Bangalore,Tuesday,Holiday,80.04
+2024-10-19,103,Vegetables,397,28,8,No,Bangalore,Saturday,Off-Season,10226.720000000001
+2024-11-30,115,Fruits,652,6,22,Yes,Bangalore,Sunday,Holiday,3051.36
+2024-08-09,123,Snacks,656,44,9,No,Bangalore,Friday,Off-Season,26266.24
+2024-11-02,179,Dairy,701,44,18,No,Bangalore,Monday,Off-Season,25292.08
+2024-01-29,101,Beverages,603,21,28,No,Bangalore,Sunday,Off-Season,9117.359999999999
+2024-11-20,191,Vegetables,171,28,14,No,Bangalore,Saturday,Peak Season,4117.68
+2024-05-28,131,Dairy,739,40,4,No,Bangalore,Wednesday,Holiday,28377.6
+2024-11-11,190,Vegetables,68,1,14,No,Bangalore,Thursday,Peak Season,58.48
+2024-08-24,183,Fruits,173,36,19,Yes,Bangalore,Friday,Regular,5044.68
+2024-04-01,123,Snacks,878,21,22,Yes,Bangalore,Thursday,Holiday,14381.640000000001
+2024-06-09,111,Dairy,312,43,29,Yes,Bangalore,Sunday,Off-Season,9525.359999999999
+2024-06-14,149,Beverages,599,35,24,Yes,Bangalore,Friday,Peak Season,15933.4
+2024-05-18,134,Fruits,69,13,27,Yes,Bangalore,Saturday,Peak Season,654.81
+2024-11-19,132,Fruits,683,49,1,Yes,Bangalore,Monday,Holiday,33132.33
+2024-02-01,132,Vegetables,550,10,12,No,Bangalore,Tuesday,Holiday,4840.0
+2024-12-13,160,Fruits,631,44,23,No,Bangalore,Thursday,Off-Season,21378.28
+2024-06-23,150,Dairy,79,47,15,No,Bangalore,Thursday,Off-Season,3156.0499999999997
+2024-01-15,142,Vegetables,186,10,14,No,Bangalore,Tuesday,Regular,1599.6
+2024-08-21,111,Fruits,221,46,24,No,Bangalore,Thursday,Off-Season,7726.16
+2024-09-07,166,Beverages,876,13,9,No,Bangalore,Thursday,Peak Season,10363.08
+2024-04-18,164,Dairy,165,37,13,Yes,Bangalore,Friday,Regular,5311.35
+2024-03-02,132,Beverages,934,38,9,No,Bangalore,Friday,Regular,32297.72
+2024-02-03,139,Beverages,695,24,24,Yes,Bangalore,Tuesday,Regular,12676.8
+2024-08-16,173,Vegetables,989,2,13,Yes,Bangalore,Sunday,Holiday,1720.86
+2024-05-09,142,Snacks,458,22,25,No,Bangalore,Monday,Off-Season,7557.0
+2024-12-11,143,Vegetables,261,17,29,No,Bangalore,Saturday,Regular,3150.27
+2024-04-08,128,Dairy,600,36,22,No,Bangalore,Saturday,Holiday,16848.0
+2024-06-20,112,Dairy,706,14,8,No,Bangalore,Sunday,Holiday,9093.28
+2024-03-22,111,Vegetables,580,10,24,No,Bangalore,Thursday,Regular,4408.0
+2024-08-24,194,Snacks,502,35,13,No,Bangalore,Monday,Regular,15285.9
+2024-11-15,145,Vegetables,127,25,2,No,Bangalore,Tuesday,Peak Season,3111.5
+2024-06-24,101,Dairy,245,3,19,Yes,Bangalore,Sunday,Regular,595.35
+2024-03-28,134,Snacks,692,47,15,No,Bangalore,Tuesday,Peak Season,27645.399999999998
+2024-09-03,186,Dairy,650,38,1,No,Bangalore,Friday,Regular,24453.0
+2024-11-28,180,Snacks,680,17,9,Yes,Bangalore,Thursday,Regular,10519.6
+2024-04-09,189,Snacks,996,12,2,No,Bangalore,Wednesday,Off-Season,11712.96
+2024-09-05,107,Vegetables,681,24,10,No,Bangalore,Tuesday,Regular,14709.6
+2024-01-01,192,Vegetables,451,29,10,Yes,Bangalore,Sunday,Regular,11771.1
+2024-03-18,125,Vegetables,824,43,20,No,Bangalore,Thursday,Peak Season,28345.600000000002
+2024-10-18,173,Snacks,674,25,20,No,Bangalore,Monday,Peak Season,13480.0
+2024-10-26,189,Snacks,438,36,21,No,Bangalore,Sunday,Off-Season,12456.720000000001
+2024-03-23,133,Dairy,474,26,12,No,Bangalore,Friday,Regular,10845.12
+2024-06-16,106,Beverages,179,38,6,No,Bangalore,Saturday,Regular,6393.879999999999
+2024-01-18,167,Vegetables,542,1,22,No,Bangalore,Monday,Peak Season,422.76
+2024-02-03,157,Dairy,669,20,16,Yes,Bangalore,Tuesday,Holiday,11239.199999999999
+2024-01-12,174,Dairy,988,28,29,No,Bangalore,Tuesday,Holiday,19641.44
+2024-09-23,128,Fruits,609,16,1,No,Bangalore,Monday,Holiday,9646.56
+2024-07-17,135,Vegetables,96,47,11,Yes,Bangalore,Tuesday,Peak Season,4015.68
+2024-06-27,188,Dairy,528,17,24,Yes,Bangalore,Sunday,Peak Season,6821.76
+2024-06-07,120,Fruits,460,40,9,No,Bangalore,Thursday,Holiday,16744.0
+2024-03-12,135,Vegetables,273,28,17,Yes,Bangalore,Tuesday,Holiday,6344.5199999999995
+2024-12-18,109,Snacks,940,12,21,No,Bangalore,Friday,Regular,8911.2
+2024-04-01,172,Fruits,789,27,26,No,Bangalore,Thursday,Peak Season,15764.22
+2024-07-11,123,Snacks,339,42,10,Yes,Bangalore,Sunday,Peak Season,12814.2
+2024-09-19,163,Beverages,822,47,15,No,Bangalore,Wednesday,Holiday,32838.9
+2024-10-22,198,Beverages,282,30,16,No,Bangalore,Tuesday,Holiday,7106.4
+2024-04-26,148,Beverages,616,41,18,Yes,Bangalore,Tuesday,Off-Season,20709.920000000002
+2024-10-16,198,Beverages,677,34,17,Yes,Bangalore,Friday,Peak Season,19104.94
+2024-12-16,135,Dairy,854,37,2,Yes,Bangalore,Sunday,Off-Season,30966.04
+2024-12-22,181,Beverages,573,6,20,Yes,Bangalore,Friday,Regular,2750.4
+2024-06-22,195,Dairy,393,7,26,No,Bangalore,Saturday,Off-Season,2035.74
+2024-01-29,123,Dairy,656,32,25,Yes,Bangalore,Sunday,Holiday,15744.0
+2024-02-17,122,Vegetables,186,32,15,Yes,Bangalore,Monday,Peak Season,5059.2
+2024-07-01,161,Dairy,956,25,5,Yes,Bangalore,Monday,Peak Season,22705.0
+2024-12-22,195,Dairy,772,33,24,Yes,Bangalore,Monday,Off-Season,19361.760000000002
+2024-06-08,136,Beverages,478,7,11,Yes,Bangalore,Friday,Off-Season,2977.94
+2024-04-30,111,Dairy,299,12,10,No,Bangalore,Monday,Regular,3229.2000000000003
+2024-07-17,154,Snacks,719,16,14,Yes,Bangalore,Sunday,Regular,9893.44
+2024-01-30,112,Beverages,321,16,14,No,Bangalore,Monday,Holiday,4416.96
+2024-10-26,122,Fruits,550,43,15,Yes,Bangalore,Wednesday,Holiday,20102.5
+2024-12-19,188,Beverages,599,36,9,Yes,Bangalore,Monday,Holiday,19623.24
+2024-03-11,198,Dairy,237,13,11,Yes,Bangalore,Tuesday,Off-Season,2742.09
+2024-10-18,129,Snacks,121,7,27,Yes,Bangalore,Saturday,Off-Season,618.31
+2024-08-25,116,Beverages,573,36,12,Yes,Bangalore,Friday,Peak Season,18152.64
+2024-04-04,161,Snacks,307,47,3,Yes,Bangalore,Thursday,Holiday,13996.13
+2024-01-02,183,Fruits,186,9,6,Yes,Bangalore,Saturday,Off-Season,1573.56
+2024-12-20,188,Fruits,640,32,21,Yes,Bangalore,Wednesday,Peak Season,16179.2
+2024-01-19,185,Vegetables,55,11,1,No,Bangalore,Friday,Holiday,598.95
+2024-06-04,112,Vegetables,763,8,25,Yes,Bangalore,Sunday,Regular,4578.0
+2024-10-12,158,Beverages,760,33,26,No,Bangalore,Friday,Regular,18559.2
+2024-06-11,118,Vegetables,372,23,26,Yes,Bangalore,Tuesday,Off-Season,6331.44
+2024-11-01,148,Snacks,695,25,26,No,Bangalore,Sunday,Peak Season,12857.5
+2024-02-20,199,Vegetables,918,8,14,Yes,Bangalore,Saturday,Regular,6315.84
+2024-05-09,111,Snacks,92,45,7,Yes,Bangalore,Saturday,Peak Season,3850.2
+2024-09-17,160,Vegetables,667,22,6,Yes,Bangalore,Monday,Peak Season,13793.56
+2024-10-04,118,Vegetables,372,4,14,No,Bangalore,Sunday,Regular,1279.68
+2024-12-19,175,Vegetables,910,40,22,No,Bangalore,Tuesday,Peak Season,28392.0
+2024-04-22,108,Dairy,89,3,13,No,Bangalore,Monday,Regular,232.29
+2024-08-20,170,Dairy,444,29,7,No,Bangalore,Monday,Off-Season,11974.679999999998
+2024-05-06,127,Vegetables,727,41,27,Yes,Bangalore,Friday,Holiday,21759.11
+2024-12-24,177,Snacks,800,29,11,Yes,Bangalore,Saturday,Holiday,20648.0
+2024-07-26,194,Beverages,580,34,12,Yes,Bangalore,Monday,Off-Season,17353.6
+2024-02-01,151,Fruits,847,34,29,No,Bangalore,Wednesday,Regular,20446.579999999998
+2024-03-14,182,Dairy,661,28,10,Yes,Bangalore,Wednesday,Regular,16657.2
+2024-05-05,115,Vegetables,975,13,16,No,Bangalore,Saturday,Regular,10647.0
+2024-02-05,168,Fruits,536,15,28,No,Bangalore,Wednesday,Regular,5788.8
+2024-03-05,198,Dairy,447,23,16,No,Bangalore,Friday,Off-Season,8636.039999999999
+2024-10-02,111,Beverages,558,44,23,No,Bangalore,Tuesday,Holiday,18905.04
+2024-11-11,124,Snacks,179,26,3,No,Bangalore,Thursday,Peak Season,4514.38
+2024-01-21,151,Vegetables,168,4,20,Yes,Bangalore,Monday,Peak Season,537.6
+2024-02-04,184,Beverages,795,26,7,No,Bangalore,Thursday,Holiday,19223.1
+2024-10-06,199,Dairy,249,40,4,No,Bangalore,Tuesday,Off-Season,9561.6
+2024-08-13,152,Vegetables,731,9,25,Yes,Bangalore,Tuesday,Peak Season,4934.25
+2024-07-23,122,Fruits,581,5,15,No,Bangalore,Friday,Holiday,2469.25
+2024-01-12,115,Snacks,86,32,3,No,Bangalore,Wednesday,Off-Season,2669.44
+2024-02-12,156,Dairy,831,20,27,Yes,Bangalore,Wednesday,Peak Season,12132.6
+2024-07-03,138,Snacks,400,11,21,Yes,Bangalore,Tuesday,Regular,3476.0
+2024-05-15,152,Vegetables,77,15,28,Yes,Bangalore,Friday,Regular,831.6
+2024-11-04,141,Beverages,278,32,14,No,Bangalore,Friday,Off-Season,7650.5599999999995
+2024-10-17,157,Snacks,361,28,11,Yes,Bangalore,Saturday,Regular,8996.12
+2024-06-03,138,Fruits,857,22,4,Yes,Bangalore,Sunday,Off-Season,18099.84
+2024-08-01,113,Dairy,149,41,29,Yes,Bangalore,Monday,Holiday,4337.389999999999
+2024-02-17,194,Fruits,746,17,22,No,Bangalore,Sunday,Holiday,9891.960000000001
+2024-10-13,104,Snacks,191,26,15,Yes,Bangalore,Wednesday,Peak Season,4221.099999999999
+2024-07-18,134,Beverages,789,44,13,No,Bangalore,Tuesday,Off-Season,30202.92
+2024-08-19,186,Beverages,633,7,9,No,Bangalore,Saturday,Peak Season,4032.21
+2024-12-15,192,Fruits,228,42,6,Yes,Bangalore,Thursday,Peak Season,9001.439999999999
+2024-06-22,174,Vegetables,822,26,12,No,Bangalore,Wednesday,Holiday,18807.36
+2024-01-14,117,Vegetables,373,25,19,No,Bangalore,Monday,Peak Season,7553.250000000001
+2024-05-02,175,Beverages,490,10,27,Yes,Bangalore,Friday,Regular,3577.0
+2024-01-01,108,Fruits,817,45,28,No,Bangalore,Tuesday,Peak Season,26470.8
+2024-03-20,173,Fruits,135,19,4,Yes,Bangalore,Wednesday,Off-Season,2462.4
+2024-11-05,157,Fruits,283,11,28,No,Bangalore,Thursday,Regular,2241.36
+2024-09-23,116,Snacks,681,13,2,No,Bangalore,Monday,Holiday,8675.94
+2024-01-20,106,Vegetables,831,8,14,Yes,Bangalore,Monday,Off-Season,5717.28
+2024-06-08,145,Vegetables,461,40,3,Yes,Bangalore,Saturday,Regular,17886.8
+2024-02-09,112,Snacks,567,4,14,No,Bangalore,Wednesday,Off-Season,1950.48
+2024-01-03,139,Dairy,472,47,13,No,Bangalore,Thursday,Regular,19300.079999999998
+2024-04-21,141,Snacks,864,31,19,Yes,Bangalore,Monday,Off-Season,21695.04
+2024-10-26,108,Fruits,496,28,18,No,Bangalore,Tuesday,Off-Season,11388.160000000002
+2024-11-04,149,Snacks,306,11,12,No,Bangalore,Monday,Regular,2962.08
+2024-10-22,126,Fruits,322,43,9,No,Bangalore,Thursday,Holiday,12599.86
+2024-11-23,165,Beverages,330,1,20,No,Bangalore,Friday,Holiday,264.0
+2024-04-21,104,Fruits,227,49,4,Yes,Bangalore,Friday,Off-Season,10678.08
+2024-06-17,128,Vegetables,637,47,26,Yes,Bangalore,Saturday,Off-Season,22154.86
+2024-08-30,136,Snacks,465,38,22,Yes,Bangalore,Wednesday,Holiday,13782.6
+2024-07-16,137,Fruits,689,24,19,Yes,Bangalore,Thursday,Holiday,13394.160000000002
+2024-08-07,182,Dairy,652,47,28,Yes,Bangalore,Saturday,Peak Season,22063.68
+2024-04-14,107,Beverages,74,31,19,Yes,Bangalore,Sunday,Holiday,1858.14
+2024-10-04,164,Dairy,931,41,24,No,Bangalore,Monday,Off-Season,29009.96
+2024-05-04,185,Dairy,31,46,5,Yes,Bangalore,Sunday,Regular,1354.7
+2024-06-10,116,Dairy,676,26,3,No,Bangalore,Monday,Holiday,17048.72
+2024-01-21,170,Beverages,419,49,1,No,Bangalore,Friday,Peak Season,20325.69
+2024-09-16,188,Beverages,927,5,21,No,Bangalore,Saturday,Peak Season,3661.65
+2024-09-28,144,Beverages,667,20,15,Yes,Bangalore,Friday,Peak Season,11339.0
+2024-04-11,103,Beverages,999,41,17,No,Bangalore,Tuesday,Regular,33995.97
+2024-03-31,135,Dairy,534,11,4,Yes,Bangalore,Sunday,Holiday,5639.04
+2024-10-31,169,Vegetables,675,33,21,No,Bangalore,Sunday,Holiday,17597.25
+2024-02-27,130,Vegetables,561,38,3,No,Bangalore,Friday,Holiday,20678.46
+2024-08-01,118,Beverages,256,27,29,Yes,Bangalore,Tuesday,Regular,4907.5199999999995
+2024-08-17,160,Snacks,298,34,12,No,Bangalore,Monday,Regular,8916.16
+2024-09-30,153,Fruits,367,15,18,No,Bangalore,Saturday,Off-Season,4514.1
+2024-11-26,138,Snacks,646,32,22,No,Bangalore,Tuesday,Peak Season,16124.16
+2024-08-01,190,Snacks,123,21,1,No,Bangalore,Saturday,Peak Season,2557.17
+2024-02-04,173,Snacks,649,46,12,Yes,Bangalore,Sunday,Holiday,26271.52
+2024-02-16,189,Vegetables,536,5,10,No,Bangalore,Saturday,Regular,2412.0
+2024-02-07,118,Fruits,999,6,29,No,Bangalore,Sunday,Regular,4255.74
+2024-10-28,138,Snacks,891,38,21,Yes,Bangalore,Tuesday,Holiday,26747.82
+2024-07-28,166,Beverages,267,22,28,No,Bangalore,Sunday,Holiday,4229.28
+2024-03-03,144,Vegetables,383,18,3,No,Bangalore,Wednesday,Off-Season,6687.179999999999
+2024-02-19,112,Beverages,340,14,21,No,Bangalore,Sunday,Peak Season,3760.4
+2024-03-19,191,Beverages,652,10,19,No,Bangalore,Friday,Peak Season,5281.200000000001
+2024-07-13,157,Snacks,305,46,19,Yes,Bangalore,Tuesday,Peak Season,11364.300000000001
+2024-09-28,119,Beverages,168,13,14,No,Bangalore,Monday,Off-Season,1878.24
+2024-06-08,191,Fruits,103,31,3,Yes,Bangalore,Saturday,Holiday,3097.21
+2024-04-12,171,Beverages,985,30,8,No,Bangalore,Thursday,Holiday,27186.0
+2024-03-06,160,Snacks,425,3,6,No,Bangalore,Tuesday,Peak Season,1198.5
+2024-06-13,138,Beverages,997,30,18,No,Bangalore,Friday,Peak Season,24526.2
+2024-06-18,100,Vegetables,475,6,18,Yes,Bangalore,Sunday,Off-Season,2337.0
+2024-08-04,102,Vegetables,762,29,5,No,Bangalore,Saturday,Regular,20993.1
+2024-08-10,176,Vegetables,819,8,5,No,Bangalore,Wednesday,Regular,6224.4
+2024-08-02,191,Dairy,180,44,19,Yes,Bangalore,Monday,Peak Season,6415.200000000001
+2024-01-31,161,Vegetables,803,45,14,Yes,Bangalore,Wednesday,Off-Season,31076.1
+2024-02-22,162,Vegetables,479,43,14,Yes,Bangalore,Thursday,Peak Season,17713.42
+2024-12-17,124,Dairy,569,44,24,Yes,Bangalore,Tuesday,Regular,19027.36
+2024-05-10,155,Vegetables,519,33,19,No,Bangalore,Saturday,Peak Season,13872.87
+2024-01-26,132,Snacks,757,17,8,No,Bangalore,Tuesday,Regular,11839.480000000001
+2024-10-06,137,Vegetables,528,48,3,No,Bangalore,Friday,Regular,24583.68
+2024-11-03,105,Vegetables,673,11,17,No,Bangalore,Tuesday,Regular,6144.49
+2024-06-15,157,Dairy,823,13,17,Yes,Bangalore,Monday,Holiday,8880.17
+2024-04-27,143,Snacks,500,11,4,No,Bangalore,Thursday,Holiday,5280.0
+2024-03-02,144,Beverages,682,31,19,No,Bangalore,Wednesday,Peak Season,17125.02
+2024-07-05,131,Fruits,133,28,22,No,Bangalore,Thursday,Regular,2904.7200000000003
+2024-08-16,144,Snacks,768,44,29,No,Bangalore,Saturday,Holiday,23992.32
+2024-03-27,160,Beverages,597,6,10,Yes,Bangalore,Tuesday,Peak Season,3223.8
+2024-05-22,146,Snacks,380,41,4,No,Bangalore,Saturday,Peak Season,14956.8
+2024-01-24,120,Beverages,360,16,21,No,Bangalore,Wednesday,Peak Season,4550.400000000001
+2024-10-09,179,Beverages,789,4,25,No,Bangalore,Saturday,Peak Season,2367.0
+2024-02-18,184,Snacks,780,35,3,Yes,Bangalore,Friday,Peak Season,26481.0
+2024-03-23,174,Dairy,988,48,28,Yes,Bangalore,Thursday,Off-Season,34145.28
+2024-05-06,135,Snacks,468,26,11,No,Bangalore,Wednesday,Regular,10829.52
+2024-11-29,198,Snacks,862,12,1,No,Bangalore,Wednesday,Peak Season,10240.56
+2024-06-01,118,Beverages,854,11,12,No,Bangalore,Sunday,Off-Season,8266.72
+2024-10-27,119,Fruits,199,37,9,Yes,Bangalore,Wednesday,Regular,6700.33
+2024-10-19,156,Beverages,721,25,8,No,Bangalore,Sunday,Holiday,16583.0
+2024-05-09,117,Vegetables,426,18,9,No,Bangalore,Monday,Peak Season,6977.88
+2024-11-03,146,Snacks,685,19,6,No,Bangalore,Sunday,Off-Season,12234.099999999999
+2024-04-16,148,Snacks,215,23,3,Yes,Bangalore,Thursday,Holiday,4796.65
+2024-09-13,113,Dairy,485,38,18,No,Bangalore,Saturday,Off-Season,15112.6
+2024-05-11,114,Beverages,330,18,9,No,Bangalore,Sunday,Regular,5405.400000000001
+2024-08-14,130,Dairy,281,26,29,Yes,Bangalore,Wednesday,Regular,5187.259999999999
+2024-01-17,100,Snacks,438,6,2,Yes,Bangalore,Thursday,Holiday,2575.44
+2024-05-21,153,Beverages,425,4,24,No,Bangalore,Sunday,Off-Season,1292.0
+2024-07-09,102,Beverages,958,44,20,Yes,Bangalore,Sunday,Peak Season,33721.6
+2024-03-29,115,Vegetables,162,29,28,No,Bangalore,Wednesday,Peak Season,3382.56
+2024-04-02,186,Vegetables,361,34,18,Yes,Bangalore,Friday,Holiday,10064.68
+2024-05-07,156,Fruits,335,17,20,Yes,Bangalore,Friday,Holiday,4556.0
+2024-01-10,174,Vegetables,120,43,1,No,Bangalore,Sunday,Holiday,5108.4
+2024-02-21,111,Beverages,263,43,26,No,Bangalore,Friday,Off-Season,8368.66
+2024-07-04,173,Vegetables,509,16,19,No,Bangalore,Tuesday,Peak Season,6596.64
+2024-06-08,195,Fruits,31,2,9,Yes,Bangalore,Wednesday,Peak Season,56.42
+2024-09-16,115,Snacks,258,34,1,No,Bangalore,Tuesday,Peak Season,8684.28
+2024-10-24,171,Vegetables,580,8,1,No,Bangalore,Thursday,Holiday,4593.6
+2024-09-06,175,Beverages,61,13,27,No,Bangalore,Tuesday,Peak Season,578.89
+2024-06-30,123,Snacks,697,42,23,No,Bangalore,Thursday,Regular,22540.98
+2024-06-15,127,Beverages,613,8,16,No,Bangalore,Sunday,Holiday,4119.36
+2024-03-23,107,Snacks,448,30,15,Yes,Bangalore,Thursday,Peak Season,11424.0
+2024-03-20,191,Beverages,822,32,15,No,Bangalore,Thursday,Off-Season,22358.399999999998
+2024-09-27,135,Vegetables,177,36,13,No,Bangalore,Saturday,Holiday,5543.64
+2024-07-22,189,Vegetables,235,47,6,Yes,Bangalore,Tuesday,Regular,10382.3
+2024-05-03,107,Fruits,689,30,20,No,Bangalore,Saturday,Regular,16536.0
+2024-10-27,157,Snacks,481,1,10,No,Bangalore,Sunday,Off-Season,432.90000000000003
+2024-12-05,159,Fruits,153,43,23,No,Bangalore,Wednesday,Off-Season,5065.83
+2024-08-16,149,Dairy,86,39,0,No,Bangalore,Tuesday,Holiday,3354.0
+2024-01-25,127,Vegetables,867,17,10,No,Bangalore,Wednesday,Holiday,13265.1
+2024-05-01,191,Snacks,26,20,22,Yes,Bangalore,Wednesday,Regular,405.6
+2024-05-24,140,Fruits,967,24,20,Yes,Bangalore,Thursday,Off-Season,18566.4
+2024-09-22,199,Fruits,545,22,3,Yes,Bangalore,Tuesday,Holiday,11630.3
+2024-08-01,163,Dairy,92,29,6,No,Bangalore,Wednesday,Regular,2507.92
+2024-07-13,126,Fruits,418,22,25,Yes,Bangalore,Friday,Off-Season,6897.0
+2024-04-16,162,Beverages,424,44,14,No,Bangalore,Wednesday,Regular,16044.16
+2024-09-21,116,Vegetables,694,9,17,No,Bangalore,Friday,Peak Season,5184.179999999999
+2024-08-17,172,Fruits,597,37,11,No,Bangalore,Tuesday,Off-Season,19659.21
+2024-12-24,132,Fruits,878,10,16,Yes,Bangalore,Sunday,Holiday,7375.2
+2024-04-14,183,Dairy,149,36,0,Yes,Bangalore,Saturday,Holiday,5364.0
+2024-03-06,176,Beverages,950,37,10,Yes,Bangalore,Tuesday,Peak Season,31635.0
+2024-08-08,191,Fruits,485,28,27,No,Bangalore,Saturday,Off-Season,9913.4
+2024-08-11,128,Vegetables,225,28,0,Yes,Bangalore,Saturday,Regular,6300.0
+2024-07-09,112,Vegetables,807,42,14,No,Bangalore,Tuesday,Holiday,29148.84
+2024-06-12,145,Fruits,997,43,27,Yes,Bangalore,Wednesday,Peak Season,31295.829999999998
+2024-02-11,134,Beverages,787,21,20,Yes,Bangalore,Monday,Peak Season,13221.6
+2024-11-02,105,Vegetables,285,24,9,No,Bangalore,Wednesday,Off-Season,6224.400000000001
+2024-02-23,181,Vegetables,556,42,6,No,Bangalore,Wednesday,Off-Season,21950.879999999997
+2024-05-19,168,Beverages,981,40,1,Yes,Bangalore,Sunday,Holiday,38847.6
+2024-03-16,146,Beverages,812,2,9,Yes,Bangalore,Thursday,Peak Season,1477.8400000000001
+2024-02-08,124,Fruits,272,8,23,Yes,Bangalore,Thursday,Regular,1675.52
+2024-10-19,165,Snacks,841,48,3,No,Bangalore,Wednesday,Peak Season,39156.96
+2024-08-04,109,Dairy,308,27,11,No,Bangalore,Friday,Regular,7401.24
+2024-06-09,155,Snacks,183,22,18,Yes,Bangalore,Sunday,Regular,3301.32
+2024-07-08,129,Snacks,114,37,25,Yes,Bangalore,Saturday,Holiday,3163.5
+2024-10-18,104,Vegetables,801,27,10,No,Bangalore,Thursday,Peak Season,19464.3
+2024-07-02,132,Beverages,852,29,7,Yes,Bangalore,Wednesday,Regular,22978.44
+2024-07-23,164,Vegetables,129,3,17,No,Bangalore,Sunday,Off-Season,321.21
+2024-09-10,117,Dairy,355,44,10,No,Bangalore,Monday,Regular,14058.0
+2024-11-13,195,Fruits,841,13,10,No,Bangalore,Friday,Off-Season,9839.7
+2024-07-18,148,Dairy,257,45,12,No,Bangalore,Tuesday,Off-Season,10177.2
+2024-07-06,110,Vegetables,400,10,2,No,Bangalore,Wednesday,Peak Season,3920.0
+2024-04-06,184,Vegetables,455,36,11,No,Bangalore,Sunday,Off-Season,14578.2
+2024-08-22,125,Vegetables,918,9,2,Yes,Bangalore,Wednesday,Regular,8096.76
+2024-12-30,162,Vegetables,502,27,9,No,Bangalore,Saturday,Off-Season,12334.140000000001
+2024-09-25,188,Snacks,956,34,26,No,Bangalore,Friday,Peak Season,24052.96
+2024-09-13,185,Fruits,921,1,16,Yes,Bangalore,Thursday,Holiday,773.64
+2024-04-03,158,Snacks,44,32,21,No,Bangalore,Thursday,Regular,1112.3200000000002
+2024-03-22,126,Vegetables,672,25,1,Yes,Bangalore,Thursday,Regular,16632.0
+2024-05-05,148,Beverages,136,29,16,No,Bangalore,Tuesday,Peak Season,3312.96
+2024-07-14,176,Snacks,501,7,15,Yes,Bangalore,Sunday,Peak Season,2980.95
+2024-08-07,132,Vegetables,411,49,1,Yes,Bangalore,Friday,Peak Season,19937.61
+2024-09-13,197,Vegetables,936,3,27,No,Bangalore,Friday,Peak Season,2049.84
+2024-07-21,198,Fruits,983,20,21,No,Bangalore,Thursday,Regular,15531.400000000001
+2024-07-19,100,Dairy,556,20,29,No,Bangalore,Thursday,Holiday,7895.2
+2024-02-20,120,Snacks,98,30,19,No,Bangalore,Saturday,Off-Season,2381.4
+2024-02-08,154,Snacks,599,35,5,Yes,Bangalore,Monday,Off-Season,19916.75
+2024-11-06,105,Snacks,192,35,27,Yes,Bangalore,Monday,Holiday,4905.599999999999
+2024-05-17,191,Vegetables,975,49,24,Yes,Bangalore,Wednesday,Holiday,36309.0
+2024-07-18,180,Fruits,31,39,28,No,Bangalore,Wednesday,Holiday,870.48
+2024-05-11,168,Vegetables,819,27,9,Yes,Bangalore,Friday,Peak Season,20122.83
+2024-11-04,194,Vegetables,147,26,27,No,Bangalore,Friday,Regular,2790.06
+2024-10-26,104,Beverages,627,14,9,No,Bangalore,Tuesday,Regular,7987.9800000000005
+2024-02-17,102,Fruits,111,17,7,Yes,Bangalore,Tuesday,Regular,1754.9099999999999
+2024-03-28,152,Snacks,672,18,0,No,Bangalore,Monday,Peak Season,12096.0
+2024-08-16,122,Dairy,562,45,12,Yes,Bangalore,Wednesday,Regular,22255.2
+2024-12-27,152,Snacks,865,29,23,No,Bangalore,Monday,Peak Season,19315.45
+2024-06-27,136,Vegetables,551,20,8,Yes,Bangalore,Monday,Regular,10138.4
+2024-02-22,173,Fruits,677,27,21,No,Bangalore,Wednesday,Holiday,14440.41
+2024-05-06,173,Fruits,847,18,9,Yes,Bangalore,Sunday,Off-Season,13873.86
+2024-07-24,182,Fruits,466,4,14,Yes,Bangalore,Tuesday,Off-Season,1603.04
+2024-04-27,116,Beverages,409,1,4,No,Bangalore,Saturday,Peak Season,392.64
+2024-11-06,184,Snacks,691,1,21,No,Bangalore,Saturday,Regular,545.89
+2024-02-17,177,Beverages,880,26,15,Yes,Bangalore,Saturday,Off-Season,19448.0
+2024-10-02,172,Dairy,62,45,12,No,Bangalore,Wednesday,Holiday,2455.2
+2024-11-19,100,Vegetables,273,20,21,No,Bangalore,Thursday,Holiday,4313.400000000001
+2024-12-08,150,Beverages,149,23,24,No,Bangalore,Thursday,Holiday,2604.52
+2024-11-24,144,Beverages,79,10,19,Yes,Bangalore,Thursday,Peak Season,639.9000000000001
+2024-07-01,176,Vegetables,682,11,17,Yes,Bangalore,Friday,Peak Season,6226.66
+2024-06-19,103,Fruits,486,41,10,No,Bangalore,Tuesday,Regular,17933.4
+2024-06-07,161,Vegetables,306,41,26,No,Bangalore,Tuesday,Holiday,9284.039999999999
+2024-09-21,164,Snacks,536,5,8,Yes,Bangalore,Sunday,Regular,2465.6
+2024-10-06,131,Vegetables,486,1,15,No,Bangalore,Sunday,Regular,413.09999999999997
+2024-05-24,133,Fruits,949,17,1,Yes,Bangalore,Friday,Holiday,15971.67
+2024-09-11,191,Vegetables,797,22,25,No,Bangalore,Monday,Regular,13150.5
+2024-12-13,194,Beverages,364,34,24,No,Bangalore,Sunday,Off-Season,9405.76
+2024-01-17,171,Dairy,661,45,1,No,Bangalore,Saturday,Peak Season,29447.55
+2024-04-12,138,Beverages,401,41,11,Yes,Bangalore,Thursday,Regular,14632.49
+2024-07-22,125,Dairy,798,29,7,Yes,Bangalore,Saturday,Holiday,21522.059999999998
+2024-12-13,133,Vegetables,709,4,8,Yes,Bangalore,Thursday,Peak Season,2609.12
+2024-06-23,153,Snacks,272,5,11,Yes,Bangalore,Saturday,Peak Season,1210.4
+2024-01-08,102,Vegetables,946,11,25,No,Bangalore,Monday,Regular,7804.5
+2024-07-05,149,Fruits,75,21,8,No,Bangalore,Saturday,Off-Season,1449.0
+2024-05-25,111,Vegetables,482,35,9,Yes,Bangalore,Saturday,Regular,15351.7
+2024-07-10,164,Dairy,476,12,24,No,Bangalore,Wednesday,Off-Season,4341.12
+2024-09-14,153,Beverages,102,26,1,No,Bangalore,Saturday,Peak Season,2625.48
+2024-02-08,104,Snacks,924,19,15,Yes,Bangalore,Wednesday,Regular,14922.6
+2024-05-25,193,Vegetables,118,45,19,No,Bangalore,Tuesday,Holiday,4301.1
+2024-06-12,193,Vegetables,168,7,6,No,Bangalore,Friday,Regular,1105.4399999999998
+2024-09-28,156,Beverages,348,47,27,Yes,Bangalore,Saturday,Off-Season,11939.88
+2024-12-03,116,Snacks,175,7,1,No,Bangalore,Tuesday,Off-Season,1212.75
+2024-03-02,146,Vegetables,209,26,0,No,Bangalore,Sunday,Regular,5434.0
+2024-10-31,122,Vegetables,513,40,18,No,Bangalore,Sunday,Off-Season,16826.4
+2024-03-03,178,Dairy,902,5,27,Yes,Bangalore,Wednesday,Peak Season,3292.2999999999997
+2024-02-12,184,Dairy,282,21,3,Yes,Bangalore,Saturday,Regular,5744.34
+2024-09-08,113,Fruits,99,14,23,No,Bangalore,Saturday,Off-Season,1067.22
+2024-03-15,165,Beverages,419,4,21,No,Bangalore,Monday,Regular,1324.04
+2024-04-15,174,Snacks,783,23,26,No,Bangalore,Tuesday,Regular,13326.66
+2024-01-01,150,Vegetables,628,42,1,Yes,Bangalore,Thursday,Holiday,26112.239999999998
+2024-09-01,137,Vegetables,279,20,24,Yes,Bangalore,Thursday,Regular,4240.8
+2024-12-25,163,Fruits,791,15,13,Yes,Bangalore,Monday,Holiday,10322.55
+2024-03-31,197,Vegetables,634,45,1,No,Bangalore,Wednesday,Off-Season,28244.7
+2024-03-31,137,Beverages,571,29,28,No,Bangalore,Thursday,Holiday,11922.48
+2024-07-23,149,Fruits,804,8,14,No,Bangalore,Thursday,Holiday,5531.5199999999995
+2024-07-01,197,Beverages,120,41,11,No,Bangalore,Sunday,Holiday,4378.8
+2024-12-07,181,Fruits,378,48,4,No,Bangalore,Sunday,Peak Season,17418.239999999998
+2024-12-29,129,Vegetables,399,19,27,Yes,Bangalore,Friday,Holiday,5534.13
+2024-08-14,178,Fruits,839,48,19,No,Bangalore,Tuesday,Regular,32620.320000000003
+2024-03-15,190,Dairy,240,39,28,No,Bangalore,Wednesday,Holiday,6739.2
+2024-08-01,150,Snacks,839,46,6,No,Bangalore,Saturday,Regular,36278.36
+2024-05-31,162,Vegetables,439,28,23,Yes,Bangalore,Tuesday,Holiday,9464.84
+2024-02-12,197,Snacks,143,46,20,No,Bangalore,Wednesday,Peak Season,5262.400000000001
+2024-03-15,151,Vegetables,441,27,9,Yes,Bangalore,Thursday,Off-Season,10835.37
+2024-04-15,137,Snacks,250,4,13,Yes,Bangalore,Friday,Holiday,870.0
+2024-04-13,196,Dairy,709,15,13,Yes,Bangalore,Tuesday,Holiday,9252.45
+2024-04-05,187,Snacks,82,35,4,Yes,Bangalore,Thursday,Peak Season,2755.2
+2024-01-27,178,Fruits,504,37,17,Yes,Bangalore,Wednesday,Holiday,15477.84
+2024-01-23,129,Snacks,647,1,23,No,Bangalore,Tuesday,Regular,498.19
+2024-11-28,150,Vegetables,722,3,13,No,Bangalore,Saturday,Holiday,1884.42
+2024-08-31,180,Beverages,593,47,1,Yes,Bangalore,Tuesday,Holiday,27592.29
+2024-11-29,104,Snacks,787,24,25,Yes,Bangalore,Thursday,Off-Season,14166.0
+2024-07-11,128,Snacks,502,27,11,Yes,Bangalore,Tuesday,Off-Season,12063.06
+2024-10-16,103,Snacks,538,40,21,No,Bangalore,Saturday,Holiday,17000.8
+2024-01-15,109,Vegetables,174,36,23,No,Bangalore,Friday,Peak Season,4823.28
+2024-08-03,155,Snacks,111,34,5,Yes,Bangalore,Friday,Off-Season,3585.2999999999997
+2024-12-05,116,Vegetables,545,29,3,No,Bangalore,Thursday,Holiday,15330.85
+2024-05-06,173,Vegetables,474,24,12,No,Bangalore,Wednesday,Off-Season,10010.88
+2024-05-24,116,Beverages,760,24,3,Yes,Bangalore,Thursday,Holiday,17692.8
+2024-09-29,183,Fruits,617,42,21,Yes,Bangalore,Friday,Off-Season,20472.06
+2024-08-31,187,Vegetables,664,4,13,No,Bangalore,Monday,Off-Season,2310.72
+2024-04-28,168,Dairy,529,3,15,No,Bangalore,Monday,Regular,1348.95
+2024-02-20,133,Snacks,202,34,28,No,Bangalore,Tuesday,Holiday,4944.96
+2024-06-27,105,Dairy,405,49,3,Yes,Bangalore,Saturday,Holiday,19249.649999999998
+2024-11-06,152,Snacks,593,23,23,Yes,Bangalore,Sunday,Holiday,10502.03
+2024-01-06,165,Beverages,750,23,24,Yes,Bangalore,Sunday,Holiday,13110.0
+2024-01-27,176,Vegetables,424,45,0,No,Bangalore,Sunday,Off-Season,19080.0
+2024-07-12,142,Fruits,265,5,12,No,Bangalore,Tuesday,Regular,1166.0
+2024-12-02,174,Vegetables,761,31,3,Yes,Bangalore,Monday,Regular,22883.27
+2024-11-24,122,Snacks,610,41,19,No,Bangalore,Friday,Peak Season,20258.100000000002
+2024-08-14,154,Fruits,680,6,17,Yes,Bangalore,Tuesday,Holiday,3386.3999999999996
+2024-04-13,179,Vegetables,669,37,5,No,Bangalore,Sunday,Peak Season,23515.35
+2024-07-18,194,Fruits,490,10,2,Yes,Bangalore,Sunday,Off-Season,4802.0
+2024-01-26,174,Snacks,845,40,22,No,Bangalore,Thursday,Peak Season,26364.0
+2024-10-19,115,Beverages,907,7,12,No,Bangalore,Sunday,Holiday,5587.12
+2024-08-20,107,Beverages,442,39,26,Yes,Bangalore,Saturday,Regular,12756.119999999999
+2024-02-03,103,Vegetables,920,38,15,Yes,Bangalore,Sunday,Regular,29716.0
+2024-08-25,103,Dairy,84,21,26,Yes,Bangalore,Thursday,Holiday,1305.36
+2024-12-29,155,Snacks,32,20,4,Yes,Bangalore,Sunday,Off-Season,614.4
+2024-08-30,124,Vegetables,232,3,3,Yes,Bangalore,Saturday,Holiday,675.12
+2024-05-08,166,Vegetables,261,22,20,No,Bangalore,Friday,Off-Season,4593.6
+2024-11-20,195,Beverages,512,47,7,Yes,Bangalore,Tuesday,Regular,22379.519999999997
+2024-07-27,166,Fruits,232,4,18,Yes,Bangalore,Saturday,Off-Season,760.96
+2024-03-19,126,Snacks,712,28,13,Yes,Bangalore,Thursday,Holiday,17344.32
+2024-10-21,192,Fruits,357,12,6,Yes,Bangalore,Tuesday,Holiday,4026.9599999999996
+2024-08-03,131,Snacks,192,38,13,Yes,Bangalore,Tuesday,Holiday,6347.5199999999995
+2024-09-07,149,Dairy,691,36,5,No,Bangalore,Thursday,Off-Season,23632.199999999997
+2024-11-12,160,Beverages,183,47,11,Yes,Bangalore,Monday,Off-Season,7654.89
+2024-02-14,150,Dairy,484,41,15,Yes,Bangalore,Sunday,Off-Season,16867.399999999998
+2024-07-18,118,Vegetables,516,5,16,Yes,Bangalore,Saturday,Regular,2167.2
+2024-01-09,120,Beverages,719,13,12,No,Bangalore,Thursday,Peak Season,8225.36
+2024-01-13,104,Vegetables,414,23,22,No,Bangalore,Friday,Peak Season,7427.16
+2024-03-11,181,Dairy,722,30,13,Yes,Bangalore,Wednesday,Holiday,18844.2
+2024-06-20,191,Snacks,936,37,28,Yes,Bangalore,Thursday,Regular,24935.04
+2024-02-02,141,Vegetables,327,25,6,No,Bangalore,Sunday,Off-Season,7684.5
+2024-12-24,160,Fruits,787,48,13,No,Bangalore,Sunday,Holiday,32865.12
+2024-09-29,121,Snacks,202,27,14,No,Bangalore,Tuesday,Regular,4690.44
+2024-10-09,120,Snacks,648,14,11,Yes,Bangalore,Tuesday,Holiday,8074.08
+2024-08-10,169,Dairy,813,48,16,Yes,Bangalore,Thursday,Regular,32780.159999999996
+2024-04-07,100,Dairy,529,47,8,No,Bangalore,Wednesday,Regular,22873.960000000003
+2024-09-15,104,Beverages,727,36,21,Yes,Bangalore,Thursday,Peak Season,20675.88
+2024-05-05,111,Beverages,565,39,14,No,Bangalore,Wednesday,Holiday,18950.1
+2024-07-14,189,Fruits,583,16,11,No,Bangalore,Wednesday,Off-Season,8301.92
+2024-05-29,145,Snacks,643,22,1,No,Bangalore,Sunday,Peak Season,14004.539999999999
+2024-06-05,133,Fruits,783,21,4,Yes,Bangalore,Sunday,Peak Season,15785.279999999999
+2024-08-07,148,Fruits,613,21,12,No,Bangalore,Sunday,Off-Season,11328.24
+2024-01-15,177,Dairy,763,8,26,No,Bangalore,Friday,Regular,4516.96
+2024-05-08,189,Fruits,246,49,19,Yes,Bangalore,Sunday,Off-Season,9763.74
+2024-03-24,144,Fruits,764,16,22,No,Bangalore,Saturday,Holiday,9534.720000000001
+2024-03-03,126,Vegetables,752,31,7,Yes,Bangalore,Tuesday,Off-Season,21680.16
+2024-05-11,172,Beverages,455,42,26,No,Bangalore,Tuesday,Regular,14141.4
+2024-01-17,125,Beverages,944,10,13,Yes,Bangalore,Wednesday,Off-Season,8212.8
+2024-12-14,146,Snacks,441,32,14,No,Bangalore,Tuesday,Regular,12136.32
+2024-03-05,185,Beverages,573,34,10,No,Bangalore,Monday,Regular,17533.8
+2024-11-15,155,Snacks,40,9,0,No,Bangalore,Wednesday,Holiday,360.0
+2024-04-02,193,Vegetables,573,17,20,No,Bangalore,Tuesday,Off-Season,7792.8
+2024-11-01,162,Beverages,416,11,2,No,Bangalore,Monday,Off-Season,4484.48
+2024-11-13,147,Vegetables,644,32,16,Yes,Bangalore,Friday,Holiday,17310.72
+2024-08-05,160,Beverages,124,10,27,Yes,Bangalore,Tuesday,Regular,905.1999999999999
+2024-01-09,180,Beverages,211,22,18,No,Bangalore,Monday,Off-Season,3806.4400000000005
+2024-01-05,125,Vegetables,36,17,13,No,Bangalore,Thursday,Holiday,532.4399999999999
+2024-01-03,135,Fruits,139,4,21,No,Bangalore,Saturday,Regular,439.24
+2024-03-28,100,Fruits,412,48,29,Yes,Bangalore,Thursday,Holiday,14040.96
+2024-07-05,107,Fruits,444,47,22,Yes,Bangalore,Monday,Off-Season,16277.04
+2024-01-07,198,Fruits,148,25,7,No,Bangalore,Wednesday,Holiday,3440.9999999999995
+2024-06-26,151,Beverages,149,21,12,Yes,Bangalore,Sunday,Peak Season,2753.52
+2024-01-18,178,Dairy,591,37,26,No,Bangalore,Sunday,Regular,16181.58
+2024-01-30,146,Vegetables,579,38,19,No,Bangalore,Sunday,Peak Season,17821.620000000003
+2024-06-05,155,Dairy,48,49,2,No,Bangalore,Wednesday,Peak Season,2304.96
+2024-01-14,185,Dairy,116,1,4,Yes,Bangalore,Tuesday,Regular,111.36
+2024-08-08,113,Snacks,29,25,8,No,Bangalore,Sunday,Regular,667.0
+2024-12-01,189,Fruits,261,36,28,No,Bangalore,Thursday,Holiday,6765.12
+2024-10-14,127,Beverages,845,17,5,No,Bangalore,Wednesday,Regular,13646.75
+2024-03-29,186,Fruits,975,41,24,Yes,Bangalore,Wednesday,Peak Season,30381.0
+2024-02-18,177,Fruits,251,24,21,Yes,Bangalore,Sunday,Peak Season,4758.96
+2024-07-21,187,Dairy,808,2,1,Yes,Bangalore,Thursday,Off-Season,1599.84
+2024-02-21,101,Snacks,303,40,12,No,Bangalore,Friday,Regular,10665.6
+2024-03-17,125,Fruits,734,15,4,Yes,Bangalore,Wednesday,Peak Season,10569.6
+2024-01-02,113,Vegetables,778,32,27,No,Bangalore,Sunday,Off-Season,18174.079999999998
+2024-07-14,158,Vegetables,821,39,26,Yes,Bangalore,Saturday,Off-Season,23694.06
+2024-08-30,155,Fruits,795,6,24,No,Bangalore,Monday,Holiday,3625.2
+2024-02-08,106,Dairy,974,1,7,Yes,Bangalore,Tuesday,Peak Season,905.8199999999999
+2024-02-18,102,Dairy,745,47,22,No,Bangalore,Wednesday,Holiday,27311.7
+2024-05-29,122,Beverages,219,23,0,Yes,Bangalore,Saturday,Peak Season,5037.0
+2024-12-29,117,Snacks,964,39,19,Yes,Bangalore,Saturday,Holiday,30452.760000000002
+2024-02-23,137,Dairy,98,17,11,Yes,Bangalore,Wednesday,Holiday,1482.74
+2024-10-17,198,Beverages,932,34,22,No,Bangalore,Friday,Regular,24716.64
+2024-07-05,114,Vegetables,975,41,10,Yes,Bangalore,Monday,Holiday,35977.5
+2024-05-10,163,Vegetables,874,29,6,Yes,Bangalore,Tuesday,Regular,23825.239999999998
+2024-10-30,188,Vegetables,875,9,14,Yes,Bangalore,Wednesday,Off-Season,6772.5
+2024-07-02,127,Fruits,192,13,21,Yes,Bangalore,Tuesday,Peak Season,1971.8400000000001
+2024-05-30,173,Snacks,486,6,23,No,Bangalore,Thursday,Off-Season,2245.32
+2024-10-18,138,Beverages,600,6,10,Yes,Bangalore,Saturday,Peak Season,3240.0
+2024-12-03,156,Snacks,435,20,28,No,Bangalore,Saturday,Off-Season,6264.0
+2024-07-08,116,Fruits,959,3,21,No,Bangalore,Wednesday,Peak Season,2272.83
+2024-12-24,185,Beverages,468,17,25,No,Bangalore,Wednesday,Holiday,5967.0
+2024-02-05,189,Beverages,106,49,15,No,Bangalore,Thursday,Peak Season,4414.9
+2024-03-07,143,Dairy,120,12,2,Yes,Bangalore,Friday,Peak Season,1411.2
+2024-11-29,124,Snacks,27,48,19,No,Bangalore,Wednesday,Off-Season,1049.76
+2024-01-09,116,Snacks,864,47,13,No,Bangalore,Saturday,Off-Season,35328.96
+2024-03-01,112,Dairy,219,45,2,No,Bangalore,Tuesday,Off-Season,9657.9
+2024-05-06,183,Vegetables,524,1,0,No,Bangalore,Monday,Regular,524.0
+2024-12-10,124,Fruits,106,17,25,Yes,Bangalore,Sunday,Regular,1351.5
+2024-05-30,167,Snacks,62,3,20,Yes,Bangalore,Tuesday,Peak Season,148.8
+2024-11-28,109,Dairy,404,26,14,No,Bangalore,Friday,Peak Season,9033.44
+2024-03-21,166,Beverages,640,15,0,No,Bangalore,Monday,Holiday,9600.0
+2024-01-03,117,Dairy,454,36,16,No,Bangalore,Tuesday,Holiday,13728.96
+2024-05-02,199,Vegetables,427,32,1,Yes,Bangalore,Tuesday,Peak Season,13527.36
+2024-02-02,185,Fruits,502,32,28,Yes,Bangalore,Thursday,Regular,11566.08
+2024-02-19,133,Vegetables,683,4,19,Yes,Bangalore,Sunday,Peak Season,2212.92
+2024-05-18,107,Beverages,36,18,5,Yes,Bangalore,Friday,Holiday,615.6
+2024-03-30,139,Beverages,664,49,7,Yes,Bangalore,Saturday,Regular,30258.48
+2024-12-11,182,Beverages,167,19,28,No,Bangalore,Thursday,Regular,2284.56
+2024-10-01,141,Beverages,296,43,15,Yes,Bangalore,Monday,Holiday,10818.8
+2024-08-22,140,Dairy,251,35,18,Yes,Bangalore,Sunday,Peak Season,7203.700000000001
+2024-08-17,105,Beverages,845,40,0,No,Bangalore,Saturday,Off-Season,33800.0
+2024-08-30,151,Beverages,946,14,2,Yes,Bangalore,Thursday,Peak Season,12979.119999999999
+2024-04-29,125,Dairy,385,33,27,Yes,Bangalore,Sunday,Peak Season,9274.65
+2024-06-03,163,Beverages,247,14,2,Yes,Bangalore,Friday,Holiday,3388.84
+2024-05-06,197,Vegetables,670,34,4,No,Bangalore,Wednesday,Regular,21868.8
+2024-07-22,158,Vegetables,455,4,26,Yes,Bangalore,Wednesday,Holiday,1346.8
+2024-06-14,155,Snacks,418,24,11,No,Bangalore,Monday,Peak Season,8928.48
+2024-07-28,158,Vegetables,230,29,11,No,Bangalore,Wednesday,Off-Season,5936.3
+2024-06-15,169,Fruits,410,19,19,Yes,Bangalore,Thursday,Off-Season,6309.900000000001
+2024-01-23,132,Fruits,518,6,12,Yes,Bangalore,Monday,Off-Season,2735.04
+2024-05-21,152,Fruits,559,33,19,Yes,Bangalore,Saturday,Holiday,14942.070000000002
+2024-12-19,121,Dairy,582,49,8,Yes,Bangalore,Friday,Regular,26236.56
+2024-06-21,120,Vegetables,510,40,6,No,Bangalore,Monday,Holiday,19176.0
+2024-09-14,169,Fruits,461,19,3,Yes,Bangalore,Saturday,Off-Season,8496.23
+2024-04-20,169,Snacks,280,1,18,No,Bangalore,Monday,Peak Season,229.60000000000002
+2024-02-04,103,Dairy,792,5,21,No,Bangalore,Tuesday,Regular,3128.4
+2024-03-16,193,Snacks,369,27,18,No,Bangalore,Tuesday,Holiday,8169.660000000001
+2024-01-23,174,Vegetables,371,16,5,No,Bangalore,Monday,Holiday,5639.2
+2024-07-16,161,Beverages,539,6,26,No,Bangalore,Sunday,Regular,2393.16
+2024-10-29,161,Snacks,339,40,12,Yes,Bangalore,Wednesday,Regular,11932.8
+2024-01-15,193,Beverages,157,13,10,No,Bangalore,Tuesday,Peak Season,1836.9
+2024-03-30,194,Dairy,569,48,12,No,Bangalore,Sunday,Regular,24034.56
+2024-06-22,123,Snacks,642,35,12,Yes,Bangalore,Sunday,Peak Season,19773.6
+2024-09-28,154,Snacks,387,19,27,Yes,Bangalore,Friday,Off-Season,5367.69
+2024-01-25,108,Dairy,239,12,24,No,Bangalore,Saturday,Off-Season,2179.68
+2024-07-31,102,Dairy,356,16,21,No,Bangalore,Thursday,Holiday,4499.84
+2024-12-20,130,Fruits,242,43,27,Yes,Bangalore,Tuesday,Off-Season,7596.38
+2024-08-01,139,Vegetables,667,10,19,No,Bangalore,Monday,Off-Season,5402.700000000001
+2024-11-19,135,Snacks,787,25,14,Yes,Bangalore,Wednesday,Peak Season,16920.5
+2024-11-02,123,Snacks,379,20,20,Yes,Bangalore,Thursday,Holiday,6064.0
+2024-09-05,194,Dairy,940,31,12,No,Bangalore,Saturday,Regular,25643.2
+2024-07-01,105,Dairy,348,4,21,Yes,Bangalore,Sunday,Holiday,1099.68
+2024-07-19,165,Vegetables,981,44,10,No,Bangalore,Saturday,Off-Season,38847.6
+2024-12-08,183,Dairy,482,23,18,No,Bangalore,Tuesday,Regular,9090.52
+2024-10-01,191,Beverages,965,2,7,No,Bangalore,Saturday,Holiday,1794.8999999999999
+2024-09-29,174,Beverages,982,22,19,Yes,Bangalore,Saturday,Holiday,17499.24
+2024-05-11,103,Beverages,580,37,7,No,Bangalore,Wednesday,Holiday,19957.8
+2024-06-08,178,Beverages,823,8,9,Yes,Bangalore,Sunday,Holiday,5991.4400000000005
+2024-09-22,105,Vegetables,401,7,25,No,Bangalore,Wednesday,Peak Season,2105.25
+2024-09-13,193,Snacks,855,14,15,No,Bangalore,Wednesday,Holiday,10174.5
+2024-11-01,150,Beverages,609,3,18,Yes,Bangalore,Monday,Off-Season,1498.14
+2024-03-28,161,Dairy,636,16,25,No,Bangalore,Saturday,Off-Season,7632.0
+2024-03-07,156,Beverages,188,19,22,No,Bangalore,Saturday,Peak Season,2786.1600000000003
+2024-07-22,165,Vegetables,236,18,10,Yes,Bangalore,Saturday,Regular,3823.2000000000003
+2024-09-02,178,Dairy,397,16,12,Yes,Bangalore,Friday,Regular,5589.76
+2024-10-28,174,Beverages,138,8,27,Yes,Bangalore,Wednesday,Off-Season,805.92
+2024-03-05,107,Snacks,209,33,8,No,Bangalore,Thursday,Off-Season,6345.240000000001
+2024-07-29,125,Dairy,786,49,19,Yes,Bangalore,Tuesday,Peak Season,31196.340000000004
+2024-05-07,150,Dairy,389,12,23,Yes,Bangalore,Sunday,Regular,3594.36
+2024-03-18,144,Snacks,797,11,18,No,Bangalore,Thursday,Regular,7188.9400000000005
+2024-08-02,143,Dairy,168,5,15,Yes,Bangalore,Sunday,Holiday,714.0
+2024-06-26,104,Beverages,695,27,6,No,Bangalore,Monday,Holiday,17639.1
+2024-12-13,169,Dairy,671,12,18,No,Bangalore,Monday,Holiday,6602.64
+2024-07-02,125,Beverages,878,17,11,Yes,Bangalore,Sunday,Peak Season,13284.14
+2024-11-24,167,Snacks,507,6,14,No,Bangalore,Saturday,Off-Season,2616.12
+2024-06-28,118,Fruits,789,33,22,Yes,Bangalore,Thursday,Peak Season,20308.86
+2024-01-20,183,Snacks,393,5,13,Yes,Bangalore,Saturday,Regular,1709.55
+2024-12-18,196,Beverages,800,28,10,Yes,Bangalore,Friday,Off-Season,20160.0
+2024-11-30,119,Vegetables,712,14,25,Yes,Bangalore,Monday,Holiday,7476.0
+2024-10-09,111,Snacks,179,5,9,No,Bangalore,Monday,Peak Season,814.45
+2024-09-23,146,Vegetables,370,33,26,No,Bangalore,Thursday,Peak Season,9035.4
+2024-08-03,100,Vegetables,931,48,10,Yes,Bangalore,Monday,Holiday,40219.200000000004
+2024-10-16,189,Beverages,307,41,5,Yes,Bangalore,Friday,Peak Season,11957.65
+2024-10-16,113,Beverages,307,19,1,No,Bangalore,Friday,Holiday,5774.67
+2024-02-04,163,Fruits,911,22,10,Yes,Bangalore,Friday,Regular,18037.8
+2024-07-25,137,Dairy,245,5,18,No,Bangalore,Tuesday,Off-Season,1004.5000000000001
+2024-10-01,136,Snacks,542,2,5,Yes,Bangalore,Friday,Regular,1029.8
+2024-07-07,110,Beverages,541,30,13,No,Bangalore,Friday,Regular,14120.1
+2024-06-10,199,Snacks,802,47,19,No,Bangalore,Tuesday,Holiday,30532.140000000003
+2024-07-26,176,Vegetables,292,39,5,No,Bangalore,Saturday,Peak Season,10818.6
+2024-12-31,102,Dairy,955,4,16,Yes,Bangalore,Wednesday,Regular,3208.7999999999997
+2024-05-25,132,Fruits,421,33,9,Yes,Bangalore,Monday,Regular,12642.630000000001
+2024-01-23,105,Snacks,202,13,27,Yes,Bangalore,Friday,Regular,1916.98
+2024-10-27,149,Dairy,988,20,0,Yes,Bangalore,Monday,Peak Season,19760.0
+2024-08-29,109,Fruits,684,7,2,Yes,Bangalore,Thursday,Peak Season,4692.24
+2024-03-30,104,Snacks,507,15,7,No,Bangalore,Monday,Holiday,7072.65
+2024-01-23,122,Dairy,846,23,7,No,Bangalore,Sunday,Regular,18095.94
+2024-03-17,109,Beverages,865,14,26,No,Bangalore,Saturday,Off-Season,8961.4
+2024-07-14,143,Snacks,143,23,19,No,Bangalore,Tuesday,Peak Season,2664.09
+2024-11-15,101,Dairy,645,19,21,No,Bangalore,Monday,Holiday,9681.45
+2024-01-10,112,Fruits,809,29,14,No,Bangalore,Monday,Regular,20176.46
+2024-02-02,139,Dairy,433,20,23,No,Bangalore,Monday,Off-Season,6668.2
+2024-07-06,101,Beverages,999,29,6,Yes,Bangalore,Wednesday,Peak Season,27232.739999999998
+2024-04-27,183,Snacks,744,24,10,No,Bangalore,Wednesday,Off-Season,16070.4
+2024-12-22,164,Snacks,191,18,6,Yes,Bangalore,Thursday,Peak Season,3231.72
+2024-10-13,162,Snacks,307,10,28,No,Bangalore,Tuesday,Holiday,2210.4
+2024-09-16,172,Beverages,454,41,3,No,Bangalore,Monday,Off-Season,18055.579999999998
+2024-04-02,116,Fruits,705,8,24,Yes,Bangalore,Monday,Regular,4286.4
+2024-02-03,108,Snacks,132,26,11,No,Bangalore,Monday,Regular,3054.48
+2024-11-08,174,Fruits,907,29,25,Yes,Bangalore,Monday,Peak Season,19727.25
+2024-04-03,114,Dairy,936,10,5,No,Bangalore,Wednesday,Regular,8892.0
+2024-08-01,123,Fruits,141,17,13,Yes,Bangalore,Saturday,Off-Season,2085.39
+2024-09-03,137,Fruits,563,2,11,No,Bangalore,Saturday,Holiday,1002.14
+2024-12-16,134,Snacks,241,6,10,Yes,Bangalore,Thursday,Peak Season,1301.4
+2024-04-02,193,Vegetables,650,5,18,Yes,Bangalore,Sunday,Off-Season,2665.0
+2024-06-30,194,Vegetables,58,28,20,No,Bangalore,Friday,Peak Season,1299.2
+2024-04-25,148,Beverages,516,41,4,No,Bangalore,Tuesday,Holiday,20309.76
+2024-10-19,168,Beverages,799,5,13,Yes,Bangalore,Saturday,Peak Season,3475.65
+2024-06-13,161,Vegetables,252,18,20,No,Bangalore,Sunday,Regular,3628.8
+2024-02-14,159,Dairy,962,26,23,Yes,Bangalore,Monday,Regular,19259.24
+2024-12-10,149,Snacks,549,20,15,No,Bangalore,Saturday,Peak Season,9333.0
+2024-04-07,177,Snacks,168,41,24,Yes,Bangalore,Thursday,Holiday,5234.88
+2024-01-05,174,Dairy,416,49,12,No,Bangalore,Friday,Holiday,17937.920000000002
+2024-04-10,108,Dairy,680,27,24,Yes,Bangalore,Saturday,Regular,13953.6
+2024-06-11,133,Vegetables,657,49,28,No,Bangalore,Thursday,Holiday,23178.96
+2024-07-30,175,Beverages,923,12,21,Yes,Bangalore,Wednesday,Peak Season,8750.04
+2024-02-21,198,Dairy,321,7,21,Yes,Bangalore,Friday,Off-Season,1775.13
+2024-03-13,134,Beverages,379,3,24,No,Bangalore,Thursday,Peak Season,864.12
+2024-06-29,100,Fruits,257,10,19,No,Bangalore,Sunday,Regular,2081.7000000000003
+2024-03-25,139,Snacks,666,34,21,Yes,Bangalore,Saturday,Regular,17888.760000000002
+2024-05-22,163,Vegetables,682,25,3,Yes,Bangalore,Wednesday,Regular,16538.5
+2024-04-27,121,Snacks,255,35,10,Yes,Bangalore,Sunday,Holiday,8032.5
+2024-05-30,159,Vegetables,755,16,16,Yes,Bangalore,Thursday,Peak Season,10147.199999999999
+2024-10-21,163,Fruits,222,2,6,No,Bangalore,Thursday,Off-Season,417.35999999999996
+2024-11-09,192,Snacks,275,24,13,Yes,Bangalore,Sunday,Peak Season,5742.0
+2024-05-13,171,Fruits,617,10,25,Yes,Bangalore,Saturday,Off-Season,4627.5
+2024-12-29,110,Vegetables,681,38,10,Yes,Bangalore,Friday,Peak Season,23290.2
+2024-10-28,113,Dairy,254,22,27,No,Bangalore,Wednesday,Regular,4079.24
+2024-03-30,159,Snacks,364,26,21,Yes,Bangalore,Monday,Off-Season,7476.56
+2024-06-10,129,Fruits,553,43,8,No,Bangalore,Tuesday,Peak Season,21876.68
+2024-12-20,134,Snacks,879,39,22,No,Bangalore,Friday,Holiday,26739.18
+2024-05-21,184,Snacks,816,27,12,No,Bangalore,Wednesday,Holiday,19388.16
+2024-12-08,136,Snacks,800,29,22,No,Bangalore,Sunday,Peak Season,18096.0
+2024-03-20,104,Beverages,485,47,17,No,Bangalore,Thursday,Regular,18919.85
+2024-10-21,182,Fruits,789,38,27,No,Bangalore,Sunday,Off-Season,21886.86
+2024-11-18,177,Fruits,560,20,10,No,Bangalore,Wednesday,Peak Season,10080.0
+2024-06-25,125,Snacks,232,27,14,Yes,Bangalore,Sunday,Holiday,5387.04
+2024-10-31,161,Dairy,482,41,24,Yes,Bangalore,Sunday,Off-Season,15019.12
+2024-05-02,103,Snacks,455,20,25,No,Bangalore,Tuesday,Holiday,6825.0
+2024-01-18,188,Beverages,302,44,24,Yes,Bangalore,Saturday,Holiday,10098.880000000001
+2024-09-11,141,Vegetables,581,19,21,Yes,Bangalore,Tuesday,Peak Season,8720.81
+2024-03-25,188,Beverages,626,20,28,No,Bangalore,Monday,Holiday,9014.4
+2024-11-04,117,Dairy,482,35,18,Yes,Bangalore,Monday,Off-Season,13833.400000000001
+2024-05-02,139,Snacks,426,47,0,No,Bangalore,Tuesday,Regular,20022.0
+2024-02-02,171,Fruits,107,2,3,Yes,Bangalore,Friday,Peak Season,207.57999999999998
+2024-08-06,138,Snacks,63,30,13,No,Bangalore,Friday,Off-Season,1644.3
+2024-08-05,113,Dairy,480,34,13,No,Bangalore,Sunday,Peak Season,14198.4
+2024-01-19,131,Fruits,297,22,2,Yes,Bangalore,Sunday,Holiday,6403.32
+2024-06-27,150,Beverages,702,3,29,Yes,Bangalore,Thursday,Holiday,1495.26
+2024-12-16,137,Vegetables,440,6,27,No,Bangalore,Monday,Off-Season,1927.2
+2024-08-23,196,Vegetables,720,15,16,No,Bangalore,Thursday,Off-Season,9072.0
+2024-01-25,122,Snacks,372,27,2,No,Bangalore,Monday,Regular,9843.119999999999
+2024-05-21,162,Beverages,715,10,15,Yes,Bangalore,Tuesday,Off-Season,6077.5
+2024-11-20,114,Dairy,534,9,13,Yes,Bangalore,Friday,Off-Season,4181.22
+2024-10-04,196,Vegetables,722,33,29,Yes,Bangalore,Sunday,Peak Season,16916.46
+2024-07-09,124,Beverages,649,32,19,Yes,Bangalore,Friday,Holiday,16822.08
+2024-05-09,116,Snacks,38,48,28,No,Bangalore,Tuesday,Off-Season,1313.28
+2024-04-17,196,Fruits,42,6,12,No,Bangalore,Thursday,Regular,221.76
+2024-06-17,165,Snacks,432,41,14,No,Bangalore,Thursday,Off-Season,15232.32
+2024-02-09,177,Snacks,49,36,13,No,Bangalore,Wednesday,Holiday,1534.68
+2024-08-10,152,Beverages,826,2,23,Yes,Bangalore,Sunday,Off-Season,1272.04
+2024-09-26,150,Vegetables,127,29,24,No,Bangalore,Sunday,Peak Season,2799.08
+2024-11-07,138,Beverages,386,4,18,No,Bangalore,Sunday,Holiday,1266.0800000000002
+2024-10-04,150,Fruits,300,1,5,Yes,Bangalore,Monday,Off-Season,285.0
+2024-11-04,169,Beverages,147,19,9,Yes,Bangalore,Thursday,Peak Season,2541.63
+2024-09-27,105,Dairy,248,26,26,No,Bangalore,Tuesday,Holiday,4771.5199999999995
+2024-10-24,166,Snacks,130,25,14,Yes,Bangalore,Thursday,Off-Season,2795.0
+2024-10-29,106,Vegetables,155,10,20,No,Bangalore,Friday,Peak Season,1240.0
+2024-03-30,150,Fruits,381,15,21,Yes,Bangalore,Monday,Regular,4514.85
+2024-04-30,171,Snacks,205,22,19,Yes,Bangalore,Sunday,Peak Season,3653.1000000000004
+2024-11-08,141,Beverages,675,48,25,No,Bangalore,Saturday,Regular,24300.0
+2024-08-29,163,Dairy,603,21,5,Yes,Bangalore,Wednesday,Off-Season,12029.849999999999
+2024-11-07,114,Beverages,148,22,22,No,Bangalore,Monday,Peak Season,2539.6800000000003
+2024-01-23,128,Snacks,895,36,24,Yes,Bangalore,Friday,Regular,24487.2
+2024-10-16,132,Fruits,280,34,9,Yes,Bangalore,Sunday,Holiday,8663.2
+2024-02-24,193,Vegetables,534,30,6,Yes,Bangalore,Friday,Peak Season,15058.8
+2024-02-17,126,Snacks,468,25,21,Yes,Bangalore,Friday,Off-Season,9243.0
+2024-10-17,135,Fruits,919,45,16,Yes,Bangalore,Sunday,Holiday,34738.2
+2024-08-24,128,Snacks,123,28,17,No,Bangalore,Friday,Regular,2858.52
+2024-04-17,137,Dairy,502,1,16,Yes,Bangalore,Tuesday,Peak Season,421.68
+2024-10-09,156,Beverages,243,49,8,No,Bangalore,Wednesday,Peak Season,10954.44
+2024-03-14,196,Vegetables,851,45,9,Yes,Bangalore,Saturday,Off-Season,34848.450000000004
+2024-02-09,126,Fruits,893,4,9,No,Bangalore,Friday,Holiday,3250.52
+2024-08-26,154,Vegetables,885,7,24,Yes,Bangalore,Friday,Peak Season,4708.2
+2024-02-22,132,Vegetables,510,49,6,No,Bangalore,Thursday,Peak Season,23490.6
+2024-08-23,167,Vegetables,492,9,15,No,Bangalore,Wednesday,Holiday,3763.7999999999997
+2024-08-29,185,Fruits,29,36,28,Yes,Bangalore,Monday,Peak Season,751.68
+2024-04-06,165,Fruits,424,19,17,Yes,Bangalore,Wednesday,Holiday,6686.48
+2024-06-04,109,Vegetables,915,1,5,Yes,Bangalore,Wednesday,Holiday,869.25
+2024-01-01,104,Beverages,321,10,26,No,Bangalore,Sunday,Holiday,2375.4
+2024-05-30,173,Snacks,250,36,19,No,Bangalore,Sunday,Off-Season,7290.000000000001
+2024-09-04,196,Vegetables,750,9,0,Yes,Bangalore,Sunday,Holiday,6750.0
+2024-01-27,137,Dairy,942,45,0,Yes,Bangalore,Saturday,Holiday,42390.0
+2024-07-19,112,Vegetables,85,46,11,No,Bangalore,Wednesday,Regular,3479.9
+2024-08-20,130,Fruits,956,42,20,No,Bangalore,Saturday,Regular,32121.600000000002
+2024-04-07,146,Snacks,131,32,27,Yes,Bangalore,Friday,Off-Season,3060.16
+2024-05-27,199,Dairy,32,32,1,No,Bangalore,Sunday,Holiday,1013.76
+2024-06-19,187,Snacks,412,6,3,Yes,Bangalore,Friday,Regular,2397.84
+2024-07-05,151,Snacks,519,48,16,Yes,Bangalore,Sunday,Regular,20926.079999999998
+2024-10-14,155,Dairy,951,38,3,Yes,Bangalore,Tuesday,Peak Season,35053.86
+2024-01-16,114,Vegetables,617,17,10,No,Bangalore,Saturday,Holiday,9440.1
+2024-07-28,128,Vegetables,253,10,21,No,Bangalore,Saturday,Regular,1998.7
+2024-03-10,107,Vegetables,621,27,25,No,Bangalore,Monday,Off-Season,12575.25
+2024-09-09,104,Beverages,333,35,3,No,Bangalore,Thursday,Peak Season,11305.35
+2024-07-29,128,Vegetables,585,21,0,Yes,Bangalore,Wednesday,Peak Season,12285.0
+2024-10-15,146,Dairy,31,25,6,No,Bangalore,Monday,Holiday,728.5
+2024-09-17,167,Beverages,228,28,29,Yes,Bangalore,Saturday,Holiday,4532.639999999999
+2024-05-07,175,Vegetables,993,47,17,Yes,Bangalore,Monday,Peak Season,38736.93
+2024-04-09,144,Beverages,33,15,8,Yes,Bangalore,Tuesday,Off-Season,455.40000000000003
+2024-06-16,101,Dairy,652,4,28,No,Bangalore,Thursday,Holiday,1877.76
+2024-06-06,126,Vegetables,437,29,2,Yes,Bangalore,Saturday,Holiday,12419.539999999999
+2024-06-11,194,Fruits,456,9,7,Yes,Bangalore,Saturday,Peak Season,3816.72
+2024-11-09,135,Dairy,396,27,28,No,Bangalore,Wednesday,Peak Season,7698.24
+2024-11-14,135,Snacks,39,26,23,Yes,Bangalore,Sunday,Holiday,780.78
+2024-09-14,125,Snacks,606,19,18,No,Bangalore,Thursday,Regular,9441.480000000001
+2024-01-25,142,Dairy,931,28,3,No,Bangalore,Tuesday,Holiday,25285.96
+2024-07-22,126,Snacks,774,17,17,No,Bangalore,Friday,Regular,10921.14
+2024-08-01,168,Dairy,754,43,19,Yes,Bangalore,Monday,Peak Season,26261.820000000003
+2024-12-28,119,Fruits,89,41,26,No,Bangalore,Wednesday,Regular,2700.2599999999998
+2024-02-03,110,Dairy,843,42,10,No,Bangalore,Saturday,Off-Season,31865.4
+2024-11-13,173,Vegetables,230,20,26,No,Bangalore,Friday,Peak Season,3404.0
+2024-05-16,137,Vegetables,120,45,13,No,Bangalore,Tuesday,Holiday,4698.0
+2024-03-01,105,Beverages,717,40,24,Yes,Bangalore,Thursday,Holiday,21796.8
+2024-08-31,171,Snacks,151,39,17,No,Bangalore,Monday,Peak Season,4887.87
+2024-11-03,122,Snacks,642,49,27,Yes,Bangalore,Wednesday,Peak Season,22964.34
+2024-01-12,146,Dairy,400,23,27,No,Bangalore,Saturday,Off-Season,6716.0
+2024-05-28,189,Snacks,151,47,28,Yes,Bangalore,Saturday,Peak Season,5109.84
+2024-07-13,145,Vegetables,39,32,15,No,Bangalore,Friday,Holiday,1060.8
+2024-04-14,111,Fruits,925,47,2,Yes,Bangalore,Friday,Off-Season,42605.5
+2024-07-09,189,Dairy,555,33,14,No,Bangalore,Monday,Holiday,15750.9
+2024-03-30,112,Snacks,246,46,26,Yes,Bangalore,Thursday,Regular,8373.84
+2024-09-04,161,Vegetables,173,5,26,Yes,Bangalore,Tuesday,Peak Season,640.1
+2024-10-19,181,Beverages,824,43,3,Yes,Bangalore,Sunday,Regular,34369.04
+2024-11-02,188,Snacks,761,48,4,No,Bangalore,Thursday,Holiday,35066.88
+2024-10-13,196,Fruits,488,34,16,Yes,Bangalore,Thursday,Regular,13937.279999999999
+2024-09-21,159,Fruits,841,40,6,Yes,Bangalore,Thursday,Regular,31621.6
+2024-06-26,142,Snacks,890,11,15,Yes,Bangalore,Sunday,Holiday,8321.5
+2024-03-23,175,Snacks,424,3,13,Yes,Bangalore,Monday,Holiday,1106.64
+2024-07-02,199,Vegetables,221,33,25,No,Bangalore,Sunday,Peak Season,5469.75
+2024-11-28,167,Snacks,57,11,15,Yes,Bangalore,Monday,Regular,532.9499999999999
+2024-11-25,104,Beverages,961,16,6,Yes,Bangalore,Sunday,Off-Season,14453.439999999999
+2024-03-11,136,Vegetables,791,18,8,Yes,Bangalore,Tuesday,Off-Season,13098.960000000001
+2024-03-24,171,Dairy,207,30,3,No,Bangalore,Thursday,Holiday,6023.7
+2024-01-03,191,Beverages,76,48,29,Yes,Bangalore,Monday,Holiday,2590.08
+2024-12-13,130,Vegetables,960,10,29,Yes,Bangalore,Sunday,Regular,6816.0
+2024-08-30,108,Vegetables,39,18,21,Yes,Bangalore,Tuesday,Holiday,554.58
+2024-03-29,150,Fruits,292,38,10,Yes,Bangalore,Sunday,Off-Season,9986.4
+2024-02-04,128,Vegetables,138,19,1,No,Bangalore,Saturday,Peak Season,2595.78
+2024-03-15,177,Beverages,602,36,11,Yes,Bangalore,Tuesday,Peak Season,19288.08
+2024-05-20,139,Snacks,535,13,11,Yes,Bangalore,Thursday,Regular,6189.95
+2024-11-14,140,Beverages,240,46,29,No,Bangalore,Wednesday,Peak Season,7838.4
+2024-10-21,185,Dairy,545,3,3,No,Bangalore,Thursday,Holiday,1585.95
+2024-02-24,110,Vegetables,534,10,17,No,Bangalore,Wednesday,Holiday,4432.2
+2024-12-14,122,Vegetables,747,38,25,Yes,Bangalore,Tuesday,Holiday,21289.5
+2024-04-04,100,Vegetables,760,1,20,No,Bangalore,Saturday,Holiday,608.0
+2024-02-18,145,Vegetables,355,27,6,Yes,Bangalore,Saturday,Regular,9009.9
+2024-03-14,120,Fruits,717,46,28,No,Bangalore,Monday,Peak Season,23747.04
+2024-12-28,189,Fruits,74,8,0,Yes,Bangalore,Saturday,Off-Season,592.0
+2024-03-06,135,Snacks,519,46,25,No,Bangalore,Friday,Peak Season,17905.5
+2024-11-05,153,Vegetables,919,42,25,Yes,Bangalore,Tuesday,Holiday,28948.5
+2024-04-18,186,Dairy,907,17,22,No,Bangalore,Monday,Off-Season,12026.82
+2024-07-31,156,Snacks,785,9,25,Yes,Bangalore,Saturday,Regular,5298.75
+2024-01-24,100,Vegetables,555,6,12,Yes,Bangalore,Tuesday,Holiday,2930.4
+2024-01-02,162,Fruits,181,43,5,Yes,Bangalore,Thursday,Holiday,7393.849999999999
+2024-08-26,153,Dairy,689,25,5,Yes,Bangalore,Saturday,Off-Season,16363.75
+2024-01-26,154,Snacks,613,39,11,Yes,Bangalore,Sunday,Regular,21277.23
+2024-11-03,139,Dairy,934,49,7,Yes,Bangalore,Wednesday,Off-Season,42562.38
+2024-07-23,114,Vegetables,178,28,23,Yes,Bangalore,Tuesday,Regular,3837.6800000000003
+2024-10-30,120,Beverages,207,33,21,Yes,Bangalore,Monday,Holiday,5396.490000000001
+2024-12-20,146,Dairy,79,37,18,No,Bangalore,Thursday,Peak Season,2396.86
+2024-09-01,172,Dairy,934,9,4,Yes,Bangalore,Friday,Holiday,8069.759999999999
+2024-06-01,152,Fruits,836,18,17,Yes,Bangalore,Thursday,Peak Season,12489.84
+2024-10-14,108,Vegetables,338,21,29,No,Bangalore,Saturday,Peak Season,5039.58
+2024-04-10,173,Dairy,897,2,4,Yes,Bangalore,Wednesday,Regular,1722.24
+2024-08-10,151,Vegetables,230,43,29,No,Bangalore,Thursday,Off-Season,7021.9
+2024-10-03,156,Fruits,425,38,24,Yes,Bangalore,Friday,Regular,12274.0
+2024-10-21,125,Vegetables,683,40,9,No,Bangalore,Sunday,Holiday,24861.2
+2024-04-12,140,Fruits,128,36,0,No,Bangalore,Monday,Off-Season,4608.0
+2024-04-29,134,Fruits,95,43,9,Yes,Bangalore,Tuesday,Peak Season,3717.35
+2024-09-30,162,Snacks,561,37,4,No,Bangalore,Wednesday,Peak Season,19926.719999999998
+2024-09-28,124,Vegetables,333,15,11,Yes,Bangalore,Friday,Holiday,4445.55
+2024-12-06,189,Beverages,136,28,21,Yes,Bangalore,Saturday,Off-Season,3008.32
+2024-10-15,174,Snacks,946,18,29,Yes,Bangalore,Saturday,Holiday,12089.88
+2024-01-08,137,Fruits,887,34,26,Yes,Bangalore,Saturday,Holiday,22316.92
+2024-06-02,101,Beverages,723,22,6,No,Bangalore,Wednesday,Regular,14951.64
+2024-02-25,106,Dairy,38,11,8,Yes,Bangalore,Thursday,Holiday,384.56
+2024-06-02,181,Dairy,451,13,21,No,Bangalore,Wednesday,Off-Season,4631.77
+2024-07-13,190,Snacks,704,4,20,No,Bangalore,Saturday,Holiday,2252.8
+2024-08-28,133,Beverages,759,22,11,Yes,Bangalore,Sunday,Off-Season,14861.22
+2024-02-18,190,Vegetables,369,7,22,Yes,Bangalore,Friday,Peak Season,2014.74
+2024-01-13,116,Beverages,202,43,28,Yes,Bangalore,Tuesday,Holiday,6253.92
+2024-02-07,142,Snacks,132,24,0,Yes,Bangalore,Tuesday,Off-Season,3168.0
+2024-12-16,158,Vegetables,202,4,10,No,Bangalore,Wednesday,Peak Season,727.2
+2024-06-22,150,Vegetables,500,28,29,Yes,Bangalore,Saturday,Off-Season,9940.0
+2024-09-30,153,Dairy,165,15,20,No,Bangalore,Monday,Peak Season,1980.0
+2024-10-30,123,Beverages,850,1,14,Yes,Bangalore,Sunday,Regular,731.0
+2024-06-12,124,Vegetables,647,3,1,Yes,Bangalore,Wednesday,Holiday,1921.59
+2024-03-28,170,Snacks,132,14,19,Yes,Bangalore,Saturday,Holiday,1496.88
+2024-12-15,151,Dairy,782,38,6,Yes,Bangalore,Thursday,Peak Season,27933.039999999997
+2024-06-16,169,Vegetables,495,1,20,No,Bangalore,Tuesday,Regular,396.0
+2024-06-17,187,Beverages,782,38,11,No,Bangalore,Tuesday,Off-Season,26447.24
+2024-09-22,132,Dairy,322,38,21,Yes,Bangalore,Sunday,Regular,9666.44
+2024-11-30,148,Beverages,990,21,17,No,Bangalore,Tuesday,Off-Season,17255.7
+2024-07-13,128,Beverages,844,48,2,No,Bangalore,Monday,Off-Season,39701.76
+2024-12-09,162,Beverages,137,29,6,Yes,Bangalore,Saturday,Holiday,3734.62
+2024-05-06,121,Dairy,832,5,10,Yes,Bangalore,Saturday,Peak Season,3744.0
+2024-09-01,125,Vegetables,180,49,17,No,Bangalore,Sunday,Holiday,7320.599999999999
+2024-05-25,127,Fruits,420,10,11,No,Bangalore,Saturday,Holiday,3738.0
+2024-11-14,184,Vegetables,217,28,5,No,Bangalore,Sunday,Holiday,5772.2
+2024-08-12,148,Dairy,279,21,4,No,Bangalore,Saturday,Off-Season,5624.639999999999
+2024-10-28,170,Fruits,679,7,25,Yes,Bangalore,Monday,Holiday,3564.75
+2024-09-10,180,Fruits,771,3,0,Yes,Bangalore,Friday,Off-Season,2313.0
+2024-05-12,183,Fruits,66,45,11,No,Bangalore,Wednesday,Peak Season,2643.3
+2024-03-26,148,Snacks,418,47,26,Yes,Bangalore,Wednesday,Off-Season,14538.039999999999
+2024-10-02,119,Dairy,729,20,25,No,Bangalore,Saturday,Off-Season,10935.0
+2024-05-26,185,Snacks,578,19,10,No,Bangalore,Thursday,Regular,9883.800000000001
+2024-02-23,191,Fruits,97,35,3,Yes,Bangalore,Tuesday,Holiday,3293.15
+2024-07-27,162,Snacks,143,4,26,No,Bangalore,Monday,Holiday,423.28
+2024-09-11,160,Snacks,94,5,17,No,Bangalore,Thursday,Holiday,390.09999999999997
+2024-12-07,148,Dairy,890,1,3,Yes,Bangalore,Thursday,Holiday,863.3
+2024-02-13,170,Beverages,156,4,16,Yes,Bangalore,Saturday,Regular,524.16
+2024-03-31,100,Snacks,621,12,1,No,Bangalore,Monday,Regular,7377.48
+2024-12-04,195,Snacks,419,27,28,No,Bangalore,Wednesday,Regular,8145.36
+2024-11-01,112,Fruits,856,42,23,Yes,Bangalore,Tuesday,Regular,27683.04
+2024-05-19,193,Fruits,524,23,21,No,Bangalore,Wednesday,Holiday,9521.08
+2024-08-11,186,Fruits,519,25,1,No,Bangalore,Thursday,Off-Season,12845.25
+2024-06-07,150,Vegetables,592,21,11,Yes,Bangalore,Tuesday,Peak Season,11064.48
+2024-05-25,155,Snacks,157,24,5,Yes,Bangalore,Friday,Regular,3579.6
+2024-04-16,182,Fruits,69,25,9,Yes,Bangalore,Thursday,Off-Season,1569.75
+2024-06-16,161,Dairy,790,45,24,Yes,Bangalore,Wednesday,Regular,27018.0
+2024-11-22,131,Vegetables,992,46,22,Yes,Bangalore,Wednesday,Holiday,35592.96
+2024-11-26,129,Beverages,638,32,24,Yes,Bangalore,Saturday,Holiday,15516.16
+2024-01-09,128,Snacks,644,32,20,No,Bangalore,Wednesday,Off-Season,16486.4
+2024-08-30,148,Snacks,881,5,22,No,Bangalore,Monday,Off-Season,3435.9
+2024-10-23,144,Dairy,273,36,26,Yes,Bangalore,Thursday,Off-Season,7272.72
+2024-02-04,192,Beverages,649,46,15,Yes,Bangalore,Sunday,Holiday,25375.899999999998
+2024-06-16,129,Beverages,729,42,13,No,Bangalore,Sunday,Holiday,26637.66
+2024-10-16,115,Vegetables,868,49,6,No,Bangalore,Tuesday,Peak Season,39980.079999999994
+2024-04-13,139,Snacks,896,42,27,No,Bangalore,Wednesday,Off-Season,27471.36
+2024-10-26,118,Fruits,582,39,27,Yes,Bangalore,Saturday,Peak Season,16569.54
+2024-05-25,117,Dairy,776,16,18,Yes,Bangalore,Saturday,Regular,10181.12
+2024-08-28,100,Dairy,934,33,22,No,Bangalore,Wednesday,Peak Season,24041.16
+2024-07-10,177,Dairy,445,49,16,Yes,Bangalore,Monday,Regular,18316.2
+2024-11-16,146,Dairy,566,21,8,Yes,Bangalore,Saturday,Regular,10935.12
+2024-05-30,165,Fruits,321,9,25,Yes,Bangalore,Sunday,Peak Season,2166.75
+2024-08-04,191,Fruits,941,6,12,No,Bangalore,Tuesday,Off-Season,4968.4800000000005
+2024-08-28,193,Vegetables,600,45,21,No,Bangalore,Thursday,Regular,21330.0
+2024-08-23,137,Snacks,368,35,4,Yes,Bangalore,Friday,Off-Season,12364.8
+2024-05-29,150,Fruits,851,39,22,Yes,Bangalore,Monday,Holiday,25887.420000000002
+2024-03-18,162,Vegetables,952,22,4,Yes,Bangalore,Saturday,Regular,20106.239999999998
+2024-05-23,103,Beverages,999,41,9,Yes,Bangalore,Thursday,Holiday,37272.69
+2024-01-14,100,Snacks,68,5,20,Yes,Bangalore,Friday,Peak Season,272.0
+2024-09-25,107,Fruits,936,42,26,No,Bangalore,Wednesday,Off-Season,29090.88
+2024-04-23,128,Beverages,93,23,9,Yes,Bangalore,Wednesday,Peak Season,1946.49
+2024-10-09,154,Vegetables,723,17,26,Yes,Bangalore,Tuesday,Regular,9095.34
+2024-02-22,102,Fruits,280,12,6,Yes,Bangalore,Friday,Holiday,3158.3999999999996
+2024-09-25,131,Fruits,375,23,25,No,Bangalore,Wednesday,Regular,6468.75
+2024-03-11,109,Beverages,601,16,14,No,Bangalore,Wednesday,Peak Season,8269.76
+2024-06-06,173,Fruits,621,3,6,Yes,Bangalore,Sunday,Off-Season,1751.2199999999998
+2024-09-30,182,Dairy,279,30,28,No,Bangalore,Saturday,Off-Season,6026.4
+2024-11-18,133,Fruits,657,22,26,No,Bangalore,Tuesday,Regular,10695.96
+2024-12-20,196,Snacks,762,9,14,No,Bangalore,Thursday,Regular,5897.88
+2024-11-17,186,Beverages,314,29,2,No,Bangalore,Wednesday,Holiday,8923.88
+2024-02-04,154,Snacks,950,47,18,No,Bangalore,Sunday,Peak Season,36613.0
+2024-06-21,191,Vegetables,660,37,9,No,Bangalore,Monday,Regular,22222.2
+2024-04-29,131,Snacks,811,23,27,Yes,Bangalore,Monday,Holiday,13616.69
+2024-03-08,149,Dairy,332,13,28,No,Bangalore,Thursday,Regular,3107.52
+2024-12-17,106,Dairy,631,32,14,No,Bangalore,Friday,Off-Season,17365.12
+2024-05-20,192,Snacks,857,46,2,Yes,Bangalore,Tuesday,Holiday,38633.56
+2024-05-13,107,Vegetables,828,47,5,Yes,Bangalore,Sunday,Holiday,36970.2
+2024-02-03,164,Fruits,201,48,11,Yes,Bangalore,Saturday,Regular,8586.72
+2024-05-04,156,Dairy,705,23,14,Yes,Bangalore,Sunday,Peak Season,13944.9
+2024-06-22,166,Snacks,847,45,5,No,Bangalore,Monday,Off-Season,36209.25
+2024-09-28,187,Snacks,383,17,12,No,Bangalore,Monday,Peak Season,5729.68
+2024-01-24,186,Snacks,207,40,28,No,Bangalore,Thursday,Holiday,5961.599999999999
+2024-10-23,158,Fruits,588,21,18,No,Bangalore,Friday,Peak Season,10125.36
+2024-12-11,171,Beverages,562,2,2,Yes,Bangalore,Friday,Holiday,1101.52
+2024-08-28,153,Vegetables,615,37,7,No,Bangalore,Thursday,Peak Season,21162.149999999998
+2024-08-23,166,Beverages,683,6,7,No,Bangalore,Sunday,Regular,3811.14
+2024-05-13,150,Vegetables,567,44,22,Yes,Bangalore,Monday,Peak Season,19459.440000000002
+2024-04-12,196,Vegetables,744,18,25,No,Bangalore,Sunday,Holiday,10044.0
+2024-07-26,191,Snacks,945,30,19,No,Bangalore,Sunday,Off-Season,22963.5
+2024-12-29,107,Dairy,427,22,14,No,Bangalore,Tuesday,Off-Season,8078.84
+2024-02-29,133,Snacks,895,33,3,No,Bangalore,Monday,Off-Season,28648.95
+2024-04-30,134,Fruits,637,30,18,Yes,Bangalore,Friday,Holiday,15670.2
+2024-01-03,195,Vegetables,433,17,20,Yes,Bangalore,Saturday,Peak Season,5888.8
+2024-01-27,187,Dairy,361,43,2,Yes,Bangalore,Sunday,Off-Season,15212.539999999999
+2024-07-11,177,Vegetables,239,32,12,Yes,Bangalore,Monday,Off-Season,6730.24
+2024-05-17,131,Vegetables,922,42,7,Yes,Bangalore,Sunday,Off-Season,36013.32
+2024-01-27,145,Snacks,182,14,22,No,Bangalore,Tuesday,Regular,1987.44
+2024-02-04,115,Dairy,970,10,15,No,Bangalore,Wednesday,Holiday,8245.0
+2024-07-11,167,Dairy,239,47,12,Yes,Bangalore,Monday,Holiday,9885.04
+2024-11-11,136,Vegetables,289,36,2,Yes,Bangalore,Thursday,Holiday,10195.92
+2024-08-03,153,Dairy,651,34,15,Yes,Bangalore,Wednesday,Holiday,18813.899999999998
+2024-02-07,184,Dairy,925,9,8,No,Bangalore,Sunday,Holiday,7659.0
+2024-02-17,113,Snacks,867,42,27,Yes,Bangalore,Thursday,Regular,26582.22
+2024-12-12,194,Beverages,419,28,13,No,Bangalore,Thursday,Peak Season,10206.84
+2024-05-26,154,Fruits,201,11,12,No,Bangalore,Thursday,Regular,1945.68
+2024-09-21,147,Beverages,637,14,20,No,Bangalore,Monday,Off-Season,7134.400000000001
+2024-11-30,181,Dairy,748,39,24,No,Bangalore,Friday,Regular,22170.72
+2024-06-11,106,Vegetables,224,47,6,Yes,Bangalore,Sunday,Holiday,9896.32
+2024-05-03,173,Fruits,601,19,14,No,Bangalore,Wednesday,Regular,9820.34
+2024-04-19,106,Fruits,575,15,6,No,Bangalore,Tuesday,Holiday,8107.499999999999
+2024-05-26,132,Vegetables,860,28,5,Yes,Bangalore,Friday,Regular,22876.0
+2024-05-21,122,Fruits,832,24,1,No,Bangalore,Sunday,Holiday,19768.32
+2024-04-13,184,Vegetables,247,8,8,No,Bangalore,Monday,Off-Season,1817.92
+2024-12-11,118,Fruits,715,43,21,No,Bangalore,Thursday,Holiday,24288.550000000003
+2024-10-15,118,Beverages,638,9,23,Yes,Bangalore,Tuesday,Regular,4421.34
+2024-07-06,135,Fruits,615,47,16,No,Bangalore,Sunday,Off-Season,24280.2
+2024-07-09,128,Snacks,869,33,4,No,Bangalore,Wednesday,Regular,27529.92
+2024-01-06,159,Vegetables,269,33,11,Yes,Bangalore,Sunday,Off-Season,7900.53
+2024-05-01,181,Fruits,894,19,0,Yes,Bangalore,Friday,Peak Season,16986.0
+2024-06-23,101,Vegetables,460,3,9,No,Bangalore,Saturday,Peak Season,1255.8
+2024-07-23,100,Snacks,552,10,10,No,Bangalore,Friday,Peak Season,4968.0
+2024-07-18,146,Fruits,215,40,15,Yes,Bangalore,Sunday,Regular,7310.0
+2024-07-19,168,Fruits,709,47,13,No,Bangalore,Tuesday,Regular,28991.01
+2024-02-06,119,Snacks,948,42,7,Yes,Bangalore,Sunday,Off-Season,37028.88
+2024-06-03,110,Snacks,538,1,23,No,Bangalore,Sunday,Off-Season,414.26
+2024-01-23,101,Snacks,89,29,16,Yes,Bangalore,Monday,Off-Season,2168.04
+2024-04-15,166,Vegetables,658,34,24,No,Bangalore,Wednesday,Off-Season,17002.72
+2024-07-02,186,Snacks,418,13,17,Yes,Bangalore,Tuesday,Holiday,4510.219999999999
+2024-10-28,111,Vegetables,997,1,11,Yes,Bangalore,Sunday,Peak Season,887.33
+2024-07-21,119,Beverages,691,34,24,Yes,Bangalore,Thursday,Holiday,17855.44
+2024-04-15,104,Fruits,779,29,16,Yes,Bangalore,Wednesday,Holiday,18976.44
+2024-03-11,136,Fruits,222,48,27,Yes,Bangalore,Friday,Holiday,7778.88
+2024-10-26,137,Dairy,167,47,25,No,Bangalore,Tuesday,Holiday,5886.75
+2024-10-09,193,Beverages,491,13,13,No,Bangalore,Friday,Peak Season,5553.21
+2024-05-30,108,Snacks,674,48,15,Yes,Bangalore,Sunday,Holiday,27499.2
+2024-04-03,197,Snacks,963,49,13,No,Bangalore,Friday,Off-Season,41052.69
+2024-05-18,152,Beverages,218,29,8,No,Bangalore,Friday,Regular,5816.240000000001
+2024-02-13,143,Snacks,936,39,3,No,Bangalore,Monday,Off-Season,35408.88
+2024-10-07,198,Dairy,445,24,24,No,Bangalore,Friday,Regular,8116.8
+2024-05-26,185,Vegetables,685,26,22,No,Bangalore,Thursday,Off-Season,13891.800000000001
+2024-11-23,123,Fruits,511,17,10,No,Bangalore,Thursday,Off-Season,7818.3
+2024-03-22,180,Beverages,907,7,5,Yes,Bangalore,Wednesday,Regular,6031.549999999999
+2024-11-23,173,Fruits,915,13,14,No,Bangalore,Sunday,Peak Season,10229.7
+2024-05-08,129,Vegetables,161,5,4,No,Bangalore,Saturday,Holiday,772.8
+2024-08-06,158,Beverages,332,26,10,No,Bangalore,Friday,Off-Season,7768.8
+2024-03-19,186,Vegetables,184,49,24,Yes,Bangalore,Friday,Peak Season,6852.16
+2024-06-11,195,Snacks,333,3,17,No,Bangalore,Tuesday,Holiday,829.17
+2024-07-01,180,Snacks,40,7,29,No,Bangalore,Monday,Peak Season,198.79999999999998
+2024-10-31,180,Snacks,101,49,12,No,Bangalore,Saturday,Peak Season,4355.12
+2024-11-09,113,Vegetables,600,39,10,Yes,Bangalore,Wednesday,Holiday,21060.0
+2024-04-23,108,Vegetables,150,1,13,No,Bangalore,Saturday,Off-Season,130.5
+2024-04-16,139,Vegetables,618,49,27,Yes,Bangalore,Friday,Peak Season,22105.86
+2024-12-08,165,Fruits,749,17,17,No,Bangalore,Tuesday,Off-Season,10568.39
+2024-04-28,124,Vegetables,952,43,26,Yes,Bangalore,Sunday,Off-Season,30292.64
+2024-06-30,172,Snacks,324,25,27,Yes,Bangalore,Monday,Off-Season,5913.0
+2024-05-05,121,Dairy,934,3,24,Yes,Bangalore,Sunday,Holiday,2129.52
+2024-06-05,103,Vegetables,390,15,27,No,Bangalore,Wednesday,Regular,4270.5
+2024-04-03,125,Dairy,876,29,18,Yes,Bangalore,Saturday,Off-Season,20831.280000000002
+2024-07-04,157,Snacks,872,43,23,Yes,Bangalore,Wednesday,Regular,28871.920000000002
+2024-12-31,128,Vegetables,403,32,26,Yes,Bangalore,Friday,Regular,9543.039999999999
+2024-08-19,197,Fruits,927,26,14,Yes,Bangalore,Wednesday,Peak Season,20727.72
+2024-08-29,186,Fruits,464,16,8,No,Bangalore,Sunday,Off-Season,6830.08
+2024-03-24,136,Dairy,444,25,7,No,Bangalore,Tuesday,Off-Season,10323.0
+2024-01-12,174,Fruits,180,28,19,No,Bangalore,Wednesday,Off-Season,4082.4
+2024-11-08,169,Fruits,197,9,27,No,Bangalore,Thursday,Regular,1294.29
+2024-12-03,117,Fruits,648,1,0,Yes,Bangalore,Tuesday,Holiday,648.0
+2024-02-09,184,Snacks,727,29,3,No,Bangalore,Saturday,Regular,20450.51
+2024-08-25,141,Fruits,914,22,13,Yes,Bangalore,Monday,Off-Season,17493.96
+2024-01-11,199,Beverages,509,16,24,No,Bangalore,Monday,Off-Season,6189.4400000000005
+2024-03-24,140,Vegetables,346,41,1,No,Bangalore,Friday,Off-Season,14044.14
+2024-06-09,137,Fruits,617,44,15,No,Bangalore,Friday,Regular,23075.8
+2024-05-20,133,Fruits,308,41,2,Yes,Bangalore,Thursday,Off-Season,12375.44
+2024-01-30,116,Fruits,612,7,25,No,Bangalore,Saturday,Peak Season,3213.0
+2024-11-21,136,Beverages,683,14,7,No,Bangalore,Sunday,Off-Season,8892.66
+2024-07-19,124,Fruits,592,29,5,No,Bangalore,Monday,Holiday,16309.599999999999
+2024-09-07,175,Fruits,592,19,15,Yes,Bangalore,Monday,Peak Season,9560.8
+2024-05-26,186,Vegetables,373,19,23,No,Bangalore,Monday,Off-Season,5456.99
+2024-05-27,185,Beverages,47,2,15,No,Bangalore,Sunday,Peak Season,79.89999999999999
+2024-01-11,184,Beverages,973,41,6,Yes,Bangalore,Monday,Off-Season,37499.42
+2024-07-02,126,Fruits,62,45,29,Yes,Bangalore,Wednesday,Holiday,1980.8999999999999
+2024-03-12,156,Beverages,700,15,12,No,Bangalore,Saturday,Off-Season,9240.0
+2024-10-28,130,Dairy,442,3,12,No,Bangalore,Tuesday,Peak Season,1166.88
+2024-02-24,105,Beverages,617,11,4,No,Bangalore,Tuesday,Holiday,6515.5199999999995
+2024-01-10,190,Beverages,196,46,24,Yes,Bangalore,Thursday,Regular,6852.16
+2024-12-08,139,Beverages,548,30,19,Yes,Bangalore,Wednesday,Holiday,13316.400000000001
+2024-02-04,197,Snacks,629,40,21,Yes,Bangalore,Monday,Holiday,19876.4
+2024-03-05,111,Snacks,985,18,17,No,Bangalore,Monday,Holiday,14715.9
+2024-05-28,152,Snacks,513,48,14,Yes,Bangalore,Friday,Peak Season,21176.64
+2024-07-05,170,Beverages,217,2,17,No,Bangalore,Friday,Holiday,360.21999999999997
+2024-12-17,109,Dairy,629,32,1,Yes,Bangalore,Thursday,Off-Season,19926.72
+2024-04-03,144,Beverages,596,8,9,Yes,Bangalore,Monday,Holiday,4338.88
+2024-05-17,116,Fruits,861,22,22,Yes,Bangalore,Thursday,Holiday,14774.76
+2024-02-27,125,Dairy,872,6,12,No,Bangalore,Wednesday,Off-Season,4604.16
+2024-05-07,184,Snacks,536,12,17,No,Bangalore,Tuesday,Off-Season,5338.5599999999995
+2024-03-24,191,Vegetables,533,47,14,No,Bangalore,Monday,Regular,21543.86
+2024-12-19,161,Dairy,41,40,11,No,Bangalore,Saturday,Holiday,1459.6
+2024-05-19,145,Snacks,131,36,14,Yes,Bangalore,Sunday,Peak Season,4055.7599999999998
+2024-05-12,163,Dairy,76,15,12,No,Bangalore,Wednesday,Holiday,1003.2
+2024-09-06,101,Dairy,85,28,17,Yes,Bangalore,Monday,Holiday,1975.3999999999999
+2024-04-29,153,Beverages,861,49,14,No,Bangalore,Sunday,Off-Season,36282.54
+2024-08-12,164,Fruits,117,45,24,No,Bangalore,Saturday,Regular,4001.4
+2024-12-27,150,Vegetables,163,18,22,Yes,Bangalore,Friday,Holiday,2288.52
+2024-03-15,152,Snacks,899,2,10,Yes,Bangalore,Thursday,Peak Season,1618.2
+2024-07-05,135,Dairy,454,13,18,No,Bangalore,Friday,Holiday,4839.64
+2024-10-21,125,Vegetables,656,45,2,No,Bangalore,Tuesday,Peak Season,28929.6
+2024-10-20,128,Dairy,698,15,6,Yes,Bangalore,Friday,Off-Season,9841.8
+2024-12-27,120,Fruits,105,20,20,Yes,Bangalore,Monday,Regular,1680.0
+2024-05-26,110,Vegetables,607,29,25,Yes,Bangalore,Saturday,Holiday,13202.25
+2024-08-09,139,Snacks,363,42,13,Yes,Bangalore,Friday,Regular,13264.02
+2024-01-13,110,Dairy,955,29,13,Yes,Bangalore,Monday,Holiday,24094.65
+2024-01-23,135,Fruits,313,3,21,No,Bangalore,Tuesday,Peak Season,741.8100000000001
+2024-09-16,158,Vegetables,975,19,12,No,Bangalore,Sunday,Regular,16302.0
+2024-12-14,138,Dairy,590,3,11,No,Bangalore,Saturday,Holiday,1575.3
+2024-08-22,198,Dairy,669,14,23,No,Bangalore,Friday,Off-Season,7211.820000000001
+2024-05-20,153,Snacks,630,40,8,Yes,Bangalore,Thursday,Peak Season,23184.0
+2024-08-25,197,Fruits,723,4,0,Yes,Bangalore,Thursday,Regular,2892.0
+2024-08-26,154,Beverages,262,11,18,Yes,Bangalore,Saturday,Holiday,2363.2400000000002
+2024-03-18,123,Dairy,850,31,10,No,Bangalore,Thursday,Regular,23715.0
+2024-02-29,121,Vegetables,580,43,22,Yes,Bangalore,Friday,Holiday,19453.2
+2024-03-13,168,Snacks,979,32,21,Yes,Bangalore,Friday,Peak Season,24749.120000000003
+2024-06-22,155,Snacks,51,27,22,No,Bangalore,Saturday,Off-Season,1074.06
+2024-09-20,132,Dairy,410,30,23,No,Bangalore,Friday,Peak Season,9471.0
+2024-05-21,135,Dairy,296,43,21,No,Bangalore,Sunday,Regular,10055.12
+2024-12-11,119,Dairy,551,2,18,Yes,Bangalore,Monday,Regular,903.6400000000001
+2024-11-06,182,Beverages,173,49,17,Yes,Bangalore,Tuesday,Holiday,7035.91
+2024-05-18,198,Dairy,402,9,11,No,Bangalore,Sunday,Peak Season,3220.02
+2024-07-29,180,Fruits,87,28,22,No,Bangalore,Sunday,Holiday,1900.0800000000002
+2024-11-28,161,Vegetables,897,31,27,Yes,Bangalore,Thursday,Peak Season,20299.11
+2024-02-03,197,Dairy,903,34,27,No,Bangalore,Monday,Regular,22412.46
+2024-10-15,172,Beverages,233,15,27,Yes,Bangalore,Saturday,Holiday,2551.35
+2024-11-12,125,Vegetables,674,48,26,No,Bangalore,Thursday,Holiday,23940.48
+2024-11-01,165,Snacks,395,25,0,No,Bangalore,Monday,Peak Season,9875.0
+2024-11-30,172,Dairy,763,36,18,No,Bangalore,Friday,Off-Season,22523.760000000002
+2024-09-04,172,Vegetables,232,8,27,Yes,Bangalore,Saturday,Peak Season,1354.8799999999999
+2024-09-21,139,Snacks,98,9,26,Yes,Bangalore,Saturday,Off-Season,652.68
+2024-01-27,116,Beverages,745,37,19,No,Bangalore,Thursday,Peak Season,22327.65
+2024-02-13,100,Fruits,647,48,28,Yes,Bangalore,Friday,Regular,22360.32
+2024-09-30,188,Dairy,623,45,29,No,Bangalore,Thursday,Holiday,19904.85
+2024-11-10,160,Fruits,801,39,16,No,Bangalore,Wednesday,Peak Season,26240.76
+2024-02-26,142,Beverages,942,32,4,Yes,Bangalore,Monday,Regular,28938.239999999998
+2024-03-07,141,Vegetables,400,17,25,Yes,Bangalore,Wednesday,Peak Season,5100.0
+2024-06-30,124,Vegetables,699,35,2,Yes,Bangalore,Monday,Holiday,23975.7
+2024-07-03,138,Beverages,77,37,1,Yes,Bangalore,Tuesday,Peak Season,2820.5099999999998
+2024-12-31,134,Beverages,815,19,2,No,Bangalore,Sunday,Off-Season,15175.3
+2024-01-31,102,Dairy,45,44,7,Yes,Bangalore,Saturday,Holiday,1841.3999999999999
+2024-06-05,143,Snacks,900,29,15,Yes,Bangalore,Thursday,Off-Season,22185.0
+2024-07-08,150,Fruits,466,7,5,No,Bangalore,Tuesday,Regular,3098.8999999999996
+2024-04-16,193,Fruits,85,28,12,No,Bangalore,Tuesday,Regular,2094.4
+2024-02-10,197,Vegetables,940,9,29,No,Bangalore,Saturday,Peak Season,6006.599999999999
+2024-01-03,111,Vegetables,779,28,22,No,Bangalore,Saturday,Off-Season,17013.36
+2024-08-31,118,Dairy,273,6,27,Yes,Bangalore,Monday,Off-Season,1195.74
+2024-09-16,143,Beverages,918,29,21,Yes,Bangalore,Wednesday,Holiday,21031.38
+2024-11-22,158,Fruits,987,17,21,No,Bangalore,Friday,Off-Season,13255.41
+2024-02-05,148,Dairy,63,16,15,No,Bangalore,Monday,Off-Season,856.8
+2024-08-04,160,Vegetables,116,23,27,Yes,Bangalore,Friday,Holiday,1947.6399999999999
+2024-06-30,116,Vegetables,573,31,15,Yes,Bangalore,Tuesday,Holiday,15098.55
+2024-04-13,173,Fruits,246,3,2,Yes,Bangalore,Friday,Off-Season,723.24
+2024-10-13,156,Vegetables,793,21,27,Yes,Bangalore,Wednesday,Peak Season,12156.69
+2024-10-19,154,Vegetables,698,26,12,Yes,Bangalore,Monday,Holiday,15970.24
+2024-09-25,146,Snacks,455,36,13,No,Bangalore,Saturday,Holiday,14250.6
+2024-12-07,111,Beverages,810,42,7,No,Bangalore,Wednesday,Off-Season,31638.6
+2024-02-27,161,Vegetables,620,37,11,No,Bangalore,Sunday,Off-Season,20416.6
+2024-06-01,179,Snacks,398,22,22,No,Bangalore,Wednesday,Holiday,6829.68
+2024-06-23,187,Dairy,197,42,22,Yes,Bangalore,Sunday,Off-Season,6453.72
+2024-11-18,182,Vegetables,446,12,21,No,Bangalore,Monday,Holiday,4228.08
+2024-07-04,107,Dairy,934,42,20,Yes,Bangalore,Saturday,Peak Season,31382.4
+2024-08-21,194,Vegetables,728,13,25,Yes,Bangalore,Wednesday,Peak Season,7098.0
+2024-09-01,120,Fruits,326,11,7,Yes,Bangalore,Sunday,Holiday,3334.9799999999996
+2024-02-11,180,Snacks,798,16,20,Yes,Bangalore,Saturday,Holiday,10214.400000000001
+2024-10-27,186,Snacks,523,8,24,Yes,Bangalore,Thursday,Regular,3179.84
+2024-07-24,179,Fruits,287,40,8,Yes,Bangalore,Thursday,Regular,10561.6
+2024-02-06,169,Beverages,605,40,0,Yes,Bangalore,Thursday,Off-Season,24200.0
+2024-09-17,171,Snacks,27,45,5,No,Bangalore,Friday,Off-Season,1154.25
+2024-07-10,124,Dairy,939,2,22,Yes,Bangalore,Wednesday,Holiday,1464.8400000000001
+2024-12-17,181,Snacks,527,30,18,No,Bangalore,Monday,Holiday,12964.2
+2024-01-04,188,Beverages,495,30,22,No,Bangalore,Monday,Regular,11583.0
+2024-02-22,111,Dairy,316,12,10,Yes,Bangalore,Friday,Regular,3412.8
+2024-10-13,114,Dairy,183,10,10,Yes,Bangalore,Monday,Holiday,1647.0
+2024-12-15,158,Fruits,504,44,22,No,Bangalore,Sunday,Peak Season,17297.28
+2024-05-14,125,Vegetables,616,11,29,No,Bangalore,Thursday,Peak Season,4810.96
+2024-10-18,125,Fruits,91,15,12,No,Bangalore,Wednesday,Off-Season,1201.2
+2024-03-27,146,Vegetables,586,16,10,No,Bangalore,Monday,Holiday,8438.4
+2024-10-02,131,Fruits,924,17,17,Yes,Bangalore,Monday,Holiday,13037.64
+2024-03-11,109,Vegetables,578,26,22,Yes,Bangalore,Tuesday,Off-Season,11721.84
+2024-05-18,115,Snacks,930,2,14,Yes,Bangalore,Tuesday,Regular,1599.6
+2024-09-07,170,Dairy,963,12,0,No,Bangalore,Tuesday,Regular,11556.0
+2024-04-30,116,Vegetables,257,26,20,Yes,Bangalore,Wednesday,Peak Season,5345.6
+2024-08-07,122,Snacks,123,23,24,No,Bangalore,Thursday,Holiday,2150.04
+2024-01-15,125,Beverages,229,18,6,Yes,Bangalore,Saturday,Regular,3874.68
+2024-09-08,184,Fruits,573,32,22,No,Bangalore,Thursday,Peak Season,14302.08
+2024-08-11,185,Beverages,847,49,26,Yes,Bangalore,Thursday,Peak Season,30712.22
+2024-03-21,106,Snacks,487,38,12,Yes,Bangalore,Wednesday,Peak Season,16285.28
+2024-03-06,113,Beverages,473,47,11,No,Bangalore,Sunday,Regular,19785.59
+2024-02-06,178,Beverages,287,3,17,No,Bangalore,Sunday,Regular,714.63
+2024-06-15,106,Snacks,405,38,23,No,Bangalore,Wednesday,Holiday,11850.300000000001
+2024-04-15,108,Dairy,794,3,18,No,Bangalore,Tuesday,Holiday,1953.2400000000002
+2024-12-18,147,Vegetables,867,30,14,No,Bangalore,Monday,Peak Season,22368.6
+2024-04-18,171,Fruits,406,1,7,Yes,Bangalore,Friday,Peak Season,377.58
+2024-11-16,158,Vegetables,896,30,18,No,Bangalore,Friday,Regular,22041.600000000002
+2024-08-21,186,Fruits,278,45,9,Yes,Bangalore,Saturday,Regular,11384.1
+2024-03-01,192,Vegetables,302,32,6,Yes,Bangalore,Monday,Holiday,9084.16
+2024-02-11,181,Beverages,645,28,17,Yes,Bangalore,Saturday,Holiday,14989.8
+2024-05-10,194,Dairy,894,21,15,Yes,Bangalore,Tuesday,Off-Season,15957.9
+2024-05-23,193,Beverages,59,46,19,Yes,Bangalore,Saturday,Holiday,2198.34
+2024-04-10,138,Dairy,505,13,26,No,Bangalore,Monday,Regular,4858.1
+2024-01-04,198,Snacks,948,27,5,No,Bangalore,Monday,Peak Season,24316.199999999997
+2024-10-19,117,Fruits,239,36,26,Yes,Bangalore,Friday,Off-Season,6366.96
+2024-11-24,158,Fruits,148,7,8,Yes,Bangalore,Sunday,Holiday,953.12
+2024-01-24,116,Snacks,539,22,20,No,Bangalore,Tuesday,Holiday,9486.4
+2024-03-17,113,Vegetables,632,10,12,No,Bangalore,Wednesday,Regular,5561.6
+2024-02-19,130,Snacks,947,39,24,Yes,Bangalore,Saturday,Off-Season,28069.08
+2024-05-13,123,Snacks,911,15,20,No,Bangalore,Friday,Holiday,10932.0
+2024-09-04,198,Dairy,707,15,25,No,Bangalore,Saturday,Peak Season,7953.75
+2024-07-31,159,Snacks,638,4,7,No,Bangalore,Saturday,Regular,2373.3599999999997
+2024-07-05,144,Fruits,632,32,15,Yes,Bangalore,Wednesday,Off-Season,17190.399999999998
+2024-02-02,197,Beverages,279,23,12,No,Bangalore,Tuesday,Holiday,5646.96
+2024-06-22,102,Dairy,985,6,12,Yes,Bangalore,Monday,Holiday,5200.8
+2024-10-18,136,Dairy,385,24,16,Yes,Bangalore,Thursday,Off-Season,7761.599999999999
+2024-10-04,142,Vegetables,777,20,22,Yes,Bangalore,Saturday,Regular,12121.2
+2024-12-06,139,Beverages,806,37,19,Yes,Bangalore,Thursday,Off-Season,24155.820000000003
+2024-04-22,189,Dairy,563,20,4,Yes,Bangalore,Tuesday,Off-Season,10809.6
+2024-09-29,154,Snacks,668,12,21,No,Bangalore,Thursday,Regular,6332.64
+2024-02-15,186,Dairy,543,33,20,Yes,Bangalore,Saturday,Holiday,14335.2
+2024-07-21,138,Dairy,926,28,27,Yes,Bangalore,Wednesday,Peak Season,18927.44
+2024-07-25,114,Dairy,833,8,16,Yes,Bangalore,Thursday,Regular,5597.76
+2024-04-21,103,Vegetables,906,1,27,No,Bangalore,Tuesday,Peak Season,661.38
+2024-08-04,192,Dairy,35,37,8,No,Bangalore,Tuesday,Holiday,1191.4
+2024-11-09,185,Dairy,148,22,1,No,Bangalore,Sunday,Off-Season,3223.44
+2024-02-28,124,Vegetables,594,6,24,No,Bangalore,Sunday,Peak Season,2708.64
+2024-04-28,112,Beverages,128,21,25,No,Bangalore,Wednesday,Holiday,2016.0
+2024-04-11,181,Fruits,906,32,17,No,Bangalore,Thursday,Holiday,24063.36
+2024-01-20,132,Vegetables,552,35,8,No,Bangalore,Thursday,Off-Season,17774.4
+2024-06-01,115,Vegetables,689,15,5,Yes,Bangalore,Sunday,Off-Season,9818.25
+2024-07-08,141,Dairy,288,5,10,Yes,Bangalore,Monday,Holiday,1296.0
+2024-04-28,165,Dairy,181,46,24,No,Bangalore,Friday,Holiday,6327.76
+2024-06-18,154,Fruits,279,48,28,Yes,Bangalore,Tuesday,Peak Season,9642.24
+2024-01-24,198,Dairy,943,6,5,Yes,Bangalore,Monday,Holiday,5375.099999999999
+2024-04-01,141,Snacks,121,25,5,No,Bangalore,Tuesday,Holiday,2873.75
+2024-04-22,133,Dairy,525,46,12,Yes,Bangalore,Monday,Peak Season,21252.0
+2024-04-30,129,Dairy,754,40,10,Yes,Bangalore,Sunday,Regular,27144.0
+2024-01-23,112,Snacks,590,29,13,No,Bangalore,Sunday,Peak Season,14885.7
+2024-04-14,112,Fruits,266,7,1,Yes,Bangalore,Friday,Peak Season,1843.3799999999999
+2024-09-29,117,Snacks,659,40,7,No,Bangalore,Monday,Off-Season,24514.8
+2024-08-10,131,Vegetables,814,13,2,No,Bangalore,Tuesday,Peak Season,10370.36
+2024-09-24,195,Snacks,856,38,22,Yes,Bangalore,Thursday,Holiday,25371.84
+2024-04-12,198,Beverages,556,18,20,Yes,Bangalore,Tuesday,Holiday,8006.400000000001
+2024-07-14,138,Vegetables,150,2,2,Yes,Bangalore,Saturday,Holiday,294.0
+2024-09-25,145,Dairy,372,8,0,No,Bangalore,Sunday,Regular,2976.0
+2024-05-04,128,Vegetables,215,11,23,No,Bangalore,Wednesday,Holiday,1821.05
+2024-12-02,161,Fruits,812,33,18,No,Bangalore,Wednesday,Regular,21972.72
+2024-08-17,192,Fruits,935,38,17,Yes,Bangalore,Sunday,Holiday,29489.899999999998
+2024-07-19,161,Snacks,949,48,16,Yes,Bangalore,Saturday,Peak Season,38263.68
+2024-03-03,156,Vegetables,685,27,19,No,Bangalore,Wednesday,Off-Season,14980.95
+2024-09-01,115,Dairy,401,20,28,Yes,Bangalore,Sunday,Holiday,5774.4
+2024-11-06,155,Fruits,664,12,23,Yes,Bangalore,Wednesday,Regular,6135.360000000001
+2024-08-07,109,Dairy,246,43,12,No,Bangalore,Sunday,Regular,9308.64
+2024-10-16,129,Beverages,720,31,2,No,Bangalore,Friday,Off-Season,21873.6
+2024-09-14,124,Fruits,495,27,29,Yes,Bangalore,Thursday,Holiday,9489.15
+2024-09-14,183,Snacks,496,32,0,No,Bangalore,Thursday,Peak Season,15872.0
+2024-10-24,104,Beverages,284,10,3,Yes,Bangalore,Tuesday,Holiday,2754.7999999999997
+2024-07-19,164,Vegetables,391,3,24,No,Bangalore,Saturday,Holiday,891.48
+2024-03-02,193,Dairy,505,45,12,No,Bangalore,Sunday,Off-Season,19998.0
+2024-08-19,148,Fruits,453,27,16,No,Bangalore,Monday,Holiday,10274.039999999999
+2024-04-11,102,Beverages,665,35,27,Yes,Bangalore,Tuesday,Peak Season,16990.75
+2024-06-14,144,Beverages,230,31,29,Yes,Bangalore,Tuesday,Regular,5062.3
+2024-06-01,113,Fruits,591,15,10,No,Bangalore,Sunday,Off-Season,7978.5
+2024-02-15,129,Vegetables,959,16,1,No,Bangalore,Sunday,Peak Season,15190.56
+2024-01-06,167,Vegetables,396,13,24,No,Bangalore,Tuesday,Regular,3912.48
+2024-08-17,117,Snacks,414,49,15,Yes,Bangalore,Tuesday,Off-Season,17243.1
+2024-02-21,161,Vegetables,469,35,1,No,Bangalore,Thursday,Off-Season,16250.85
+2024-09-26,136,Snacks,962,11,28,No,Bangalore,Monday,Regular,7619.04
+2024-08-11,124,Beverages,383,21,18,No,Bangalore,Tuesday,Regular,6595.26
+2024-12-05,147,Fruits,895,11,22,No,Bangalore,Thursday,Peak Season,7679.1
+2024-10-31,164,Vegetables,476,30,18,Yes,Bangalore,Tuesday,Holiday,11709.6
+2024-11-27,152,Snacks,744,48,24,Yes,Bangalore,Wednesday,Holiday,27141.12
+2024-04-17,178,Beverages,747,35,15,No,Bangalore,Tuesday,Holiday,22223.25
+2024-04-21,172,Vegetables,245,22,21,Yes,Bangalore,Sunday,Holiday,4258.1
+2024-09-02,114,Dairy,150,38,18,Yes,Bangalore,Saturday,Holiday,4674.0
+2024-11-04,148,Beverages,607,31,8,Yes,Bangalore,Saturday,Peak Season,17311.64
+2024-06-13,187,Vegetables,495,14,0,No,Bangalore,Tuesday,Off-Season,6930.0
+2024-02-03,167,Beverages,817,24,9,Yes,Bangalore,Friday,Peak Season,17843.28
+2024-10-11,111,Fruits,296,49,18,Yes,Bangalore,Wednesday,Peak Season,11893.28
+2024-03-21,158,Fruits,175,32,0,Yes,Bangalore,Monday,Peak Season,5600.0
+2024-06-22,136,Fruits,779,36,1,No,Bangalore,Tuesday,Off-Season,27763.56
+2024-05-16,160,Dairy,237,32,15,No,Bangalore,Monday,Peak Season,6446.4
+2024-01-04,142,Fruits,209,15,11,Yes,Bangalore,Wednesday,Peak Season,2790.15
+2024-10-19,169,Dairy,436,43,7,Yes,Bangalore,Tuesday,Off-Season,17435.64
+2024-08-14,138,Fruits,694,35,22,No,Bangalore,Friday,Peak Season,18946.2
+2024-04-10,155,Beverages,711,3,17,No,Bangalore,Thursday,Holiday,1770.3899999999999
+2024-08-16,162,Vegetables,565,16,1,Yes,Bangalore,Friday,Regular,8949.6
+2024-02-24,145,Vegetables,60,5,24,Yes,Bangalore,Sunday,Peak Season,228.0
+2024-12-24,187,Fruits,326,21,28,No,Bangalore,Friday,Regular,4929.12
+2024-08-28,110,Vegetables,962,10,12,No,Bangalore,Thursday,Peak Season,8465.6
+2024-02-14,161,Fruits,357,19,5,Yes,Bangalore,Sunday,Peak Season,6443.849999999999
+2024-07-23,176,Fruits,333,25,20,No,Bangalore,Thursday,Holiday,6660.0
+2024-05-11,197,Snacks,94,4,25,Yes,Bangalore,Saturday,Off-Season,282.0
+2024-05-05,124,Snacks,972,29,5,Yes,Bangalore,Thursday,Regular,26778.6
+2024-08-26,170,Snacks,298,19,8,Yes,Bangalore,Tuesday,Off-Season,5209.04
+2024-11-14,151,Dairy,195,43,15,No,Bangalore,Monday,Holiday,7127.25
+2024-04-25,103,Snacks,915,2,10,Yes,Bangalore,Saturday,Holiday,1647.0
+2024-08-26,158,Fruits,681,10,6,Yes,Bangalore,Saturday,Regular,6401.4
+2024-04-20,171,Beverages,292,43,9,No,Bangalore,Monday,Off-Season,11425.960000000001
+2024-02-15,119,Snacks,856,25,9,No,Bangalore,Saturday,Holiday,19474.0
+2024-07-31,192,Snacks,639,20,29,Yes,Bangalore,Thursday,Peak Season,9073.8
+2024-09-21,162,Beverages,670,48,24,Yes,Bangalore,Friday,Peak Season,24441.6
+2024-01-14,153,Fruits,881,19,19,No,Bangalore,Wednesday,Peak Season,13558.59
+2024-07-24,173,Dairy,802,23,17,No,Bangalore,Thursday,Off-Season,15310.179999999998
+2024-10-23,197,Snacks,878,24,27,No,Bangalore,Sunday,Peak Season,15382.56
+2024-09-29,156,Beverages,950,11,23,Yes,Bangalore,Sunday,Peak Season,8046.5
+2024-06-22,189,Fruits,308,46,19,Yes,Bangalore,Friday,Holiday,11476.08
+2024-05-18,140,Vegetables,743,34,28,Yes,Bangalore,Friday,Holiday,18188.64
+2024-07-30,102,Dairy,912,28,8,No,Bangalore,Saturday,Peak Season,23493.120000000003
+2024-09-18,105,Beverages,291,5,14,Yes,Bangalore,Tuesday,Peak Season,1251.3
+2024-01-07,104,Beverages,949,5,3,No,Bangalore,Tuesday,Holiday,4602.65
+2024-12-24,104,Beverages,85,21,7,Yes,Bangalore,Saturday,Regular,1660.05
+2024-08-14,153,Snacks,502,12,8,No,Bangalore,Saturday,Off-Season,5542.08
+2024-06-07,146,Vegetables,955,4,12,Yes,Bangalore,Monday,Off-Season,3361.6
+2024-05-27,186,Dairy,267,49,8,Yes,Bangalore,Monday,Holiday,12036.36
+2024-12-14,148,Fruits,175,42,25,No,Bangalore,Wednesday,Off-Season,5512.5
+2024-10-03,108,Fruits,66,20,3,No,Bangalore,Wednesday,Holiday,1280.3999999999999
+2024-02-17,198,Vegetables,954,38,16,Yes,Bangalore,Wednesday,Holiday,30451.68
+2024-02-15,119,Beverages,473,25,15,No,Bangalore,Wednesday,Holiday,10051.25
+2024-03-23,160,Beverages,220,14,14,No,Bangalore,Friday,Holiday,2648.8
+2024-06-18,134,Beverages,679,11,2,Yes,Bangalore,Friday,Regular,7319.62
+2024-11-13,149,Beverages,143,32,24,No,Bangalore,Monday,Peak Season,3477.76
+2024-12-28,181,Beverages,20,11,19,Yes,Bangalore,Tuesday,Peak Season,178.20000000000002
+2024-10-24,161,Vegetables,987,18,4,Yes,Bangalore,Saturday,Regular,17055.36
+2024-01-07,116,Snacks,778,27,22,No,Bangalore,Sunday,Off-Season,16384.68
+2024-08-12,187,Dairy,874,18,4,No,Bangalore,Tuesday,Off-Season,15102.72
+2024-09-13,102,Beverages,659,23,19,Yes,Bangalore,Thursday,Peak Season,12277.17
+2024-11-06,131,Snacks,210,11,14,Yes,Bangalore,Friday,Off-Season,1986.6
+2024-04-30,198,Fruits,598,21,17,Yes,Bangalore,Wednesday,Peak Season,10423.14
+2024-09-24,112,Vegetables,535,44,14,Yes,Bangalore,Wednesday,Peak Season,20244.4
+2024-03-06,188,Snacks,461,5,1,Yes,Bangalore,Thursday,Regular,2281.95
+2024-06-17,172,Beverages,940,23,28,Yes,Bangalore,Tuesday,Off-Season,15566.4
+2024-09-27,167,Beverages,834,41,12,No,Bangalore,Wednesday,Regular,30090.72
+2024-08-03,113,Beverages,825,25,3,No,Bangalore,Tuesday,Peak Season,20006.25
+2024-09-09,197,Snacks,162,41,9,No,Bangalore,Saturday,Peak Season,6044.22
+2024-08-14,110,Beverages,210,10,12,Yes,Bangalore,Thursday,Peak Season,1848.0
+2024-03-04,155,Snacks,552,22,9,No,Bangalore,Sunday,Holiday,11051.04
+2024-06-20,166,Beverages,246,19,28,Yes,Bangalore,Tuesday,Holiday,3365.2799999999997
+2024-08-07,191,Fruits,332,1,8,Yes,Bangalore,Saturday,Holiday,305.44
+2024-05-03,128,Fruits,648,7,7,No,Bangalore,Tuesday,Regular,4218.48
+2024-09-19,108,Dairy,968,4,2,Yes,Bangalore,Tuesday,Peak Season,3794.56
+2024-04-22,166,Beverages,321,1,15,Yes,Bangalore,Wednesday,Off-Season,272.84999999999997
+2024-06-15,124,Beverages,673,15,13,Yes,Bangalore,Monday,Regular,8782.65
+2024-11-10,197,Snacks,479,40,8,Yes,Bangalore,Friday,Regular,17627.2
+2024-12-08,175,Snacks,420,12,29,Yes,Bangalore,Tuesday,Regular,3578.3999999999996
+2024-04-21,141,Beverages,570,22,20,Yes,Bangalore,Tuesday,Off-Season,10032.0
+2024-02-02,108,Dairy,412,22,10,No,Bangalore,Tuesday,Peak Season,8157.6
+2024-07-20,178,Beverages,886,47,2,Yes,Bangalore,Monday,Holiday,40809.159999999996
+2024-11-18,139,Snacks,783,17,4,Yes,Bangalore,Saturday,Peak Season,12778.56
+2024-08-25,124,Beverages,864,29,28,Yes,Bangalore,Sunday,Peak Season,18040.32
+2024-08-23,104,Snacks,226,46,9,Yes,Bangalore,Sunday,Regular,9460.36
+2024-12-01,110,Beverages,229,14,12,No,Bangalore,Thursday,Regular,2821.28
+2024-09-21,158,Vegetables,134,20,3,No,Bangalore,Wednesday,Regular,2599.6
+2024-01-06,197,Snacks,756,48,23,Yes,Bangalore,Monday,Holiday,27941.760000000002
+2024-08-01,187,Dairy,665,33,12,Yes,Bangalore,Saturday,Holiday,19311.6
+2024-06-30,178,Vegetables,270,43,11,Yes,Bangalore,Tuesday,Holiday,10332.9
+2024-07-24,137,Beverages,238,15,4,No,Bangalore,Saturday,Peak Season,3427.2
+2024-11-15,171,Snacks,426,12,9,No,Bangalore,Monday,Regular,4651.92
+2024-11-06,104,Vegetables,462,40,27,No,Bangalore,Monday,Off-Season,13490.4
+2024-02-18,147,Dairy,622,20,23,No,Bangalore,Monday,Peak Season,9578.800000000001
+2024-12-13,189,Snacks,373,30,8,Yes,Bangalore,Thursday,Holiday,10294.800000000001
+2024-12-06,117,Vegetables,907,38,19,No,Bangalore,Friday,Off-Season,27917.460000000003
+2024-07-12,169,Vegetables,577,3,6,No,Bangalore,Wednesday,Off-Season,1627.1399999999999
+2024-11-16,136,Vegetables,569,28,1,Yes,Bangalore,Thursday,Regular,15772.68
+2024-11-30,159,Fruits,161,26,21,Yes,Bangalore,Thursday,Off-Season,3306.94
+2024-06-21,147,Beverages,631,30,23,No,Bangalore,Friday,Holiday,14576.1
+2024-11-05,176,Snacks,520,13,27,No,Bangalore,Thursday,Regular,4934.8
+2024-12-22,127,Snacks,859,13,22,No,Bangalore,Monday,Off-Season,8710.26
+2024-09-30,168,Snacks,721,2,6,No,Bangalore,Monday,Regular,1355.48
+2024-12-30,176,Vegetables,566,37,7,Yes,Bangalore,Saturday,Off-Season,19476.059999999998
+2024-06-04,180,Beverages,678,49,6,Yes,Bangalore,Tuesday,Peak Season,31228.679999999997
+2024-04-30,139,Dairy,561,38,20,No,Bangalore,Thursday,Peak Season,17054.4
+2024-01-08,144,Snacks,865,2,22,No,Bangalore,Tuesday,Holiday,1349.4
+2024-07-26,195,Beverages,526,36,28,No,Bangalore,Wednesday,Peak Season,13633.92
+2024-01-29,161,Beverages,615,26,13,No,Bangalore,Sunday,Peak Season,13911.3
+2024-01-23,192,Fruits,900,11,25,No,Bangalore,Monday,Peak Season,7425.0
+2024-12-04,157,Snacks,300,8,18,Yes,Bangalore,Saturday,Off-Season,1968.0000000000002
+2024-02-09,166,Vegetables,443,44,4,Yes,Bangalore,Wednesday,Off-Season,18712.32
+2024-02-13,155,Beverages,875,40,22,Yes,Bangalore,Saturday,Regular,27300.0
+2024-02-25,139,Beverages,289,43,24,No,Bangalore,Sunday,Off-Season,9444.52
+2024-05-20,197,Dairy,173,22,17,No,Bangalore,Sunday,Peak Season,3158.98
+2024-01-22,139,Fruits,633,20,19,Yes,Bangalore,Friday,Off-Season,10254.6
+2024-02-22,190,Beverages,746,8,11,Yes,Bangalore,Monday,Holiday,5311.52
+2024-04-20,176,Beverages,681,29,22,No,Bangalore,Wednesday,Regular,15404.220000000001
+2024-09-19,132,Vegetables,963,40,16,Yes,Bangalore,Friday,Regular,32356.8
+2024-06-15,105,Vegetables,102,26,12,No,Bangalore,Sunday,Off-Season,2333.76
+2024-09-30,187,Dairy,641,30,1,No,Bangalore,Wednesday,Peak Season,19037.7
+2024-06-24,118,Dairy,966,17,24,Yes,Bangalore,Saturday,Regular,12480.72
+2024-03-19,179,Dairy,918,20,12,Yes,Bangalore,Friday,Holiday,16156.8
+2024-08-13,139,Vegetables,445,16,25,Yes,Bangalore,Friday,Holiday,5340.0
+2024-12-05,191,Vegetables,294,46,6,No,Bangalore,Monday,Regular,12712.56
+2024-06-18,196,Fruits,732,43,27,No,Bangalore,Tuesday,Peak Season,22977.48
+2024-05-04,158,Snacks,303,7,9,Yes,Bangalore,Saturday,Peak Season,1930.1100000000001
+2024-11-17,158,Snacks,999,16,22,No,Bangalore,Saturday,Off-Season,12467.52
+2024-03-31,147,Fruits,192,45,5,No,Bangalore,Friday,Off-Season,8208.0
+2024-06-03,140,Snacks,346,47,2,No,Bangalore,Friday,Regular,15936.76
+2024-06-29,112,Vegetables,737,48,25,Yes,Bangalore,Monday,Off-Season,26532.0
+2024-05-15,144,Snacks,82,27,2,No,Bangalore,Tuesday,Off-Season,2169.72
+2024-08-12,188,Vegetables,92,23,17,Yes,Bangalore,Saturday,Off-Season,1756.28
+2024-11-21,152,Fruits,782,24,10,Yes,Bangalore,Sunday,Holiday,16891.2
+2024-09-22,141,Dairy,655,9,21,No,Bangalore,Thursday,Off-Season,4657.05
+2024-03-06,199,Fruits,394,35,19,Yes,Bangalore,Thursday,Regular,11169.900000000001
+2024-10-23,162,Snacks,652,20,4,No,Bangalore,Tuesday,Peak Season,12518.4
+2024-09-19,126,Vegetables,527,37,18,Yes,Bangalore,Wednesday,Off-Season,15989.180000000002
+2024-05-06,137,Snacks,806,42,21,Yes,Bangalore,Monday,Peak Season,26743.08
+2024-02-01,159,Snacks,962,17,26,No,Bangalore,Tuesday,Off-Season,12101.96
+2024-02-04,106,Dairy,417,47,27,Yes,Bangalore,Thursday,Regular,14307.27
+2024-11-06,104,Snacks,139,31,18,Yes,Bangalore,Friday,Holiday,3533.38
+2024-01-29,144,Dairy,953,8,29,Yes,Bangalore,Thursday,Regular,5413.04
+2024-06-21,157,Vegetables,456,15,14,No,Bangalore,Friday,Holiday,5882.4
+2024-12-14,130,Vegetables,848,31,29,No,Bangalore,Monday,Off-Season,18664.48
+2024-02-22,122,Dairy,695,30,15,Yes,Bangalore,Friday,Off-Season,17722.5
+2024-12-07,141,Fruits,955,46,23,Yes,Bangalore,Tuesday,Holiday,33826.1
+2024-02-17,109,Vegetables,484,20,8,Yes,Bangalore,Friday,Regular,8905.6
+2024-03-17,131,Fruits,305,39,3,No,Bangalore,Wednesday,Regular,11538.15
+2024-10-23,152,Vegetables,284,12,14,No,Bangalore,Tuesday,Holiday,2930.88
+2024-02-03,129,Vegetables,339,49,24,Yes,Bangalore,Monday,Off-Season,12624.36
+2024-08-13,138,Beverages,692,17,11,No,Bangalore,Tuesday,Holiday,10469.960000000001
+2024-06-21,130,Snacks,395,42,22,No,Bangalore,Wednesday,Off-Season,12940.2
+2024-11-28,181,Snacks,839,30,2,No,Bangalore,Monday,Holiday,24666.6
+2024-04-17,199,Fruits,108,29,22,No,Bangalore,Thursday,Off-Season,2442.96
+2024-08-26,101,Snacks,673,19,13,Yes,Bangalore,Wednesday,Holiday,11124.69
+2024-09-08,177,Fruits,222,46,16,No,Bangalore,Monday,Peak Season,8578.08
+2024-05-30,176,Vegetables,840,11,18,No,Bangalore,Sunday,Off-Season,7576.8
+2024-12-05,192,Beverages,758,34,5,Yes,Bangalore,Friday,Regular,24483.399999999998
+2024-12-30,111,Beverages,974,7,3,Yes,Bangalore,Tuesday,Holiday,6613.46
+2024-06-20,138,Vegetables,353,44,6,No,Bangalore,Monday,Regular,14600.08
+2024-11-06,165,Dairy,241,34,29,No,Bangalore,Tuesday,Holiday,5817.74
+2024-06-05,195,Dairy,60,20,18,Yes,Bangalore,Friday,Regular,984.0000000000001
+2024-08-10,112,Snacks,727,38,16,Yes,Bangalore,Monday,Regular,23205.84
+2024-05-21,145,Fruits,87,24,24,Yes,Bangalore,Thursday,Holiday,1586.88
+2024-01-05,126,Beverages,795,10,15,No,Bangalore,Sunday,Holiday,6757.5
+2024-12-02,116,Snacks,533,32,14,No,Bangalore,Sunday,Regular,14668.16
+2024-09-28,194,Vegetables,892,15,21,Yes,Bangalore,Wednesday,Regular,10570.2
+2024-01-16,197,Beverages,656,37,7,No,Bangalore,Monday,Regular,22572.96
+2024-11-04,159,Fruits,641,20,18,Yes,Bangalore,Friday,Off-Season,10512.400000000001
+2024-11-21,163,Fruits,617,3,7,No,Bangalore,Monday,Off-Season,1721.4299999999998
+2024-03-18,187,Dairy,956,37,17,Yes,Bangalore,Tuesday,Peak Season,29358.76
+2024-08-08,134,Snacks,651,40,27,Yes,Bangalore,Saturday,Off-Season,19009.2
+2024-11-29,169,Vegetables,146,8,15,No,Bangalore,Monday,Off-Season,992.8
+2024-02-27,182,Beverages,274,40,19,No,Bangalore,Sunday,Holiday,8877.6
+2024-09-01,129,Fruits,714,44,18,No,Bangalore,Sunday,Peak Season,25761.120000000003
+2024-06-08,170,Beverages,35,23,9,No,Bangalore,Sunday,Peak Season,732.5500000000001
+2024-07-30,173,Vegetables,496,40,16,No,Bangalore,Thursday,Off-Season,16665.6
+2024-02-16,195,Beverages,81,11,12,No,Bangalore,Monday,Holiday,784.08
+2024-06-09,197,Snacks,900,46,12,Yes,Bangalore,Wednesday,Holiday,36432.0
+2024-02-13,162,Dairy,451,8,6,No,Bangalore,Monday,Peak Season,3391.52
+2024-02-17,127,Beverages,689,29,26,Yes,Bangalore,Saturday,Holiday,14785.94
+2024-11-06,159,Dairy,287,30,9,Yes,Bangalore,Sunday,Regular,7835.1
+2024-04-11,178,Vegetables,54,10,1,No,Bangalore,Tuesday,Off-Season,534.6
+2024-08-26,193,Dairy,798,39,3,Yes,Bangalore,Sunday,Regular,30188.34
+2024-12-07,136,Beverages,595,28,24,Yes,Bangalore,Monday,Peak Season,12661.6
+2024-08-06,192,Beverages,513,49,5,No,Bangalore,Thursday,Peak Season,23880.149999999998
+2024-09-04,121,Fruits,581,36,23,No,Bangalore,Friday,Holiday,16105.32
+2024-08-31,167,Beverages,488,13,17,No,Bangalore,Monday,Holiday,5265.5199999999995
+2024-07-21,119,Dairy,786,32,22,Yes,Bangalore,Monday,Peak Season,19618.56
+2024-07-10,195,Fruits,680,36,5,No,Bangalore,Wednesday,Peak Season,23256.0
+2024-04-09,199,Beverages,344,37,28,No,Bangalore,Thursday,Regular,9164.16
+2024-02-04,167,Beverages,323,26,29,No,Bangalore,Saturday,Regular,5962.58
+2024-04-30,190,Vegetables,295,22,24,No,Bangalore,Friday,Holiday,4932.4
+2024-12-16,163,Fruits,888,4,22,Yes,Bangalore,Sunday,Regular,2770.56
+2024-06-06,116,Vegetables,982,31,16,No,Bangalore,Tuesday,Holiday,25571.28
+2024-07-14,111,Vegetables,703,18,13,Yes,Bangalore,Monday,Holiday,11008.98
+2024-03-10,121,Vegetables,948,38,23,No,Bangalore,Saturday,Off-Season,27738.48
+2024-10-05,116,Snacks,220,24,10,Yes,Bangalore,Friday,Holiday,4752.0
+2024-07-16,109,Vegetables,464,23,25,Yes,Bangalore,Tuesday,Regular,8004.0
+2024-03-01,164,Dairy,924,22,18,Yes,Bangalore,Saturday,Peak Season,16668.960000000003
+2024-02-14,121,Beverages,343,2,29,No,Bangalore,Thursday,Peak Season,487.06
+2024-06-08,189,Snacks,54,31,1,Yes,Bangalore,Thursday,Regular,1657.26
+2024-07-10,181,Vegetables,996,11,27,No,Bangalore,Friday,Peak Season,7997.88
+2024-06-06,149,Beverages,501,28,2,No,Bangalore,Sunday,Holiday,13747.44
+2024-06-06,113,Fruits,747,46,10,No,Bangalore,Tuesday,Peak Season,30925.8
+2024-12-13,163,Fruits,499,32,5,No,Bangalore,Thursday,Regular,15169.599999999999
+2024-07-09,146,Beverages,84,5,28,No,Bangalore,Friday,Peak Season,302.4
+2024-01-09,128,Dairy,27,38,13,Yes,Bangalore,Thursday,Holiday,892.62
+2024-09-06,175,Beverages,320,10,18,No,Bangalore,Thursday,Holiday,2624.0
+2024-03-08,135,Beverages,362,40,25,Yes,Bangalore,Saturday,Regular,10860.0
+2024-04-30,198,Snacks,450,46,15,Yes,Bangalore,Saturday,Regular,17595.0
+2024-08-27,151,Fruits,443,24,20,Yes,Bangalore,Thursday,Regular,8505.6
+2024-05-19,175,Fruits,351,35,21,Yes,Bangalore,Wednesday,Off-Season,9705.15
+2024-01-06,106,Vegetables,457,44,23,Yes,Bangalore,Saturday,Off-Season,15483.16
+2024-01-10,128,Beverages,607,48,6,Yes,Bangalore,Tuesday,Holiday,27387.84
+2024-09-27,110,Beverages,193,23,29,Yes,Bangalore,Friday,Off-Season,3151.69
+2024-12-12,132,Dairy,578,17,26,No,Bangalore,Friday,Off-Season,7271.24
+2024-05-21,105,Fruits,546,1,7,Yes,Bangalore,Sunday,Peak Season,507.78
+2024-07-15,178,Dairy,892,31,18,No,Bangalore,Tuesday,Off-Season,22674.640000000003
+2024-08-16,131,Snacks,678,31,19,Yes,Bangalore,Tuesday,Peak Season,17024.58
+2024-10-20,150,Vegetables,45,42,15,Yes,Bangalore,Tuesday,Regular,1606.5
+2024-03-25,174,Dairy,839,42,21,Yes,Bangalore,Sunday,Peak Season,27838.02
+2024-09-17,157,Fruits,624,34,26,Yes,Bangalore,Tuesday,Peak Season,15699.84
+2024-09-18,186,Snacks,425,9,6,No,Bangalore,Monday,Regular,3595.5
+2024-09-12,125,Beverages,251,22,8,No,Bangalore,Sunday,Regular,5080.24
+2024-04-16,197,Snacks,552,13,12,No,Bangalore,Friday,Holiday,6314.88
+2024-09-01,145,Dairy,838,25,0,Yes,Bangalore,Monday,Holiday,20950.0
+2024-01-03,197,Fruits,569,48,28,Yes,Bangalore,Sunday,Holiday,19664.64
+2024-10-18,128,Dairy,807,18,7,Yes,Bangalore,Thursday,Holiday,13509.179999999998
+2024-03-18,103,Beverages,524,12,23,No,Bangalore,Thursday,Peak Season,4841.76
+2024-09-25,180,Beverages,688,40,21,Yes,Bangalore,Friday,Peak Season,21740.8
+2024-03-08,198,Fruits,198,17,3,No,Bangalore,Thursday,Holiday,3265.02
+2024-12-25,112,Vegetables,151,15,2,No,Bangalore,Tuesday,Off-Season,2219.7
+2024-07-01,138,Snacks,842,42,26,Yes,Bangalore,Sunday,Holiday,26169.36
+2024-12-31,114,Snacks,474,15,2,Yes,Bangalore,Monday,Off-Season,6967.8
+2024-11-13,128,Beverages,367,15,21,No,Bangalore,Tuesday,Regular,4348.95
+2024-10-16,128,Dairy,559,39,12,No,Bangalore,Thursday,Peak Season,19184.88
+2024-03-01,174,Dairy,791,13,7,No,Bangalore,Saturday,Peak Season,9563.189999999999
+2024-03-09,131,Vegetables,425,17,6,Yes,Bangalore,Monday,Off-Season,6791.5
+2024-08-21,101,Dairy,95,32,26,Yes,Bangalore,Tuesday,Holiday,2249.6
+2024-12-06,146,Snacks,960,9,0,Yes,Bangalore,Sunday,Peak Season,8640.0
+2024-01-04,177,Dairy,598,40,26,Yes,Bangalore,Friday,Off-Season,17700.8
+2024-06-09,183,Vegetables,873,20,15,Yes,Bangalore,Tuesday,Regular,14841.0
+2024-10-12,121,Snacks,511,26,5,Yes,Bangalore,Saturday,Regular,12621.699999999999
+2024-06-22,174,Dairy,213,27,6,No,Bangalore,Thursday,Peak Season,5405.94
+2024-06-06,126,Snacks,181,21,11,No,Bangalore,Monday,Holiday,3382.89
+2024-12-09,166,Beverages,366,18,22,No,Bangalore,Friday,Off-Season,5138.64
+2024-02-02,180,Beverages,970,13,8,Yes,Bangalore,Monday,Peak Season,11601.2
+2024-08-09,155,Beverages,380,16,26,No,Bangalore,Friday,Regular,4499.2
+2024-09-02,191,Dairy,788,9,10,Yes,Bangalore,Sunday,Holiday,6382.8
+2024-10-13,192,Vegetables,603,12,9,Yes,Bangalore,Monday,Off-Season,6584.76
+2024-10-06,120,Snacks,106,44,20,No,Bangalore,Thursday,Peak Season,3731.2000000000003
+2024-03-07,146,Fruits,953,38,0,Yes,Bangalore,Sunday,Off-Season,36214.0
+2024-07-11,179,Beverages,281,19,17,No,Bangalore,Sunday,Holiday,4431.37
+2024-06-22,158,Beverages,233,7,3,No,Bangalore,Friday,Holiday,1582.07
+2024-09-09,183,Fruits,684,35,4,Yes,Bangalore,Wednesday,Regular,22982.399999999998
+2024-02-27,105,Fruits,741,48,8,No,Bangalore,Monday,Holiday,32722.56
+2024-03-01,118,Dairy,932,18,26,No,Bangalore,Monday,Peak Season,12414.24
+2024-02-14,156,Snacks,592,16,16,No,Bangalore,Tuesday,Off-Season,7956.48
+2024-08-15,168,Beverages,799,39,2,No,Bangalore,Friday,Holiday,30537.78
+2024-10-20,102,Vegetables,281,4,15,Yes,Bangalore,Saturday,Holiday,955.4
+2024-04-05,100,Dairy,749,25,4,No,Bangalore,Wednesday,Peak Season,17976.0
+2024-04-19,157,Dairy,302,32,15,No,Bangalore,Thursday,Off-Season,8214.4
+2024-07-23,137,Vegetables,667,40,2,No,Bangalore,Tuesday,Off-Season,26146.399999999998
+2024-02-20,114,Vegetables,486,13,19,Yes,Bangalore,Wednesday,Regular,5117.58
+2024-02-27,133,Vegetables,399,45,14,No,Bangalore,Friday,Regular,15441.3
+2024-10-29,160,Fruits,381,17,29,Yes,Bangalore,Wednesday,Off-Season,4598.67
+2024-09-22,134,Beverages,468,49,2,No,Bangalore,Sunday,Peak Season,22473.36
+2024-09-19,163,Fruits,460,37,19,No,Bangalore,Monday,Peak Season,13786.2
+2024-12-19,124,Beverages,112,6,13,No,Bangalore,Sunday,Regular,584.64
+2024-07-07,123,Fruits,640,19,15,Yes,Bangalore,Monday,Holiday,10336.0
+2024-05-22,111,Snacks,772,13,28,Yes,Bangalore,Tuesday,Peak Season,7225.92
+2024-05-08,117,Beverages,886,26,28,Yes,Bangalore,Friday,Holiday,16585.92
+2024-04-10,114,Dairy,443,14,16,Yes,Bangalore,Friday,Peak Season,5209.679999999999
+2024-08-04,179,Beverages,161,31,27,Yes,Bangalore,Wednesday,Off-Season,3643.43
+2024-10-14,126,Beverages,310,4,23,Yes,Bangalore,Tuesday,Regular,954.8000000000001
+2024-02-04,171,Beverages,451,39,19,No,Bangalore,Friday,Holiday,14247.09
+2024-10-11,159,Snacks,768,8,22,Yes,Bangalore,Saturday,Holiday,4792.32
+2024-04-10,145,Fruits,871,25,17,No,Bangalore,Saturday,Off-Season,18073.25
+2024-03-12,188,Dairy,843,13,17,Yes,Bangalore,Sunday,Peak Season,9095.97
+2024-11-18,116,Fruits,708,32,21,Yes,Bangalore,Monday,Holiday,17898.24
+2024-05-05,192,Fruits,672,38,13,Yes,Bangalore,Wednesday,Peak Season,22216.32
+2024-08-17,152,Vegetables,720,38,17,No,Bangalore,Thursday,Off-Season,22708.8
+2024-05-18,107,Snacks,68,28,14,Yes,Bangalore,Monday,Regular,1637.44
+2024-12-20,178,Vegetables,321,30,14,Yes,Bangalore,Tuesday,Holiday,8281.8
+2024-01-29,126,Snacks,900,3,5,No,Bangalore,Friday,Peak Season,2565.0
+2024-08-08,145,Fruits,209,28,26,No,Bangalore,Monday,Holiday,4330.48
+2024-08-28,149,Fruits,155,3,14,No,Bangalore,Thursday,Peak Season,399.9
+2024-03-19,170,Snacks,574,45,17,No,Bangalore,Thursday,Peak Season,21438.899999999998
+2024-08-27,102,Fruits,423,34,3,Yes,Bangalore,Saturday,Peak Season,13950.539999999999
+2024-09-13,192,Fruits,911,16,22,No,Bangalore,Tuesday,Off-Season,11369.28
+2024-09-10,163,Dairy,884,22,7,Yes,Bangalore,Monday,Regular,18086.64
+2024-06-07,143,Vegetables,621,32,14,Yes,Bangalore,Wednesday,Holiday,17089.92
+2024-06-05,152,Vegetables,826,38,2,No,Bangalore,Monday,Regular,30760.239999999998
+2024-08-10,123,Vegetables,360,8,29,Yes,Bangalore,Saturday,Peak Season,2044.8
+2024-04-23,159,Beverages,776,8,14,No,Bangalore,Sunday,Peak Season,5338.88
+2024-10-13,102,Dairy,964,6,12,Yes,Bangalore,Thursday,Regular,5089.92
+2024-05-08,119,Vegetables,723,14,8,No,Bangalore,Tuesday,Regular,9312.24
+2024-01-15,145,Vegetables,337,32,1,No,Bangalore,Tuesday,Holiday,10676.16
+2024-11-24,114,Dairy,637,35,23,No,Bangalore,Wednesday,Peak Season,17167.15
+2024-11-30,124,Fruits,382,10,7,No,Bangalore,Tuesday,Regular,3552.6
+2024-12-13,193,Vegetables,841,3,28,No,Bangalore,Saturday,Off-Season,1816.56
+2024-08-03,177,Fruits,401,12,29,No,Bangalore,Saturday,Peak Season,3416.52
+2024-01-07,170,Vegetables,252,49,19,Yes,Bangalore,Saturday,Peak Season,10001.880000000001
+2024-04-08,116,Snacks,796,31,16,Yes,Bangalore,Tuesday,Holiday,20727.84
+2024-11-21,183,Beverages,363,29,12,Yes,Bangalore,Tuesday,Off-Season,9263.76
+2024-08-27,199,Vegetables,568,5,0,No,Bangalore,Saturday,Holiday,2840.0
+2024-08-15,108,Snacks,836,25,1,Yes,Bangalore,Tuesday,Off-Season,20691.0
+2024-02-04,137,Dairy,572,41,29,No,Bangalore,Tuesday,Holiday,16650.92
+2024-11-22,147,Snacks,548,31,14,Yes,Bangalore,Thursday,Off-Season,14609.68
+2024-03-13,159,Dairy,875,21,11,Yes,Bangalore,Monday,Off-Season,16353.75
+2024-11-11,162,Vegetables,808,20,13,No,Bangalore,Friday,Off-Season,14059.2
+2024-12-01,185,Dairy,838,39,24,Yes,Bangalore,Tuesday,Regular,24838.32
+2024-02-01,101,Snacks,590,22,28,Yes,Bangalore,Friday,Peak Season,9345.6
+2024-09-27,187,Beverages,954,4,1,Yes,Bangalore,Sunday,Off-Season,3777.84
+2024-07-22,171,Fruits,202,13,17,No,Bangalore,Friday,Regular,2179.58
+2024-12-13,110,Fruits,60,45,21,Yes,Bangalore,Thursday,Regular,2133.0
+2024-12-15,163,Beverages,570,42,6,No,Bangalore,Tuesday,Holiday,22503.6
+2024-03-11,176,Fruits,416,49,28,Yes,Bangalore,Saturday,Peak Season,14676.48
+2024-08-27,180,Vegetables,723,20,22,Yes,Bangalore,Friday,Peak Season,11278.800000000001
+2024-07-29,171,Vegetables,798,13,28,Yes,Bangalore,Tuesday,Holiday,7469.28
+2024-12-05,120,Snacks,513,17,24,Yes,Bangalore,Wednesday,Peak Season,6627.96
+2024-05-01,117,Snacks,678,36,5,No,Bangalore,Sunday,Holiday,23187.6
+2024-08-25,193,Dairy,926,33,13,Yes,Bangalore,Saturday,Regular,26585.46
+2024-02-14,163,Snacks,352,1,7,No,Bangalore,Wednesday,Regular,327.35999999999996
+2024-06-06,181,Vegetables,146,15,26,No,Bangalore,Wednesday,Off-Season,1620.6
+2024-01-16,194,Snacks,577,13,21,Yes,Bangalore,Friday,Holiday,5925.79
+2024-03-30,137,Fruits,576,17,1,Yes,Bangalore,Wednesday,Regular,9694.08
+2024-05-28,131,Dairy,20,24,16,No,Bangalore,Thursday,Regular,403.2
+2024-10-07,110,Dairy,187,8,4,No,Bangalore,Thursday,Holiday,1436.1599999999999
+2024-12-25,144,Vegetables,639,27,13,Yes,Bangalore,Friday,Regular,15010.11
+2024-04-17,188,Snacks,38,45,24,Yes,Bangalore,Tuesday,Peak Season,1299.6
+2024-09-03,132,Fruits,351,23,23,Yes,Bangalore,Monday,Regular,6216.21
+2024-01-25,140,Snacks,603,46,29,Yes,Bangalore,Tuesday,Holiday,19693.98
+2024-05-20,107,Beverages,475,8,28,Yes,Bangalore,Tuesday,Peak Season,2736.0
+2024-05-19,110,Snacks,976,8,19,No,Bangalore,Tuesday,Peak Season,6324.4800000000005
+2024-09-30,185,Vegetables,128,26,20,Yes,Bangalore,Tuesday,Regular,2662.4
+2024-01-20,150,Snacks,287,47,28,Yes,Bangalore,Saturday,Off-Season,9712.08
+2024-05-25,187,Dairy,464,13,20,No,Bangalore,Monday,Peak Season,4825.6
+2024-10-16,140,Fruits,259,39,21,Yes,Bangalore,Saturday,Holiday,7979.79
+2024-05-23,116,Vegetables,948,37,2,Yes,Bangalore,Wednesday,Off-Season,34374.479999999996
